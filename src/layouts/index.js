@@ -3,7 +3,7 @@ import Helmet from 'react-helmet'
 
 import 'modern-normalize/modern-normalize.css'
 
-import './globalStyles.css'
+import './globalStyles.scss'
 import Meta from '../components/Meta'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
