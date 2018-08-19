@@ -35,21 +35,26 @@ export default class Nav extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/" exact>
-              Home
+            <NavLink to="/our-services/" exact>
+              Our Services
             </NavLink>
-            <NavLink to="/about/" exact>
-              About
+            <NavLink to="/advisors/" exact>
+              Your Advisors
+            </NavLink>
+            <NavLink to="/resources/" exact>
+              Resources
             </NavLink>
             <NavLink to="/blog/" exact>
               Blog
             </NavLink>
-            <NavLink to="/default/" exact>
-              Default
-            </NavLink>
             <NavLink to="/contact/" exact>
               Contact
             </NavLink>
+
+            <div className="Client--Login">
+              <img src="/images/uploads/login-icon.svg" alt="login icon"></img>
+              <p>Client login</p>
+            </div>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
