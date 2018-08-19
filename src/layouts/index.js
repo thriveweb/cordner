@@ -7,7 +7,7 @@ import './globalStyles.scss'
 import Meta from '../components/Meta'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
-import GithubCorner from '../components/GithubCorner'
+
 
 export default ({ children, data }) => {
   const { siteTitle, siteUrl, socialMediaCard, headerScripts } =
@@ -28,8 +28,6 @@ export default ({ children, data }) => {
           siteUrl + socialMediaCard.image
         }
       />
-
-      <GithubCorner url="https://github.com/thriveweb/whitesmoke" />
 
       <Nav />
 
