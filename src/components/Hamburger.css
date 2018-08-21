@@ -1,0 +1,116 @@
+.bm-burger-button {
+  position: absolute;
+  width: 3rem;
+  height: 2rem;
+  right: 34px;
+  top: 28px;
+}
+
+span.bm-burger-bars {
+  background: var(--cream);
+  height: 1px !important;
+}
+
+.bm-menu-wrap,
+.bm-overlay {
+  top: 0;
+}
+
+.bm-menu-wrap {
+  width: 30rem !important;
+}
+
+.bm-menu {
+  z-index: 99999;
+  background: var(--purple);
+}
+
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.4);
+  left: 0;
+}
+
+.bm-cross-button {
+  /* background: pink; */
+  margin: 0;
+  padding: 0;
+  top: 2.5rem !important;
+  right: 3rem !important;
+}
+
+.bm-cross-button {
+  opacity: 0.5;
+}
+
+.bm-cross-button,
+span.bm-cross {
+  width: 1.8rem !important;
+  height: 1.6rem !important;
+}
+
+.bm-cross-button span {
+  position: relative;
+  right: 0 !important;
+  top: 0 !important;
+}
+
+span.bm-cross {
+  background: var(--cream);
+  height: 1px !important;
+  width: 2.3rem !important;
+  margin-top: 0.8rem;
+}
+
+.bm-item-list {
+  height: auto !important;
+  margin-top: 10rem;
+  margin-right: 3rem;
+}
+
+.bm-item-list a {
+  text-align: right;
+  color: var(--cream);
+  margin-bottom: 2rem;
+}
+
+.Client-Login--Mobile {
+  float: right;
+  margin-left: 0;
+}
+
+@media screen and (max-width: 500px) {
+  .bm-menu-wrap {
+    width: 100% !important;
+  }
+
+  .bm-item-list {
+    margin-right: 0;
+  }
+
+  .bm-item-list a {
+    text-align: center;
+  }
+
+  .mobile-button {
+    margin: 0 auto !important;
+    width: 50%;
+  }
+}
+
+.hamburger {
+  display: none;
+}
+
+@media (max-width: 1065px) {
+  .hamburger {
+    display: block;
+  }
+
+  .menu {
+    display: none !important;
+  }
+
+  .Nav--Links {
+    display: none;
+  }
+}
