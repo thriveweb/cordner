@@ -8,7 +8,6 @@ import Meta from '../components/Meta'
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
 
-
 export default ({ children, data }) => {
   const { siteTitle, siteUrl, socialMediaCard, headerScripts } =
     data.settingsYaml || {}
@@ -16,7 +15,10 @@ export default ({ children, data }) => {
     <Fragment>
       <Helmet defaultTitle={siteTitle} titleTemplate={`%s | ${siteTitle}`}>
         {
-          <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet"/>
+          <link
+            href="https://fonts.googleapis.com/css?family=Lora"
+            rel="stylesheet"
+          />
         }
       </Helmet>
 

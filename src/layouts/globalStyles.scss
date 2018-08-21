@@ -1,15 +1,14 @@
 :root {
-  --lightGrey: #ECECEC;
-  --cream: #F6EBD4;
-  --orange: #F68E29;
-  --brightRed: #C94C38;
-  --purple: #5B3E4C;
-  --brown: #352F32;
+  --lightGrey: #ececec;
+  --cream: #f6ebd4;
+  --orange: #f68e29;
+  --brightRed: #c94c38;
+  --purple: #5b3e4c;
+  --brown: #352f32;
 
   --font-lora: 'Lora', serif;
   --font-avenir: 'Avenir Next';
 }
-
 
 html {
   box-sizing: border-box;
@@ -155,7 +154,7 @@ blockquote {
 
 .section {
   width: 100%;
-  padding: 7.5rem 0;
+  padding: 70px;
 }
 .section.thick {
   padding: 10rem 0;
