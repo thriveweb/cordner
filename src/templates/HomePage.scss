@@ -1,0 +1,40 @@
+.Home {
+  .PageHeader--Title {
+    max-width: 650px;
+  }
+
+  .button {
+    width: 225px;
+    height: 45px;
+    background: #c94c38;
+    border-radius: 6px;
+    position: absolute;
+    top: 64%;
+    text-transform: uppercase;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-evenly;
+    line-height: 45px;
+    cursor: pointer;
+
+    &:hover {
+      background: transparent;
+      border: 1px solid var(--cream);
+      transition: all ease 0.5s;
+    }
+
+    p {
+      font-family: var(--font-avenir);
+      font-weight: 600;
+      font-size: 12.5px;
+      color: #f6ebd4;
+      letter-spacing: 1.04px;
+      text-align: center;
+    }
+
+    @media (max-width: 600px) {
+      top: 75%;
+      width: 225px;
+    }
+  }
+}

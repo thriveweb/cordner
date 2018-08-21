@@ -3,15 +3,21 @@ import React from 'react'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 
+import './HomePage.scss'
+
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
   <main className="Home">
-    <PageHeader
-      large
-      title={title}
-      subtitle={subtitle}
-      backgroundImage={featuredImage}
-    />
+    <div className="relative">
+      <PageHeader large title={title} backgroundImage={featuredImage} />
+
+      <div className="container">
+        <div className="button">
+          <p>Let’s talk business</p>
+          <img src="/images/uploads/button_arrow.svg" alt="login icon" />
+        </div>
+      </div>
+    </div>
 
     <section className="section">
       <div className="container">

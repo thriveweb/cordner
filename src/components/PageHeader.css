@@ -4,13 +4,12 @@
   padding: 15rem 0;
 }
 
-
 .PageHeader-large {
   padding: 35rem 0;
 }
 
 .PageHeader--Title {
-  font-size: 6rem;
+  font-size: 54px;
   margin-bottom: 0;
 }
 
@@ -29,5 +28,11 @@
   }
   .PageHeader-large {
     padding: 12.5rem 0;
+  }
+
+  .PageHeader--Title {
+    font-size: 31px;
+    line-height: 37px;
+    margin-bottom: 0;
   }
 }
