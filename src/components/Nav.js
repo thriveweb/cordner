@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 import { Menu, X } from 'react-feather'
 
 import Logo from './Logo'
-import './Nav.css'
+import './Nav.scss'
 
 export default class Nav extends Component {
   state = {
@@ -52,7 +52,7 @@ export default class Nav extends Component {
             </NavLink>
 
             <div className="Client--Login">
-              <img src="/images/uploads/login-icon.svg" alt="login icon"></img>
+              <img src="/images/uploads/login-icon.svg" alt="login icon" />
               <p>Client login</p>
             </div>
           </div>
