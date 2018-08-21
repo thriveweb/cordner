@@ -57,18 +57,12 @@
   border: 1px solid var(--cream);
   line-height: 40px;
   text-align: center;
-  display: flex !important;
+  display: flex;
   justify-content: space-evenly;
   color: var(--cream);
   font-size: 14px;
   margin-left: 3rem;
   font-weight: 500;
-  cursor: pointer;
-}
-
-.Client--Login:hover {
-  opacity: 0.5;
-  transition: all ease 0.5s;
 }
 
 @media (max-width: 600px) {

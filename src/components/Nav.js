@@ -3,8 +3,7 @@ import Link from 'gatsby-link'
 import { Menu, X } from 'react-feather'
 
 import Logo from './Logo'
-import './Nav.scss'
-import Hamburger from './Hamburger.js'
+import './Nav.css'
 
 export default class Nav extends Component {
   state = {
@@ -53,7 +52,7 @@ export default class Nav extends Component {
             </NavLink>
 
             <div className="Client--Login">
-              <img src="/images/uploads/login-icon.svg" alt="login icon" />
+              <img src="/images/uploads/login-icon.svg" alt="login icon"></img>
               <p>Client login</p>
             </div>
           </div>
@@ -63,10 +62,6 @@ export default class Nav extends Component {
           >
             {active ? <X /> : <Menu />}
           </button>
-        </div>
-
-        <div className="right hamburger">
-          <Hamburger />
         </div>
       </nav>
     )
