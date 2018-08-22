@@ -3,6 +3,7 @@ import Link from 'gatsby-link'
 
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
+import Image from '../components/Image'
 
 import './HomePage.scss'
 
@@ -64,6 +65,95 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
             </p>
           </div>
         </div>
+      </div>
+    </section>
+
+    <section className="section--2">
+      <div className="grid">
+        <div className="single--service red">
+          <div className="numbered-header">
+            <span className="tagline opacity">02 </span>
+            <span className="tagline">Our Services</span>
+          </div>
+
+          <h2>How can we help you today?</h2>
+        </div>
+        <Link to="/" className="single--service relative">
+          <img
+            className="SingleService--icon"
+            src="/images/uploads/business-advisory--icon.svg"
+            alt="business icon"
+          />
+          <h3 className="SingleService--title">Business Advisory</h3>
+          <Image
+            background
+            src="/images/uploads/business-advisory.jpg"
+            alt="background"
+            size="cover"
+          />
+        </Link>
+
+        <Link to="/" className="single--service relative">
+          <img
+            className="SingleService--icon"
+            src="/images/uploads/tax--icon.svg"
+            alt="business icon"
+          />
+          <h3 className="SingleService--title">Taxation & Compliance</h3>
+          <Image
+            background
+            src="/images/uploads/tax--image.jpg"
+            alt="background"
+            size="cover"
+          />
+        </Link>
+
+        <Link to="/" className="single--service relative">
+          <img
+            className="SingleService--icon"
+            src="/images/uploads/rd-advisory--icon.svg"
+            alt="business icon"
+          />
+          <h3 className="SingleService--title">
+            R&D, Grants & Taxation Entitlements
+          </h3>
+          <Image
+            background
+            src="/images/uploads/rd--image.jpg"
+            alt="background"
+            size="cover"
+          />
+        </Link>
+
+        <Link to="/" className="single--service relative">
+          <img
+            className="SingleService--icon"
+            src="/images/uploads/private-advisory--icon.svg"
+            alt="business icon"
+          />
+          <h3 className="SingleService--title">Private Advisory Services</h3>
+          <Image
+            background
+            src="/images/uploads/private-advisory--image.jpg"
+            alt="background"
+            size="cover"
+          />
+        </Link>
+
+        <Link to="/" className="single--service relative">
+          <img
+            className="SingleService--icon"
+            src="/images/uploads/self-managed--icon.svg"
+            alt="business icon"
+          />
+          <h3 className="SingleService--title">Self Managed Super Funds</h3>
+          <Image
+            background
+            src="/images/uploads/self-managed--image.jpg"
+            alt="background"
+            size="cover"
+          />
+        </Link>
       </div>
     </section>
   </main>
