@@ -54,7 +54,7 @@ p {
   font-weight: 600;
   font-size: 20px;
   line-height: 27px;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.4px;
 }
 
 .opacity {
@@ -125,7 +125,7 @@ blockquote {
   color: white;
 }
 .red {
-  background-color: var(--brightRed);
+  background-color: var(--brightRed) !important;
   color: white;
 }
 .dark h1,
@@ -243,4 +243,12 @@ blockquote {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.numbered-header {
+  margin-bottom: 50px;
+
+  span {
+    margin-right: 5rem;
+  }
 }
