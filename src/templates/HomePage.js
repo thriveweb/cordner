@@ -76,7 +76,6 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
             <span className="tagline opacity">02 </span>
             <span className="tagline">Our Services</span>
           </div>
-
           <h2>How can we help you today?</h2>
         </div>
 
