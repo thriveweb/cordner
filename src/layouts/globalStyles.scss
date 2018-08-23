@@ -250,6 +250,10 @@ blockquote {
   display: flex;
   align-items: baseline;
 
+  .big-body {
+    font-size: 16px !important;
+  }
+
   .flex {
     align-items: baseline;
   }
