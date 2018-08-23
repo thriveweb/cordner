@@ -85,6 +85,7 @@
 
       .big-body {
         margin-right: 1rem;
+        font-size: 16px;
       }
 
       &:hover {
@@ -134,17 +135,69 @@
 
     .part-image {
       width: 66.66%;
-      height: 380px;
+      height: 480px;
     }
 
     .part-text {
       width: 33.33%;
       background: var(--purple);
-      height: 380px;
-      padding: 5rem;
+      height: 480px;
+      padding: 10rem 5rem;
 
       h3 {
         margin-left: 8rem;
+        margin-bottom: 50px;
+      }
+
+      .button--secondary {
+        max-width: 150px;
+        margin-left: 8rem;
+
+        .flex {
+          width: 150px;
+          justify-content: space-between;
+        }
+      }
+    }
+
+    @media (max-width: 1250px) {
+      .part-text {
+        padding: 5rem 2.5rem;
+      }
+    }
+
+    @media (max-width: 1000px) {
+      .part-image {
+        width: 50%;
+      }
+
+      .part-text {
+        width: 50%;
+      }
+    }
+
+    @media (max-width: 650px) {
+      .part-image {
+        width: 0%;
+      }
+
+      .part-text {
+        width: 100%;
+        padding: 9rem 4rem;
+      }
+    }
+
+    @media (max-width: 380px) {
+      .part-text {
+        padding: 8rem 4rem;
+
+        .button--secondary {
+          margin-left: 0;
+        }
+
+        h3 {
+          margin-left: 0;
+        }
       }
     }
   }

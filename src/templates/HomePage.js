@@ -138,7 +138,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
           </h3>
 
           <div className="button--secondary">
-            <Link className="flex" to="/">
+            <Link className="flex" to="/advisors/">
               <p className="big-body">Meet Our Team</p>
               <img src="/images/uploads/button_arrow_1.svg" alt="login icon" />
             </Link>
