@@ -1,0 +1,41 @@
+.ContactSection {
+  height: 450px;
+  padding: 12rem 5rem;
+
+  .container {
+    position: absolute;
+    text-align: right;
+    margin: auto;
+
+    h2 {
+      font-size: 47px;
+      margin-bottom: 30px;
+    }
+
+    p {
+      font-weight: 500;
+      font-size: 22px;
+      max-width: 560px;
+      float: right;
+    }
+
+    .button {
+      background-color: white;
+      right: 0;
+      margin-top: 70px;
+      width: 165px;
+
+      p {
+        color: var(--brown) !important;
+        font-size: 12.5px;
+        font-weight: 600;
+        opacity: 0.85;
+        width: auto;
+      }
+    }
+  }
+
+  @media (max-width: 600px) {
+    padding: 4rem 1rem;
+  }
+}
