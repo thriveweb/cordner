@@ -87,28 +87,24 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
           image="/images/uploads/business-advisory.jpg"
           link=""
         />
-
         <SingleService
           icon="/images/uploads/tax--icon.svg"
           title="Taxation & Compliance"
           image="/images/uploads/tax--image.jpg"
           link=""
         />
-
         <SingleService
           icon="/images/uploads/rd-advisory--icon.svg"
           title="R&D, Grants & Taxation Entitlements"
           image="/images/uploads/rd--image.jpg"
           link=""
         />
-
         <SingleService
           icon="/images/uploads/private-advisory--icon.svg"
           title="Private Advisory Services"
           image="/images/uploads/private-advisory--image.jpg"
           link=""
         />
-
         <SingleService
           icon="/images/uploads/self-managed--icon.svg"
           title="Self Managed Super Funds"
@@ -128,6 +124,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
             size="cover"
           />
         </div>
+
         <div className="part-text">
           <div className="numbered-header">
             <span className="tagline opacity">03 </span>
