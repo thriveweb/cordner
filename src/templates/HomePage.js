@@ -159,6 +159,8 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       </div>
     </section>
 
+    <section className="section--5-testimonials section">testimonials</section>
+
     <section className="section--6-contact relative">
       <Image
         background
