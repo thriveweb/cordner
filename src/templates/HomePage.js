@@ -5,6 +5,7 @@ import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Image from '../components/Image'
 import SingleService from '../components/SingleService'
+import Button from '../components/Button'
 
 import './HomePage.scss'
 
@@ -144,6 +145,19 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
             </Link>
           </div>
         </div>
+      </div>
+    </section>
+
+    <section className="Section--4-blog section">
+      <div className="container">
+        <div className="numbered-header">
+          <span className="tagline opacity">04</span>
+          <span className="tagline">Blog</span>
+        </div>
+
+        <h2>Latest News</h2>
+
+        <Button link="/blog/" title="Read All News" />
       </div>
     </section>
   </main>

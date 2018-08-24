@@ -201,4 +201,26 @@
       }
     }
   }
+
+  .Section--4-blog {
+    background: var(--brown);
+
+    .numbered-header {
+      margin-bottom: 50px;
+    }
+
+    h2 {
+      margin-left: 7rem;
+    }
+
+    .button--secondary {
+      margin-top: 50px;
+      width: 150px;
+      margin-left: 7rem;
+
+      .flex {
+        width: 150px;
+      }
+    }
+  }
 }
