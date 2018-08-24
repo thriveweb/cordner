@@ -6,6 +6,7 @@ import Content from '../components/Content'
 import Image from '../components/Image'
 import SingleService from '../components/SingleService'
 import Button from '../components/Button'
+import ContactSection from '../components/ContactSection'
 
 import './HomePage.scss'
 
@@ -148,7 +149,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       </div>
     </section>
 
-    <section className="Section--4-blog section">
+    <section className="section--4-blog section">
       <div className="container">
         <div className="numbered-header">
           <span className="tagline opacity">04</span>
@@ -159,6 +160,24 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
 
         <Button link="/blog/" title="Read All News" />
       </div>
+    </section>
+
+    <section className="section--6-contact relative">
+      <Image
+        background
+        src="/images/uploads/contact--banner.jpg"
+        alt="background img"
+        size="cover"
+      />
+
+      <ContactSection
+        image="/images/uploads/contact--banner.jpg"
+        title="We are your financial adviser"
+        content="Start a conversation today sed ut perspiciatis unde omnis iste natus
+              error sit voluptatem accus"
+        link="/contact/"
+        buttonText="contact us"
+      />
     </section>
   </main>
 )
