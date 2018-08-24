@@ -7,6 +7,7 @@ import Image from '../components/Image'
 import SingleService from '../components/SingleService'
 import Button from '../components/Button'
 import ContactSection from '../components/ContactSection'
+import NumberedHeader from '../components/NumberedHeader'
 
 import './HomePage.scss'
 
@@ -45,10 +46,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
         </div>
 
         <div className="flex-column">
-          <div>
-            <span className="tagline opacity">01 </span>
-            <span className="tagline">About Us</span>
-          </div>
+          <NumberedHeader number="01" title="About Us" />
 
           <div>
             <h4>Versatile financial solutions for everyone</h4>
@@ -74,10 +72,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
     <section className="section--2">
       <div className="grid">
         <div className="single--service red">
-          <div className="numbered-header">
-            <span className="tagline opacity">02 </span>
-            <span className="tagline">Our Services</span>
-          </div>
+          <NumberedHeader number="02" title="Our Services" />
           <h2>How can we help you today?</h2>
         </div>
 
@@ -126,10 +121,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
         </div>
 
         <div className="part-text">
-          <div className="numbered-header">
-            <span className="tagline opacity">03 </span>
-            <span className="tagline">Our Team</span>
-          </div>
+          <NumberedHeader number="03" title="Our Team" />
 
           <h3>
             Innovative and forward thinking environments attract incredible
@@ -148,10 +140,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
 
     <section className="section--4-blog section">
       <div className="container">
-        <div className="numbered-header">
-          <span className="tagline opacity">04</span>
-          <span className="tagline">Blog</span>
-        </div>
+        <NumberedHeader number="04" title="Blog" />
 
         <h2>Latest News</h2>
 
@@ -159,7 +148,11 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       </div>
     </section>
 
-    <section className="section--5-testimonials section">testimonials</section>
+    <section className="section--5-testimonials section">
+      <div className="container">
+        <NumberedHeader number="05" title="Testimonials" />
+      </div>
+    </section>
 
     <section className="section--6-contact relative">
       <Image
