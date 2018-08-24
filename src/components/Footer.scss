@@ -1,0 +1,11 @@
+.Footer {
+  background: var(--brown);
+
+  .flex {
+    justify-content: space-between;
+  }
+
+  .column {
+    width: 33.33%;
+  }
+}
