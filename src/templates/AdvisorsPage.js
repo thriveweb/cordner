@@ -6,6 +6,7 @@ import Image from '../components/Image'
 import Content from '../components/Content.js'
 import NumberedHeader from '../components/NumberedHeader'
 import Link from 'gatsby-link'
+import ContactSection from '../components/ContactSection'
 
 import './AdvisorsPage.scss'
 
@@ -179,6 +180,17 @@ export const AdvisorsPageTemplate = ({ title, subtitle, featuredImage }) => (
           </div>
         </div>
       </div>
+    </section>
+
+    <section className="section--3 relative">
+      <ContactSection
+        image="/images/uploads/contact--banner.jpg"
+        title="We are your financial adviser"
+        content="Start a conversation today sed ut perspiciatis unde omnis iste natus
+              error sit voluptatem accus"
+        link="/contact/"
+        buttonText="contact us"
+      />
     </section>
   </main>
 )
