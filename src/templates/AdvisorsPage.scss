@@ -9,4 +9,44 @@
     z-index: 1;
     background-color: rgba(44, 26, 34, 0.6);
   }
+
+  .PageHeader .container {
+    top: 50px;
+  }
+
+  .section--1 {
+    background-color: var(--purple);
+
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+
+      .column {
+        width: 45%;
+
+        h3 {
+          max-width: 430px;
+          margin-bottom: 30px;
+        }
+
+        p {
+          opacity: 0.5;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 700px) {
+    .column {
+      width: 100% !important;
+    }
+
+    h3 {
+      max-width: 430px;
+    }
+
+    .numbered-header {
+      margin-bottom: 25px;
+    }
+  }
 }
