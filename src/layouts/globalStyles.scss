@@ -216,17 +216,28 @@ blockquote {
 /* Buttons */
 
 .Button {
-  color: white;
+  color: var(--brown);
+  background: white;
   text-transform: uppercase;
   text-decoration: none;
-  font-weight: 700;
-  letter-spacing: 0.05em;
-  font-size: 1.4rem;
+  font-weight: 600;
+  letter-spacing: 1.05px;
+  font-size: 12.5px;
   display: inline-block;
   padding: 1.25rem 3rem;
   border: none;
   transition: all 0.2s ease;
   cursor: pointer;
+  border-radius: 6px;
+  font-family: var(--font-avenir);
+  width: 185px;
+  position: relative;
+}
+
+.Button::after {
+  content: url('/images/uploads/button_arrow_2.svg');
+  position: absolute;
+  right: 20px;
 }
 .Button:hover,
 .Button:focus {
