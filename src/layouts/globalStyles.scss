@@ -87,6 +87,10 @@ h2 {
   line-height: 50px;
   letter-spacing: 0.2px;
   color: white;
+
+  @media (max-width: 600px) {
+    font-size: 35px;
+  }
 }
 
 h3 {
