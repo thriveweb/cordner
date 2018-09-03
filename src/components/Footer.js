@@ -23,17 +23,17 @@ export default ({ globalSettings, socialSettings, navLinks }) => (
         <ul className="socials-list">
           <li>
             <a href="https://twitter.com/CordnerAdvisory">
-              <i class="fab fa-twitter" />
+              <i className="fab fa-twitter" />
             </a>
           </li>
           <li>
             <a href="https://www.facebook.com/CordnerAdvisory/">
-              <i class="fab fa-facebook-f" />
+              <i className="fab fa-facebook-f" />
             </a>
           </li>
           <li>
             <a href="https://www.linkedin.com/company/cordner-taylor-accountants-pty-ltd/">
-              <i class="fab fa-linkedin-in" />
+              <i className="fab fa-linkedin-in" />
             </a>
           </li>
         </ul>
