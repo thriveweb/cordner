@@ -11,6 +11,7 @@
 .PageHeader--Title {
   font-size: 54px;
   margin-bottom: 0;
+  z-index: 2;
 }
 
 .PageHeader--Subtitle {
@@ -20,6 +21,7 @@
 
 .PageHeader .container {
   animation: fadeIn 0.5s ease-out;
+  z-index: 2;
 }
 
 @media (max-width: 600px) {

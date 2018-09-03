@@ -2,5 +2,5 @@
 template: AdvisorsPage
 slug: advisors
 title: Our Team
-featuredImage: /images/uploads/smoke3.jpg
+featuredImage: /images/uploads/our-advisors--banner.jpg
 ---
