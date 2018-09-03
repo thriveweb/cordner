@@ -5,7 +5,70 @@
     justify-content: space-between;
   }
 
+  p {
+    opacity: 0.6;
+    font-size: 14px;
+    line-height: 35px;
+  }
+
+  a {
+    font-size: 14px;
+    opacity: 0.5;
+    line-height: 35px;
+    display: block;
+
+    &:hover {
+      opacity: 1;
+      transition: ease all 0.5s;
+    }
+  }
+
+  ul {
+    padding-left: 0;
+  }
+  .socials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .socials-list {
+      display: flex;
+      color: var(--cream);
+      list-style: none;
+    }
+
+    li {
+      margin: 2rem;
+
+      .fab {
+        font-size: 18px;
+      }
+    }
+  }
   .column {
-    width: 33.33%;
+    width: 25%;
+  }
+
+  @media (max-width: 775px) {
+    .section {
+      padding-top: 30px;
+      padding-bottom: 0px;
+    }
+
+    .flex {
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    h3 {
+      text-align: center;
+    }
+
+    .column {
+      text-align: center;
+      width: 100%;
+      margin-bottom: 3rem;
+    }
   }
 }
