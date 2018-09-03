@@ -12,9 +12,8 @@ export default ({ image, title, content, link, buttonText }) => (
     <div className="container">
       <h2>{title}</h2>
       <p>{content}</p>
-      <Link to={link} className="button">
-        <p>{buttonText}</p>
-        <img src="/images/uploads/button_arrow_brown.svg" alt="login icon" />
+      <Link to={link} className="Button">
+        {buttonText}
       </Link>
     </div>
   </div>
