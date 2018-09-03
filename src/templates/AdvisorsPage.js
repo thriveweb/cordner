@@ -7,6 +7,7 @@ import Content from '../components/Content.js'
 import NumberedHeader from '../components/NumberedHeader'
 import Link from 'gatsby-link'
 import ContactSection from '../components/ContactSection'
+import TeamSection from '../components/TeamSection'
 
 import './AdvisorsPage.scss'
 
@@ -40,147 +41,12 @@ export const AdvisorsPageTemplate = ({ title, subtitle, featuredImage }) => (
       </div>
     </section>
 
-    <section className="section--2">
-      <div className="grid">
-        <Link to="" className="single--team relative">
-          <Image
-            background
-            src="/images/uploads/team-member--1.jpg"
-            alt={title}
-            size="cover"
-          />
-
-          <div className="sneak-peak cream">
-            <div className="sneak-peak--text">
-              <h3>Di Girvin</h3>
-              <p>
-                Small to Medium sized Business Advisory and R&D Legislation
-                Specialist
-              </p>
-            </div>
-          </div>
-        </Link>
-        <Link to="" className="single--team relative">
-          <Image
-            background
-            src="/images/uploads/team-member--2.jpg"
-            alt={title}
-            size="cover"
-          />
-
-          <div className="sneak-peak grey">
-            <div className="sneak-peak--text">
-              <h3>Di Girvin</h3>
-              <p>
-                Small to Medium sized Business Advisory and R&D Legislation
-                Specialist
-              </p>
-            </div>
-          </div>
-        </Link>
-        <Link to="" className="single--team relative">
-          <Image
-            background
-            src="/images/uploads/team-member--3.jpg"
-            alt={title}
-            size="cover"
-          />
-          <div className="sneak-peak purple">
-            <div className="sneak-peak--text">
-              <h3>Di Girvin</h3>
-              <p>
-                Small to Medium sized Business Advisory and R&D Legislation
-                Specialist
-              </p>
-            </div>
-          </div>
-        </Link>
-        <Link to="" className="single--team relative">
-          <Image
-            background
-            src="/images/uploads/team-member--4.jpg"
-            alt={title}
-            size="cover"
-          />
-
-          <div className="sneak-peak red">
-            <div className="sneak-peak--text">
-              <h3>Di Girvin</h3>
-              <p>
-                Small to Medium sized Business Advisory and R&D Legislation
-                Specialist
-              </p>
-            </div>
-          </div>
-        </Link>
-        <Link to="" className="single--team relative">
-          <Image
-            background
-            src="/images/uploads/team-member--5.jpg"
-            alt={title}
-            size="cover"
-          />
-
-          <div className="sneak-peak brown">
-            <div className="sneak-peak--text">
-              <h3>Di Girvin</h3>
-              <p>
-                Small to Medium sized Business Advisory and R&D Legislation
-                Specialist
-              </p>
-            </div>
-          </div>
-        </Link>
-        <Link to="" className="single--team relative">
-          <Image
-            background
-            src="/images/uploads/team-member--6.jpg"
-            alt={title}
-            size="cover"
-          />
-
-          <div className="sneak-peak cream">
-            <div className="sneak-peak--text">
-              <h3>Di Girvin</h3>
-              <p>
-                Small to Medium sized Business Advisory and R&D Legislation
-                Specialist
-              </p>
-            </div>
-          </div>
-        </Link>
-        <Link to="" className="single--team relative">
-          <Image
-            background
-            src="/images/uploads/team-member--7.jpg"
-            alt={title}
-            size="cover"
-          />
-
-          <div className="sneak-peak grey">
-            <div className="sneak-peak--text">
-              <h3>Di Girvin</h3>
-              <p>
-                Small to Medium sized Business Advisory and R&D Legislation
-                Specialist
-              </p>
-            </div>
-          </div>
-        </Link>
-        <div className="services-sneak ">
-          <div className="container">
-            <h2>Browse our services</h2>
-            <p className="big-body">
-              Maecenas consectetur mi lacus, sit amet facilisis elit dignissim
-              vitae. Nam dictum ac sapien vitae porta.{' '}
-            </p>
-            <Link to="our-services" className="Button">
-              KNOW MORE
-            </Link>
-          </div>
-        </div>
-      </div>
-    </section>
+    <TeamSection
+      title="Browse our services"
+      content="Maecenas consectetur mi lacus, sit amet facilisis elit dignissim vitae. Nam dictum ac sapien vitae porta."
+      link="our-services"
+      buttonText="know more"
+    />
 
     <section className="section--3 relative">
       <ContactSection
