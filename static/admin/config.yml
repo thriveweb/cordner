@@ -56,18 +56,14 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
               - {label: Noindex, name: noindex, widget: boolean, required: false}
 
-      - file: "content/pages/about.md"
-        label: "About Page"
-        name: "about-page"
+      - file: "content/pages/advisors.md"
+        label: "Advisors Page"
+        name: "advisors-page"
         fields:
           - {label: Template, name: template, widget: hidden, default: AboutPage}
           - {label: Slug, name: slug, widget: hidden, default: 'about'}
           - {label: Title, name: title, widget: string}
           - {label: Featured Image, name: featuredImage, widget: image}
-          - {label: Subtitle, name: subtitle, widget: markdown}
-          - {label: Section 1, name: section1, widget: markdown}
-          - {label: Section 2, name: section2, widget: markdown}
-          - {label: Test Image, name: testImage, widget: image}
           - label: "Meta"
             required: false
             name: "meta"
