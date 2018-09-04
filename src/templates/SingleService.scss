@@ -1,0 +1,20 @@
+.SingleService {
+  .PageHeader {
+    padding: 130px;
+
+    &::after {
+      content: attr(data-content);
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 1;
+      background-color: rgba(44, 26, 34, 0.6);
+    }
+
+    .container {
+      top: 80px;
+    }
+  }
+}
