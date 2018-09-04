@@ -68,7 +68,7 @@ const AdvisorsPage = ({ data: { page } }) => (
 export default AdvisorsPage
 
 export const pageQuery = graphql`
-  query AboutPage($id: String!) {
+  query AdvisorsPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
