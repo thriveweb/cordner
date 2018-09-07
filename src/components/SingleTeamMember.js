@@ -9,7 +9,7 @@ export default ({ link, image, title, content }) => (
   <Link to={link} className="single--team relative">
     <Image background src={image} size="cover" />
 
-    <div className="sneak-peak cream">
+    <div className="sneak-peak color">
       <div className="sneak-peak--text">
         <h3>{title}</h3>
         <p>{content}</p>
