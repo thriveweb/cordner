@@ -42,12 +42,10 @@ export const SingleTeamTemplate = ({ title, subtitle, featuredImage }) => (
           </div>
         </div>
 
-        <div className="column-right relative">
+        <div className="column-right">
           <Image
-            background
             src="/images/uploads/tony.jpg"
             alt="team-member"
-            size="cover"
           />
         </div>
       </div>
