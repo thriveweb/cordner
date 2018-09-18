@@ -1,8 +1,7 @@
-siteTitle: Whitesmoke
-siteUrl: 'https://whitesmoke.netlify.com'
+siteTitle: Cordner Advisory
+siteUrl: 'https://cordner.netlify.com'
 siteDescription: >-
-  A starter project for creating lightning-fast websites with Gatsby Netlify
-  CMS.
+  Grow with confidence.
 socialMediaCard:
   image: /images/uploads/card-og.png
 headerScripts: <!-- Add your analytics scripts / verification meta here -->
