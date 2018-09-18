@@ -11,10 +11,10 @@ export const BlogIndexTemplate = ({
   subtitle,
   featuredImage,
   posts = [],
-  postCategories = [],
+  categories = [],
   contentType
 }) => {
-  const isCategory = contentType === 'postCategories'
+  const isCategory = contentType === 'categories'
   const byCategory = post =>
     post.categories &&
     post.categories.filter(cat => cat.category === title).length
@@ -62,7 +62,7 @@ const BlogIndex = ({ data }) => (
       ...post.node.frontmatter,
       ...post.node.fields
     }))}
-    postCategories={data.postCategories.edges.map(post => ({
+    categories={data.categories.edges.map(post => ({
       ...post.node,
       ...post.node.frontmatter,
       ...post.node.fields
@@ -114,8 +114,8 @@ export const pageQuery = graphql`
         }
       }
     }
-    postCategories: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "postCategories" } } }
+    categories: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "categories" } } }
       sort: { order: ASC, fields: [frontmatter___title] }
     ) {
       edges {
