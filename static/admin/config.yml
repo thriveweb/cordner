@@ -1,16 +1,13 @@
-# See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
-
-# display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
+  branch: master
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
-collections: # A list of collections the CMS should be able to edit
+collections:
   - name: "pages"
     label: "Page"
-    delete: false # Prevent users from deleting documents in this collection
+    delete: false
     editor:
       preview: true
     files:
@@ -109,6 +106,79 @@ collections: # A list of collections the CMS should be able to edit
         options: ["Published", "Featured", "Draft"]
         default: 'Published'
       - {label: Date / Order, name: date, widget: date}
+      - {label: Featured Image, name: featuredImage, widget: image, required: false}
+      - {label: Excerpt, name: excerpt, widget: text}
+      - {label: Content, name: body, widget: markdown}
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        required: false
+        fields:
+          - label: "Category"
+            name: "category"
+            widget: "relation"
+            collection: "categories"
+            searchFields: ["title"]
+            valueField: "title"
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+          - {label: Noindex, name: noindex, widget: boolean, required: false}
+  - name: services
+    label: Services
+    editor:
+      preview: true
+    folder: content/services
+    slug: "{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: Template, name: template, widget: hidden, default: SingleService}
+      - {label: Title, name: title, widget: string}
+      - label: 'Status'
+        name: 'status'
+        widget: 'select'
+        options: ["Published", "Featured", "Draft"]
+        default: 'Published'
+      - {label: Date / Order, name: date, widget: date}
+      - {label: Featured Image, name: featuredImage, widget: image, required: false}
+      - {label: Excerpt, name: excerpt, widget: text}
+      - {label: Content, name: body, widget: markdown}
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        required: false
+        fields:
+          - label: "Category"
+            name: "category"
+            widget: "relation"
+            collection: "categories"
+            searchFields: ["title"]
+            valueField: "title"
+      - label: "Meta"
+        required: false
+        name: "meta"
+        widget: "object"
+        fields:
+          - {label: Title, name: title, widget: string, required: false}
+          - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+          - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+          - {label: Noindex, name: noindex, widget: boolean, required: false}
+  - name: team
+    label: Team
+    editor:
+      preview: true
+    folder: content/team
+    slug: "{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: Template, name: template, widget: hidden, default: SingleTeam}
+      - {label: Title, name: title, widget: string}
+      - {label: Order, name: order, widget: number}
       - {label: Featured Image, name: featuredImage, widget: image, required: false}
       - {label: Excerpt, name: excerpt, widget: text}
       - {label: Content, name: body, widget: markdown}
