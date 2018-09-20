@@ -11,7 +11,6 @@ import './ContactPage.css'
 export const ContactPageTemplate = ({
   body,
   title,
-  subtitle,
   featuredImage,
   address,
   phone,
@@ -22,11 +21,7 @@ export const ContactPageTemplate = ({
       <title>{title}</title>
     </Helmet>
 
-    <PageHeader
-      title={title}
-      subtitle={subtitle}
-      backgroundImage={featuredImage}
-    />
+    <PageHeader title={title} backgroundImage={featuredImage} />
 
     <section className="section Contact--Section1">
       <div className="container Contact--Section1--Container">
@@ -80,7 +75,6 @@ export const pageQuery = graphql`
       frontmatter {
         title
         template
-        subtitle
         featuredImage {
           ...FluidImage
         }
