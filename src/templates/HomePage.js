@@ -12,14 +12,26 @@ import NumberedHeader from '../components/NumberedHeader'
 import './HomePage.scss'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
+export const HomePageTemplate = ({
+  title,
+  subtitle,
+  featuredImage,
+  featureLink,
+  section1,
+  section2,
+  section3,
+  section4,
+  section5,
+  banner,
+  body
+}) => (
   <main className="Home">
     <div className="relative">
       <PageHeader large title={title} backgroundImage={featuredImage} />
 
       <div className="container">
-        <Link to="/" className="button">
-          <p>Let’s talk business</p>
+        <Link to={featureLink.link} className="button">
+          <span>{featureLink.label}</span>
           <img src="/images/uploads/button_arrow.svg" alt="login icon" />
         </Link>
       </div>
@@ -29,17 +41,17 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       <div className="container">
         <div className="flex-column">
           <div>
-            <p className="numbers">300+</p>
-            <p className="client">Happy clients</p>
+            <p className="numbers">{section1.number}</p>
+            <p className="client">{section1.numberTitle}</p>
           </div>
 
           <div>
-            <h3>Delivering trustworthy financial solutions since 1981</h3>
+            <h3>{section1.title}</h3>
           </div>
 
           <div className="about-us">
-            <Link className="flex" to="/">
-              <p className="big-body">More about us</p>
+            <Link className="flex" to={section1.button.link}>
+              <p className="big-body">{section1.button.label}</p>
               <img src="/images/uploads/button_arrow_1.svg" alt="login icon" />
             </Link>
           </div>
@@ -49,21 +61,8 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
           <NumberedHeader number="01" title="About Us" />
 
           <div>
-            <h4>Versatile financial solutions for everyone</h4>
-            <p className="opacity">
-              Established on the Gold Coast in 1981. Cordner Advisory
-              specialises in Business Advisory Services, Tax & Compliance,
-              Family Wealth & Superannuation (SMSF), and specialist R&D tax
-              incentive/government grants.
-            </p>
-
-            <p className="opacity">
-              Cordner Advisory service a broad range of businesses and most
-              industries including technology companies and startups, childcare,
-              medical/health, construction and property. Cordner Advisory
-              delivers experienced senior big firm specialist skills with local
-              care and attention.
-            </p>
+            <h4>{section1.rightTitle}</h4>
+            <div className="opacity">{section1.rightContent}</div>
           </div>
         </div>
       </div>
@@ -73,7 +72,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       <div className="grid">
         <div className="single--service red">
           <NumberedHeader number="02" title="Our Services" />
-          <h2>How can we help you today?</h2>
+          <h2>{section2.title}</h2>
         </div>
 
         <SingleService
@@ -114,7 +113,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
         <div className="part-image relative">
           <Image
             background
-            src="/images/uploads/team-background--image.jpg"
+            src={section3.image}
             alt="background"
             size="cover"
           />
@@ -123,14 +122,11 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
         <div className="part-text">
           <NumberedHeader number="03" title="Our Team" />
 
-          <h3>
-            Innovative and forward thinking environments attract incredible
-            people
-          </h3>
+          <h3>{section3.title}</h3>
 
           <div className="button--secondary">
-            <Link className="flex" to="/advisors/">
-              <p className="big-body">Meet Our Team</p>
+            <Link className="flex" to={section3.button.link}>
+              <span className="big-body">{section3.button.label}</span>
               <img src="/images/uploads/button_arrow_1.svg" alt="login icon" />
             </Link>
           </div>
@@ -141,10 +137,8 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
     <section className="section--4-blog section">
       <div className="container">
         <NumberedHeader number="04" title="Blog" />
-
-        <h2>Latest News</h2>
-
-        <Button link="/blog/" title="Read All News" />
+        <h2>{section4.button.link}</h2>
+        <Button link={section4.button.link} title={section4.button.label} />
       </div>
     </section>
 
@@ -155,20 +149,12 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
     </section>
 
     <section className="section--6-contact relative">
-      <Image
-        background
-        src="/images/uploads/contact--banner.jpg"
-        alt="background img"
-        size="cover"
-      />
-
       <ContactSection
         image="/images/uploads/contact--banner.jpg"
-        title="We are your financial adviser"
-        content="Start a conversation today sed ut perspiciatis unde omnis iste natus
-              error sit voluptatem accus"
-        link="/contact/"
-        buttonText="contact us"
+        title={banner.title}
+        content={banner.excerpt}
+        link={banner.button.link}
+        buttonText={banner.button.label}
       />
     </section>
   </main>
@@ -194,6 +180,63 @@ export const pageQuery = graphql`
         subtitle
         featuredImage {
           ...FluidImage
+        }
+        featureLink {
+          label
+          link
+        }
+
+        section1 {
+          number
+          numberTitle
+          title
+          button {
+            label
+            link
+          }
+
+          rightTitle
+          rightContent
+        }
+
+        section2 {
+          title
+        }
+        section3 {
+          image {
+            ...FluidImage
+          }
+          title
+          button {
+            label
+            link
+          }
+        }
+
+        section4 {
+          title
+          button {
+            label
+            link
+          }
+        }
+
+        section5 {
+          title
+          quote {
+            excerpt
+            name
+            company
+          }
+        }
+
+        banner {
+          title
+          excerpt
+          button {
+            label
+            link
+          }
         }
       }
     }

@@ -11,19 +11,126 @@ collections:
     editor:
       preview: true
     files:
-      - file: "content/pages/contact.md"
-        label: "Contact Page"
-        name: "contact-page"
+      - file: "content/pages/home.md"
+        label: "Home Page"
+        name: "home-page"
         fields:
-          - {label: Template, name: template, widget: hidden, default: ContactPage}
-          - {label: Slug, name: slug, widget: hidden, default: 'contact'}
+          - {label: Template, name: template, widget: hidden, default: HomePage}
+          - {label: Slug, name: slug, widget: hidden, default: ''}
           - {label: Title, name: title, widget: string}
           - {label: Featured Image, name: featuredImage, widget: image}
-          - {label: Subtitle, name: subtitle, widget: markdown}
-          - {label: Body, name: body, widget: markdown}
-          - {label: Address, name: address, widget: text}
-          - {label: Phone, name: phone, widget: string}
-          - {label: Email Address, name: email, widget: string}
+          - name: featureLink
+            label: feature Link
+            widget: object
+            fields:
+              - {name: label, label: label, widget: string}
+              - {name: link, label: Link, widget: string}
+          - name: section1
+            label: section 1
+            widget: object
+            fields:
+              - {name: number, label: number, widget: string}
+              - {name: numberTitle, label: numberTitle, widget: string}
+              - {name: title, label: title, widget: string}
+              - name: button
+                label: button
+                widget: object
+                fields:
+                  - {name: label, label: label, widget: string}
+                  - {name: link, label: Link, widget: string}
+              - {name: rightTitle, label: rightTitle, widget: string}
+              - {name: rightContent, label: rightContent, widget: markdown}
+
+          - name: section2
+            label: section 2
+            widget: object
+            fields:
+              - {name: title, label: title, widget: string}
+          - name: section3
+            label: section 3
+            widget: object
+            fields:
+              - {name: image, label: image, widget: image}
+              - {name: title, label: title, widget: string}
+              - name: button
+                label: button
+                widget: object
+                fields:
+                  - {name: label, label: label, widget: string}
+                  - {name: link, label: Link, widget: string}
+          - name: section4
+            label: section 4
+            widget: object
+            fields:
+              - {name: title, label: title, widget: string}
+              - name: button
+                label: button
+                widget: object
+                fields:
+                  - {name: label, label: label, widget: string}
+                  - {name: link, label: Link, widget: string}
+          - name: section5
+            label: section 5
+            widget: object
+            fields:
+              - {name: title, label: title, widget: string}
+              - name: quote
+                label: quote
+                widget: list
+                fields:
+                  - {name: excerpt, label: excerpt, widget: string}
+                  - {name: name, label: name, widget: string}
+                  - {name: company, label: company, widget: string}
+          - name: banner
+            label: banner
+            widget: object
+            fields:
+              - {name: title, label: title, widget: string}
+              - {name: excerpt, label: excerpt, widget: string}
+              - name: button
+                label: button
+                widget: object
+                fields:
+                  - {name: label, label: label, widget: string}
+                  - {name: link, label: Link, widget: string}
+
+
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
+
+      - file: "content/pages/advisors.md"
+        label: "Advisors Page"
+        name: "advisors-page"
+        fields:
+          - {label: Template, name: template, widget: hidden, default: AdvisorsPage}
+          - {label: Slug, name: slug, widget: hidden, default: 'about'}
+          - {label: Title, name: title, widget: string}
+          - {label: Featured Image, name: featuredImage, widget: image}
+          - label: "Meta"
+            required: false
+            name: "meta"
+            widget: "object"
+            fields:
+              - {label: Title, name: title, widget: string, required: false}
+              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
+              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
+              - {label: Noindex, name: noindex, widget: boolean, required: false}
+
+      - file: "content/pages/resources.md"
+        label: "Resources Page"
+        name: "resources-page"
+        fields:
+          - {label: Template, name: template, widget: hidden, default: AdvisorsPage}
+          - {label: Slug, name: slug, widget: hidden, default: 'about'}
+          - {label: Title, name: title, widget: string}
+          - {label: Featured Image, name: featuredImage, widget: image}
           - label: "Meta"
             required: false
             name: "meta"
@@ -53,14 +160,19 @@ collections:
               - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
               - {label: Noindex, name: noindex, widget: boolean, required: false}
 
-      - file: "content/pages/advisors.md"
-        label: "Advisors Page"
-        name: "advisors-page"
+      - file: "content/pages/contact.md"
+        label: "Contact Page"
+        name: "contact-page"
         fields:
-          - {label: Template, name: template, widget: hidden, default: AboutPage}
-          - {label: Slug, name: slug, widget: hidden, default: 'about'}
+          - {label: Template, name: template, widget: hidden, default: ContactPage}
+          - {label: Slug, name: slug, widget: hidden, default: 'contact'}
           - {label: Title, name: title, widget: string}
           - {label: Featured Image, name: featuredImage, widget: image}
+          - {label: Subtitle, name: subtitle, widget: markdown}
+          - {label: Body, name: body, widget: markdown}
+          - {label: Address, name: address, widget: text}
+          - {label: Phone, name: phone, widget: string}
+          - {label: Email Address, name: email, widget: string}
           - label: "Meta"
             required: false
             name: "meta"
@@ -71,25 +183,6 @@ collections:
               - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
               - {label: Noindex, name: noindex, widget: boolean, required: false}
 
-      - file: "content/pages/home.md"
-        label: "Home Page"
-        name: "home-page"
-        fields:
-          - {label: Template, name: template, widget: hidden, default: HomePage}
-          - {label: Slug, name: slug, widget: hidden, default: ''}
-          - {label: Title, name: title, widget: string}
-          - {label: Featured Image, name: featuredImage, widget: image}
-          - {label: Subtitle, name: subtitle, widget: markdown}
-          - {label: Body, name: body, widget: markdown}
-          - label: "Meta"
-            required: false
-            name: "meta"
-            widget: "object"
-            fields:
-              - {label: Title, name: title, widget: string, required: false}
-              - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
-              - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
-              - {label: Noindex, name: noindex, widget: boolean, required: false}
   - name: posts
     label: Post
     editor:
@@ -129,6 +222,7 @@ collections:
           - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
           - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
           - {label: Noindex, name: noindex, widget: boolean, required: false}
+
   - name: services
     label: Services
     editor:
@@ -168,6 +262,7 @@ collections:
           - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
           - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
           - {label: Noindex, name: noindex, widget: boolean, required: false}
+
   - name: team
     label: Team
     editor:
@@ -202,7 +297,6 @@ collections:
           - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
           - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
           - {label: Noindex, name: noindex, widget: boolean, required: false}
-
 
   - name: categories
     label: Category

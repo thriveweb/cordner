@@ -32,10 +32,10 @@ export const BlogIndexTemplate = ({
         backgroundImage={featuredImage}
       />
 
-      {!!postCategories.length && (
+      {!!categories.length && (
         <section className="section thin">
           <div className="container">
-            <PostCategoriesNav categories={postCategories} />
+            <PostCategoriesNav categories={categories} />
           </div>
         </section>
       )}

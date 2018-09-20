@@ -1,6 +1,6 @@
 ---
-template: AdvisorsPage
-slug: your-advisors
-title: Our Team
+template: Resources
+slug: resources
+title: Resources
 featuredImage: /images/uploads/our-advisors--banner.jpg
 ---
