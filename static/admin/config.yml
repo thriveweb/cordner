@@ -79,6 +79,7 @@ collections:
                 widget: list
                 fields:
                   - {name: excerpt, label: excerpt, widget: string}
+                  - {name: image, label: image, widget: image}
                   - {name: name, label: name, widget: string}
                   - {name: company, label: company, widget: string}
           - name: banner

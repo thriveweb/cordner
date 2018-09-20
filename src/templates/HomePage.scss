@@ -217,7 +217,6 @@
       margin-top: 50px;
       width: 150px;
       margin-left: 7rem;
-
       .flex {
         width: 150px;
       }
@@ -226,7 +225,36 @@
 
   .section--5-testimonials {
     background: var(--purple);
+    .container {
+      display: flex;
+      align-items: stretch;
+      justify-content: space-between;
+    }
+    .flex-column {
+      height: 100%;
+      width: 50%;
+      span {
+        margin-right: 2rem;
+      }
+
+      h4 {
+        margin-bottom: 3rem;
+        margin-top: 4rem;
+      }
+    }
+    .quote {
+      display: flex;
+      align-items: stretch;
+      justify-content: flex-start;
+      .Image {
+        width: 50px;
+        height: 50px;
+        margin: 0 2rem 0 0;
+        border-radius: 50%;
+      }
+    }
   }
+
   .section--6-contact {
   }
 }

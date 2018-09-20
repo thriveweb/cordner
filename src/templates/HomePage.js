@@ -4,7 +4,9 @@ import Link from 'gatsby-link'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Image from '../components/Image'
-import SingleService from '../components/SingleService'
+import ServiceCard from '../components/ServiceCard'
+import PostCard from '../components/PostCard'
+
 import Button from '../components/Button'
 import ContactSection from '../components/ContactSection'
 import NumberedHeader from '../components/NumberedHeader'
@@ -23,7 +25,8 @@ export const HomePageTemplate = ({
   section4,
   section5,
   banner,
-  body
+  posts,
+  services
 }) => (
   <main className="Home">
     <div className="relative">
@@ -75,36 +78,36 @@ export const HomePageTemplate = ({
           <h2>{section2.title}</h2>
         </div>
 
-        <SingleService
-          icon="/images/uploads/business-advisory--icon.svg"
-          title="Business Advisory"
-          image="/images/uploads/business-advisory.jpg"
-          link=""
-        />
-        <SingleService
+        {services.map((service, index) => (
+          <ServiceCard key={service.title + index} {...service} />
+        ))}
+
+        {/*
+          <ServiceCard
+            icon="/images/uploads/business-advisory--icon.svg"
+            title="Business Advisory"
+            image="/images/uploads/business-advisory.jpg"
+          />
+          <ServiceCard
           icon="/images/uploads/tax--icon.svg"
           title="Taxation & Compliance"
           image="/images/uploads/tax--image.jpg"
-          link=""
         />
-        <SingleService
+        <ServiceCard
           icon="/images/uploads/rd-advisory--icon.svg"
           title="R&D, Grants & Taxation Entitlements"
           image="/images/uploads/rd--image.jpg"
-          link=""
         />
-        <SingleService
+        <ServiceCard
           icon="/images/uploads/private-advisory--icon.svg"
           title="Private Advisory Services"
           image="/images/uploads/private-advisory--image.jpg"
-          link=""
         />
-        <SingleService
+        <ServiceCard
           icon="/images/uploads/self-managed--icon.svg"
           title="Self Managed Super Funds"
           image="/images/uploads/self-managed--image.jpg"
-          link=""
-        />
+        /> */}
       </div>
     </section>
 
@@ -140,11 +143,32 @@ export const HomePageTemplate = ({
         <h2>{section4.button.link}</h2>
         <Button link={section4.button.link} title={section4.button.label} />
       </div>
+      <div className="container PostSection">
+        {posts.map((post, index) => (
+          <PostCard key={post.title + index} {...post} />
+        ))}
+      </div>
     </section>
 
     <section className="section--5-testimonials section">
       <div className="container">
-        <NumberedHeader number="05" title="Testimonials" />
+        <div className="flex-column">
+          <NumberedHeader number="05" title="Testimonials" />
+          <h3>{section5.title}</h3>
+        </div>
+        <div className="flex-column">
+          <div className="slide">
+            <h3>"</h3>
+            <p>{section5.quote.excerpt}</p>
+            <p className="quote">
+              <Image src={section5.quote.image} alt={section5.quote.name} />
+              <div className="from">
+                <strong>{section5.quote.name}</strong> <br />
+                {section5.quote.company}
+              </div>
+            </p>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -161,8 +185,19 @@ export const HomePageTemplate = ({
 )
 
 // Export Default HomePage for front-end
-const HomePage = ({ data: { page } }) => (
-  <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
+const HomePage = ({ data: { page, posts, services } }) => (
+  <HomePageTemplate
+    {...page}
+    {...page.frontmatter}
+    posts={posts.edges.map(edge => ({
+      ...edge.node.frontmatter,
+      ...edge.node.fields
+    }))}
+    services={services.edges.map(edge => ({
+      ...edge.node.frontmatter,
+      ...edge.node.fields
+    }))}
+  />
 )
 
 export default HomePage
@@ -224,18 +259,63 @@ export const pageQuery = graphql`
         section5 {
           title
           quote {
+            image {
+              ...FluidImage
+            }
             excerpt
             name
             company
           }
         }
-
         banner {
           title
           excerpt
           button {
             label
             link
+          }
+        }
+      }
+    }
+    posts: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "posts" } } }
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            categories {
+              category
+            }
+            featuredImage {
+              ...SmallImage
+            }
+          }
+        }
+      }
+    }
+    services: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "services" } } }
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            icon {
+              ...FluidImage
+            }
+            featuredImage {
+              ...MediumImage
+            }
           }
         }
       }
