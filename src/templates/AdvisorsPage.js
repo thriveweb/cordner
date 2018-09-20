@@ -12,7 +12,7 @@ import TeamSection from '../components/TeamSection'
 import './AdvisorsPage.scss'
 
 // Export Template for use in CMS preview
-export const AdvisorsPageTemplate = ({ title, subtitle, featuredImage }) => (
+export const AdvisorsPageTemplate = ({ title, featuredImage }) => (
   <main className="Advisors">
     <Helmet>
       <title>{title}</title>
