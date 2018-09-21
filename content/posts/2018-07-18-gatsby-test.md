@@ -4,7 +4,7 @@ title: Gatsby Test
 status: Published
 date: '2018-07-18'
 featuredImage: /images/uploads/our-advisors--banner.jpg
-excerpt: This is the excerpt
+excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
 categories:
   - category: Updates
   - category: News

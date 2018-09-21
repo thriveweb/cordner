@@ -4,7 +4,7 @@ template: SinglePost
 status: Published
 date: '2018-03-28'
 featuredImage: /images/uploads/our-advisors--banner.jpg
-excerpt: This is an excerpt of Post Two
+excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
 categories:
   - category: Updates
 ---

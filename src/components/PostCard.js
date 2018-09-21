@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 import _map from 'lodash/map'
 
 import Image from './Image'
-import './PostCard.css'
+import './PostCard.scss'
 
 const PostCard = ({
   featuredImage,
@@ -15,18 +15,17 @@ const PostCard = ({
   ...props
 }) => (
   <Link to={slug} className={`PostCard ${className}`}>
-    {console.log(featuredImage)}
-
-    <div className="PostCard--Image relative">
-      <Image src={featuredImage} alt={title} />
-    </div>
-
-    <div className="PostCard--Content">
-      {title && <h3 className="PostCard--Title">{title}</h3>}
-      <div className="PostCard--Category">
-        {categories && categories.map(cat => cat.category).join(', ')}
+    <div className="flex">
+      <div className="PostCard--Content">
+        {title && <h3 className="PostCard--Title">{title}</h3>}
+        <div className="PostCard--Category">
+          {categories && categories.map(cat => cat.category).join(', ')}
+        </div>
+        {excerpt && <div className="PostCard--Excerpt">{excerpt}</div>}
       </div>
-      {excerpt && <div className="PostCard--Excerpt">{excerpt}</div>}
+      <div className="PostCard--Image relative">
+        <Image background src={featuredImage} alt={title} />
+      </div>
     </div>
   </Link>
 )

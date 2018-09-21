@@ -5,10 +5,7 @@ status: Featured / Published
 date: '2018-03-27'
 featuredImage: /images/uploads/our-advisors--banner.jpg
 excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
 categories:
   - category: News
 meta:

@@ -112,10 +112,10 @@ export const HomePageTemplate = ({
     <section className="section--4-blog section">
       <div className="container">
         <NumberedHeader number="04" title="Blog" />
-        <h2>{section4.button.link}</h2>
+        <h2>{section4.title}</h2>
         <Button link={section4.button.link} title={section4.button.label} />
       </div>
-      <div className="container PostSection">
+      <div className="container PostSection--Grid">
         {posts.map((post, index) => (
           <PostCard key={post.title + index} {...post} />
         ))}
@@ -124,11 +124,22 @@ export const HomePageTemplate = ({
 
     <section className="section--5-testimonials section">
       <div className="container">
-        <div className="flex-column">
+        <div className="title">
           <NumberedHeader number="05" title="Testimonials" />
           <h3>{section5.title}</h3>
         </div>
-        <div className="flex-column">
+        <div className="testimonials">
+          <div className="slide">
+            <h3>"</h3>
+            <p>{section5.quote.excerpt}</p>
+            <div className="quote">
+              <Image src={section5.quote.image} alt={section5.quote.name} />
+              <div className="from">
+                <strong>{section5.quote.name}</strong> <br />
+                {section5.quote.company}
+              </div>
+            </div>
+          </div>
           <div className="slide">
             <h3>"</h3>
             <p>{section5.quote.excerpt}</p>
@@ -265,7 +276,7 @@ export const pageQuery = graphql`
               category
             }
             featuredImage {
-              ...FluidImage
+              ...MediumImage
             }
           }
         }
