@@ -6,6 +6,7 @@ import Content from '../components/Content'
 import Image from '../components/Image'
 import ServiceCard from '../components/ServiceCard'
 import PostCard from '../components/PostCard'
+import Testimonials from '../components/Testimonials'
 
 import Button from '../components/Button'
 import ContactSection from '../components/ContactSection'
@@ -129,24 +130,7 @@ export const HomePageTemplate = ({
           <NumberedHeader number="05" title="Testimonials" />
           <h3>{section5.title}</h3>
         </div>
-        <div className="testimonials">
-          {testimonials.map((testimonial, index) => (
-            <div key={index + testimonial.name} className="slide">
-              <h3>"</h3>
-              <p>{testimonial.quote}</p>
-              <div className="quote">
-                <Image
-                  src={testimonial.author.image}
-                  alt={testimonial.author.name}
-                />
-                <div className="from">
-                  <strong>{testimonial.author.name}</strong> <br />
-                  {testimonial.author.company}
-                </div>
-              </div>
-            </div>
-          ))}
-        </div>
+        <Testimonials testimonials={testimonials} />
       </div>
     </section>
 

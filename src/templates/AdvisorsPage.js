@@ -12,12 +12,12 @@ import TeamSection from '../components/TeamSection'
 import './AdvisorsPage.scss'
 
 // Export Template for use in CMS preview
-export const AdvisorsPageTemplate = ({ title, featuredImage }) => (
+export const AdvisorsPageTemplate = ({ title }) => (
   <main className="Advisors">
     <Helmet>
       <title>{title}</title>
     </Helmet>
-    <PageHeader title={title} backgroundImage={featuredImage} />
+    {/* <PageHeader title={title} backgroundImage={featuredImage} /> */}
 
     <section className="section--1 section">
       <div className="container">
@@ -74,9 +74,6 @@ export const pageQuery = graphql`
       frontmatter {
         title
         template
-        featuredImage {
-          ...FluidImage
-        }
       }
     }
   }
