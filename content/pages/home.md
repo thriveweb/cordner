@@ -41,8 +41,18 @@ testimonials:
   - author:
       Avatar: /images/uploads/business-advisory.jpg
       Name: name herre
-      company: Company
-    quote: quote goes here
+      company: Company 1
+    quote: Start a conversation today sed ut perspiciatis unde omnis iste natuserrorsit voluptatem accus
+  - author:
+      Avatar: /images/uploads/business-advisory.jpg
+      Name: name herre
+      company: Company 2
+    quote: Start a conversation today sed ut perspiciatis unde omnis iste natuserrorsit voluptatem accus
+  - author:
+      Avatar: /images/uploads/business-advisory.jpg
+      Name: name herre
+      company: Company 3
+    quote: Start a conversation today sed ut perspiciatis unde omnis iste natuserrorsit voluptatem accus
 banner:
   button:
     label: contact us
@@ -61,4 +71,3 @@ meta:
   noindex: false
   title: Etiam ac quam eget lectus venenatis ullamcorper
 ---
-
