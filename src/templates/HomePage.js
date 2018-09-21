@@ -24,6 +24,7 @@ export const HomePageTemplate = ({
   section3,
   section4,
   section5,
+  quotes,
   banner,
   posts,
   services
@@ -129,28 +130,19 @@ export const HomePageTemplate = ({
           <h3>{section5.title}</h3>
         </div>
         <div className="testimonials">
-          <div className="slide">
-            <h3>"</h3>
-            <p>{section5.quote.excerpt}</p>
-            <div className="quote">
-              <Image src={section5.quote.image} alt={section5.quote.name} />
-              <div className="from">
-                <strong>{section5.quote.name}</strong> <br />
-                {section5.quote.company}
+          {quotes.map((quote, index) => (
+            <div className="slide">
+              <h3>"</h3>
+              <p>{quote.excerpt}</p>
+              <div className="quote">
+                <Image src={quote.image} alt={quote.name} />
+                <div className="from">
+                  <strong>{quote.name}</strong> <br />
+                  {quote.company}
+                </div>
               </div>
             </div>
-          </div>
-          <div className="slide">
-            <h3>"</h3>
-            <p>{section5.quote.excerpt}</p>
-            <div className="quote">
-              <Image src={section5.quote.image} alt={section5.quote.name} />
-              <div className="from">
-                <strong>{section5.quote.name}</strong> <br />
-                {section5.quote.company}
-              </div>
-            </div>
-          </div>
+          ))}
         </div>
       </div>
     </section>
@@ -241,14 +233,14 @@ export const pageQuery = graphql`
 
         section5 {
           title
-          quote {
-            image {
-              ...FluidImage
-            }
-            excerpt
-            name
-            company
+        }
+        quotes {
+          image {
+            ...FluidImage
           }
+          excerpt
+          name
+          company
         }
         banner {
           title
