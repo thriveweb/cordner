@@ -1,7 +1,7 @@
 ---
 template: SingleService
 slug: our-services/business-advisory
-category:
+status: Featured
 categories:
   - category: Business Advisory
 title: Business Advisory

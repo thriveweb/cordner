@@ -77,37 +77,9 @@ export const HomePageTemplate = ({
           <NumberedHeader number="02" title="Our Services" />
           <h2>{section2.title}</h2>
         </div>
-
         {services.map((service, index) => (
           <ServiceCard key={service.title + index} {...service} />
         ))}
-
-        {/*
-          <ServiceCard
-            icon="/images/uploads/business-advisory--icon.svg"
-            title="Business Advisory"
-            image="/images/uploads/business-advisory.jpg"
-          />
-          <ServiceCard
-          icon="/images/uploads/tax--icon.svg"
-          title="Taxation & Compliance"
-          image="/images/uploads/tax--image.jpg"
-        />
-        <ServiceCard
-          icon="/images/uploads/rd-advisory--icon.svg"
-          title="R&D, Grants & Taxation Entitlements"
-          image="/images/uploads/rd--image.jpg"
-        />
-        <ServiceCard
-          icon="/images/uploads/private-advisory--icon.svg"
-          title="Private Advisory Services"
-          image="/images/uploads/private-advisory--image.jpg"
-        />
-        <ServiceCard
-          icon="/images/uploads/self-managed--icon.svg"
-          title="Self Managed Super Funds"
-          image="/images/uploads/self-managed--image.jpg"
-        /> */}
       </div>
     </section>
 
@@ -160,13 +132,13 @@ export const HomePageTemplate = ({
           <div className="slide">
             <h3>"</h3>
             <p>{section5.quote.excerpt}</p>
-            <p className="quote">
+            <div className="quote">
               <Image src={section5.quote.image} alt={section5.quote.name} />
               <div className="from">
                 <strong>{section5.quote.name}</strong> <br />
                 {section5.quote.company}
               </div>
-            </p>
+            </div>
           </div>
         </div>
       </div>
@@ -293,15 +265,19 @@ export const pageQuery = graphql`
               category
             }
             featuredImage {
-              ...SmallImage
+              ...MediumImage
             }
           }
         }
       }
     }
     services: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "services" } } }
+      filter: {
+        fields: { contentType: { eq: "services" } }
+        frontmatter: { status: { regex: "/Featured/i" } }
+      }
       sort: { order: DESC, fields: [frontmatter___date] }
+      limit: 5
     ) {
       edges {
         node {

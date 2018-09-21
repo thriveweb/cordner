@@ -277,15 +277,15 @@ collections:
       - {label: Featured Image, name: featuredImage, widget: image, required: false}
       - {label: Excerpt, name: excerpt, widget: text}
       - {label: Content, name: body, widget: markdown}
-      - label: "Categories"
-        name: "categories"
+      - label: "Select Advisors"
+        name: "advisors"
         widget: "list"
         required: false
         fields:
-          - label: "Category"
-            name: "category"
+          - label: "Advisors"
+            name: "advisors"
             widget: "relation"
-            collection: "categories"
+            collection: "team"
             searchFields: ["title"]
             valueField: "title"
       - label: "Meta"

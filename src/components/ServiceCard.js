@@ -8,7 +8,7 @@ const ServiceCard = ({
   slug,
   title,
   icon,
-  featruedImage,
+  featuredImage,
   className = '',
   ...props
 }) => (
@@ -17,9 +17,9 @@ const ServiceCard = ({
     className={`ServiceCard single--service relative ${className}`}
     {...props}
   >
-    <img className="SingleService--icon" src={icon} alt={title} />
+    <img className="SingleService--icon" src={icon.publicURL} alt={title} />
     <h3 className="SingleService--title">{title}</h3>
-    <Image background src={featruedImage} alt={title} size="cover" />
+    <Image background src={featuredImage} alt={title} size="cover" />
   </Link>
 )
 

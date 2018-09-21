@@ -2,7 +2,7 @@
 template: SingleService
 slug: our-services/key-industries
 title: Key Industries
-
+status: Published
 categories:
   - category: Key Industries
 featuredImage: /images/uploads/business-advisory.jpg
