@@ -2,6 +2,13 @@ siteTitle: Cordner Advisory
 siteUrl: 'https://cordner.netlify.com'
 siteDescription: >-
   Grow with confidence.
+phone: (07) 5504 5700
+email: info@cordner.com.au
+address: Suite 315E, Level 3, 3 Oracle Boulevard, Broadbeach, QLD, 4218, Australia
+subscribeFormTitle: Sign up for our newsletter
 socialMediaCard:
   image: /images/uploads/card-og.png
+  twitter: https://twitter.com/CordnerAdvisory/
+  facebook: https://www.facebook.com/CordnerAdvisory/
+  linkedin: https://www.linkedin.com/company/cordner-taylor-accountants-pty-ltd
 headerScripts: <!-- Add your analytics scripts / verification meta here -->

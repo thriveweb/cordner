@@ -11,6 +11,9 @@ import Footer from '../components/Footer'
 export default ({ children, data }) => {
   const { siteTitle, siteUrl, socialMediaCard, headerScripts } =
     data.settingsYaml || {}
+
+  const globalSettings = data.globalSettings
+
   return (
     <Fragment>
       <Helmet defaultTitle={siteTitle} titleTemplate={`%s | ${siteTitle}`}>
@@ -39,7 +42,7 @@ export default ({ children, data }) => {
 
       <Fragment>{children()}</Fragment>
 
-      <Footer />
+      <Footer globalSettings={globalSettings} />
     </Fragment>
   )
 }
@@ -53,6 +56,18 @@ export const query = graphql`
       socialMediaCard {
         image
       }
+    }
+    globalSettings: settingsYaml {
+      phone
+      email
+      address
+      socialMediaCard {
+        image
+        twitter
+        facebook
+        linkedin
+      }
+      subscribeFormTitle
     }
   }
 `

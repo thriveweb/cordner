@@ -20,7 +20,6 @@ export default ({ testimonials = [] }) => {
     centeredSlides: false,
     // remove gatsby Image
     loop: true,
-    pagination: false,
     renderPrevButton: () => (
       <button className="SwiperButton swiper-button-prev">
         <ChevronLeft />
@@ -37,7 +36,7 @@ export default ({ testimonials = [] }) => {
     <div className="Testimonials">
       <Swiper {...params}>
         {testimonials.map((testimonial, index) => (
-          <div key={index + testimonial.name} className="slide">
+          <div key={testimonial.company + index} className="slide">
             <h3>"</h3>
             <p>{testimonial.quote}</p>
             <div className="quote">

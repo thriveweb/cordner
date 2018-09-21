@@ -4,59 +4,65 @@ import Link from 'gatsby-link'
 
 import './Footer.scss'
 
-export default ({ globalSettings, socialSettings, navLinks }) => (
-  <footer className="Footer">
-    <div className="container section flex">
-      <div className="column taLeft">
-        <h3>Contact Us</h3>
-        <a href="tel:0755045700">Ph: (07) 5504 5700</a>
-        <a href="mailto:info@cordner.com.au">E: info@cordner.com.au</a>
-        <p>
-          Suite 315E, Level 3, 3 Oracle Boulevard, Broadbeach, QLD, 4218,
-          Australia
-        </p>
-      </div>
+export default ({ globalSettings = {}, ...props }) => {
+  const {
+    phone,
+    email,
+    address,
+    subscribeFormTitle,
+    socialMediaCard
+  } = globalSettings
+  return (
+    <footer className="Footer">
+      {console.log(globalSettings)}
+      <div className="container section flex">
+        <div className="column taLeft">
+          <h3>Contact Us</h3>
+          <a href={`tel:${phone}`}>Ph: {phone}</a>
+          <a href={`mailto:${email}`}>E: {email}</a>
+          <p>{address}</p>
+        </div>
 
-      <div className="column socials taCenter">
-        <h3>Sign up for our newsletter</h3>
-        <SubscribeForm />
-        <ul className="socials-list">
-          <li>
-            <a href="https://twitter.com/CordnerAdvisory">
-              <i className="fab fa-twitter" />
-            </a>
-          </li>
-          <li>
-            <a href="https://www.facebook.com/CordnerAdvisory/">
-              <i className="fab fa-facebook-f" />
-            </a>
-          </li>
-          <li>
-            <a href="https://www.linkedin.com/company/cordner-taylor-accountants-pty-ltd/">
-              <i className="fab fa-linkedin-in" />
-            </a>
-          </li>
-        </ul>
-      </div>
+        <div className="column socials taCenter">
+          <h3>{subscribeFormTitle}</h3>
+          <SubscribeForm />
+          <ul className="socials-list">
+            <li>
+              <a href={socialMediaCard.twitter}>
+                <i className="fab fa-twitter" />
+              </a>
+            </li>
+            <li>
+              <a href={socialMediaCard.facebook}>
+                <i className="fab fa-facebook-f" />
+              </a>
+            </li>
+            <li>
+              <a href={socialMediaCard.linkedin}>
+                <i className="fab fa-linkedin-in" />
+              </a>
+            </li>
+          </ul>
+        </div>
 
-      <div className="column taRight">
-        <h3>Info</h3>
-
-        <ul>
-          <Link to="/our-services/" exact>
-            Our Services
-          </Link>
-          <Link to="/advisors/" exact>
-            Your Advisors
-          </Link>
-          <Link to="/resources/" exact>
-            Resources
-          </Link>
-          <Link to="/blog/" exact>
-            Blog
-          </Link>
-        </ul>
+        <div className="column taRight">
+          <h3>Info</h3>
+          <ul>
+            <Link to="/our-services/" exact>
+              Our Services
+            </Link>
+            <Link to="/your-advisors/" exact>
+              Your Advisors
+            </Link>
+            <Link to="/resources/" exact>
+              Resources
+            </Link>
+            <Link to="/blog/" exact>
+              Blog
+            </Link>
+          </ul>
+        </div>
       </div>
-    </div>
-  </footer>
-)
+    </footer>
+  )
+}
