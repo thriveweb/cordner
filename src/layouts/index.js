@@ -58,6 +58,16 @@ export const query = graphql`
       }
     }
     globalSettings: settingsYaml {
+      banner {
+        button {
+          label
+          link
+        }
+        excerpt
+        title
+        subtitle
+        image
+      }
       phone
       email
       address

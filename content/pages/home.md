@@ -53,14 +53,7 @@ testimonials:
       name: name herre
       company: Company 3
     quote: Start a conversation today sed ut perspiciatis unde omnis iste natuserrorsit voluptatem accus
-banner:
-  button:
-    label: contact us
-    link: contact
-  excerpt: >-
-    Start a conversation today sed ut perspiciatis unde omnis iste natuserror
-    sit voluptatem accus
-  title: We are your financial adviser
+
 meta:
   canonicalLink: ''
   description: >-

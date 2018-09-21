@@ -2,6 +2,16 @@ siteTitle: Cordner Advisory
 siteUrl: 'https://cordner.netlify.com'
 siteDescription: >-
   Grow with confidence.
+banner:
+  button:
+    label: contact us
+    link: contact
+  excerpt: >-
+    Start a conversation today sed ut perspiciatis unde omnis iste natuserror
+    sit voluptatem accus
+  title: We are your financial adviser
+  subtitle: Call us now on (07) 5504 5700
+  image: /images/uploads/contact--banner.jpg
 phone: (07) 5504 5700
 email: info@cordner.com.au
 address: Suite 315E, Level 3, 3 Oracle Boulevard, Broadbeach, QLD, 4218, Australia

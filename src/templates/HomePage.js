@@ -9,7 +9,6 @@ import PostCard from '../components/PostCard'
 import Testimonials from '../components/Testimonials'
 
 import Button from '../components/Button'
-import ContactSection from '../components/ContactSection'
 import NumberedHeader from '../components/NumberedHeader'
 
 import './HomePage.scss'
@@ -26,7 +25,6 @@ export const HomePageTemplate = ({
   section4,
   section5,
   testimonials,
-  banner,
   posts,
   services
 }) => (
@@ -133,16 +131,6 @@ export const HomePageTemplate = ({
         <Testimonials testimonials={testimonials} />
       </div>
     </section>
-
-    <section className="section--6-contact relative">
-      <ContactSection
-        image="/images/uploads/contact--banner.jpg"
-        title={banner.title}
-        content={banner.excerpt}
-        link={banner.button.link}
-        buttonText={banner.button.label}
-      />
-    </section>
   </main>
 )
 
@@ -228,14 +216,6 @@ export const pageQuery = graphql`
             }
             name
             company
-          }
-        }
-        banner {
-          title
-          excerpt
-          button {
-            label
-            link
           }
         }
       }
