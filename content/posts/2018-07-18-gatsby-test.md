@@ -3,7 +3,7 @@ template: SinglePost
 title: Gatsby Test
 status: Published
 date: '2018-07-18'
-featuredImage: /images/uploads/nitish-meena-37745.jpg
+featuredImage: /images/uploads/our-advisors--banner.jpg
 excerpt: This is the excerpt
 categories:
   - category: Updates

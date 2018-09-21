@@ -255,17 +255,17 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          excerpt
           fields {
             slug
           }
           frontmatter {
             title
+            excerpt
             categories {
               category
             }
             featuredImage {
-              ...MediumImage
+              ...FluidImage
             }
           }
         }

@@ -199,7 +199,7 @@ collections:
         options: ["Published", "Featured", "Draft"]
         default: 'Published'
       - {label: Date / Order, name: date, widget: date}
-      - {label: Featured Image, name: featuredImage, widget: image, required: false}
+      - {label: Featured Image, name: featuredImage, widget: image}
       - {label: Excerpt, name: excerpt, widget: text}
       - {label: Content, name: body, widget: markdown}
       - label: "Categories"
