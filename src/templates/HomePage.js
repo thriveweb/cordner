@@ -141,7 +141,7 @@ export const HomePageTemplate = ({
                 />
                 <div className="from">
                   <strong>{testimonial.author.name}</strong> <br />
-                  {testimonial.autor.company}
+                  {testimonial.author.company}
                 </div>
               </div>
             </div>
