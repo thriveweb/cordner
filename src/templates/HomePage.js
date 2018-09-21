@@ -24,7 +24,7 @@ export const HomePageTemplate = ({
   section3,
   section4,
   section5,
-  quotes,
+  testimonials,
   banner,
   posts,
   services
@@ -130,15 +130,18 @@ export const HomePageTemplate = ({
           <h3>{section5.title}</h3>
         </div>
         <div className="testimonials">
-          {quotes.map((quote, index) => (
-            <div className="slide">
+          {testimonials.map((testimonial, index) => (
+            <div key={index + testimonial.name} className="slide">
               <h3>"</h3>
-              <p>{quote.excerpt}</p>
+              <p>{testimonial.quote}</p>
               <div className="quote">
-                <Image src={quote.image} alt={quote.name} />
+                <Image
+                  src={testimonial.author.image}
+                  alt={testimonial.author.name}
+                />
                 <div className="from">
-                  <strong>{quote.name}</strong> <br />
-                  {quote.company}
+                  <strong>{testimonial.author.name}</strong> <br />
+                  {testimonial.autor.company}
                 </div>
               </div>
             </div>
@@ -230,17 +233,18 @@ export const pageQuery = graphql`
             link
           }
         }
-
         section5 {
           title
         }
-        quotes {
-          image {
-            ...FluidImage
+        testimonials {
+          quote
+          author {
+            avatar {
+              ...SmallImage
+            }
+            name
+            company
           }
-          excerpt
-          name
-          company
         }
         banner {
           title

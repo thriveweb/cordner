@@ -75,14 +75,21 @@ collections:
             widget: object
             fields:
               - {name: title, label: title, widget: string}
-          - name: quotes
-            label: quotes
-            widget: list
+
+
+          - name: "testimonials"
+            label: "testimonials"
+            widget: "list"
             fields:
-              - {name: excerpt, label: excerpt, widget: string}
-              - {name: image, label: image, widget: image}
-              - {name: name, label: name, widget: string}
-              - {name: company, label: company, widget: string}
+              - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
+              - label: Author
+                name: author
+                widget: object
+                fields:
+                  - {name: Name, label: name, widget: string}
+                  - {name: company, label: company, widget: string}
+                  - {name: Avatar, label: avatar, widget: image}
+
           - name: banner
             label: banner
             widget: object
@@ -240,7 +247,8 @@ collections:
         options: ["Published", "Featured", "Draft"]
         default: 'Published'
       - {label: Date / Order, name: date, widget: date}
-      - {label: Featured Image, name: featuredImage, widget: image, required: false}
+      - {label: Featured Image, name: featuredImage, widget: image}
+      - {label: icon, name: icon, widget: image}
       - {label: Excerpt, name: excerpt, widget: text}
       - {label: Content, name: body, widget: markdown}
       - label: "Categories"
