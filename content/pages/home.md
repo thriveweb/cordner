@@ -39,18 +39,18 @@ section5:
   title: What our clients say
 testimonials:
   - author:
-      Avatar: /images/uploads/business-advisory.jpg
-      Name: name herre
+      avatar: /images/uploads/business-advisory.jpg
+      name: name herre
       company: Company 1
     quote: Start a conversation today sed ut perspiciatis unde omnis iste natuserrorsit voluptatem accus
   - author:
-      Avatar: /images/uploads/business-advisory.jpg
-      Name: name herre
+      avatar: /images/uploads/business-advisory.jpg
+      name: name herre
       company: Company 2
     quote: Start a conversation today sed ut perspiciatis unde omnis iste natuserrorsit voluptatem accus
   - author:
-      Avatar: /images/uploads/business-advisory.jpg
-      Name: name herre
+      avatar: /images/uploads/business-advisory.jpg
+      name: name herre
       company: Company 3
     quote: Start a conversation today sed ut perspiciatis unde omnis iste natuserrorsit voluptatem accus
 banner:

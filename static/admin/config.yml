@@ -75,8 +75,6 @@ collections:
             widget: object
             fields:
               - {name: title, label: title, widget: string}
-
-
           - name: "testimonials"
             label: "testimonials"
             widget: "list"
@@ -86,10 +84,9 @@ collections:
                 name: author
                 widget: object
                 fields:
-                  - {name: Name, label: name, widget: string}
+                  - {name: name, label: name, widget: string}
                   - {name: company, label: company, widget: string}
-                  - {name: Avatar, label: avatar, widget: image}
-
+                  - {name: avatar, label: avatar, widget: image}
           - name: banner
             label: banner
             widget: object
