@@ -130,9 +130,11 @@
   }
 
   .section--2 {
+    color: white;
   }
 
   .section--3 {
+    color: white;
     .grid {
       display: flex;
       flex-wrap: wrap;
@@ -209,6 +211,7 @@
 
   .section--4-blog {
     background: var(--brown);
+    color: white;
 
     .numbered-header {
       margin-bottom: 50px;
@@ -230,6 +233,7 @@
 
   .section--5-testimonials {
     background: var(--purple);
+    color: white;
     .container {
       display: flex;
       align-items: stretch;
@@ -267,8 +271,5 @@
       margin: 0 2rem 0 0;
       border-radius: 50%;
     }
-  }
-
-  .section--6-contact {
   }
 }

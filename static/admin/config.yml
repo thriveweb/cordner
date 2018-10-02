@@ -234,6 +234,7 @@ collections:
       - {label: Date / Order, name: date, widget: date}
       - {label: Featured Image, name: featuredImage, widget: image}
       - {label: icon, name: icon, widget: image}
+      - {label: parent Service, name: parentService, widget: string, required: false }
       - {label: Excerpt, name: excerpt, widget: text}
       - {label: Content, name: body, widget: markdown}
       - label: "Categories"

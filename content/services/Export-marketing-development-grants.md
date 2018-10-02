@@ -1,14 +1,14 @@
 ---
 template: SingleService
-slug: our-services/business-advisory
-status: Featured
-categories:
-  - category: Business Advisory
-title: Business Advisory
+slug: our-services/export-marketing-development-grants
+title: Export marketing development grants
 subtitle: This is placeholder text that our web designers
-featuredImage: /images/uploads/business-advisory.jpg
-icon: /images/uploads/business-advisory--icon.svg
-
+status: Published
+categories:
+  - category: R&D, Grants and Taxation Entitlements
+featuredImage: /images/uploads/rd--image.jpg
+icon: /images/uploads/rd-advisory--icon.svg
+parentService: R&D, Grants and Taxation Entitlements
 ---
 
 This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language. Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website.

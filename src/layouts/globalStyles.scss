@@ -23,7 +23,6 @@ body {
   line-height: 25px;
   min-height: 100%;
   position: relative;
-  color: white;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -86,8 +85,6 @@ h2 {
   font-size: 43px;
   line-height: 50px;
   letter-spacing: 0.2px;
-  color: white;
-
   @media (max-width: 600px) {
     font-size: 35px;
   }
@@ -99,7 +96,6 @@ h3 {
   font-size: 25px;
   line-height: 30px;
   letter-spacing: 0.2px;
-  color: white;
 }
 
 h4 {
@@ -108,7 +104,6 @@ h4 {
   font-size: 25px;
   line-height: 30px;
   letter-spacing: 0.2px;
-  color: white;
 }
 
 blockquote {
@@ -165,6 +160,10 @@ blockquote {
   display: flex;
   align-items: stretch;
   justify-content: space-between;
+}
+
+.one-half {
+  width: calc(50% - 4rem);
 }
 
 @keyframes fadeIn {

@@ -2,6 +2,9 @@
 featuredImage: /images/logo.svg
 categories:
   - category: ''
+
+parentService: ''
+
 meta:
   canonicalLink: ''
   description: ''
