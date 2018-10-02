@@ -8,17 +8,15 @@ export const ServicesIndexTemplate = ({
   title,
   subtitle,
   featuredImage,
-  services = [],
+  services = []
 }) => (
   <Fragment>
-    <main className="Home">
+    <main className="ServicesIndex">
       <PageHeader
-        large
         title={title}
         subtitle={subtitle}
         backgroundImage={featuredImage}
       />
-
       {!!services.length && <ServicesSection services={services} />}
     </main>
   </Fragment>
@@ -36,7 +34,7 @@ const ServicesIndex = ({ data }) => {
       services={services.edges.map(post => ({
         ...post.node,
         ...post.node.frontmatter,
-        ...post.node.fields,
+        ...post.node.fields
       }))}
     />
   )
@@ -73,8 +71,11 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
-            featuredImage {
+            icon {
               ...FluidImage
+            }
+            featuredImage {
+              ...MediumImage
             }
           }
         }

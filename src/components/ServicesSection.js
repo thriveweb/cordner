@@ -2,6 +2,7 @@ import React from 'react'
 import _sortBy from 'lodash/sortBy'
 
 import ServiceCard from '../components/ServiceCard'
+import NumberedHeader from '../components/NumberedHeader'
 import './ServicesSection.css'
 
 class ServicesSection extends React.Component {
@@ -34,16 +35,17 @@ class ServicesSection extends React.Component {
       .slice(0, limit || services.length)
 
     return (
-      <div className="ServicesSection">
+      <section className="section--2">
+        <div className="grid">
+          <div className="single--service red">
+            <NumberedHeader number="01" title="Our Services" />
+            <h2>How can we help today</h2>
+          </div>
+          {services.map((service, index) => (
+            <ServiceCard key={service.title + index} {...service} />
+          ))}
+        </div>
         <div className="container">
-          {title && <h2 className="ServicesSection--Title">{title}</h2>}
-          {!!visibleServices.length && (
-            <div className="ServicesSection--Grid">
-              {visibleServices.map((service, index) => (
-                <ServiceCard key={service.title + index} {...service} />
-              ))}
-            </div>
-          )}
           {showLoadMore &&
             visibleServices.length < services.length && (
               <div className="taCenter">
@@ -53,7 +55,7 @@ class ServicesSection extends React.Component {
               </div>
             )}
         </div>
-      </div>
+      </section>
     )
   }
 }

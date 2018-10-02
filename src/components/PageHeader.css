@@ -1,5 +1,5 @@
 .PageHeader {
-  background-color: var(--darkGrey);
+  background-color: var(--purple);
   color: white;
   padding: 115px 0;
 }
@@ -22,6 +22,11 @@
 .PageHeader .container {
   animation: fadeIn 0.5s ease-out;
   z-index: 2;
+}
+
+.PageHeader .BackgroundImage {
+  opacity: 0.3;
+  background-blend-mode: multiply;
 }
 
 @media (max-width: 600px) {
