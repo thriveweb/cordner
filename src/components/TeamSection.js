@@ -6,67 +6,19 @@ import SingleTeamMember from './SingleTeamMember'
 
 import './TeamSection.scss'
 
-export default ({ title, content, link, buttonText }) => (
+export default ({ title, content, link, buttonText, team }) => (
   <section className="TeamSection">
     <div className="grid">
-      <SingleTeamMember
-        link=""
-        image="/images/uploads/team-member--1.jpg"
-        title="Di Girvin"
-        content="Small to Medium sized Business Advisory and R&D Legislation
-        Specialist"
-        colour="cream"
-      />
-
-      <SingleTeamMember
-        link=""
-        image="/images/uploads/team-member--2.jpg"
-        title="Di Girvin"
-        content="Small to Medium sized Business Advisory and R&D Legislation
-        Specialist"
-      />
-
-      <SingleTeamMember
-        link=""
-        image="/images/uploads/team-member--3.jpg"
-        title="Di Girvin"
-        content="Small to Medium sized Business Advisory and R&D Legislation
-        Specialist"
-      />
-
-      <SingleTeamMember
-        link=""
-        image="/images/uploads/team-member--4.jpg"
-        title="Di Girvin"
-        content="Small to Medium sized Business Advisory and R&D Legislation
-        Specialist"
-      />
-
-      <SingleTeamMember
-        link=""
-        image="/images/uploads/team-member--5.jpg"
-        title="Di Girvin"
-        content="Small to Medium sized Business Advisory and R&D Legislation
-        Specialist"
-      />
-
-      <SingleTeamMember
-        link=""
-        image="/images/uploads/team-member--6.jpg"
-        title="Di Girvin"
-        content="Small to Medium sized Business Advisory and R&D Legislation
-        Specialist"
-      />
-
-      <SingleTeamMember
-        link=""
-        image="/images/uploads/team-member--7.jpg"
-        title="Di Girvin"
-        content="Small to Medium sized Business Advisory and R&D Legislation
-        Specialist"
-      />
-
-      
+      {console.log(team)}
+      {team.map((member, index) => (
+        <SingleTeamMember
+          link={member.slug}
+          image={member.image}
+          title={member.title}
+          content={member.subtitle}
+          colour="cream"
+        />
+      ))}
 
       <div className="services-sneak">
         <div className="container">

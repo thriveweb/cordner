@@ -17,7 +17,8 @@ export const AdvisorsPageTemplate = ({
   featuredImage,
   categories,
   section1,
-  section2
+  section2,
+  team
 }) => (
   <main className="Advisors">
     <Helmet>
@@ -44,11 +45,12 @@ export const AdvisorsPageTemplate = ({
       content={section2.subtitle}
       link={section2.button.link}
       buttonText={section2.button.label}
+      team={team}
     />
   </main>
 )
 
-const AdvisorsPage = ({ data: { page } }) => (
+const AdvisorsPage = ({ data: { page, team } }) => (
   <AdvisorsPageTemplate {...page} {...page.frontmatter} body={page.html} />
 )
 
@@ -78,6 +80,27 @@ export const pageQuery = graphql`
           button {
             label
             link
+          }
+        }
+      }
+    }
+    team: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "team" } } }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            subtitle
+            categories {
+              category
+            }
+            featuredImage {
+              ...MediumImage
+            }
           }
         }
       }
