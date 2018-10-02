@@ -12,18 +12,25 @@ import TeamSection from '../components/TeamSection'
 import './AdvisorsPage.scss'
 
 // Export Template for use in CMS preview
-export const AdvisorsPageTemplate = ({ title }) => (
+export const AdvisorsPageTemplate = ({
+  title,
+  featuredImage,
+  categories,
+  section1,
+  section2
+}) => (
   <main className="Advisors">
     <Helmet>
       <title>{title}</title>
     </Helmet>
-    {/* <PageHeader title={title} backgroundImage={featuredImage} /> */}
+
+    <PageHeader title={title} backgroundImage={featuredImage} />
 
     <section className="section--1 section">
       <div className="container">
         <div className="column">
           <NumberedHeader number="01" title="Who Are We" />
-          <h2>Team</h2>
+          <h2>{title}</h2>
         </div>
 
         <div className="column">
@@ -47,17 +54,6 @@ export const AdvisorsPageTemplate = ({ title }) => (
       link="our-services"
       buttonText="know more"
     />
-
-    <section className="section--3 relative">
-      <ContactSection
-        image="/images/uploads/contact--banner.jpg"
-        title="We are your financial adviser"
-        content="Start a conversation today sed ut perspiciatis unde omnis iste natus
-              error sit voluptatem accus"
-        link="/contact/"
-        buttonText="contact us"
-      />
-    </section>
   </main>
 )
 
@@ -74,6 +70,25 @@ export const pageQuery = graphql`
       frontmatter {
         title
         template
+        featuredImage {
+          ...FluidImage
+        }
+        categories {
+          category
+        }
+        section1 {
+          title
+          rightTitle
+          rightContent
+        }
+        section2 {
+          title
+          subtitle
+          button {
+            label
+            link
+          }
+        }
       }
     }
   }

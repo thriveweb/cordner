@@ -107,6 +107,26 @@ collections:
           - {label: Slug, name: slug, widget: hidden, default: 'about'}
           - {label: Title, name: title, widget: string}
           - {label: Featured Image, name: featuredImage, widget: image}
+          - name: section1
+            label: section 1
+            widget: object
+            fields:
+              - {name: title, label: title, widget: string}
+              - {name: rightTitle, label: rightTitle, widget: string}
+              - {name: rightContent, label: rightContent, widget: markdown}
+          - name: section2
+            label: section 2
+            widget: object
+            fields:
+              - {name: title, label: title, widget: string}
+              - {name: subtitle, label: subtitle, widget: string}
+              - name: button
+                label: button
+                widget: object
+                fields:
+                  - {name: label, label: label, widget: string}
+                  - {name: link, label: Link, widget: string}
+
           - label: "Meta"
             required: false
             name: "meta"
