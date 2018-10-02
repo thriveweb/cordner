@@ -16,7 +16,6 @@ export default ({ globalSettings = {}, ...props }) => {
   } = globalSettings
   return (
     <Fragment>
-      {console.log(globalSettings)}
       <section className="section--6-contact relative">
         <ContactSection
           image={banner.image}
