@@ -30,29 +30,20 @@ export const AdvisorsPageTemplate = ({
       <div className="container">
         <div className="column">
           <NumberedHeader number="01" title="Who Are We" />
-          <h2>{title}</h2>
+          <h2>{section1.title}</h2>
         </div>
-
         <div className="column">
-          <h3>Versatile financial solutions for everyone</h3>
-          <p>
-            Established on the Gold Coast in 1981. Cordner Advisory specialises
-            in Business Advisory Services, Tax & Compliance, Family Wealth &
-            Superannuation (SMSF), and specialist R&D tax incentive/government
-            grants. <br /> <br />
-            Cordner Advisory service a broad range of businesses and most
-            industries including technology companies and startups, childcare,
-            medical/health, construction and property. Cordner Advisory delivers
-          </p>
+          <h3>{section1.rightTitle}</h3>
+          {section1.rightContent}
         </div>
       </div>
     </section>
 
     <TeamSection
-      title="Browse our services"
-      content="Maecenas consectetur mi lacus, sit amet facilisis elit dignissim vitae. Nam dictum ac sapien vitae porta."
-      link="our-services"
-      buttonText="know more"
+      title={section2.title}
+      content={section2.subtitle}
+      link={section2.button.link}
+      buttonText={section2.button.label}
     />
   </main>
 )
