@@ -288,21 +288,10 @@ collections:
     fields: # The fields each document in this collection have
       - {label: Template, name: template, widget: hidden, default: SingleTeam}
       - {label: Title, name: title, widget: string}
+      - {label: subitle, name: subtitle, widget: string}
       - {label: Order, name: order, widget: number}
       - {label: Featured Image, name: featuredImage, widget: image, required: false}
-      - {label: Excerpt, name: excerpt, widget: text}
       - {label: Content, name: body, widget: markdown}
-      - label: "Select Advisors"
-        name: "advisors"
-        widget: "list"
-        required: false
-        fields:
-          - label: "Advisors"
-            name: "advisors"
-            widget: "relation"
-            collection: "team"
-            searchFields: ["title"]
-            valueField: "title"
       - label: "Meta"
         required: false
         name: "meta"

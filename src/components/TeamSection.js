@@ -7,16 +7,14 @@ import SingleTeamMember from './SingleTeamMember'
 import './TeamSection.scss'
 
 export default ({ title, content, link, buttonText, team }) => (
-  <section className="TeamSection">
+  <section className="TeamSection dark">
     <div className="grid">
-      {console.log(team)}
       {team.map((member, index) => (
         <SingleTeamMember
           link={member.slug}
-          image={member.image}
+          image={member.featuredImage}
           title={member.title}
           content={member.subtitle}
-          colour="cream"
         />
       ))}
 

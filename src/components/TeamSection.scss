@@ -39,7 +39,7 @@
     }
   }
 
-  .single--team:nth-of-type(5n+1) .color {
+  .single--team:nth-of-type(5n + 1) .color {
     background-color: rgba(246, 235, 213, 0.9);
     color: var(--brown) !important;
 
@@ -48,7 +48,7 @@
     }
   }
 
-  .single--team:nth-of-type(5n+2) .color {
+  .single--team:nth-of-type(5n + 2) .color {
     background-color: rgba(236, 236, 236, 0.9);
     color: var(--brown);
 
@@ -57,7 +57,7 @@
     }
   }
 
-  .single--team:nth-of-type(5n+3) .color {
+  .single--team:nth-of-type(5n + 3) .color {
     background-color: rgba(91, 62, 76, 0.9);
     color: white !important;
 
@@ -66,7 +66,7 @@
     }
   }
 
-  .single--team:nth-of-type(5n+4) .color {
+  .single--team:nth-of-type(5n + 4) .color {
     background-color: rgba(201, 76, 56, 0.9);
     color: white !important;
 
@@ -75,7 +75,7 @@
     }
   }
 
-  .single--team:nth-of-type(5n+5) .color {
+  .single--team:nth-of-type(5n + 5) .color {
     background-color: rgba(53, 47, 50, 0.9);
     color: white !important;
 

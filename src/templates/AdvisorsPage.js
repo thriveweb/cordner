@@ -25,9 +25,10 @@ export const AdvisorsPageTemplate = ({
       <title>{title}</title>
     </Helmet>
 
+    {console.log(team)}
     <PageHeader title={title} backgroundImage={featuredImage} />
 
-    <section className="section--1 section">
+    <section className="section--1 section dark">
       <div className="container">
         <div className="column">
           <NumberedHeader number="01" title="Who Are We" />
@@ -51,7 +52,15 @@ export const AdvisorsPageTemplate = ({
 )
 
 const AdvisorsPage = ({ data: { page, team } }) => (
-  <AdvisorsPageTemplate {...page} {...page.frontmatter} body={page.html} />
+  <AdvisorsPageTemplate
+    {...page}
+    {...page.frontmatter}
+    body={page.html}
+    team={team.edges.map(edge => ({
+      ...edge.node.frontmatter,
+      ...edge.node.fields
+    }))}
+  />
 )
 
 export default AdvisorsPage
@@ -86,6 +95,7 @@ export const pageQuery = graphql`
     }
     team: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "team" } } }
+      sort: { order: ASC, fields: [frontmatter___order] }
     ) {
       edges {
         node {
