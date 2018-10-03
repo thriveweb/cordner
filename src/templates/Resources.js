@@ -6,7 +6,6 @@ import Image from '../components/Image'
 import Content from '../components/Content.js'
 import NumberedHeader from '../components/NumberedHeader'
 import Link from 'gatsby-link'
-import TeamSection from '../components/TeamSection'
 
 import './Resources.scss'
 

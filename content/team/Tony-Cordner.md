@@ -1,9 +1,10 @@
 ---
 template: SingleTeam
-slug: your-advisors/di-girvin
+slug: your-advisors/tony-cordner
 title: Tony Cordner
 subtitle: With over 35 years’ Experience & Founder of Cordner Advisory
 featuredImage: /images/uploads/team-member--1.jpg
+mainImage: /images/uploads/tony.jpg
 categories:
   - category: Business Advisory
   - category: R&D, Grants and Taxation Entitlements
@@ -11,10 +12,21 @@ categories:
   - category: Taxation and Compliance
   - category: Private Advisory
 order: 1
+position: Founder
+twitter: https://twitter.com/
+linkedin: https://linkedin.com/
+email: tony@cordner.com.au
+
 ---
 
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+Tony has over 35 years’ experience in the professional practice of
+business services, taxation, superannuation and auditing. As a past
+business owner and operator, Tony understands the needs of a small
+medium business first hand.
 
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+Tony now consults with Cordner Advisory in structuring for taxation,
+asset protection, estate planning strategies and all aspects of SMSF
+operation and compliance.
 
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+Tony is committed to continual professional development which helps
+him remain at the forefront of business advisory services.

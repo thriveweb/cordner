@@ -213,12 +213,11 @@ collections:
         default: 'Published'
       - {label: Date / Order, name: date, widget: date}
       - {label: Featured Image, name: featuredImage, widget: image}
-      - {label: Excerpt, name: excerpt, widget: text, required: false, pattern: [".{,150}", "Must not exceed 300 characters"]}
+      - {label: Excerpt, name: excerpt, widget: text, pattern: [".{,150}", "Must not exceed 300 characters"]}
       - {label: Content, name: body, widget: markdown}
       - label: "Categories"
         name: "categories"
         widget: "list"
-        required: false
         fields:
           - label: "Category"
             name: "category"
@@ -260,7 +259,6 @@ collections:
       - label: "Categories"
         name: "categories"
         widget: "list"
-        required: false
         fields:
           - label: "Category"
             name: "category"
@@ -288,14 +286,19 @@ collections:
     fields: # The fields each document in this collection have
       - {label: Template, name: template, widget: hidden, default: SingleTeam}
       - {label: Title, name: title, widget: string}
-      - {label: subitle, name: subtitle, widget: string}
+      - {label: subtitle, name: subtitle, widget: string}
       - {label: Order, name: order, widget: number}
-      - {label: Featured Image, name: featuredImage, widget: image, required: false}
+      - {label: Featured Image, name: featuredImage, widget: image}
+      - {label: main Image, name: mainImage, widget: image}
+      - {label: position, name: position, widget: string}
+      - {label: twitter, name: twitter, widget: string}
+      - {label: linkedin, name: linkedin, widget: string}
+      - {label: email, name: email, widget: string}
+
       - {label: Content, name: body, widget: markdown}
       - label: "Categories"
         name: "categories"
         widget: "list"
-        required: false
         fields:
           - label: "Category"
             name: "category"
@@ -323,7 +326,7 @@ collections:
     fields: # The fields each document in this collection have
       - {label: Template, name: template, widget: hidden, default: BlogIndex}
       - {label: Title, name: title, widget: string}
-      - {label: Featured Image, name: featuredImage, widget: image, required: false}
+      - {label: Featured Image, name: featuredImage, widget: image}
 
   - name: "settings"
     label: "Settings"
@@ -336,8 +339,8 @@ collections:
         name: "global-settings"
         fields:
           - {label: Site Title, name: siteTitle, widget: string}
-          - {label: Site Url, name: siteUrl, widget: string, required: false}
-          - {label: Site Description, name: siteDescription, widget: text, required: false}
+          - {label: Site Url, name: siteUrl, widget: string}
+          - {label: Site Description, name: siteDescription, widget: text}
           - name: banner
             label: banner
             widget: object

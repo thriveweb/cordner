@@ -5,6 +5,11 @@ categories:
 
 parentService: ''
 
+
+twitter: ''
+linkedin: ''
+email: ''
+
 meta:
   canonicalLink: ''
   description: ''

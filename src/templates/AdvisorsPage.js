@@ -6,8 +6,6 @@ import Image from '../components/Image'
 import Content from '../components/Content.js'
 import NumberedHeader from '../components/NumberedHeader'
 import Link from 'gatsby-link'
-import ContactSection from '../components/ContactSection'
-import TeamSection from '../components/TeamSection'
 
 import './AdvisorsPage.scss'
 
@@ -41,13 +39,32 @@ export const AdvisorsPageTemplate = ({
       </div>
     </section>
 
-    <TeamSection
-      title={section2.title}
-      content={section2.subtitle}
-      link={section2.button.link}
-      buttonText={section2.button.label}
-      team={team}
-    />
+    <section className="TeamSection dark">
+      <div className="grid">
+        {team.map((member, index) => (
+          <Link to={member.slug} className="single--team relative">
+            <Image background src={member.featuredImage} size="cover" />
+
+            <div className="sneak-peak color">
+              <div className="sneak-peak--text">
+                <h3>{member.title}</h3>
+                <p>{member.content}</p>
+              </div>
+            </div>
+          </Link>
+        ))}
+
+        <div className="services-sneak">
+          <div className="container">
+            <h2>{section2.title}</h2>
+            <p className="big-body">{section2.content}</p>
+            <Link to={section2.link} className="Button">
+              {section2.buttonText}
+            </Link>
+          </div>
+        </div>
+      </div>
+    </section>
   </main>
 )
 
