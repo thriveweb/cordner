@@ -1,6 +1,6 @@
 ---
 template: SingleTeam
-slug: your-advisors/di-girvin
+slug: your-advisors/jason-cordner
 title: Jason Cordner
 subtitle: From Tax Advice to Corporate Advisory & more than 20 years’ Experience
 featuredImage: /images/uploads/team-member--2.jpg

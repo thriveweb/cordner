@@ -1,6 +1,6 @@
 ---
 template: SingleTeam
-slug: your-advisors/di-girvin
+slug: your-advisors/jarrad-young
 title: Jarrad Young
 subtitle: SMSF Specialist & Gold Coast Business Expert.
 featuredImage: /images/uploads/team-member--3.jpg

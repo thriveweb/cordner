@@ -83,3 +83,22 @@
     }
   }
 }
+.relatedPosts {
+  .numbered-header,
+  .numbered-header span {
+    margin: 1rem 0;
+  }
+}
+
+.backlink {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  transition: all 0.3s ease;
+  svg {
+    margin: 0 1rem;
+  }
+  &:hover {
+    opacity: 0.6;
+  }
+}

@@ -1,6 +1,6 @@
 ---
 template: SingleTeam
-slug: your-advisors/di-girvin
+slug: your-advisors/elsa-howarth
 title: Elsa Howarth
 subtitle: Our Resident SMSF Specialist with over 13 years’ Experience
 featuredImage: /images/uploads/team-member--4.jpg

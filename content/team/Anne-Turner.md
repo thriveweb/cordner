@@ -1,6 +1,6 @@
 ---
 template: SingleTeam
-slug: your-advisors/di-girvin
+slug: your-advisors/anne-turner
 title: Anne Turner
 subtitle: Tax Compliance & Business Advisory Expert with a Passion for Client Relationship Services
 featuredImage: /images/uploads/team-member--7.jpg

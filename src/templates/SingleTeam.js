@@ -1,6 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
+import { Grid } from 'react-feather'
 
 import Image from '../components/Image'
 import NumberedHeader from '../components/NumberedHeader'
@@ -44,6 +45,7 @@ export const SingleTeamTemplate = ({
 
             <div className="socials">
               <ul>
+                {console.log(twitter)}
                 {twitter && (
                   <li>
                     <a target="_blank" rel="nofollow" href={twitter}>
@@ -66,6 +68,9 @@ export const SingleTeamTemplate = ({
                   </li>
                 )}
               </ul>
+              <Link className="backlink" to="/your-advisors/">
+                <Grid /> Back to all advisors
+              </Link>
             </div>
           </div>
 
@@ -78,7 +83,7 @@ export const SingleTeamTemplate = ({
       {!!relatedPosts.length && (
         <section className="section relatedPosts">
           <div className="container">
-            <NumberedHeader number="" title="Blog" />
+            <NumberedHeader title="Blog" />
             <h3>Related news</h3>
           </div>
           <div className="container PostSection--Grid">
@@ -120,6 +125,10 @@ export const pageQuery = graphql`
         mainImage {
           ...FluidImage
         }
+        position
+        twitter
+        linkedin
+        email
       }
     }
     posts: allMarkdownRemark(

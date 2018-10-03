@@ -1,6 +1,6 @@
 ---
 template: SingleTeam
-slug: your-advisors/di-girvin
+slug: your-advisors/donna-forbes-zlatic
 title: Donna Forbes Zlatic
 subtitle: 11 Years in Human Resources, Practice Management & Customer Relations
 featuredImage: /images/uploads/team-member--5.jpg
