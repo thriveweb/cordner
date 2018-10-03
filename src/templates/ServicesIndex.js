@@ -60,12 +60,15 @@ export const pageQuery = graphql`
     }
 
     services: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "services" } } }
+      filter: {
+        fields: { contentType: { eq: "services" } }
+        frontmatter: { status: { regex: "/Featured/i" } }
+      }
       sort: { order: DESC, fields: [frontmatter___date] }
+      limit: 5
     ) {
       edges {
         node {
-          excerpt
           fields {
             slug
           }

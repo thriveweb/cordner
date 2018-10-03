@@ -45,7 +45,6 @@ export const SingleTeamTemplate = ({
 
             <div className="socials">
               <ul>
-                {console.log(twitter)}
                 {twitter && (
                   <li>
                     <a target="_blank" rel="nofollow" href={twitter}>

@@ -23,7 +23,6 @@ export const AdvisorsPageTemplate = ({
       <title>{title}</title>
     </Helmet>
 
-    {console.log(team)}
     <PageHeader title={title} backgroundImage={featuredImage} />
 
     <section className="section--1 section dark">
