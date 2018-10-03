@@ -11,7 +11,7 @@ icon: /images/uploads/business-advisory--icon.svg
 order: 1
 ---
 
-##Create Graphic of Below Table
+## Create Graphic of Below Table
 
 Our advisory team deliver a broad range of services from creating strategic business plans, Virtual Chief Financial Officer (VCFO), cashflow management, forecasting, monthly reporting and cover all aspects of accounting and financial functions.
 

@@ -197,7 +197,7 @@ export const pageQuery = graphql`
         fields: { contentType: { eq: "services" } }
         frontmatter: { status: { regex: "/Featured/i" } }
       }
-      sort: { order: DESC, fields: [frontmatter___date] }
+      sort: { order: ASC, fields: [frontmatter___order] }
       limit: 5
     ) {
       edges {
