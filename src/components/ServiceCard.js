@@ -12,13 +12,9 @@ const ServiceCard = ({
   className = '',
   ...props
 }) => (
-  <Link
-    to={slug}
-    className={`ServiceCard single--service relative ${className}`}
-    {...props}
-  >
-    {icon && <Image className="SingleService--icon" src={icon} alt={title} />}
-    <h3 className="SingleService--title">{title}</h3>
+  <Link to={slug} className={`ServiceCard relative ${className}`} {...props}>
+    {icon && <Image className="ServiceCard--icon" src={icon} alt={title} />}
+    <h3 className="ServiceCard--title">{title}</h3>
     <Image background src={featuredImage} alt={title} size="cover" />
   </Link>
 )

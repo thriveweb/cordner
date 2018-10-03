@@ -44,7 +44,7 @@ export const SingleServiceTemplate = ({
       <article className="SingleService relative">
         <PageHeader title={title} backgroundImage={featuredImage} />
 
-        <section className="section">
+        <section className="section SingleService--Welcome">
           <div className="container flex">
             <div className="flex-column one-half">
               <NumberedHeader number="" title="What we offer" />
@@ -56,12 +56,10 @@ export const SingleServiceTemplate = ({
           </div>
         </section>
 
-        {console.log(parentService)}
-
         {parentService && (
-          <section className="section--2 subServices">
+          <section className="SubServices">
             <div className="grid">
-              <div className="single--service red">
+              <div className="ServiceCard red">
                 <NumberedHeader number="" title="We also offer" />
                 <h2>We help you with</h2>
               </div>
@@ -75,7 +73,7 @@ export const SingleServiceTemplate = ({
             </div>
           </section>
         )}
-        <section className="section">
+        <section className="section RelatedMembers">
           <div className="container flex">
             <div className="flex-column one-half">
               <NumberedHeader number="" title="We help you" />
@@ -93,10 +91,10 @@ export const SingleServiceTemplate = ({
         </section>
 
         {!!relatedPosts.length && (
-          <section className="section--4-blog section grey">
+          <section className="section relatedPosts">
             <div className="container">
               <NumberedHeader number="" title="Blog" />
-              <h2>Related news</h2>
+              <h3>Related news</h3>
             </div>
             <div className="container PostSection--Grid">
               {relatedPosts.map((post, index) => (
@@ -106,15 +104,17 @@ export const SingleServiceTemplate = ({
           </section>
         )}
 
-        <section className="section--2">
+        <section className="SubServices">
+          <div className="SubServices--Titlebar red">
+            <NumberedHeader number="" title="We also offer" />
+            <h3>Other services</h3>
+          </div>
           <div className="grid">
-            <div className="single--service red">
-              <NumberedHeader number="" title="We also offer" />
-              <h2>Other services</h2>
-            </div>
-            {featuredServices.map((service, index) => (
-              <ServiceCard key={service.title + index} {...service} />
-            ))}
+            {featuredServices.map((service, index) => {
+              if (title !== service.title && parentService !== service.title) {
+                return <ServiceCard key={service.title + index} {...service} />
+              }
+            })}
           </div>
         </section>
       </article>

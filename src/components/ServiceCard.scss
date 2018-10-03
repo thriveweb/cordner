@@ -3,14 +3,14 @@
   flex-wrap: wrap;
 }
 
-.single--service {
+.ServiceCard {
   height: 380px;
   width: 33.33%;
   background-color: var(--brown);
   position: relative;
   color: white;
 
-  .SingleService--icon {
+  .ServiceCard--icon {
     position: absolute;
     z-index: 1;
     top: 50%;
@@ -19,7 +19,7 @@
     width: auto;
   }
 
-  .SingleService--title {
+  .ServiceCard--title {
     position: absolute;
     z-index: 1;
     top: 65%;
@@ -53,23 +53,23 @@
 }
 
 @media (max-width: 1000px) {
-  .single--service {
+  .ServiceCard {
     width: 50% !important;
   }
 }
 
 @media (max-width: 650px) {
-  .single--service {
+  .ServiceCard {
     width: 100% !important;
   }
 
-  .single--service.red h2 {
+  .ServiceCard.red h2 {
     max-width: 100% !important;
     margin-left: 0 !important;
   }
 }
 
-.single--service.red {
+.ServiceCard.red {
   padding: 5rem;
 
   &:before {

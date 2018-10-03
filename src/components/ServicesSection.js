@@ -37,7 +37,7 @@ class ServicesSection extends React.Component {
     return (
       <section className="section--2">
         <div className="grid">
-          <div className="single--service red">
+          <div className="ServiceCard red">
             <NumberedHeader number="01" title="Our Services" />
             <h2>How can we help today</h2>
           </div>

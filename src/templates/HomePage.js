@@ -73,7 +73,7 @@ export const HomePageTemplate = ({
 
     <section className="section--2">
       <div className="grid">
-        <div className="single--service red">
+        <div className="ServiceCard red">
           <NumberedHeader number="02" title="Our Services" />
           <h2>{section2.title}</h2>
         </div>

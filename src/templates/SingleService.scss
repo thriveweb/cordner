@@ -1,7 +1,6 @@
 .SingleService {
   .PageHeader {
     padding: 130px;
-
     &::after {
       content: attr(data-content);
       width: 100%;
@@ -12,9 +11,50 @@
       z-index: 1;
       background-color: rgba(44, 26, 34, 0.6);
     }
-
     .container {
       top: 80px;
     }
+  }
+  .numbered-header,
+  .numbered-header span {
+    margin: 1rem 0;
+  }
+}
+
+.SingleService--Welcome {
+  h3 {
+    width: 60%;
+    margin-left: 4.4rem;
+  }
+}
+
+.SubServices {
+  .ServiceCard {
+    height: 200px;
+    width: 25%;
+    background-color: var(--brown);
+    position: relative;
+    color: white;
+    padding: 2rem 4rem;
+  }
+
+  .ServiceCard.red h2 {
+    margin: 0;
+  }
+  .SubServices--Titlebar {
+    padding: 2rem 4rem;
+  }
+  .ServiceCard--icon {
+    max-width: 40px;
+  }
+}
+
+.RelatedMembers {
+}
+
+.relatedPosts {
+  background: var(--lightGrey);
+  h3 {
+    margin-bottom: 4rem;
   }
 }

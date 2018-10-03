@@ -3,8 +3,6 @@ import Link from 'gatsby-link'
 
 import Image from './Image'
 
-import './SingleService.scss'
-
 export default ({ link, title }) => (
   <div className="button--secondary">
     <Link className="flex" to={link}>

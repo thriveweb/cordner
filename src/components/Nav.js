@@ -41,9 +41,9 @@ export default class Nav extends Component {
             <NavLink to="/your-advisors/" exact>
               Your Advisors
             </NavLink>
-            <NavLink to="/resources/" exact>
+            {/* <NavLink to="/resources/" exact>
               Resources
-            </NavLink>
+            </NavLink> */}
             <NavLink to="/blog/" exact>
               Blog
             </NavLink>
