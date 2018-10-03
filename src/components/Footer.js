@@ -67,9 +67,6 @@ export default ({ globalSettings = {}, ...props }) => {
               <Link to="/your-advisors/" exact>
                 Your Advisors
               </Link>
-              <Link to="/resources/" exact>
-                Resources
-              </Link>
               <Link to="/blog/" exact>
                 Blog
               </Link>
