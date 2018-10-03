@@ -56,9 +56,9 @@ export const AdvisorsPageTemplate = ({
         <div className="services-sneak">
           <div className="container">
             <h2>{section2.title}</h2>
-            <p className="big-body">{section2.content}</p>
-            <Link to={section2.link} className="Button">
-              {section2.buttonText}
+            <p className="big-body">{section2.subtitle}</p>
+            <Link to={section2.button.link} className="Button">
+              {section2.button.label}
             </Link>
           </div>
         </div>

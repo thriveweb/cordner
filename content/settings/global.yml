@@ -5,7 +5,7 @@ siteDescription: >-
 banner:
   button:
     label: contact us
-    link: contact
+    link: /contact/
   excerpt: >-
     Start a conversation today sed ut perspiciatis unde omnis iste natuserror
     sit voluptatem accus
