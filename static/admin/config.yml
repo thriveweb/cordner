@@ -292,6 +292,17 @@ collections:
       - {label: Order, name: order, widget: number}
       - {label: Featured Image, name: featuredImage, widget: image, required: false}
       - {label: Content, name: body, widget: markdown}
+      - label: "Categories"
+        name: "categories"
+        widget: "list"
+        required: false
+        fields:
+          - label: "Category"
+            name: "category"
+            widget: "relation"
+            collection: "categories"
+            searchFields: ["title"]
+            valueField: "title"
       - label: "Meta"
         required: false
         name: "meta"

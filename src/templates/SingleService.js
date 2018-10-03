@@ -1,5 +1,7 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
+import _findIndex from 'lodash/findIndex'
+import _find from 'lodash/find'
 
 import PageHeader from '../components/PageHeader'
 import Image from '../components/Image'
@@ -7,6 +9,8 @@ import Link from 'gatsby-link'
 import Content from '../components/Content'
 import NumberedHeader from '../components/NumberedHeader'
 import ServiceCard from '../components/ServiceCard'
+import TeamCard from '../components/TeamCard'
+import PostCard from '../components/PostCard'
 
 import './SingleService.scss'
 
@@ -18,12 +22,20 @@ export const SingleServiceTemplate = ({
   categories,
   parentService,
   html,
-  services
+  services,
+  team,
+  posts
 }) => {
-  const relatedServices = services.filter(
-    obj => obj.parentService === parentService
+  const currentCats = categories.map(obj => obj.category)
+
+  const relatedServices = services.filter(obj =>
+    obj.categories.find(cat => currentCats.includes(cat.category))
   )
-  console.log(services)
+
+  const relatedMembers = team.filter(member =>
+    member.categories.find(cat => currentCats.includes(cat.category))
+  )
+
   return (
     <Fragment>
       <article className="SingleService relative">
@@ -41,23 +53,19 @@ export const SingleServiceTemplate = ({
           </div>
         </section>
 
-        {!!parentService && (
-          <section className="section--2 subServices">
-            <div className="grid">
-              <div className="single--service red">
-                <NumberedHeader number="02" title="We also offer" />
-                <h2>We help you with</h2>
-              </div>
-              {relatedServices.map((service, index) => {
-                if (title !== service.title) {
-                  return (
-                    <ServiceCard key={service.title + index} {...service} />
-                  )
-                }
-              })}
+        <section className="section--2 subServices">
+          <div className="grid">
+            <div className="single--service red">
+              <NumberedHeader number="02" title="We also offer" />
+              <h2>We help you with</h2>
             </div>
-          </section>
-        )}
+            {relatedServices.map((service, index) => {
+              if (title !== service.title) {
+                return <ServiceCard key={service.title + index} {...service} />
+              }
+            })}
+          </div>
+        </section>
 
         <section className="section">
           <div className="container flex">
@@ -68,7 +76,23 @@ export const SingleServiceTemplate = ({
             <div className="flex-column one-half" />
           </div>
           <div className="container flex">
-            <div className="one-third">team member</div>
+            {relatedMembers.map((member, index) => (
+              <div key={index + member.title} className="one-third">
+                <TeamCard teamMember={member} />
+              </div>
+            ))}
+          </div>
+        </section>
+
+        <section className="section--4-blog section">
+          <div className="container">
+            <NumberedHeader number="04" title="Blog" />
+            <h2>Related news</h2>
+          </div>
+          <div className="container PostSection--Grid">
+            {posts.map((post, index) => (
+              <PostCard key={post.title + index} {...post} />
+            ))}
           </div>
         </section>
       </article>
@@ -78,7 +102,7 @@ export const SingleServiceTemplate = ({
 
 // Export Default SingleService for front-end
 const SingleService = ({ data, pathContext }) => {
-  const { service, services } = data
+  const { service, services, team, allCategories } = data
 
   return (
     <SingleServiceTemplate
@@ -86,6 +110,14 @@ const SingleService = ({ data, pathContext }) => {
       {...service.frontmatter}
       body={service.html}
       services={services.edges.map(edge => ({
+        ...edge.node.frontmatter,
+        ...edge.node.fields
+      }))}
+      team={team.edges.map(edge => ({
+        ...edge.node.frontmatter,
+        ...edge.node.fields
+      }))}
+      posts={posts.edges.map(edge => ({
         ...edge.node.frontmatter,
         ...edge.node.fields
       }))}
@@ -126,7 +158,54 @@ export const pageQuery = graphql`
             featuredImage {
               ...MediumImage
             }
+            categories {
+              category
+            }
             parentService
+          }
+        }
+      }
+    }
+    team: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "team" } } }
+      sort: { order: ASC, fields: [frontmatter___order] }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            subtitle
+            categories {
+              category
+            }
+            featuredImage {
+              ...MediumImage
+            }
+          }
+        }
+      }
+    }
+    posts: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "posts" } } }
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            excerpt
+            categories {
+              category
+            }
+            featuredImage {
+              ...MediumImage
+            }
           }
         }
       }
