@@ -11,6 +11,8 @@ icon: /images/uploads/business-advisory--icon.svg
 order: 1
 ---
 
+##Create Graphic of Below Table
+
 Our advisory team deliver a broad range of services from creating strategic business plans, Virtual Chief Financial Officer (VCFO), cashflow management, forecasting, monthly reporting and cover all aspects of accounting and financial functions.
 
 Our team of dedicated experts work alongside business owners, accounts teams and business managers to deliver the knowledge and confidence to help you make the right decisions. Our approach is highly flexible and we can provide a supporting role to existing teams or offer completely outsourced CFO services.
