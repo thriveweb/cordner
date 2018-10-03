@@ -2,14 +2,37 @@
 template: SingleService
 slug: our-services/taxation-and-compliance
 title: Taxation and Compliance
+subtitle: Cordner Advisory are your trusted team for all taxation reporting and compliance obligations
 status: Featured
 categories:
   - category: Taxation and Compliance
 featuredImage: /images/uploads/tax--image.jpg
 icon: /images/uploads/taxation-advisory--icon.svg
-order: 3
+order: 2
 ---
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language. Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website.
+State and federal regulations are just a few of the many challenges that Cordner Advisory tax accountants are here to navigate for you. Our committed team stay at the forefront of all developments in the field so you are completely informed when it comes to:
 
-This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+- Business Activity Statements
+- Company Secretarial/ASIC Obligations
+- Financial Statements
+- GST Management
+- Superannuation obligations
+- QBCC Compliance
+- Income Tax
+- Capital Gains Tax
+- Payroll Tax
+- Fringe Benefits Tax
+- Land Tax
+- Transfer Duty
+
+## Taxation and compliance services are required in every stage in the lifecycle of any business.
+
+Starting Out  
+Let’s say you are just starting out and need advice on matters such as structuring for most appropriate entity to operate from, application of required ATO registrations, employee share schemes, or even government grant opportunities and lodgements, then we can assist.
+
+Business Maturation  
+As you continue in your business journey we deliver advice including ongoing tax obligations, FBT, transfer duty, state taxes, required audits, year tax planning, shareholder reporting and ASIC obligations and so on.
+
+Exit Planning  
+If the time has arrived to exit your business we can assist with valuations, related tax implications, and assist you to maximise your sale prospects and proceeds by employing strategies to add value to your business and get you sale-ready.

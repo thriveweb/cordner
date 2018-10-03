@@ -1,6 +1,6 @@
 ---
 template: SingleService
-slug: our-services/export-marketing-development-grants
+slug: our-services/rd-grants-and-taxation-entitlements/export-marketing-development-grants
 title: Export marketing development grants
 subtitle: This is placeholder text that our web designers
 status: Published

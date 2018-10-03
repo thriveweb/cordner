@@ -2,15 +2,19 @@
 template: SingleService
 slug: our-services/rd-grants-and-taxation-entitlements
 title: R&D, Grants and Taxation Entitlements
+subtitle: We work with you to map your innovation journey, identify eligible activities and strategically plan for maximum returns.
 status: Featured
 categories:
   - category: R&D, Grants and Taxation Entitlements
 
 featuredImage: /images/uploads/rd--image.jpg
 icon: /images/uploads/rd-advisory--icon.svg
-order: 4
+parentService: R&D, Grants and Taxation Entitlements
+order: 3
 ---
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language. Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website.
+Cordner Advisory help identify state and federal government funding opportunities for business just like yours and we have extensive experience preparing grant, incentives and entitlement applications.​
 
-This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+​Government grant and funding opportunities are in many cases deemed to be an entitlement or subject to a competitive grants program. Common grants/entitlements for businesses include ​Export Marketing Development Grant (EMDG)​, ​Research and Development (R&D) Tax Incentive​ and Innovation Grants​.
+
+If you meet the relevant eligibility criteria you will receive the entitlements or be assessed amongst competitors for suitability.

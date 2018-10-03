@@ -1,6 +1,5 @@
 ---
 template: BlogIndex
-title: Key Industries
-subtitle: ''
+title: Technology and Startups
 featuredImage: /images/uploads/wade-meng-381499.jpg
 ---

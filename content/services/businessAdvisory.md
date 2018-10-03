@@ -5,12 +5,23 @@ status: Featured
 categories:
   - category: Business Advisory
 title: Business Advisory
-subtitle: This is placeholder text that our web designers
+subtitle: Our Business Advisory Team help businesses just like yours to reach their full potential
 featuredImage: /images/uploads/business-advisory.jpg
 icon: /images/uploads/business-advisory--icon.svg
 order: 1
 ---
 
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language. Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website.
+Our advisory team deliver a broad range of services from creating strategic business plans, Virtual Chief Financial Officer (VCFO), cashflow management, forecasting, monthly reporting and cover all aspects of accounting and financial functions.
 
-This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+Our team of dedicated experts work alongside business owners, accounts teams and business managers to deliver the knowledge and confidence to help you make the right decisions. Our approach is highly flexible and we can provide a supporting role to existing teams or offer completely outsourced CFO services.
+
+At Cordner Advisory, we
+
+- Provide you with the right information at the right time to make the right decisions
+- Utilise our many years of experience and expertise to compile, interpret and communicate your financial accounts to you in a simple to understand format
+- Design and implement growth strategies through strategic planning
+- Provide advanced benchmarking from extensive knowledge of many industries
+- Deliver on hand business coaching and mentoring
+- ​Help identify warning signs of potential problems or issues that may impact your business profitability
+- Provide up to date accounts and information to assist with monitoring and forecasting of your cashflow and business financial position
+- Detailed explanations and interpretation of how your business is performing from a commercial and financial perspective with absolute clarity
