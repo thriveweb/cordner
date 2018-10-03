@@ -17,7 +17,7 @@ const ServiceCard = ({
     className={`ServiceCard single--service relative ${className}`}
     {...props}
   >
-    <Image className="SingleService--icon" src={icon} alt={title} />
+    {icon && <Image className="SingleService--icon" src={icon} alt={title} />}
     <h3 className="SingleService--title">{title}</h3>
     <Image background src={featuredImage} alt={title} size="cover" />
   </Link>

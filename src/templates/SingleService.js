@@ -23,6 +23,7 @@ export const SingleServiceTemplate = ({
   parentService,
   html,
   services,
+  featuredServices,
   team,
   posts
 }) => {
@@ -31,9 +32,11 @@ export const SingleServiceTemplate = ({
   const relatedServices = services.filter(obj =>
     obj.categories.find(cat => currentCats.includes(cat.category))
   )
-
   const relatedMembers = team.filter(member =>
     member.categories.find(cat => currentCats.includes(cat.category))
+  )
+  const relatedPosts = posts.filter(post =>
+    post.categories.find(cat => currentCats.includes(cat.category))
   )
 
   return (
@@ -44,7 +47,7 @@ export const SingleServiceTemplate = ({
         <section className="section">
           <div className="container flex">
             <div className="flex-column one-half">
-              <NumberedHeader number="01" title="What we offer" />
+              <NumberedHeader number="" title="What we offer" />
               <h3>{subtitle}</h3>
             </div>
             <div className="flex-column one-half">
@@ -53,24 +56,29 @@ export const SingleServiceTemplate = ({
           </div>
         </section>
 
-        <section className="section--2 subServices">
-          <div className="grid">
-            <div className="single--service red">
-              <NumberedHeader number="02" title="We also offer" />
-              <h2>We help you with</h2>
-            </div>
-            {relatedServices.map((service, index) => {
-              if (title !== service.title) {
-                return <ServiceCard key={service.title + index} {...service} />
-              }
-            })}
-          </div>
-        </section>
+        {console.log(parentService)}
 
+        {parentService && (
+          <section className="section--2 subServices">
+            <div className="grid">
+              <div className="single--service red">
+                <NumberedHeader number="" title="We also offer" />
+                <h2>We help you with</h2>
+              </div>
+              {relatedServices.map((service, index) => {
+                if (title !== service.title) {
+                  return (
+                    <ServiceCard key={service.title + index} {...service} />
+                  )
+                }
+              })}
+            </div>
+          </section>
+        )}
         <section className="section">
           <div className="container flex">
             <div className="flex-column one-half">
-              <NumberedHeader number="03" title="We help you" />
+              <NumberedHeader number="" title="We help you" />
               <h3>Who heads up this service</h3>
             </div>
             <div className="flex-column one-half" />
@@ -84,14 +92,28 @@ export const SingleServiceTemplate = ({
           </div>
         </section>
 
-        <section className="section--4-blog section">
-          <div className="container">
-            <NumberedHeader number="04" title="Blog" />
-            <h2>Related news</h2>
-          </div>
-          <div className="container PostSection--Grid">
-            {posts.map((post, index) => (
-              <PostCard key={post.title + index} {...post} />
+        {!!relatedPosts.length && (
+          <section className="section--4-blog section grey">
+            <div className="container">
+              <NumberedHeader number="" title="Blog" />
+              <h2>Related news</h2>
+            </div>
+            <div className="container PostSection--Grid">
+              {relatedPosts.map((post, index) => (
+                <PostCard key={post.title + index} {...post} />
+              ))}
+            </div>
+          </section>
+        )}
+
+        <section className="section--2">
+          <div className="grid">
+            <div className="single--service red">
+              <NumberedHeader number="" title="We also offer" />
+              <h2>Other services</h2>
+            </div>
+            {featuredServices.map((service, index) => (
+              <ServiceCard key={service.title + index} {...service} />
             ))}
           </div>
         </section>
@@ -102,7 +124,7 @@ export const SingleServiceTemplate = ({
 
 // Export Default SingleService for front-end
 const SingleService = ({ data, pathContext }) => {
-  const { service, services, team, allCategories } = data
+  const { service, services, featuredServices, team, posts } = data
 
   return (
     <SingleServiceTemplate
@@ -110,6 +132,10 @@ const SingleService = ({ data, pathContext }) => {
       {...service.frontmatter}
       body={service.html}
       services={services.edges.map(edge => ({
+        ...edge.node.frontmatter,
+        ...edge.node.fields
+      }))}
+      featuredServices={featuredServices.edges.map(edge => ({
         ...edge.node.frontmatter,
         ...edge.node.fields
       }))}
@@ -162,6 +188,31 @@ export const pageQuery = graphql`
               category
             }
             parentService
+          }
+        }
+      }
+    }
+    featuredServices: allMarkdownRemark(
+      filter: {
+        fields: { contentType: { eq: "services" } }
+        frontmatter: { status: { regex: "/Featured/i" } }
+      }
+      sort: { order: DESC, fields: [frontmatter___date] }
+      limit: 5
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            icon {
+              ...FluidImage
+            }
+            featuredImage {
+              ...MediumImage
+            }
           }
         }
       }
