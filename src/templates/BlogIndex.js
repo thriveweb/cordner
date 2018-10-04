@@ -26,14 +26,14 @@ export const BlogIndexTemplate = ({
       </Helmet>
 
       <PageHeader title={title} backgroundImage={featuredImage} />
-
+      {/* 
       {!!categories.length && (
         <section className="section thin">
           <div className="container">
             <PostCategoriesNav categories={categories} />
           </div>
         </section>
-      )}
+      )} */}
 
       {!!posts.length && (
         <section className="section">

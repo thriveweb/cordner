@@ -9,7 +9,7 @@ twitter: ''
 linkedin: ''
 email: ''
 
-order: ''
+order: 0
 
 meta:
   canonicalLink: ''
