@@ -35,8 +35,10 @@ export default class Nav extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/our-services/" exact>
-              Our Services
+            <div className="NavLink">
+              <Link to="/our-services/" exact>
+                Our Services
+              </Link>
               <div className="children level-one">
                 <NavLink to="/our-services/business-advisory" exact>
                   Business advisory
@@ -44,12 +46,13 @@ export default class Nav extends Component {
                 <NavLink to="/our-services/taxation-and-compliance" exact>
                   Taxation and compliance
                 </NavLink>
-                <NavLink
-                  className="hasCildren"
-                  to="/our-services/r-d-grants-and-taxation-entitlements"
-                  exact
-                >
-                  R&D grants and taxation entitlements
+                <div className="NavLink hasCildren">
+                  <Link
+                    to="/our-services/r-d-grants-and-taxation-entitlements"
+                    exact
+                  >
+                    R&D grants and taxation entitlements
+                  </Link>
                   <ChevronRight />
                   <div className="children level-two">
                     <NavLink
@@ -72,7 +75,7 @@ export default class Nav extends Component {
                       Government innovation grants
                     </NavLink>
                   </div>
-                </NavLink>
+                </div>
                 <NavLink to="/our-services/private-advisory-services" exact>
                   Private advisory services
                 </NavLink>
@@ -80,12 +83,10 @@ export default class Nav extends Component {
                   Self managed super funds
                 </NavLink>
 
-                <NavLink
-                  className="hasCildren"
-                  to="/our-services/key-industries"
-                  exact
-                >
-                  Key industries
+                <div className="NavLink hasCildren">
+                  <Link to="/our-services/key-industries" exact>
+                    Key industries
+                  </Link>
                   <ChevronRight />
                   <div className="children level-two">
                     <NavLink
@@ -107,9 +108,9 @@ export default class Nav extends Component {
                       Property construction and building services
                     </NavLink>
                   </div>
-                </NavLink>
+                </div>
               </div>
-            </NavLink>
+            </div>
             <NavLink to="/your-advisors/" exact>
               Your Advisors
             </NavLink>
