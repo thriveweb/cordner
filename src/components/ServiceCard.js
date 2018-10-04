@@ -10,6 +10,7 @@ const ServiceCard = ({
   icon,
   featuredImage,
   className = '',
+  parentService,
   ...props
 }) => (
   <Link to={slug} className={`ServiceCard relative ${className}`} {...props}>
