@@ -2,6 +2,7 @@ import React, { Fragment } from 'react'
 
 import PageHeader from '../components/PageHeader'
 import ServicesSection from '../components/ServicesSection'
+import './ServicesIndex.scss'
 
 // Export Template for use in CMS preview
 export const ServicesIndexTemplate = ({
@@ -60,12 +61,8 @@ export const pageQuery = graphql`
     }
 
     services: allMarkdownRemark(
-      filter: {
-        fields: { contentType: { eq: "services" } }
-        frontmatter: { status: { regex: "/Featured/i" } }
-      }
+      filter: { fields: { contentType: { eq: "services" } } }
       sort: { order: ASC, fields: [frontmatter___order] }
-      limit: 5
     ) {
       edges {
         node {
