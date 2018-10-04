@@ -1,12 +1,11 @@
 ---
 template: SingleService
-slug: our-services/rd-grants-and-taxation-entitlements
+slug: our-services/r-d-grants-and-taxation-entitlements
 title: R&D, Grants and Taxation Entitlements
 subtitle: We work with you to map your innovation journey, identify eligible activities and strategically plan for maximum returns.
 status: Featured
 categories:
   - category: R&D, Grants and Taxation Entitlements
-
 featuredImage: /images/uploads/rd--image.jpg
 icon: /images/uploads/rd-advisory--icon.svg
 parentService: R&D, Grants and Taxation Entitlements

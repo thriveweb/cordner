@@ -1,6 +1,6 @@
 ---
 template: SingleService
-slug: our-services/rd-grants-and-taxation-entitlements/export-marketing-development-grants-emdg
+slug: our-services/r-d-grants-and-taxation-entitlements/export-marketing-development-grants-emdg
 title: Export Marketing Development Grants (EMDG)
 subtitle: The EMDG program encourages all small to medium sized Australian businesses to develop export markets.
 status: Published

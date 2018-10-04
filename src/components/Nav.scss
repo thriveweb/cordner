@@ -1,7 +1,7 @@
 .Nav {
   position: absolute;
   top: 0;
-  z-index: 2;
+  z-index: 98;
   width: 100%;
   color: white;
 }
@@ -45,12 +45,53 @@
   border-bottom: 2px solid;
   border-bottom-color: transparent;
   font-size: 16px;
+  position: relative;
 }
 
 .NavLink:hover,
 .NavLink.active,
 .NavLink:focus {
   border-bottom-color: currentColor;
+}
+
+.NavLink.hasCildren {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  svg {
+    width: 20px;
+    height: 15px;
+  }
+}
+
+.NavLink .children {
+  position: absolute;
+  top: 3.5rem;
+  left: 0;
+  width: 250px;
+  text-transform: capitalize;
+  background: var(--brightRed);
+  z-index: 99;
+  display: none;
+}
+
+.NavLink:hover > .children {
+  display: block;
+}
+
+.NavLink .children .NavLink {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  padding: 1rem;
+  &:hover {
+    background: var(--purple);
+  }
+}
+.NavLink .children.level-one {
+}
+.NavLink .children.level-two {
+  position: absolute;
+  top: 0;
+  left: 250px;
 }
 
 .Client--Login {
