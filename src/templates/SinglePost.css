@@ -2,7 +2,13 @@
 }
 
 .SinglePost--BackgroundImage {
-  height: 50rem;
+  height: 40rem;
+  background: var(--purple);
+}
+
+.SinglePost--BackgroundImage .gatsby-image-outer-wrapper {
+  opacity: 0.3;
+  background-blend-mode: multiply;
 }
 
 .SinglePost--BackButton {
@@ -28,7 +34,7 @@
 
 .SinglePost--Content {
   background: white;
-  margin-top: 30rem;
+  margin-top: 20rem;
   padding: 8rem 8rem 4rem 8rem;
 }
 
@@ -51,6 +57,7 @@
 .SinglePost--Title {
   text-align: center;
   line-height: 1.2;
+  color: black;
 }
 
 .SinglePost--InnerContent {

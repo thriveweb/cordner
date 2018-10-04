@@ -16,7 +16,8 @@ export const SinglePostTemplate = ({
   body,
   nextPostURL,
   prevPostURL,
-  categories = []
+  categories = [],
+  authors = []
 }) => (
   <article
     className="SinglePost section light"
@@ -37,10 +38,12 @@ export const SinglePostTemplate = ({
     )}
 
     <div className="container skinny">
-      <Link className="SinglePost--BackButton" to="/blog/">
-        <ChevronLeft /> BACK
-      </Link>
       <div className="SinglePost--Content relative">
+        {title && (
+          <h1 className="SinglePost--Title" itemProp="title">
+            {title}
+          </h1>
+        )}
         <div className="SinglePost--Meta">
           {date && (
             <time
@@ -50,6 +53,16 @@ export const SinglePostTemplate = ({
             >
               {_format(date, 'MMMM Do, YYYY')}
             </time>
+          )}
+          {authors && (
+            <Fragment>
+              <span>|</span>
+              {authors.map((obj, index) => (
+                <span key={obj.author} className="SinglePost--Meta--Category">
+                  by {obj.author}
+                </span>
+              ))}
+            </Fragment>
           )}
           {categories && (
             <Fragment>
@@ -64,12 +77,6 @@ export const SinglePostTemplate = ({
             </Fragment>
           )}
         </div>
-
-        {title && (
-          <h1 className="SinglePost--Title" itemProp="title">
-            {title}
-          </h1>
-        )}
 
         <div className="SinglePost--InnerContent">
           <Content source={body} />
@@ -131,6 +138,9 @@ export const pageQuery = graphql`
         date
         categories {
           category
+        }
+        authors {
+          author
         }
         featuredImage {
           ...FluidImage

@@ -1,13 +1,14 @@
 ---
 template: SinglePost
-title: Hello World!
-status: Featured / Published
-date: '2018-03-27'
+title: Government Innovation Grants
+status: Published
+date: '2018-03-04'
 featuredImage: /images/uploads/our-advisors--banner.jpg
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
 categories:
   - category: News
+  - category: Government Innovation Grants
 meta:
   canonicalLink: ''
   description: ''
@@ -17,7 +18,7 @@ meta:
 
 Paragraphs are separated by a blank line.
 
-![Test Image](/images/uploads/vyouw5byhlc.jpeg)
+![Test Image](/images/uploads/our-advisors--banner.jpg)
 
 The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
 
@@ -40,7 +41,7 @@ The second paragraph. This is placeholder text that our web designers put here t
 
 ## Heading 2
 
-# Heading 1
+
 
 ## Heading 2
 
