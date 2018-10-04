@@ -9,6 +9,8 @@ excerpt: >-
 categories:
   - category: News
   - category: Private Advisory Services
+authors:
+  - author: Jarrad Young
 meta:
   canonicalLink: ''
   description: ''

@@ -9,6 +9,8 @@ excerpt: >-
 categories:
   - category: News
   - category: Property, Construction and Building Services
+authors:
+  - author: Jarrad Young
 meta:
   canonicalLink: ''
   description: ''

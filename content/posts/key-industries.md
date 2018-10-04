@@ -9,6 +9,8 @@ excerpt: >-
 categories:
   - category: News
   - category: Key Industries
+authors:
+  - author: Elsa Howarth
 meta:
   canonicalLink: ''
   description: ''

@@ -9,6 +9,8 @@ excerpt: >-
 categories:
   - category: News
   - category: Business Advisory
+authors:
+  - author: Anne Turner
 meta:
   canonicalLink: ''
   description: ''
@@ -40,8 +42,6 @@ The second paragraph. This is placeholder text that our web designers put here t
 > if you like.
 
 ## Heading 2
-
-
 
 ## Heading 2
 

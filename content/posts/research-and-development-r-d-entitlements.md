@@ -9,6 +9,8 @@ excerpt: >-
 categories:
   - category: News
   - category: Research and Development (R&D) Entitlements
+authors:
+  - author: Jason Cordner
 meta:
   canonicalLink: ''
   description: ''

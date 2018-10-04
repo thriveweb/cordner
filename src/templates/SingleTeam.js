@@ -16,15 +16,16 @@ export const SingleTeamTemplate = ({
   html,
   mainImage,
   categories,
+  authors,
   position,
   twitter,
   linkedin,
   email,
   posts
 }) => {
-  const currentCats = categories.map(obj => obj.category)
+  const currentPerson = title
   const relatedPosts = posts.filter(post =>
-    post.categories.find(cat => currentCats.includes(cat.category))
+    post.authors.find(cat => currentPerson.includes(cat.author))
   )
   return (
     <main className="SingleTeam">
@@ -144,6 +145,9 @@ export const pageQuery = graphql`
             excerpt
             categories {
               category
+            }
+            authors {
+              author
             }
             featuredImage {
               ...MediumImage

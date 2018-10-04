@@ -9,6 +9,8 @@ excerpt: >-
 categories:
   - category: News
   - category: R&D, Grants and Taxation Entitlements
+authors:
+  - author: Jason Cordner
 meta:
   canonicalLink: ''
   description: ''

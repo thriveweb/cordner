@@ -9,6 +9,8 @@ excerpt: >-
 categories:
   - category: News
   - category: Self Managed Super Funds
+authors:
+  - author: Jason Cordner
 meta:
   canonicalLink: ''
   description: ''

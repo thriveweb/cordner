@@ -9,6 +9,8 @@ excerpt: >-
 categories:
   - category: News
   - category: Technology and Startups
+authors:
+  - author: Tony Cordner
 meta:
   canonicalLink: ''
   description: ''

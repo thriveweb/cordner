@@ -9,6 +9,8 @@ excerpt: >-
 categories:
   - category: News
   - category: Government Innovation Grants
+authors:
+  - author: Elsa Howarth
 meta:
   canonicalLink: ''
   description: ''
@@ -40,8 +42,6 @@ The second paragraph. This is placeholder text that our web designers put here t
 > if you like.
 
 ## Heading 2
-
-
 
 ## Heading 2
 

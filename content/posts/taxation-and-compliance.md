@@ -9,6 +9,8 @@ excerpt: >-
 categories:
   - category: News
   - category: Taxation and Compliance
+authors:
+  - author: Tony Cordner
 meta:
   canonicalLink: ''
   description: ''
