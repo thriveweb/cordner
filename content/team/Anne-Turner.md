@@ -7,7 +7,7 @@ featuredImage: /images/uploads/team-member--7.jpg
 categories:
   - category: Business Advisory
   - category: Self Managed Super Funds
-  - category: Private Advisory
+  - category: Key Industries
 order: 7
 ---
 
