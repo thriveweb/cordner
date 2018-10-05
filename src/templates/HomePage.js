@@ -77,9 +77,10 @@ export const HomePageTemplate = ({
           <NumberedHeader number="02" title="Our Services" />
           <h2>{section2.title}</h2>
         </div>
-        {services.map((service, index) => (
-          <ServiceCard key={service.title + index} {...service} />
-        ))}
+        {!!services &&
+          services.map((service, index) => (
+            <ServiceCard key={service.title + index} {...service} />
+          ))}
       </div>
     </section>
 
@@ -116,9 +117,10 @@ export const HomePageTemplate = ({
         <Button link={section4.button.link} title={section4.button.label} />
       </div>
       <div className="container PostSection--Grid">
-        {posts.map((post, index) => (
-          <PostCard key={post.title + index} {...post} />
-        ))}
+        {!!posts &&
+          posts.map((post, index) => (
+            <PostCard key={post.title + index} {...post} />
+          ))}
       </div>
     </section>
 
