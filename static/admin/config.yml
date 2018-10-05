@@ -340,6 +340,7 @@ collections:
             fields:
               - {name: title, label: title, widget: string}
               - {name: subtitle, label: subtitle, widget: string}
+              - {name: excerpt, label: excerpt, widget: text}
               - name: button
                 label: button
                 widget: object
@@ -348,6 +349,7 @@ collections:
                   - {name: link, label: Link, widget: string}
           - {label: phone, name: phone, widget: string}
           - {label: email, name: email, widget: string}
+          - {label: address, name: address, widget: string}
           - {label: subscribeFormTitle, name: subscribeFormTitle, widget: string}
           - label: Social Media Card
             name: socialMediaCard

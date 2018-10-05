@@ -18,9 +18,9 @@ export default ({ globalSettings = {}, ...props }) => {
     <Fragment>
       <section className="section--6-contact relative">
         <ContactSection
-          image={banner.image}
           title={banner.title}
           subtitle={banner.subtitle}
+          content={banner.excerpt}
           link={banner.button.link}
           buttonText={banner.button.label}
         />

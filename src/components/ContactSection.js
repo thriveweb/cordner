@@ -5,9 +5,14 @@ import Image from './Image'
 
 import './ContactSection.scss'
 
-export default ({ image, title, subtitle, content, link, buttonText }) => (
+export default ({ title, subtitle, content, link, buttonText }) => (
   <div className="ContactSection container">
-    <Image background src={image} alt={title} size="cover" />
+    <Image
+      background
+      src="/images/uploads/contact--banner.jpg"
+      alt={title}
+      size="cover"
+    />
     <div className="container">
       <h2>{title}</h2>
       <h3>{subtitle}</h3>
