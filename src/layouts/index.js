@@ -65,13 +65,14 @@ export const query = graphql`
         }
         title
         subtitle
-        image
       }
       phone
       email
       address
       socialMediaCard {
-        image
+        image {
+          ...FluidImage
+        }
         twitter
         facebook
         linkedin
