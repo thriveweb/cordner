@@ -1,6 +1,6 @@
 ---
 template: SingleService
-slug: our-services/self-managed-super-funds
+slug: services/self-managed-super-funds
 title: Self Managed Super Funds
 subtitle: Take control of your future on your terms with a Self Managed Super Fund
 status: Featured

@@ -1,6 +1,6 @@
 ---
 template: SingleService
-slug: our-services/taxation-and-compliance
+slug: services/taxation-and-compliance
 title: Taxation and Compliance
 subtitle: Cordner Advisory are your trusted team for all taxation reporting and compliance obligations
 status: Featured

@@ -40,15 +40,15 @@ export default class Nav extends Component {
                 Our Services
               </Link>
               <div className="children level-one">
-                <NavLink to="/our-services/business-advisory" exact>
+                <NavLink to="/services/business-advisory" exact>
                   Business advisory
                 </NavLink>
-                <NavLink to="/our-services/taxation-and-compliance" exact>
+                <NavLink to="/services/taxation-and-compliance" exact>
                   Taxation and compliance
                 </NavLink>
                 <div className="NavLink hasCildren">
                   <Link
-                    to="/our-services/r-d-grants-and-taxation-entitlements"
+                    to="/services/r-d-grants-and-taxation-entitlements"
                     exact
                   >
                     R&D grants and taxation entitlements
@@ -56,53 +56,44 @@ export default class Nav extends Component {
                   <ChevronRight />
                   <div className="children level-two">
                     <NavLink
-                      to="/our-services/r-d-grants-and-taxation-entitlements/research-and-development-r-d-entitlements"
+                      to="/services/research-and-development-r-d-entitlements"
                       exact
                     >
                       Research and development R&D entitlements
                     </NavLink>
                     <NavLink
-                      to="/our-services/r-d-grants-and-taxation-entitlements/export-marketing-development-grants-emdg"
+                      to="/services/export-marketing-development-grants-emdg"
                       exact
                     >
                       Export marketing development grants (emdg)
                     </NavLink>
 
-                    <NavLink
-                      to="/our-services/r-d-grants-and-taxation-entitlements/government-innovation-grants"
-                      exact
-                    >
+                    <NavLink to="/services/government-innovation-grants" exact>
                       Government innovation grants
                     </NavLink>
                   </div>
                 </div>
-                <NavLink to="/our-services/private-advisory-services" exact>
+                <NavLink to="/services/private-advisory-services" exact>
                   Private advisory services
                 </NavLink>
-                <NavLink to="/our-services/self-managed-super-funds" exact>
+                <NavLink to="/services/self-managed-super-funds" exact>
                   Self managed super funds
                 </NavLink>
 
                 <div className="NavLink hasCildren">
-                  <Link to="/our-services/key-industries" exact>
+                  <Link to="/services/key-industries" exact>
                     Key industries
                   </Link>
                   <ChevronRight />
                   <div className="children level-two">
-                    <NavLink
-                      to="/our-services/key-industries/childcare-centre-services"
-                      exact
-                    >
+                    <NavLink to="/services/childcare-centre-services" exact>
                       Childcare centre services
                     </NavLink>
-                    <NavLink
-                      to="/our-services/key-industries/technology-and-startups"
-                      exact
-                    >
+                    <NavLink to="/services/technology-and-startups" exact>
                       Technology and startups
                     </NavLink>
                     <NavLink
-                      to="/our-services/key-industries/property-construction-and-building-services"
+                      to="/services/property-construction-and-building-services"
                       exact
                     >
                       Property construction and building services
@@ -111,7 +102,7 @@ export default class Nav extends Component {
                 </div>
               </div>
             </div>
-            <NavLink to="/your-advisors/" exact>
+            <NavLink to="/yadvisors/" exact>
               Your Advisors
             </NavLink>
             <NavLink to="/blog/" exact>
