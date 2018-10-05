@@ -1,15 +1,13 @@
 ---
 template: SingleService
-slug: our-services/business-advisory
+title: Business Advisory
 status: Featured
+order: 1
+featuredImage: /images/uploads/business-advisory.jpg
+icon: /images/uploads/business-advisory--icon.svg
+contentImage: /images/uploads/chart.jpg
 categories:
   - category: Business Advisory
-title: Business Advisory
-subtitle: Our Business Advisory Team help businesses just like yours to reach their full potential
-featuredImage: /images/uploads/business-advisory.jpg
-conentImage: /images/uploads/business-advisory.jpg
-icon: /images/uploads/business-advisory--icon.svg
-order: 1
 ---
 
 ## Create Graphic of Below Table
