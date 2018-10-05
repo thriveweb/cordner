@@ -21,23 +21,34 @@ export const SingleServiceTemplate = ({
   featuredImage,
   categories,
   parentService,
-  html,
+  body,
   services,
   featuredServices,
   team,
   posts
 }) => {
-  const currentCats = categories.map(obj => obj.category)
-
-  const relatedServices = services.filter(obj =>
-    obj.categories.find(cat => currentCats.includes(cat.category))
-  )
-  const relatedMembers = team.filter(member =>
-    member.categories.find(cat => currentCats.includes(cat.category))
-  )
-  const relatedPosts = posts.filter(post =>
-    post.categories.find(cat => currentCats.includes(cat.category))
-  )
+  let currentCats = []
+  let relatedServices = []
+  let relatedMembers = []
+  let relatedPosts = []
+  if (!!categories) {
+    currentCats = categories.map(obj => obj.category)
+  }
+  if (!!services) {
+    relatedServices = services.filter(obj =>
+      obj.categories.find(cat => currentCats.includes(cat.category))
+    )
+  }
+  if (!!team) {
+    relatedMembers = team.filter(member =>
+      member.categories.find(cat => currentCats.includes(cat.category))
+    )
+  }
+  if (posts) {
+    relatedPosts = posts.filter(post =>
+      post.categories.find(cat => currentCats.includes(cat.category))
+    )
+  }
 
   return (
     <Fragment>
@@ -51,7 +62,7 @@ export const SingleServiceTemplate = ({
               <h3>{subtitle}</h3>
             </div>
             <div className="flex-column one-half">
-              <Content source={html} />
+              <Content source={body} />
             </div>
           </div>
         </section>
@@ -63,13 +74,14 @@ export const SingleServiceTemplate = ({
                 <NumberedHeader number="" title="We also offer" />
                 <h2>We help you with</h2>
               </div>
-              {relatedServices.map((service, index) => {
-                if (title !== service.title) {
-                  return (
-                    <ServiceCard key={service.title + index} {...service} />
-                  )
-                }
-              })}
+              {!!relatedServices &&
+                relatedServices.map((service, index) => {
+                  if (title !== service.title) {
+                    return (
+                      <ServiceCard key={service.title + index} {...service} />
+                    )
+                  }
+                })}
             </div>
           </section>
         )}
@@ -82,15 +94,16 @@ export const SingleServiceTemplate = ({
             <div className="flex-column one-half" />
           </div>
           <div className="container flex">
-            {relatedMembers.map((member, index) => (
-              <div key={index + member.title} className="one-third">
-                <TeamCard teamMember={member} />
-              </div>
-            ))}
+            {!!relatedMembers &&
+              relatedMembers.map((member, index) => (
+                <div key={index + member.title} className="one-third">
+                  {!!member && <TeamCard teamMember={member} />}
+                </div>
+              ))}
           </div>
         </section>
 
-        {!!relatedPosts.length && (
+        {!!relatedPosts && (
           <section className="section relatedPosts">
             <div className="container">
               <NumberedHeader number="" title="Blog" />
@@ -110,11 +123,17 @@ export const SingleServiceTemplate = ({
             <h3>Other services</h3>
           </div>
           <div className="grid">
-            {featuredServices.map((service, index) => {
-              if (title !== service.title && parentService !== service.title) {
-                return <ServiceCard key={service.title + index} {...service} />
-              }
-            })}
+            {!!featuredServices &&
+              featuredServices.map((service, index) => {
+                if (
+                  title !== service.title &&
+                  parentService !== service.title
+                ) {
+                  return (
+                    <ServiceCard key={service.title + index} {...service} />
+                  )
+                }
+              })}
           </div>
         </section>
       </article>

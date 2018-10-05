@@ -57,23 +57,31 @@ export const SinglePostTemplate = ({
           {authors && (
             <Fragment>
               <span>|</span>
-              {authors.map((obj, index) => (
-                <span key={obj.author} className="SinglePost--Meta--Category">
-                  by {obj.author}
-                </span>
-              ))}
+              {!!authors &&
+                authors.map((obj, index) => (
+                  <span
+                    key={index + obj.author}
+                    className="SinglePost--Meta--Category"
+                  >
+                    by {obj.author}
+                  </span>
+                ))}
             </Fragment>
           )}
           {categories && (
             <Fragment>
               <span>|</span>
-              {categories.map((cat, index) => (
-                <span key={cat.category} className="SinglePost--Meta--Category">
-                  {cat.category}
-                  {/* Add a comma on all but last category */}
-                  {index !== categories.length - 1 ? ',' : ''}
-                </span>
-              ))}
+              {!!categories &&
+                categories.map((cat, index) => (
+                  <span
+                    key={index + cat.category}
+                    className="SinglePost--Meta--Category"
+                  >
+                    {cat.category}
+                    {/* Add a comma on all but last category */}
+                    {index !== categories.length - 1 ? ',' : ''}
+                  </span>
+                ))}
             </Fragment>
           )}
         </div>

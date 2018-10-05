@@ -7,6 +7,8 @@ import { AdvisorsPageTemplate } from '../templates/AdvisorsPage'
 import { ContactPageTemplate } from '../templates/ContactPage'
 import { BlogIndexTemplate } from '../templates/BlogIndex'
 import { SinglePostTemplate } from '../templates/SinglePost'
+import { SingleServiceTemplate } from '../templates/SingleService'
+import { SingleTeamTemplate } from '../templates/SingleTeam'
 
 if (
   window.location.hostname === 'localhost' &&
@@ -22,7 +24,7 @@ if (
 CMS.registerPreviewTemplate('home-page', ({ entry }) => (
   <HomePageTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('about-page', ({ entry }) => (
+CMS.registerPreviewTemplate('advisors-page', ({ entry }) => (
   <AdvisorsPageTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
@@ -33,4 +35,10 @@ CMS.registerPreviewTemplate('blog-page', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('posts', ({ entry }) => (
   <SinglePostTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('services', ({ entry }) => (
+  <SingleServiceTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('team', ({ entry }) => (
+  <SingleTeamTemplate {...entry.toJS().data} />
 ))

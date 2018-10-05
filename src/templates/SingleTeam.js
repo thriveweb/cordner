@@ -13,7 +13,7 @@ import './SingleTeam.scss'
 export const SingleTeamTemplate = ({
   title,
   subtitle,
-  html,
+  body,
   mainImage,
   categories,
   authors,
@@ -23,10 +23,16 @@ export const SingleTeamTemplate = ({
   email,
   posts
 }) => {
-  const currentPerson = title
-  const relatedPosts = posts.filter(post =>
-    post.authors.find(cat => currentPerson.includes(cat.author))
-  )
+  let currentPerson = []
+  let relatedPosts = []
+  if (!!title) {
+    currentPerson = title
+  }
+  if (!!posts) {
+    relatedPosts = posts.filter(post =>
+      post.authors.find(cat => currentPerson.includes(cat.author))
+    )
+  }
   return (
     <main className="SingleTeam">
       <Helmet>
@@ -42,7 +48,7 @@ export const SingleTeamTemplate = ({
 
             <h2>{title}</h2>
             <p className="big-body">{position}</p>
-            <Content source={html} />
+            <Content source={body} />
 
             <div className="socials">
               <ul>
