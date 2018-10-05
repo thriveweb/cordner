@@ -19,7 +19,7 @@ export const SingleServiceTemplate = ({
   title,
   subtitle,
   featuredImage,
-  conentImage,
+  contentImage,
   categories,
   parentService,
   body,
@@ -61,9 +61,7 @@ export const SingleServiceTemplate = ({
             <div className="flex-column one-half">
               <NumberedHeader number="" title="What we offer" />
               <h3>{subtitle}</h3>
-
-              <Image src={conentImage} als={subtitle} />
-              {console.log(subtitle)}
+              <Image src={contentImage} alt={title} />
             </div>
             <div className="flex-column one-half">
               <Content source={body} />
@@ -188,7 +186,7 @@ export const pageQuery = graphql`
         featuredImage {
           ...FluidImage
         }
-        conentImage {
+        contentImage {
           ...FluidImage
         }
         categories {
