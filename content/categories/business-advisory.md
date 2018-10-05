@@ -1,5 +1,6 @@
 ---
 template: BlogIndex
 title: Business Advisory
-featuredImage: /images/uploads/wade-meng-381499.jpg
+featuredImage: /images/uploads/blog-post--1.jpg
 ---
+
