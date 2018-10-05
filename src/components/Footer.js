@@ -21,7 +21,6 @@ export default ({ globalSettings = {}, ...props }) => {
           image={banner.image}
           title={banner.title}
           subtitle={banner.subtitle}
-          content={banner.excerpt}
           link={banner.button.link}
           buttonText={banner.button.label}
         />

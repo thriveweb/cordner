@@ -63,7 +63,6 @@ export const query = graphql`
           label
           link
         }
-        excerpt
         title
         subtitle
         image
