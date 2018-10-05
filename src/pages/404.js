@@ -5,11 +5,11 @@ import _get from 'lodash/get'
 import AlertTriangle from 'react-feather/dist/icons/alert-triangle'
 
 const NotFoundPage = ({ data }) => (
-  <main>
+  <main className="fourOfour">
     <Helmet>
       <title>404 – Page Not Found</title>
     </Helmet>
-    <section className="section thick">
+    <section className="section thick dark ">
       <div className="container skinny taCenter">
         <p>
           <AlertTriangle size="5rem" />

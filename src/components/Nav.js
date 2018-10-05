@@ -102,7 +102,7 @@ export default class Nav extends Component {
                 </div>
               </div>
             </div>
-            <NavLink to="/yadvisors/" exact>
+            <NavLink to="/your-advisors/" exact>
               Your Advisors
             </NavLink>
             <NavLink to="/blog/" exact>
