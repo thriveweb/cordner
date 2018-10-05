@@ -114,7 +114,11 @@ export default class Nav extends Component {
 
             <div className="Client--Login">
               <img src="/images/uploads/login-icon.svg" alt="login icon" />
-              <p>Client login</p>
+              <p>
+                <Link to="https://cordner.acclipse.com/clientportal/">
+                  Client login
+                </Link>
+              </p>
             </div>
           </div>
           <button
