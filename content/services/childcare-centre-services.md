@@ -1,16 +1,15 @@
 ---
 template: SingleService
-slug: our-services/key-industries/childcare-centre-services
 title: Childcare Centre Services
-subtitle: We are here to help you take your Childcare Service to a new level
 status: Published
-categories:
-  - category: Key Industries
-  - category: Childcare Centre Services
+order: 10
 featuredImage: /images/uploads/business-advisory.jpg
 icon: /images/uploads/business-advisory--icon.svg
 parentService: Key Industries
-order: 10
+contentImage: /images/uploads/chart.jpg
+categories:
+  - category: Key Industries
+  - category: Childcare Centre Services
 ---
 
 Cordner Advisorys’ Directors have been advising ChildCare Centres for many years. We have worked with numerous Childcare Services (both private and public) nationally and we have extensive experience in all stages of a ChildCare Services lifecycle.
