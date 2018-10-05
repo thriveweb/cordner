@@ -195,7 +195,7 @@ collections:
         default: 'Published'
       - {label: Date / Order, name: date, widget: date}
       - {label: Featured Image, name: featuredImage, widget: image}
-      - {label: Excerpt, name: excerpt, widget: text, pattern: [".{,150}", "Must not exceed 300 characters"]}
+      - {label: Excerpt, name: excerpt, widget: text}
       - {label: Content, name: body, widget: markdown}
       - label: "Categories"
         name: "categories"
