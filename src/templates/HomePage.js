@@ -128,7 +128,7 @@ export const HomePageTemplate = ({
           <NumberedHeader number="05" title="Testimonials" />
           <h3>{section5.title}</h3>
         </div>
-        <Testimonials testimonials={testimonials} />
+        {!!testimonials && <Testimonials testimonials={testimonials} />}
       </div>
     </section>
   </main>

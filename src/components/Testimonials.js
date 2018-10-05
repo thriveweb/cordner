@@ -36,7 +36,7 @@ export default ({ testimonials = [] }) => {
     <div className="Testimonials">
       <Swiper {...params}>
         {testimonials.map((testimonial, index) => (
-          <div key={testimonial.company + index} className="slide">
+          <div key={index + testimonial.author.company} className="slide">
             <h3>"</h3>
             <p>{testimonial.quote}</p>
             <div className="quote">
