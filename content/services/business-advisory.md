@@ -1,6 +1,7 @@
 ---
 template: SingleService
 title: Business Advisory
+subtitle: Our Business Advisory Team help businesses just like yours to reach their full potential
 status: Featured
 order: 1
 featuredImage: /images/uploads/business-advisory.jpg

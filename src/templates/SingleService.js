@@ -63,6 +63,7 @@ export const SingleServiceTemplate = ({
               <h3>{subtitle}</h3>
 
               <Image src={conentImage} als={subtitle} />
+              {console.log(subtitle)}
             </div>
             <div className="flex-column one-half">
               <Content source={body} />

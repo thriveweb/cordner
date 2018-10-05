@@ -237,6 +237,7 @@ collections:
     fields: # The fields each document in this collection have
       - {label: Template, name: template, widget: hidden, default: SingleService}
       - {label: Title, name: title, widget: string}
+      - {label: Subtitle, name: subtitle, widget: string}
       - label: 'Status'
         name: 'status'
         widget: 'select'
