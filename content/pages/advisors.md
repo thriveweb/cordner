@@ -12,12 +12,13 @@ section1:
     technology companies and startups, childcare,medical/health, construction
     and property. Cordner Advisorydelivers experienced senior big firm
     specialist skills with localcare and attention.
-  rightTitle: Versatile financial solutions for everyone
+  rightTitle: Versatile financial solutions for everyone.
   title: Delivering trustworthy financial solutions since 1981
 section2:
   button:
     label: Know More
     link: /our-services/
-  title: Browse our services
   subtitle: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.
+  title: Browse our services
 ---
+
