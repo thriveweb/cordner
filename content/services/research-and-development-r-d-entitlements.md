@@ -1,6 +1,6 @@
 ---
 template: SingleService
-slug: our-services/r-d-grants-and-taxation-entitlements/research-and-development-r-d-entitlements
+slug: services/research-and-development-r-d-entitlements
 title: Research and Development (R&D) Entitlements
 subtitle: The Australian Government is supportive of industry Research and Development and will provide to your business a substantial refundable tax offset for eligible activities.
 status: Published

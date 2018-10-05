@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Export Marketing Development Grants (EMDG)
-slug: /our-services/r-d-grants-and-taxation-entitlements/export-marketing-development-grants-emdg
+slug: services/export-marketing-development-grants-emdg
 status: Published
 order: 5
 featuredImage: /images/uploads/rd--image.jpg

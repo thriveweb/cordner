@@ -1,6 +1,6 @@
 ---
 template: SingleService
-slug: our-services/r-d-grants-and-taxation-entitlements/government-innovation-grants
+slug: services/government-innovation-grants
 title: Government Innovation Grants
 subtitle: The Australian Government (Federal and State) provide a significant number of Grants relating to Innovation
 status: Published

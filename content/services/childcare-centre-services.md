@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Childcare Centre Services
-slug: our-services/childcare-centre-services
+slug: services/childcare-centre-services
 status: Published
 order: 10
 featuredImage: /images/uploads/business-advisory.jpg

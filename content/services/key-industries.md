@@ -1,6 +1,6 @@
 ---
 template: SingleService
-slug: our-services/key-industries
+slug: services/key-industries
 title: Key Industries
 subtitle: Cordner Advisory provide services to all industries, however, we have developed industry specific levels capabilities
 status: Featured

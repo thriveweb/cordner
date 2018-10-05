@@ -1,6 +1,6 @@
 ---
 template: SingleService
-slug: our-services/key-industries/technology-and-startups
+slug: services/key-industries/technology-and-startups
 title: Technology and Startups
 subtitle: Do you have an idea or new b usiness concept?
 status: Published
