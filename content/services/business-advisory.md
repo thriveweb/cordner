@@ -5,7 +5,7 @@ status: Featured
 order: 1
 featuredImage: /images/uploads/business-advisory.jpg
 icon: /images/uploads/business-advisory--icon.svg
-contentImage: /images/uploads/chart.jpg
+contentImage: /images/uploads/business-advisory.jpg
 categories:
   - category: Business Advisory
 ---
