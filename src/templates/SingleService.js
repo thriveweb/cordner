@@ -61,6 +61,7 @@ export const SingleServiceTemplate = ({
             <div className="flex-column one-half">
               <NumberedHeader number="" title="What we offer" />
               <h3>{subtitle}</h3>
+
               <Image src={conentImage} als={subtitle} />
             </div>
             <div className="flex-column one-half">

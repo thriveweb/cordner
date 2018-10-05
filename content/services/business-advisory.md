@@ -7,6 +7,7 @@ categories:
 title: Business Advisory
 subtitle: Our Business Advisory Team help businesses just like yours to reach their full potential
 featuredImage: /images/uploads/business-advisory.jpg
+conentImage: /images/uploads/business-advisory.jpg
 icon: /images/uploads/business-advisory--icon.svg
 order: 1
 ---
