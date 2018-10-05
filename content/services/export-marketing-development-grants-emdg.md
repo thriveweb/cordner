@@ -1,16 +1,15 @@
 ---
 template: SingleService
-slug: our-services/r-d-grants-and-taxation-entitlements/export-marketing-development-grants-emdg
 title: Export Marketing Development Grants (EMDG)
-subtitle: The EMDG program encourages all small to medium sized Australian businesses to develop export markets.
 status: Published
-categories:
-  - category: R&D, Grants and Taxation Entitlements
-  - category: Export Marketing Development Grants (EMDG)
+order: 5
 featuredImage: /images/uploads/rd--image.jpg
 icon: /images/uploads/rd-advisory--icon.svg
-parentService: R&D, Grants and Taxation Entitlements
-order: 5
+parentService: 'R&D, Grants and Taxation Entitlements'
+contentImage: /images/uploads/chart.jpg
+categories:
+  - category: 'R&D, Grants and Taxation Entitlements'
+  - category: Export Marketing Development Grants (EMDG)
 ---
 
 An annual reimbursement up to 50% will be provided for expenses incurred on export promotional activities in each financial year. Typical of all grant programs there are conditions to be met, some of which are listed below;
