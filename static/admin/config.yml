@@ -339,7 +339,7 @@ collections:
             widget: object
             fields:
               - {name: title, label: title, widget: string}
-              - {name: excerpt, label: excerpt, widget: string}
+              - {name: subtitle, label: subtitle, widget: string}
               - name: button
                 label: button
                 widget: object
