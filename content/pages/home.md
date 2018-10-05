@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: When growing your business means more to you than just numbers
+title: When growing your business means more to you than just numbers.
 featuredImage: /images/uploads/home-header--image.jpg
 featureLink:
   label: Let’s talk business
@@ -40,20 +40,25 @@ section5:
 testimonials:
   - author:
       avatar: /images/uploads/business-advisory.jpg
-      name: name herre
       company: Company 1
-    quote: Start a conversation today sed ut perspiciatis unde omnis iste natuserrorsit voluptatem accus
+      name: name herre
+    quote: >-
+      Start a conversation today sed ut perspiciatis unde omnis iste
+      natuserrorsit voluptatem accus
   - author:
       avatar: /images/uploads/business-advisory.jpg
-      name: name herre
       company: Company 2
-    quote: Start a conversation today sed ut perspiciatis unde omnis iste natuserrorsit voluptatem accus
+      name: name herre
+    quote: >-
+      Start a conversation today sed ut perspiciatis unde omnis iste
+      natuserrorsit voluptatem accus
   - author:
       avatar: /images/uploads/business-advisory.jpg
-      name: name herre
       company: Company 3
-    quote: Start a conversation today sed ut perspiciatis unde omnis iste natuserrorsit voluptatem accus
-
+      name: name herre
+    quote: >-
+      Start a conversation today sed ut perspiciatis unde omnis iste
+      natuserrorsit voluptatem accus
 meta:
   canonicalLink: ''
   description: >-
@@ -64,3 +69,4 @@ meta:
   noindex: false
   title: Etiam ac quam eget lectus venenatis ullamcorper
 ---
+
