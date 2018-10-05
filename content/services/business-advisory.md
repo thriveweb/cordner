@@ -1,5 +1,6 @@
 ---
 template: SingleService
+slug: our-services/business-advisory
 title: Business Advisory
 status: Featured
 order: 1
