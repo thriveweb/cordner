@@ -7,6 +7,7 @@ status: Featured
 categories:
   - category: R&D, Grants and Taxation Entitlements
 featuredImage: /images/uploads/rd--image.jpg
+contentImage: /images/uploads/chart.jpg
 icon: /images/uploads/rd-advisory--icon.svg
 parentService: R&D, Grants and Taxation Entitlements
 order: 3

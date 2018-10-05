@@ -7,6 +7,7 @@ status: Featured
 categories:
   - category: Taxation and Compliance
 featuredImage: /images/uploads/tax--image.jpg
+contentImage: /images/uploads/chart.jpg
 icon: /images/uploads/taxation-advisory--icon.svg
 order: 2
 ---

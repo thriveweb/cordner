@@ -8,6 +8,7 @@ categories:
   - category: Key Industries
   - category: Property, Construction and Building Services
 featuredImage: /images/uploads/business-advisory.jpg
+contentImage: /images/uploads/chart.jpg
 icon: /images/uploads/business-advisory--icon.svg
 parentService: Key Industries
 order: 12

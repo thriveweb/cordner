@@ -7,6 +7,7 @@ status: Featured
 categories:
   - category: Key Industries
 featuredImage: /images/uploads/business-advisory.jpg
+contentImage: /images/uploads/chart.jpg
 icon: /images/uploads/business-advisory--icon.svg
 parentService: Key Industries
 order: 9

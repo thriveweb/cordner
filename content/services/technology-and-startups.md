@@ -8,6 +8,7 @@ categories:
   - category: Key Industries
   - category: Technology and Startups
 featuredImage: /images/uploads/business-advisory.jpg
+contentImage: /images/uploads/chart.jpg
 icon: /images/uploads/business-advisory--icon.svg
 parentService: Key Industries
 order: 11

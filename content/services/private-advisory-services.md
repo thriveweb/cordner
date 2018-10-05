@@ -7,6 +7,7 @@ status: Featured
 categories:
   - category: Private Advisory Services
 featuredImage: /images/uploads/private-advisory--image.jpg
+contentImage: /images/uploads/chart.jpg
 icon: /images/uploads/private-advisory--icon.svg
 order: 7
 ---

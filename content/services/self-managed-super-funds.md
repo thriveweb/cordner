@@ -7,6 +7,7 @@ status: Featured
 categories:
   - category: Self Managed Super Funds
 featuredImage: /images/uploads/self-managed--image.jpg
+contentImage: /images/uploads/chart.jpg
 icon: /images/uploads/self-managed--icon.svg
 order: 8
 ---
