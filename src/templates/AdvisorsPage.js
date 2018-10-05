@@ -40,18 +40,19 @@ export const AdvisorsPageTemplate = ({
 
     <section className="TeamSection dark">
       <div className="grid">
-        {team.map((member, index) => (
-          <Link to={member.slug} className="single--team relative">
-            <Image background src={member.featuredImage} size="cover" />
+        {!!team &&
+          team.map((member, index) => (
+            <Link to={member.slug} className="single--team relative">
+              <Image background src={member.featuredImage} size="cover" />
 
-            <div className="sneak-peak color">
-              <div className="sneak-peak--text">
-                <h3>{member.title}</h3>
-                <p>{member.content}</p>
+              <div className="sneak-peak color">
+                <div className="sneak-peak--text">
+                  <h3>{member.title}</h3>
+                  <p>{member.content}</p>
+                </div>
               </div>
-            </div>
-          </Link>
-        ))}
+            </Link>
+          ))}
 
         <div className="services-sneak">
           <div className="container">
