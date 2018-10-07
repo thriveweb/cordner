@@ -1,6 +1,6 @@
 ---
 template: SingleService
-slug: services/key-industries/property-construction-and-building-services
+slug: services/property-construction-and-building-services
 title: Property, Construction and Building Services
 subtitle: Cordner Advisory has an extensive history in providing comprehensive business advisory services and taxation advice to all sectors of the Property and Construction industry.
 status: Published
