@@ -60,14 +60,18 @@ export default ({ globalSettings = {}, ...props }) => {
           <div className="column taRight">
             <h3>Info</h3>
             <ul>
-              <Link to="/our-services/" exact>
-                Our Services
+              <a
+                target="_blank"
+                rel="nofollow"
+                href="https://cordner.acclipse.com/clientportal/"
+              >
+                Client login
+              </a>
+              <Link to="/contact/" exact>
+                Contact
               </Link>
-              <Link to="/your-advisors/" exact>
-                Your Advisors
-              </Link>
-              <Link to="/blog/" exact>
-                Blog
+              <Link to="/privacy/" exact>
+                Privacy
               </Link>
             </ul>
           </div>

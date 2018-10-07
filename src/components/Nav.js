@@ -11,10 +11,8 @@ export default class Nav extends Component {
   }
 
   handleMenuToggle = () => this.setState({ active: !this.state.active })
-
   // Only close nav if it is open
   handleLinkClick = () => this.state.active && this.handleMenuToggle()
-
   render() {
     const { active } = this.state
 
@@ -27,7 +25,6 @@ export default class Nav extends Component {
         {children}
       </Link>
     )
-
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
@@ -115,9 +112,13 @@ export default class Nav extends Component {
             <div className="Client--Login">
               <img src="/images/uploads/login-icon.svg" alt="login icon" />
               <p>
-                <Link to="https://cordner.acclipse.com/clientportal/">
+                <a
+                  target="_blank"
+                  rel="nofollow"
+                  href="https://cordner.acclipse.com/clientportal/"
+                >
                   Client login
-                </Link>
+                </a>
               </p>
             </div>
           </div>

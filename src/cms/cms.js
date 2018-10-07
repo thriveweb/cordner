@@ -9,6 +9,7 @@ import { BlogIndexTemplate } from '../templates/BlogIndex'
 import { SinglePostTemplate } from '../templates/SinglePost'
 import { SingleServiceTemplate } from '../templates/SingleService'
 import { SingleTeamTemplate } from '../templates/SingleTeam'
+import { StandardPageTemplate } from '../templates/StandardPage'
 
 if (
   window.location.hostname === 'localhost' &&
@@ -27,12 +28,16 @@ CMS.registerPreviewTemplate('home-page', ({ entry }) => (
 CMS.registerPreviewTemplate('advisors-page', ({ entry }) => (
   <AdvisorsPageTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
-  <ContactPageTemplate {...entry.toJS().data} />
-))
 CMS.registerPreviewTemplate('blog-page', ({ entry }) => (
   <BlogIndexTemplate {...entry.toJS().data} />
 ))
+CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
+  <ContactPageTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('privacy', ({ entry }) => (
+  <StandardPageTemplate {...entry.toJS().data} />
+))
+
 CMS.registerPreviewTemplate('posts', ({ entry }) => (
   <SinglePostTemplate {...entry.toJS().data} />
 ))
