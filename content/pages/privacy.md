@@ -4,16 +4,13 @@ slug: privacy
 title: Privacy
 featuredImage: /images/uploads/our-advisors--banner.jpg
 ---
-
 **General**
 
 Cordner Advisory Pty Ltd ACN 148 874 640 and its related entities (referred to in this document as ‘**we**’**, ‘us**’ or ‘**our**’) recognises that your privacy is very important and we are committed to protecting the personal information we collect from you. The _Privacy Act 1988_ (Cth) (‘**Privacy Act**’), and the Australian Privacy Principles (‘**APP**’) govern the way in which we must manage your personal information and this policy sets out how we collect, use, disclose and otherwise manage personal information about you.
 
 **Collection**
 
-**Types of information collected**
-
-We may collect and hold personal information about you, that is, information that can identify you, and is relevant to providing you with the services you are seeking. This can include your name, date of birth, contact details (including address, email address, phone number), financial information (such as credit card or bank account numbers) and information about how you use our products and services.
+**Types of information collected. **We may collect and hold personal information about you, that is, information that can identify you, and is relevant to providing you with the services you are seeking. This can include your name, date of birth, contact details (including address, email address, phone number), financial information (such as credit card or bank account numbers) and information about how you use our products and services.
 
 This is not an exhaustive list. We may need to collect additional information about you from time to time to provide products or services to you.
 
@@ -23,11 +20,11 @@ You might also need to provide us with personal information about other individu
 
 The type of personal information that we collect and hold about you depends on your interaction with us. Generally, we will collect, use and hold your personal information for the purposes of:
 
-- providing products or services to you or someone else you know;
-- issuing tax invoices for the products or services we may provide to you from time to time;
-- providing you with information about other services that we, our related entities and other organisations that we have affiliations with, offer that may be of interest to you;
-- facilitating our internal business operations, including the fulfilment of any legal requirements; and
-- analysing our services and customer needs with a view to developing new or improved
+* providing products or services to you or someone else you know;
+* issuing tax invoices for the products or services we may provide to you from time to time;
+* providing you with information about other services that we, our related entities and other organisations that we have affiliations with, offer that may be of interest to you;
+* facilitating our internal business operations, including the fulfilment of any legal requirements; and
+* analysing our services and customer needs with a view to developing new or improved
 
 **Method of collection**
 
@@ -35,10 +32,10 @@ Personal information will generally be collected directly from you through the u
 
 We may also collect information other than directly from you, for example:
 
-- from third parties such as our related entities, business partners, or your representatives;
-- from publicly available sources of information;
-- from our records of how you use our services; and
-- from the third parties we list in the section of this policy with the heading Use and
+* from third parties such as our related entities, business partners, or your representatives;
+* from publicly available sources of information;
+* from our records of how you use our services; and
+* from the third parties we list in the section of this policy with the heading Use and
 
 If you choose not to provide certain information about you, we may not be able to provide you with the products or services you require, or the level of service on which we pride ourselves.
 
@@ -56,8 +53,8 @@ Our website and social media may contain links to other websites or social media
 
 Generally, we only use or disclose personal information about you for the purposes for which it was collected (as set out above) or for purposes which are directly related to one or more of our functions and activities. We may disclose personal information about you to:
 
-- third party product or service providers, who assist us in operating our business (including to assist us in providing you with the products and or services that you have requested or have expressed an interest), and these service providers may not be required to comply with our privacy policy; and
-- our related entities and other organisations with whom we have affiliations so that those organisations may provide you with information about services and various
+* third party product or service providers, who assist us in operating our business (including to assist us in providing you with the products and or services that you have requested or have expressed an interest), and these service providers may not be required to comply with our privacy policy; and
+* our related entities and other organisations with whom we have affiliations so that those organisations may provide you with information about services and various
 
 We are not likely to disclose your personal information to overseas recipients.
 
@@ -93,7 +90,7 @@ Email address: [info@cordner.com.au](https://mail.google.com/mail/?view=cm&fs=1&
 
 **Changes to our privacy and information handling practices**
 
-This privacy policy is subject to change at any time. Please check our privacy policy on our website, [https://www.cordner.com.au/](https://www.cordner.com.au/) regularly for any changes.
+This privacy policy is subject to change at any time. Please check our privacy policy on our website, <https://www.cordner.com.au/> regularly for any changes.
 
 **More information**
 
