@@ -34,7 +34,7 @@ CMS.registerPreviewTemplate('blog-page', ({ entry }) => (
 CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
   <ContactPageTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('privacy', ({ entry }) => (
+CMS.registerPreviewTemplate('privacy-page', ({ entry }) => (
   <StandardPageTemplate {...entry.toJS().data} />
 ))
 
