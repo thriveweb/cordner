@@ -177,12 +177,12 @@ collections:
               - {label: Description, name: description, widget: text, required: false, pattern: [".{,300}", "Must not exceed 300 characters"]}
               - {label: Canonical Link, name: canonicalLink, widget: string, required: false}
               - {label: Noindex, name: noindex, widget: boolean, required: false}
-      - file: "content/pages/pravicy.md"
+      - file: "content/pages/privacy.md"
         label: "Privacy Page"
-        name: "pravicy-page"
+        name: "privacy-page"
         fields:
           - {label: Template, name: template, widget: hidden, default: StandardPage}
-          - {label: Slug, name: slug, widget: hidden, default: 'pravicy'}
+          - {label: Slug, name: slug, widget: hidden, default: 'privacy'}
           - {label: Title, name: title, widget: string}
           - {label: Featured Image, name: featuredImage, widget: image}
           - label: "Meta"
