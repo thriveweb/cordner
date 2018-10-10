@@ -34,6 +34,9 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        featuredImage {
+          ...FluidImage
+        }
       }
     }
   }
