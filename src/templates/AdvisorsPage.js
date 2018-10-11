@@ -42,9 +42,17 @@ export const AdvisorsPageTemplate = ({
       <div className="grid">
         {!!team &&
           team.map((member, index) => (
-            <Link to={member.slug} className="single--team relative">
-              <Image background src={member.featuredImage} size="cover" />
-
+            <Link
+              key={member.title + index}
+              to={member.slug}
+              className="single--team relative"
+            >
+              <Image
+                background
+                src={member.featuredImage}
+                alt={member.title}
+                size="cover"
+              />
               <div className="sneak-peak color">
                 <div className="sneak-peak--text">
                   <h3>{member.title}</h3>
