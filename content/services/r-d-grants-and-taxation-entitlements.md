@@ -8,7 +8,7 @@ status: Featured
 order: '3'
 featuredImage: /images/uploads/rd--image.jpg
 icon: /images/uploads/rd-advisory--icon.svg
-parentService: 'R&D, Grants and Taxation Entitlements'
+parentService: Government Grants
 contentImage: /images/uploads/chart.jpg
 categories:
   - category: 'R&D, Grants and Taxation Entitlements'
