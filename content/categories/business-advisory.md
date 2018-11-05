@@ -1,6 +1,6 @@
 ---
 template: BlogIndex
 title: Business Advisory
-featuredImage: /images/uploads/blog-post--1.jpg
+featuredImage: /images/uploads/business-advisory-v1.jpg
 ---
 
