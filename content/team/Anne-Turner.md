@@ -5,8 +5,8 @@ subtitle: >-
   Tax Compliance & Business Advisory Expert with a Passion for Client
   Relationship Services
 order: 7
-featuredImage: /images/uploads/ann.jpg
-mainImage: /images/uploads/ann.jpg
+featuredImage: /images/uploads/team-member--4.jpg
+mainImage: /images/uploads/team-member--4.jpg
 position: Director
 categories:
   - category: Business Advisory
