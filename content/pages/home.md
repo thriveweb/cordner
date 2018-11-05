@@ -13,13 +13,13 @@ section1:
   number: 300+
   numberTitle: Happy clients
   rightContent: >-
-    Established on the Gold Coast in 1981. Cordner Advisoryspecialises in
-    Business Advisory Services, Tax & Compliance,Family Wealth & Superannuation
-    (SMSF), and specialist R&D taxincentive/government grants.   Cordner
-    Advisory service a broad range of businesses and mostindustries including
+    Established on the Gold Coast in 1981. Cordner Advisory specialises in
+    Business Advisory Services, Tax & Compliance, Family Wealth & Superannuation
+    (SMSF), and specialist R&D tax incentive/government grants.   Cordner
+    Advisory service a broad range of businesses and most industries including
     technology companies and startups, childcare,medical/health, construction
-    and property. Cordner Advisorydelivers experienced senior big firm
-    specialist skills with localcare and attention.
+    and property. Cordner Advisory delivers experienced senior big firm
+    specialist skills with local care and attention.
   rightTitle: Versatile financial solutions for everyone
   title: Delivering trustworthy financial solutions since 1981
 section2:
