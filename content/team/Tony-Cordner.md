@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Tony Cordner
 subtitle: With over 35 years’ Experience & Founder of Cordner Advisory
-order: 1
+order: '5'
 featuredImage: /images/uploads/team-member--1.jpg
 mainImage: /images/uploads/tony.jpg
 position: Founder
