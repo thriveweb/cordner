@@ -5,12 +5,13 @@ status: Published
 date: '2018-03-04'
 featuredImage: /images/uploads/our-advisors--banner.jpg
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat
+  purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
 categories:
   - category: News
   - category: Government Innovation Grants
 authors:
-  - author: Elsa Howarth
+  - {}
 meta:
   canonicalLink: ''
   description: ''
