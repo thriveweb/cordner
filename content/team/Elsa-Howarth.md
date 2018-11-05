@@ -8,7 +8,6 @@ mainImage: /images/uploads/team-member--6.jpg
 position: Senior Advisor
 categories:
   - category: Self Managed Super Funds
-  - category: Taxation and Compliance
   - category: Private Advisory Services
 ---
 
