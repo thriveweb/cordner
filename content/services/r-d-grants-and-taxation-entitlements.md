@@ -5,7 +5,7 @@ subtitle: >-
   We work with you to map your innovation journey, identify eligible activities
   and strategically plan for maximum returns.
 status: Featured
-order: 3
+order: '0'
 featuredImage: /images/uploads/rd--image.jpg
 icon: /images/uploads/rd-advisory--icon.svg
 parentService: 'R&D, Grants and Taxation Entitlements'
