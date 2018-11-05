@@ -2,13 +2,12 @@
 template: SingleService
 title: Childcare Centre Services
 subtitle: We are here to help you take your Childcare Service to a new level
-slug: services/childcare-centre-services
 status: Published
 order: 10
-featuredImage: /images/uploads/business-advisory.jpg
+featuredImage: /images/uploads/child-care-centre-services.jpeg
 icon: /images/uploads/business-advisory--icon.svg
 parentService: Key Industries
-contentImage: /images/uploads/chart.jpg
+contentImage: /images/uploads/child-care-centre-services.jpeg
 categories:
   - category: Key Industries
   - category: Childcare Centre Services
