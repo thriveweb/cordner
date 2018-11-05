@@ -1,16 +1,17 @@
 ---
 template: SingleService
-slug: services/r-d-grants-and-taxation-entitlements
-title: R&D, Grants and Taxation Entitlements
-subtitle: We work with you to map your innovation journey, identify eligible activities and strategically plan for maximum returns.
+title: Government Grants
+subtitle: >-
+  We work with you to map your innovation journey, identify eligible activities
+  and strategically plan for maximum returns.
 status: Featured
-categories:
-  - category: R&D, Grants and Taxation Entitlements
-featuredImage: /images/uploads/rd--image.jpg
-contentImage: /images/uploads/chart.jpg
-icon: /images/uploads/rd-advisory--icon.svg
-parentService: R&D, Grants and Taxation Entitlements
 order: 3
+featuredImage: /images/uploads/rd--image.jpg
+icon: /images/uploads/rd-advisory--icon.svg
+parentService: 'R&D, Grants and Taxation Entitlements'
+contentImage: /images/uploads/chart.jpg
+categories:
+  - category: 'R&D, Grants and Taxation Entitlements'
 ---
 
 Cordner Advisory help identify state and federal government funding opportunities for business just like yours and we have extensive experience preparing grant, incentives and entitlement applications.​
