@@ -13,7 +13,7 @@ contentImage: /images/uploads/chart.jpg
 categories:
   - category: 'R&D, Grants and Taxation Entitlements'
 ---
-The Australian Government (Federal and State) provide a significant number of Grants relating to Innovation to obtain funding support for your business or specific projects and functions. These grants are available throughout all stages of your business lifecycle. 
+The Australian Government (Federal and State) provide numerous grants opportunities relating to innovation which contribute funding support for your business for specific projects and functions. These grants are available throughout all stages of your business lifecycle. 
 
 Cordner Advisory has expertise in identifying  state and federal government funding opportunities for business just like yours and we have extensive experience preparing grant, incentives and entitlement applications.​ If your business meets the relevant eligibility criteria you will receive the entitlements or be assessed amongst competitors for suitability.
 
