@@ -21,7 +21,7 @@ section1:
     Cordner Advisory delivers experienced senior big firm specialist skills with
     local care and attention.
   rightTitle: Versatile financial solutions for everyone
-  title: Delivering trustworthy financial solutions since 1981
+  title: Delivering trustworthy accounting and advisory solutions since 1981
 section2:
   title: How can we help you today?
 section3:
