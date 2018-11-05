@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Di Girvin
 subtitle: Small to Medium sized Business Advisory and R&D Legislation Specialist
-order: 6
+order: '3'
 featuredImage: /images/uploads/team-member--5.jpg
 mainImage: /images/uploads/team-member--5.jpg
 position: Director
