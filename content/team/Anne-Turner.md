@@ -4,7 +4,7 @@ title: Anne Turner
 subtitle: >-
   Tax Compliance & Business Advisory Expert with a Passion for Client
   Relationship Services
-order: 7
+order: '4'
 featuredImage: /images/uploads/team-member--4.jpg
 mainImage: /images/uploads/team-member--4.jpg
 position: Director
