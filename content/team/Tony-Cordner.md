@@ -10,11 +10,7 @@ twitter: 'https://twitter.com/'
 linkedin: 'https://linkedin.com/'
 email: info@cordner.com.au
 categories:
-  - category: Business Advisory
-  - category: 'R&D, Grants and Taxation Entitlements'
-  - category: Self Managed Super Funds
   - category: Taxation and Compliance
-  - category: Private Advisory Services
 ---
 Tony has over 35 years’ experience in the professional practice of
 business services, taxation, superannuation and auditing. As a past
