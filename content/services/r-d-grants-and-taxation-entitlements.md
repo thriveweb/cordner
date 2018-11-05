@@ -13,9 +13,10 @@ contentImage: /images/uploads/chart.jpg
 categories:
   - category: 'R&D, Grants and Taxation Entitlements'
 ---
+The Australian Government (Federal and State) provide a significant number of Grants relating to Innovation to obtain funding support for your business or specific projects and functions. These grants are available throughout all stages of your business lifecycle. 
 
-Cordner Advisory help identify state and federal government funding opportunities for business just like yours and we have extensive experience preparing grant, incentives and entitlement applications.​
+Cordner Advisory has expertise in identifying  state and federal government funding opportunities for business just like yours and we have extensive experience preparing grant, incentives and entitlement applications.​ If your business meets the relevant eligibility criteria you will receive the entitlements or be assessed amongst competitors for suitability.
 
-​Government grant and funding opportunities are in many cases deemed to be an entitlement or subject to a competitive grants program. Common grants/entitlements for businesses include ​Export Marketing Development Grant (EMDG)​, ​Research and Development (R&D) Tax Incentive​ and Innovation Grants​.
+​Government grant and funding opportunities are in many cases deemed to be an entitlement or subject to a competitive grants program. Common grants/entitlements for businesses include ​Research and Development (R&D) Tax Incentive​ and ​Export Marketing Development Grants (EMDG)​.
 
-If you meet the relevant eligibility criteria you will receive the entitlements or be assessed amongst competitors for suitability.
+Our team offer advisory services regarding eligibility of your business for government grants and innovation.
