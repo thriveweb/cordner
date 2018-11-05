@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Elsa Howarth
 subtitle: Our Resident SMSF Specialist with over 13 years’ Experience
-order: '5'
+order: '6'
 featuredImage: /images/uploads/team-member--6.jpg
 mainImage: /images/uploads/team-member--6.jpg
 position: Senior Advisor
