@@ -1,15 +1,16 @@
 ---
 template: SingleService
-slug: services/taxation-and-compliance
 title: Taxation and Compliance
-subtitle: Cordner Advisory are your trusted team for all taxation reporting and compliance obligations
+subtitle: >-
+  Cordner Advisory are your trusted team for all taxation reporting and
+  compliance obligations
 status: Featured
+order: 2
+featuredImage: /images/uploads/taxation-and-compliance.jpg
+icon: /images/uploads/taxation-advisory--icon.svg
+contentImage: /images/uploads/chart.jpg
 categories:
   - category: Taxation and Compliance
-featuredImage: /images/uploads/tax--image.jpg
-contentImage: /images/uploads/chart.jpg
-icon: /images/uploads/taxation-advisory--icon.svg
-order: 2
 ---
 
 State and federal regulations are just a few of the many challenges that Cordner Advisory tax accountants are here to navigate for you. Our committed team stay at the forefront of all developments in the field so you are completely informed when it comes to:
