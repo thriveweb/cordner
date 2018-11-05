@@ -8,9 +8,6 @@ mainImage: /images/uploads/team-member--2.jpg
 position: Director
 categories:
   - category: Business Advisory
-  - category: 'R&D, Grants and Taxation Entitlements'
-  - category: Self Managed Super Funds
-  - category: Taxation and Compliance
   - category: Private Advisory Services
 ---
 
