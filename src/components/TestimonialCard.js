@@ -17,7 +17,6 @@ const PostCard = ({
     <div className="flex">
       <div className="PostCard--Content">
         {title && <h3 className="PostCard--Title">{title}</h3>}
-
         {excerpt && <div className="PostCard--Excerpt">{excerpt}</div>}
       </div>
       <div className="PostCard--Image relative">

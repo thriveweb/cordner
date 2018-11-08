@@ -21,6 +21,30 @@
   letter-spacing: 0.1em;
 }
 
+.Testimonial--Details {
+  display: flex;
+  margin-bottom: 5rem;
+  margin-top: 5rem;
+}
+
+.Testimonial--Details h5 {
+  text-transform: uppercase;
+}
+
+.Testimonial--Details .info {
+  width: 45%;
+}
+
+.Testimonial--Details .relative {
+  width: 45%;
+  height: 50%;
+}
+
+.Testimonial--Details img {
+  height: 100%;
+  width: 100%;
+}
+
 .SinglePost--BackButton svg {
   transition: transform 0.2s ease-out;
   transform: translateX(0);

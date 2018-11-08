@@ -46,6 +46,17 @@ export const SingleTestimonialTemplate = ({
         )}
 
         <div className="SinglePost--InnerContent">
+          <div className="Testimonial--Details">
+            <div className="info">
+              <h3>Name</h3>
+              <h5> Company Name </h5>
+            </div>
+
+            <div className="relative">
+              <Image src={featuredImage} alt={title} />
+            </div>
+          </div>
+
           <Content source={body} />
         </div>
 
