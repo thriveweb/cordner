@@ -29,6 +29,7 @@
 
 .Testimonial--Details h5 {
   text-transform: uppercase;
+  font-weight: 400;
 }
 
 .Testimonial--Details .info {
