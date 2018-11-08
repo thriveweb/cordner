@@ -2,22 +2,24 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import PageHeader from '../components/PageHeader'
-import PostSection from '../components/PostSection'
+import TestimonialsSection from '../components/TestimonialsSection'
 import PostCategoriesNav from '../components/PostCategoriesNav'
 
 // Export Template for use in CMS preview
 export const TestimonialsIndexTemplate = ({
   title,
   featuredImage,
-  posts = [],
+  testimonials = [],
   categories = [],
   contentType
 }) => {
   const isCategory = contentType === 'categories'
-  const byCategory = post =>
-    post.categories &&
-    post.categories.filter(cat => cat.category === title).length
-  const filteredPosts = isCategory ? posts.filter(byCategory) : posts
+  const byCategory = testimonial =>
+    testimonial.categories &&
+    testimonial.categories.filter(cat => cat.category === title).length
+  const filteredTestimonials = isCategory
+    ? testimonials.filter(byCategory)
+    : testimonials
 
   return (
     <main className="Blog">
@@ -35,10 +37,10 @@ export const TestimonialsIndexTemplate = ({
         </section>
       )} */}
 
-      {!!posts.length && (
+      {!!testimonials.length && (
         <section className="section">
           <div className="container">
-            <PostSection posts={filteredPosts} />
+            <TestimonialsSection testimonials={filteredTestimonials} />
           </div>
         </section>
       )}
@@ -52,15 +54,15 @@ const TestimonialsIndex = ({ data }) => (
     {...data.page}
     {...data.page.fields}
     {...data.page.frontmatter}
-    posts={data.posts.edges.map(post => ({
-      ...post.node,
-      ...post.node.frontmatter,
-      ...post.node.fields
+    testimonials={data.testimonials.edges.map(testimonial => ({
+      ...testimonial.node,
+      ...testimonial.node.frontmatter,
+      ...testimonial.node.fields
     }))}
-    categories={data.categories.edges.map(post => ({
-      ...post.node,
-      ...post.node.frontmatter,
-      ...post.node.fields
+    categories={data.categories.edges.map(testimonial => ({
+      ...testimonial.node,
+      ...testimonial.node.frontmatter,
+      ...testimonial.node.fields
     }))}
   />
 )
@@ -86,8 +88,8 @@ export const pageQuery = graphql`
       }
     }
 
-    posts: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "posts" } } }
+    testimonials: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "testimonials" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
