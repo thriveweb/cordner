@@ -10,7 +10,6 @@ export const TestimonialsIndexTemplate = ({
   title,
   featuredImage,
   testimonials = [],
-  categories = [],
   contentType
 }) => {
   const isCategory = contentType === 'categories'
@@ -28,14 +27,6 @@ export const TestimonialsIndexTemplate = ({
       </Helmet>
 
       <PageHeader title={title} backgroundImage={featuredImage} />
-      {/*
-      {!!categories.length && (
-        <section className="section thin">
-          <div className="container">
-            <PostCategoriesNav categories={categories} />
-          </div>
-        </section>
-      )} */}
 
       {!!testimonials.length && (
         <section className="section">
@@ -55,11 +46,6 @@ const TestimonialsIndex = ({ data }) => (
     {...data.page.fields}
     {...data.page.frontmatter}
     testimonials={data.testimonials.edges.map(testimonial => ({
-      ...testimonial.node,
-      ...testimonial.node.frontmatter,
-      ...testimonial.node.fields
-    }))}
-    categories={data.categories.edges.map(testimonial => ({
       ...testimonial.node,
       ...testimonial.node.frontmatter,
       ...testimonial.node.fields
@@ -106,21 +92,6 @@ export const pageQuery = graphql`
             featuredImage {
               ...SmallImage
             }
-          }
-        }
-      }
-    }
-    categories: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "categories" } } }
-      sort: { order: ASC, fields: [frontmatter___title] }
-    ) {
-      edges {
-        node {
-          fields {
-            slug
-          }
-          frontmatter {
-            title
           }
         }
       }

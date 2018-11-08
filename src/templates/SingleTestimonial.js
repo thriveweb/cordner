@@ -44,47 +44,6 @@ export const SingleTestimonialTemplate = ({
             {title}
           </h1>
         )}
-        <div className="SinglePost--Meta">
-          {date && (
-            <time
-              className="SinglePost--Meta--Date"
-              itemProp="dateCreated pubdate datePublished"
-              date={date}
-            >
-              {_format(date, 'MMMM Do, YYYY')}
-            </time>
-          )}
-          {authors && (
-            <Fragment>
-              <span>|</span>
-              {!!authors &&
-                authors.map((obj, index) => (
-                  <span
-                    key={index + obj.author}
-                    className="SinglePost--Meta--Category"
-                  >
-                    by {obj.author}
-                  </span>
-                ))}
-            </Fragment>
-          )}
-          {categories && (
-            <Fragment>
-              <span>|</span>
-              {!!categories &&
-                categories.map((cat, index) => (
-                  <span
-                    key={index + cat.category}
-                    className="SinglePost--Meta--Category"
-                  >
-                    {cat.category}
-
-                    {index !== categories.length - 1 ? ',' : ''}
-                  </span>
-                ))}
-            </Fragment>
-          )}
-        </div>
 
         <div className="SinglePost--InnerContent">
           <Content source={body} />
