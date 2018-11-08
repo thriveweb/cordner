@@ -14,8 +14,8 @@ export const SingleTestimonialTemplate = ({
   date,
   featuredImage,
   body,
-  nextTestimonailURL,
-  prevTestimonailURL,
+  nextTestimonialURL,
+  prevTestimonialURL,
   categories = [],
   authors = []
 }) => (
@@ -94,12 +94,12 @@ export const SingleTestimonialTemplate = ({
           {prevTestimonialURL && (
             <Link
               className="SinglePost--Pagination--Link prev"
-              to={prevPostURL}
+              to={prevTestimonialURL}
             >
               Previous Post
             </Link>
           )}
-          {nextPostURL && (
+          {nextTestimonialURL && (
             <Link
               className="SinglePost--Pagination--Link next"
               to={nextTestimonialURL}
@@ -124,8 +124,8 @@ const SingleTestimonial = ({ data, pathContext }) => {
       {...testimonial}
       {...testimonial.frontmatter}
       body={testimonial.html}
-      nextPostURL={_get(thisEdge, 'next.fields.slug')}
-      prevPostURL={_get(thisEdge, 'previous.fields.slug')}
+      nextTestimonialURL={_get(thisEdge, 'next.fields.slug')}
+      prevTestimonialURL={_get(thisEdge, 'previous.fields.slug')}
     />
   )
 }
@@ -158,8 +158,8 @@ export const pageQuery = graphql`
       }
     }
 
-    allPosts: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "posts" } } }
+    allTestimonials: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "testimonials" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
