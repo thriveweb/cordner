@@ -6,6 +6,12 @@ date: '2018-03-01'
 featuredImage: /images/uploads/our-advisors--banner.jpg
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+
+testimonialDetails:
+  name: Name
+  company: Company
+  image: /images/uploads/our-advisors--banner.jpg
+
 categories:
   - category: News
   - category: Business Advisory

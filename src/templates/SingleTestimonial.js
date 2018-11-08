@@ -17,7 +17,8 @@ export const SingleTestimonialTemplate = ({
   nextTestimonialURL,
   prevTestimonialURL,
   categories = [],
-  authors = []
+  authors = [],
+  testimonialDetails
 }) => (
   <article
     className="SinglePost section light"
@@ -46,16 +47,22 @@ export const SingleTestimonialTemplate = ({
         )}
 
         <div className="SinglePost--InnerContent">
-          <div className="Testimonial--Details">
-            <div className="info">
-              <h3>Name</h3>
-              <h5> Company Name </h5>
-            </div>
+          {testimonialDetails.name && (
+            <div className="Testimonial--Details">
+              <div className="info">
+                {testimonialDetails.name && <h3>{testimonialDetails.name}</h3>}
+                {testimonialDetails.company && (
+                  <h5>{testimonialDetails.company}</h5>
+                )}
+              </div>
 
-            <div className="relative">
-              <Image src={featuredImage} alt={title} />
+              {testimonialDetails.image && (
+                <div className="relative">
+                  <Image src={testimonialDetails.image} alt={title} />
+                </div>
+              )}
             </div>
-          </div>
+          )}
 
           <Content source={body} />
         </div>
@@ -124,6 +131,13 @@ export const pageQuery = graphql`
         }
         featuredImage {
           ...FluidImage
+        }
+        testimonialDetails {
+          name
+          company
+          image {
+            ...FluidImage
+          }
         }
       }
     }

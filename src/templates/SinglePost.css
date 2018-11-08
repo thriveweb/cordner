@@ -38,12 +38,25 @@
 
 .Testimonial--Details .relative {
   width: 45%;
-  height: 50%;
 }
 
 .Testimonial--Details img {
   height: 100%;
   width: 100%;
+}
+
+@media (max-width: 400px) {
+  .Testimonial--Details {
+    flex-direction: column;
+  }
+
+  .Testimonial--Details .info {
+    width: 100%;
+  }
+
+  .Testimonial--Details .relative {
+    width: 100%;
+  }
 }
 
 .SinglePost--BackButton svg {
