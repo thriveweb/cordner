@@ -83,6 +83,7 @@
 }
 
 .NavLink:hover > .children {
+  display: none;
 }
 
 .NavLink .children .NavLink {
