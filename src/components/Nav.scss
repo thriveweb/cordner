@@ -72,11 +72,17 @@
   text-transform: capitalize;
   background: var(--brightRed);
   z-index: 99;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
   display: none;
 }
 
 .NavLink:hover > .children {
-  display: block;
 }
 
 .NavLink .children .NavLink {

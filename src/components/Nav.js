@@ -7,14 +7,29 @@ import './Nav.scss'
 
 export default class Nav extends Component {
   state = {
-    active: false
+    active: false,
+    servicesMenuActive: false
   }
 
   handleMenuToggle = () => this.setState({ active: !this.state.active })
   // Only close nav if it is open
+
   handleLinkClick = () => this.state.active && this.handleMenuToggle()
+
+  toggleServicesMenu = () => {
+    if (this.state.servicesMenuActive) {
+      this.setState({
+        servicesMenuActive: false
+      })
+    } else {
+      this.setState({
+        servicesMenuActive: true
+      })
+    }
+  }
+
   render() {
-    const { active } = this.state
+    const { active, servicesMenuActive } = this.state
 
     const NavLink = ({ className, children, ...props }) => (
       <Link
@@ -33,10 +48,12 @@ export default class Nav extends Component {
           </Link>
           <div className="Nav--Links">
             <div className="NavLink">
-              <Link to="/our-services/" exact>
+              <span onClick={this.toggleServicesMenu} exact>
                 Our Services
-              </Link>
-              <div className="children level-one">
+              </span>
+              <div
+                className={'children level-one' + (servicesMenuActive ? '' : 'hide')}
+              >
                 <NavLink to="/services/business-advisory" exact>
                   Business advisory
                 </NavLink>
