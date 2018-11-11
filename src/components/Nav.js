@@ -8,7 +8,8 @@ import './Nav.scss'
 export default class Nav extends Component {
   state = {
     active: false,
-    servicesMenuActive: false
+    servicesMenuActive: false,
+    levelTwoMenuActive: false
   }
 
   handleMenuToggle = () => this.setState({ active: !this.state.active })
@@ -28,8 +29,20 @@ export default class Nav extends Component {
     }
   }
 
+  toggleLevel2Menu = () => {
+    if (this.state.levelTwoMenuActive) {
+      this.setState({
+        levelTwoMenuActive: false
+      })
+    } else {
+      this.setState({
+        levelTwoMenuActive: true
+      })
+    }
+  }
+
   render() {
-    const { active, servicesMenuActive } = this.state
+    const { active, servicesMenuActive, levelTwoMenuActive } = this.state
 
     const NavLink = ({ className, children, ...props }) => (
       <Link
@@ -52,7 +65,9 @@ export default class Nav extends Component {
                 Our Services
               </span>
               <div
-                className={'children level-one' + (servicesMenuActive ? '' : 'hide')}
+                className={
+                  'children level-one ' + (servicesMenuActive ? '' : 'hide')
+                }
               >
                 <NavLink to="/services/business-advisory" exact>
                   Business advisory
@@ -61,14 +76,11 @@ export default class Nav extends Component {
                   Taxation and compliance
                 </NavLink>
                 <div className="NavLink hasCildren">
-                  <Link
-                    to="/services/r-d-grants-and-taxation-entitlements"
-                    exact
-                  >
+                  <span className="rd-grants-hover">
                     R&D grants and taxation entitlements
-                  </Link>
+                  </span>
                   <ChevronRight />
-                  <div className="children level-two">
+                  <div className="children level-two rd-grants-children">
                     <NavLink
                       to="/services/research-and-development-r-d-entitlements"
                       exact

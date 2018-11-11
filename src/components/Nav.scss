@@ -35,6 +35,20 @@
   z-index: 2;
 }
 
+.rd-grants-hover {
+  cursor: pointer;
+
+  &:hover {
+    .rd-grants-children {
+      display: block !important;
+    }
+  }
+}
+
+.key-industries-children {
+  display: none;
+}
+
 .NavLink {
   padding: 0.5rem 1rem;
   display: block;
@@ -58,6 +72,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+
   svg {
     width: 20px;
     height: 15px;
@@ -83,6 +98,9 @@
 }
 
 .NavLink:hover > .children {
+}
+
+.rd-grants-children {
   display: none;
 }
 
