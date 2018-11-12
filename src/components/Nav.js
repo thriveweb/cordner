@@ -107,11 +107,15 @@ export default class Nav extends Component {
                 </NavLink>
 
                 <div className="NavLink hasCildren">
-                  <Link to="/services/key-industries" exact>
+                  <Link
+                    to="/services/key-industries"
+                    className="key-industries-hover"
+                    exact
+                  >
                     Key industries
                   </Link>
                   <ChevronRight />
-                  <div className="children level-two">
+                  <div className="children level-two key-industries-children">
                     <NavLink to="/services/childcare-centre-services" exact>
                       Childcare centre services
                     </NavLink>

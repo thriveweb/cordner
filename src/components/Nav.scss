@@ -45,6 +45,14 @@
   }
 }
 
+.key-industries-hover {
+  &:hover {
+    .key-industries-children {
+      display: block !important;
+    }
+  }
+}
+
 .key-industries-children {
   display: none;
 }
@@ -143,6 +151,25 @@
 @media (max-width: 1064px) {
   .Nav--Container {
     display: flex;
+  }
+
+  .NavLink .children {
+    position: relative;
+    top: 0.5rem;
+    background: none;
+    border-bottom: none !important;
+  }
+
+  .NavLink .children:hover {
+    border-bottom: none;
+  }
+
+  .NavLink .children .NavLink {
+    border-bottom: none;
+  }
+
+  .NavLink .children .NavLink:hover {
+    border-bottom: 2px solid white;
   }
 
   .Nav--MenuButton {
