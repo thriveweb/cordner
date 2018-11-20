@@ -12,9 +12,14 @@ categories:
   - category: Export Marketing Development Grants (EMDG)
   - category: Research and Development (R&D) Entitlements
 ---
+Di Girvin, a member of the Institute of Chartered Accountants and previous Big 4 advisory specialist, has significant experience in tax compliance and advisory services. Di specialises in business advisory, concentrating on assisting businesses with strategy, management reporting, R&D, grants and growth.
 
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+Throughout her career Di has amassed diverse knowledge, working with Medium Sized Firms to ASX listed entities across many industries including childcare, construction, IT, NFPs, health and manufacturing
 
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+Di’s recent advisory services include advising Kidsoft on the sale of its business to X. 
 
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+\[Insert case study links]
+
+With a background in project management and a practical understanding of the application of R&D legislation, Di has assisted businesses with R&D Tax Incentive Claims for agribusiness, information technology, childcare, manufacturing and medical development.
+
+Di currently serves on the advisory board of XYZ..
