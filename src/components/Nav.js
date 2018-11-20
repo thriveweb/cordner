@@ -13,33 +13,8 @@ export default class Nav extends Component {
   }
 
   handleMenuToggle = () => this.setState({ active: !this.state.active })
-  // Only close nav if it is open
 
   handleLinkClick = () => this.state.active && this.handleMenuToggle()
-
-  // toggleServicesMenu = () => {
-  //   if (this.state.servicesMenuActive) {
-  //     this.setState({
-  //       servicesMenuActive: false
-  //     })
-  //   } else {
-  //     this.setState({
-  //       servicesMenuActive: true
-  //     })
-  //   }
-  // }
-  //
-  // toggleLevel2Menu = () => {
-  //   if (this.state.levelTwoMenuActive) {
-  //     this.setState({
-  //       levelTwoMenuActive: false
-  //     })
-  //   } else {
-  //     this.setState({
-  //       levelTwoMenuActive: true
-  //     })
-  //   }
-  // }
 
   handleMobileList = item => {
     this.setState({
@@ -123,19 +98,24 @@ export default class Nav extends Component {
                   Self managed super funds
                 </NavLink>
 
-                <div className="NavLink hasCildren">
-                  <Link
-                    to="/services/key-industries"
-                    className="key-industries-hover"
-                    exact
-                  >
-                    Key industries
-                  </Link>
+                <div
+                  className="NavLink hasCildren"
+                  onClick={() => this.handleMobileList('keyIndustries')}
+                >
+                  Key industries
                   <ChevronRight />
-                  <div className="children level-two key-industries-children">
+                  <div
+                    className={`children level-two key-industries-children  ${
+                      this.state['navListkeyIndustries'] ? 'active' : ''
+                    }`}
+                  >
+                    <NavLink to="/services/key-industries" exact>
+                      Key industries
+                    </NavLink>
                     <NavLink to="/services/childcare-centre-services" exact>
                       Childcare centre services
                     </NavLink>
+
                     <NavLink to="/services/technology-and-startups" exact>
                       Technology and startups
                     </NavLink>
