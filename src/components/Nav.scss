@@ -35,19 +35,16 @@
   z-index: 2;
 }
 
+.services {
+  cursor: pointer;
+}
+
+.active {
+  display: block;
+}
 .children.active {
   display: block !important;
 }
-// .rd-grants-hover  {
-//   border: 1px solid;
-//   cursor: pointer;
-//
-//   &:hover {
-//     .rd-grants-children {
-//       display: block !important;
-//     }
-//   }
-// }
 
 .hasCildren {
   &:hover {
@@ -123,13 +120,6 @@
   display: none;
 }
 
-.NavLink:hover > .children {
-}
-
-.rd-grants-children {
-  display: none;
-}
-
 .NavLink .children .NavLink {
   border-bottom: 1px solid rgba(255, 255, 255, 0.4);
   padding: 1rem;
@@ -167,27 +157,38 @@
 }
 
 @media (max-width: 1064px) {
+  .hasCildren {
+    &:hover {
+      .rd-grants-children,
+      .key-industries-children {
+        display: none;
+      }
+    }
+  }
+
+  .key-industries-hover {
+    &:hover {
+      .key-industries-children {
+        display: none !important;
+      }
+    }
+  }
+
   .Nav--Container {
     display: flex;
+  }
+
+  .NavLink {
+    border-bottom: none !important;
   }
 
   .NavLink .children {
     position: relative;
     top: 0.5rem;
     background: none;
-    border-bottom: none !important;
   }
 
-  .NavLink .children:hover {
-    border-bottom: none;
-  }
-
-  .NavLink .children .NavLink {
-    border-bottom: none;
-  }
-
-  .NavLink .children .NavLink:hover {
-    border-bottom: 2px solid white;
+  .children .Navlink {
   }
 
   .Nav--MenuButton {

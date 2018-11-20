@@ -45,6 +45,8 @@ export default class Nav extends Component {
     this.setState({
       [`navList${item}`]: !this.state[`navList${item}`]
     })
+
+    console.log('click')
   }
 
   render() {
@@ -67,7 +69,11 @@ export default class Nav extends Component {
           </Link>
           <div className="Nav--Links">
             <div className="NavLink">
-              <span onClick={() => this.handleMobileList('Services')} exact>
+              <span
+                className="services"
+                onClick={() => this.handleMobileList('Services')}
+                exact
+              >
                 Our Services
               </span>
               <div
@@ -81,10 +87,17 @@ export default class Nav extends Component {
                 <NavLink to="/services/taxation-and-compliance" exact>
                   Taxation and compliance
                 </NavLink>
-                <div className="NavLink hasCildren">
+                <div
+                  className="NavLink hasCildren"
+                  onClick={() => this.handleMobileList('RdGrants')}
+                >
                   R&D grants and taxation entitlements
                   <ChevronRight />
-                  <div className="children level-two rd-grants-children">
+                  <div
+                    className={`children level-two rd-grants-children  ${
+                      this.state['navListRdGrants'] ? 'active' : ''
+                    }`}
+                  >
                     <NavLink
                       to="/services/research-and-development-r-d-entitlements"
                       exact
