@@ -7,9 +7,9 @@ import './Nav.scss'
 
 export default class Nav extends Component {
   state = {
-    active: false,
-    servicesMenuActive: false,
-    levelTwoMenuActive: false
+    active: false
+    // servicesMenuActive: false,
+    // levelTwoMenuActive: false
   }
 
   handleMenuToggle = () => this.setState({ active: !this.state.active })
@@ -17,28 +17,34 @@ export default class Nav extends Component {
 
   handleLinkClick = () => this.state.active && this.handleMenuToggle()
 
-  toggleServicesMenu = () => {
-    if (this.state.servicesMenuActive) {
-      this.setState({
-        servicesMenuActive: false
-      })
-    } else {
-      this.setState({
-        servicesMenuActive: true
-      })
-    }
-  }
+  // toggleServicesMenu = () => {
+  //   if (this.state.servicesMenuActive) {
+  //     this.setState({
+  //       servicesMenuActive: false
+  //     })
+  //   } else {
+  //     this.setState({
+  //       servicesMenuActive: true
+  //     })
+  //   }
+  // }
+  //
+  // toggleLevel2Menu = () => {
+  //   if (this.state.levelTwoMenuActive) {
+  //     this.setState({
+  //       levelTwoMenuActive: false
+  //     })
+  //   } else {
+  //     this.setState({
+  //       levelTwoMenuActive: true
+  //     })
+  //   }
+  // }
 
-  toggleLevel2Menu = () => {
-    if (this.state.levelTwoMenuActive) {
-      this.setState({
-        levelTwoMenuActive: false
-      })
-    } else {
-      this.setState({
-        levelTwoMenuActive: true
-      })
-    }
+  handleMobileList = item => {
+    this.setState({
+      [`navList${item}`]: !this.state[`navList${item}`]
+    })
   }
 
   render() {
@@ -61,13 +67,13 @@ export default class Nav extends Component {
           </Link>
           <div className="Nav--Links">
             <div className="NavLink">
-              <span onClick={this.toggleServicesMenu} exact>
+              <span onClick={() => this.handleMobileList('Services')} exact>
                 Our Services
               </span>
               <div
-                className={
-                  'children level-one ' + (servicesMenuActive ? '' : 'hide')
-                }
+                className={`children level-one  ${
+                  this.state['navListServices'] ? 'active' : ''
+                }`}
               >
                 <NavLink to="/services/business-advisory" exact>
                   Business advisory
@@ -76,9 +82,7 @@ export default class Nav extends Component {
                   Taxation and compliance
                 </NavLink>
                 <div className="NavLink hasCildren">
-                  <span className="rd-grants-hover">
-                    R&D grants and taxation entitlements
-                  </span>
+                  R&D grants and taxation entitlements
                   <ChevronRight />
                   <div className="children level-two rd-grants-children">
                     <NavLink

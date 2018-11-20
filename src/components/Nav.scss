@@ -35,12 +35,25 @@
   z-index: 2;
 }
 
-.rd-grants-hover {
-  cursor: pointer;
+.children.active {
+  display: block !important;
+}
+// .rd-grants-hover  {
+//   border: 1px solid;
+//   cursor: pointer;
+//
+//   &:hover {
+//     .rd-grants-children {
+//       display: block !important;
+//     }
+//   }
+// }
 
+.hasCildren {
   &:hover {
-    .rd-grants-children {
-      display: block !important;
+    .rd-grants-children,
+    .key-industries-children {
+      display: block;
     }
   }
 }
@@ -89,6 +102,7 @@
 
 .NavLink .children {
   position: absolute;
+  display: none;
   top: 3.5rem;
   left: 0;
   width: 250px;
