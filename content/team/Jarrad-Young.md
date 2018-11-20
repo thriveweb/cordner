@@ -12,9 +12,10 @@ categories:
   - category: Self Managed Super Funds
   - category: Private Advisory Services
 ---
+Jarrad Young, CPA and MBA qualified, has an extensive background in tax compliance, structuring, asset protection and business advisory engagements. After spending many years at an iconic big four accounting firm, Jarrad joined Cordner Advisory as Director in 2014 and has established a reputation as a trusted advisor for clients.
 
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+Examples of the work performed by Jarrad’s include X who are one of the most successful online Australian startups (whom he has advised from infancy through their dynamic growth), and Large IT and Telecommunications Provider GCOMM.
 
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+\[Insert links to case study - GCOMM]
 
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+Jarrad leads the structuring, taxation compliance and Self Managed Super Fund services at Cordner Advisory. Jarrad is also a long term Director on the board of the flourishing and vibrant Gold Coast Turf Club.
