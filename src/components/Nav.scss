@@ -198,6 +198,11 @@
     padding: 0.6rem;
   }
 
+  .level-one .NavLink {
+    padding: 0.6rem;
+    font-size: 15px;
+  }
+
   .NavLink .children .level-two {
     left: 0;
     color: var(--cream);
@@ -226,7 +231,7 @@
   }
 
   .NavLink .children {
-    width: 320px;
+    width: 310px;
   }
 
   .Nav--Links {
