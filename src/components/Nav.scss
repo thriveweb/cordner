@@ -159,6 +159,33 @@
     }
   }
 
+  .NavLink.hasCildren svg {
+    display: inline-block;
+    margin-left: 8px;
+    margin-bottom: -3px;
+  }
+
+  .ChevronRight {
+    // display: none !important;
+  }
+
+  .services {
+    &:after {
+      content: url('/images/chevron-down-solid.svg');
+      display: inline-block;
+      width: 14px;
+      height: auto;
+      padding-left: 4px;
+      margin-left: 10px;
+    }
+  }
+
+  .NavLink .hasCildren {
+    flex-direction: column;
+    position: relative;
+    position: relative;
+  }
+
   .Nav--Container {
     display: flex;
   }
@@ -167,18 +194,39 @@
     border-bottom: none !important;
   }
 
-  .NavLink .children {
-    position: relative;
-    top: 0.5rem;
-    background: none;
+  .NavLink .children .NavLink {
+    padding: 0.6rem;
   }
 
-  .children .Navlink {
+  .NavLink .children .level-two {
+    left: 0;
+    color: var(--cream);
+    opacity: 0.9;
+  }
+
+  .level-one {
+    color: var(--cream);
+    opacity: 1;
+  }
+
+  .level-two .NavLink {
+    font-size: 14px;
+  }
+
+  .NavLink .children,
+  .level-two {
+    position: relative !important;
+    top: 0.5rem;
+    background: none;
   }
 
   .Nav--MenuButton {
     display: block;
     margin-left: auto;
+  }
+
+  .NavLink .children {
+    width: 320px;
   }
 
   .Nav--Links {
@@ -216,6 +264,7 @@
 
   .Nav .NavLink {
     font-weight: 300;
+    display: inline-block;
   }
 
   .Nav .NavLink:nth-of-type(2) {

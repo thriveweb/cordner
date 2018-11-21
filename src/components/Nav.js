@@ -20,8 +20,6 @@ export default class Nav extends Component {
     this.setState({
       [`navList${item}`]: !this.state[`navList${item}`]
     })
-
-    console.log('click')
   }
 
   render() {
@@ -43,20 +41,24 @@ export default class Nav extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <div className="NavLink">
-              <span
+            <div className="NavLink NavLink-container">
+              <div
                 className="services"
                 onClick={() => this.handleMobileList('Services')}
                 exact
               >
                 Our Services
-              </span>
+              </div>
               <div
                 className={`children level-one  ${
                   this.state['navListServices'] ? 'active' : ''
                 }`}
               >
-                <NavLink to="/services/business-advisory" exact>
+                <NavLink
+                  to="/services/business-advisory"
+                  onClick={this.handleLinkClick}
+                  exact
+                >
                   Business advisory
                 </NavLink>
                 <NavLink to="/services/taxation-and-compliance" exact>
@@ -67,7 +69,7 @@ export default class Nav extends Component {
                   onClick={() => this.handleMobileList('RdGrants')}
                 >
                   R&D grants and taxation entitlements
-                  <ChevronRight />
+                  <ChevronRight className="ChevronRight" />
                   <div
                     className={`children level-two rd-grants-children  ${
                       this.state['navListRdGrants'] ? 'active' : ''
@@ -103,7 +105,7 @@ export default class Nav extends Component {
                   onClick={() => this.handleMobileList('keyIndustries')}
                 >
                   Key industries
-                  <ChevronRight />
+                  <ChevronRight className="ChevronRight" />
                   <div
                     className={`children level-two key-industries-children  ${
                       this.state['navListkeyIndustries'] ? 'active' : ''
