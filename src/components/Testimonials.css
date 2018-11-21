@@ -33,3 +33,34 @@
 .swiper-slide-active {
   opacity: 1;
 }
+
+@media (max-width: 534px) {
+  .swiper-container {
+    width: 100%;
+  }
+
+  .swiper-button-next {
+    right: 0px;
+  }
+  .swiper-button-prev {
+    left: 0px;
+  }
+}
+
+@media (max-width: 388px) {
+  .swiper-slide {
+    width: 100% !important;
+  }
+
+  .swiper-button-next svg {
+    width: 15px;
+
+    height: 15px;
+  }
+
+  .swiper-button-prev svg {
+    width: 15px;
+
+    height: 15px;
+  }
+}

@@ -234,10 +234,19 @@
   .section--5-testimonials {
     background: var(--purple);
     color: white;
+
     .container {
       display: flex;
       align-items: stretch;
       justify-content: space-between;
+
+      @media (max-width: 775px) {
+        flex-direction: column;
+
+        .title {
+          width: 100%;
+        }
+      }
     }
     .title {
       height: 100%;
@@ -251,6 +260,11 @@
     display: flex;
     align-items: stretch;
     justify-content: space-between;
+
+    @media (max-width: 775px) {
+      width: 100%;
+    }
+
     .slide {
     }
     span {

@@ -13,6 +13,12 @@ export default ({ testimonials = [] }) => {
       nextEl: '.swiper-button-next',
       prevEl: '.swiper-button-prev'
     },
+    breakpoints: {
+      900: {
+        slidesPerView: 1,
+        spaceBetween: 50
+      }
+    },
     spaceBetween: 100,
     autoHeight: false,
     grabCursor: true,
