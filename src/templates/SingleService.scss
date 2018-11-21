@@ -58,3 +58,30 @@
     margin-bottom: 4rem;
   }
 }
+
+@media (max-width: 700px) {
+  .SingleService {
+    h3 {
+      width: 100%;
+      margin: 0;
+      padding-left: 1rem;
+      padding-bottom: 2rem;
+    }
+
+    .one-half {
+      width: 100%;
+    }
+  }
+  .SingleService--Welcome {
+    .flex {
+      flex-direction: column;
+      .one-half {
+        width: 100%;
+
+        img {
+          padding-bottom: 2rem;
+        }
+      }
+    }
+  }
+}
