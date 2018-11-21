@@ -17,7 +17,7 @@
 .PostCard--Image {
   margin: 0;
   width: 50%;
-  height: 25rem;
+  height: 35rem;
 }
 
 .PostCard--Title {
@@ -28,7 +28,7 @@
 .PostCard--Content {
   padding: 2.5rem;
   width: 50%;
-  height: 25rem;
+  height: 35rem;
 }
 
 .PostCard--Category {
@@ -37,4 +37,22 @@
   line-height: 1;
   margin: 0.5em 0;
   color: var(--orange);
+}
+
+@media (max-width: 500px) {
+  .PostCard {
+    .flex {
+      flex-direction: column;
+    }
+
+    .PostCard--Content {
+      width: 100%;
+      height: 100%;
+    }
+
+    .PostCard--Image {
+      width: 100%;
+      height: 20rem;
+    }
+  }
 }
