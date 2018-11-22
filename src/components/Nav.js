@@ -66,7 +66,7 @@ export default class Nav extends Component {
                   className="NavLink hasCildren"
                   onClick={() => this.handleMobileList('RdGrants')}
                 >
-                  R&D grants and taxation entitlements
+                  Government Grants
                   <ChevronRight className="ChevronRight" />
                   <div
                     className={`children level-two rd-grants-children  ${
@@ -77,17 +77,13 @@ export default class Nav extends Component {
                       to="/services/research-and-development-r-d-entitlements"
                       exact
                     >
-                      Research and development R&D entitlements
+                      Research and development (R&D) entitlements
                     </NavLink>
                     <NavLink
                       to="/services/export-marketing-development-grants-emdg"
                       exact
                     >
-                      Export marketing development grants (emdg)
-                    </NavLink>
-
-                    <NavLink to="/services/government-innovation-grants" exact>
-                      Government innovation grants
+                      Export marketing development grants (EMDG)
                     </NavLink>
                   </div>
                 </div>
@@ -98,20 +94,23 @@ export default class Nav extends Component {
                   Self managed super funds
                 </NavLink>
 
-                <div
-                  className="NavLink hasCildren"
-                  onClick={() => this.handleMobileList('keyIndustries')}
-                >
-                  Key industries
-                  <ChevronRight className="ChevronRight" />
+                <div className="NavLink hasCildren">
+                  <Link
+                    to="/services/key-industries"
+                    onClick={this.handleLinkClick}
+                    exact
+                  >
+                    Key industries
+                  </Link>
+                  <ChevronRight
+                    className="ChevronRight"
+                    onClick={() => this.handleMobileList('keyIndustries')}
+                  />
                   <div
                     className={`children level-two key-industries-children  ${
                       this.state['navListkeyIndustries'] ? 'active' : ''
                     }`}
                   >
-                    <NavLink to="/services/key-industries" exact>
-                      Key industries
-                    </NavLink>
                     <NavLink to="/services/childcare-centre-services" exact>
                       Childcare centre services
                     </NavLink>
