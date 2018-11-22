@@ -8,8 +8,6 @@ import './Nav.scss'
 export default class Nav extends Component {
   state = {
     active: false
-    // servicesMenuActive: false,
-    // levelTwoMenuActive: false
   }
 
   handleMenuToggle = () => this.setState({ active: !this.state.active })

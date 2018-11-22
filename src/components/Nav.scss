@@ -36,14 +36,6 @@
 }
 
 .services {
-  cursor: pointer;
-}
-
-.active {
-  display: block;
-}
-.children.active {
-  display: block !important;
 }
 
 .key-industries-children {
@@ -93,8 +85,22 @@
   z-index: 99;
 }
 
-.services {
-  cursor: pointer;
+.NavLink {
+  &:hover {
+    .level-one {
+      display: block !important;
+    }
+  }
+
+  .level-one {
+    .hasCildren {
+      &:hover {
+        .level-two {
+          display: block;
+        }
+      }
+    }
+  }
 }
 
 .show {
@@ -142,31 +148,18 @@
 }
 
 @media (max-width: 1064px) {
-  .hasCildren {
-    &:hover {
-      .rd-grants-children,
-      .key-industries-children {
-        display: none;
-      }
-    }
-  }
-
-  .key-industries-hover {
-    &:hover {
-      .key-industries-children {
-        display: none !important;
-      }
-    }
-  }
-
   .NavLink.hasCildren svg {
     display: inline-block;
     margin-left: 8px;
     margin-bottom: -3px;
   }
 
-  .ChevronRight {
-    // display: none !important;
+  .active {
+    display: block;
+  }
+
+  .children.active {
+    display: block !important;
   }
 
   .services {
