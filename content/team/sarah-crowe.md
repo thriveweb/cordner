@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Sarah Crowe
 subtitle: Advisor
-order: '11'
+order: '10'
 featuredImage: /images/uploads/sarah.jpg
 mainImage: /images/uploads/sarah.jpg
 position: Advisor
