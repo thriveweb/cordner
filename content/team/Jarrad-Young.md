@@ -6,6 +6,7 @@ order: '2'
 featuredImage: /images/uploads/team-member--3.jpg
 mainImage: /images/uploads/team-member--3.jpg
 position: Director
+email: jarrad@cordner.com.au
 categories:
   - category: Taxation and Compliance
   - category: Technology and Startups
