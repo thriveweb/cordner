@@ -6,6 +6,7 @@ order: '8'
 featuredImage: /images/uploads/steve.jpg
 mainImage: /images/uploads/steve.jpg
 position: Senior Advisor
+email: steve@cordner.com.au
 categories:
   - category: Taxation and Compliance
   - category: Business Advisory
