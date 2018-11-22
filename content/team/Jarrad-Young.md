@@ -19,4 +19,4 @@ Examples of the work performed by Jarrad’s include X who are one of the most s
 
 \[Insert links to case study - GCOMM]
 
-Jarrad leads the structuring, taxation compliance and Self Managed Super Fund services at Cordner Advisory. Jarrad is also a long term Director on the board of the flourishing and vibrant Gold Coast Turf Club.
+Jarrad leads the structuring, taxation compliance and Self Managed Super Fund services at Cordner Advisory. Jarrad is also a long term Director on the board of the flourishing and vibrant Gold Coast Turf Club.
