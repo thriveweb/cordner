@@ -1,7 +1,7 @@
 ---
 template: SingleTestimonial
-title: Test featured post
-status: Featured
+title: Business Advisory
+status: Published
 date: '2018-03-01'
 featuredImage: /images/uploads/our-advisors--banner.jpg
 excerpt: >-
