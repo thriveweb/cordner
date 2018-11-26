@@ -1,0 +1,27 @@
+.FeaturedTestimonials {
+  .PostCard {
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+
+    .flex {
+      flex-direction: column-reverse;
+
+      .PostCard--Image {
+        width: 100%;
+      }
+
+      .PostCard--Content {
+        width: 90%;
+        margin: 0 auto;
+        margin-top: -4rem;
+        z-index: 2;
+        background: white;
+        box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+        height: 20rem;
+
+        h3 {
+          margin-bottom: 1rem;
+        }
+      }
+    }
+  }
+}

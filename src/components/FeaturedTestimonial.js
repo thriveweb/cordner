@@ -2,12 +2,12 @@ import React from 'react'
 
 import TestimonialCard from './TestimonialCard'
 
-// import './FeaturedPackages.scss'
+import './FeaturedTestimonials.scss'
 
 export default ({ testimonialsFeatured }) => (
-  <section className="Section-Featured--Testimonial section">
+  <section className="Section-Featured--Testimonial ">
     <div className="container">
-      <div className="FeaturedPackages">
+      <div className="FeaturedTestimonials">
         {testimonialsFeatured.map((testimonial, index) => (
           <TestimonialCard {...testimonial} key={index} />
         ))}
