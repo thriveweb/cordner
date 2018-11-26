@@ -18,6 +18,10 @@
         box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
         height: 20rem;
 
+        @media (max-width: 440px) {
+          height: 31rem;
+        }
+
         h3 {
           margin-bottom: 1rem;
         }
