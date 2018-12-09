@@ -2,8 +2,8 @@
 template: SingleService
 title: Export Marketing Development Grants (EMDG)
 subtitle: >-
-  The EMDG program encourages all small to medium sized Australian businesses to
-  develop export markets.
+  EMDG's are an Austrade initiative designed to encourage businesses to develop
+  new markets
 status: Published
 order: 5
 featuredImage: /images/uploads/rd--image.jpg
