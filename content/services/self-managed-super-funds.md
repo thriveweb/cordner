@@ -1,15 +1,14 @@
 ---
 template: SingleService
-slug: services/self-managed-super-funds
 title: Self Managed Super Funds
 subtitle: Take control of your future on your terms with a Self Managed Super Fund
 status: Featured
+order: 8
+featuredImage: /images/uploads/self-managed--image.jpg
+icon: /images/uploads/smsf.jpg
+contentImage: /images/uploads/smsf.jpg
 categories:
   - category: Self Managed Super Funds
-featuredImage: /images/uploads/self-managed--image.jpg
-contentImage: /images/uploads/chart.jpg
-icon: /images/uploads/self-managed--icon.svg
-order: 8
 ---
 
 A Self-Managed Super Fund (SMSF) enables your super contributions to be used for a variety of investments, typically real estate, cash and shares. Your own SMSF is entirely controlled by you, however SMSF’s are complex to administer. Once we have established your SMSF on your behalf, you can begin to acquire assets in your preferred investments. We then ensure that you have all the information and advice necessary to conform with the various legislative obligations and reporting requirements.
