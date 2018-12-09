@@ -9,7 +9,7 @@ order: 9
 featuredImage: /images/uploads/key-industries.jpg
 icon: /images/uploads/key-industries.jpg
 parentService: Key Industries
-contentImage: /images/uploads/chart.jpg
+contentImage: /images/uploads/key-industries.jpg
 categories:
   - category: Key Industries
 ---
