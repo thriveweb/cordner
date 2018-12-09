@@ -1,7 +1,7 @@
 ---
 template: SingleService
 title: Technology and Startups
-subtitle: Do you have an idea or new b usiness concept?
+subtitle: Do you have an idea or new business concept?
 status: Published
 order: 11
 featuredImage: /images/uploads/technology-and-startups.jpg
