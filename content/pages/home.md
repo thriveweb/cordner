@@ -10,7 +10,7 @@ section1:
   button:
     label: More about us
     link: your-advisors
-  number: 300+
+  number: '300+ '
   numberTitle: Happy clients
   rightContent: >-
     Established on the Gold Coast in 1981. Cordner Advisory specialises in
@@ -20,7 +20,7 @@ section1:
     companies and startups, childcare,medical/health, construction and property.
     Cordner Advisory delivers experienced senior big firm specialist skills with
     local care and attention.
-  rightTitle: Versatile financial solutions for everyone
+  rightTitle: Business Advisory Specialists
   title: Delivering trustworthy accounting and advisory solutions since 1981
 section2:
   title: How can we help you today?
