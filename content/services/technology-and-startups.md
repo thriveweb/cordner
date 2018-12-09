@@ -1,17 +1,16 @@
 ---
 template: SingleService
-slug: services/technology-and-startups
 title: Technology and Startups
 subtitle: Do you have an idea or new b usiness concept?
 status: Published
+order: 11
+featuredImage: /images/uploads/technology-and-startups.jpg
+icon: /images/uploads/technology-and-startups.jpg
+parentService: Key Industries
+contentImage: /images/uploads/technology-and-startups.jpg
 categories:
   - category: Key Industries
   - category: Technology and Startups
-featuredImage: /images/uploads/business-advisory.jpg
-contentImage: /images/uploads/chart.jpg
-icon: /images/uploads/business-advisory--icon.svg
-parentService: Key Industries
-order: 11
 ---
 
 Cordner Advisory has a long and proud record serving leading IT firms and Startups.
