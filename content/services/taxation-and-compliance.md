@@ -12,7 +12,7 @@ contentImage: /images/uploads/taxation-and-compliance.jpg
 categories:
   - category: Taxation and Compliance
 ---
-State and federal regulations are just a few of the many challenges that Cordner Advisory tax accountants are here to navigate for you. Our committed team stay at the forefront of all developments in the field so you are completely informed when it comes to:
+State and federal regulations are just a few of the many challenges that the team at Cordner Advisory are here to navigate for you. Our committed advisors stay at the forefront of all developments in the field so you are completely informed when it comes to:
 
 * Business Activity Statements
 * Company Secretarial/ASIC Obligations
