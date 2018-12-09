@@ -1,17 +1,19 @@
 ---
 template: SingleService
-slug: services/property-construction-and-building-services
-title: Property, Construction and Building Services
-subtitle: Cordner Advisory has an extensive history in providing comprehensive business advisory services and taxation advice to all sectors of the Property and Construction industry.
+title: 'Property, Construction and Building Services'
+subtitle: >-
+  Cordner Advisory has an extensive history in providing comprehensive business
+  advisory services and taxation advice to all sectors of the Property and
+  Construction industry.
 status: Published
+order: 12
+featuredImage: /images/uploads/property-construction.jpeg
+icon: /images/uploads/property-construction.jpeg
+parentService: Key Industries
+contentImage: /images/uploads/property-construction.jpeg
 categories:
   - category: Key Industries
-  - category: Property, Construction and Building Services
-featuredImage: /images/uploads/business-advisory.jpg
-contentImage: /images/uploads/chart.jpg
-icon: /images/uploads/business-advisory--icon.svg
-parentService: Key Industries
-order: 12
+  - category: 'Property, Construction and Building Services'
 ---
 
 There is increasing pressures in the building industry including business viability; maintaining business profitability; rigorous legislative and environmental regulations; and cashflow pressures as well as meeting direct and indirect taxation obligations. As a specialist Business Advisory Practice, Cordner Advisory understands the risk and capital-intensive nature of the Property Industry. Their Property and Construction team have the technical expertise and experience to provide a comprehensive range of Accounting, Taxation and Business Consulting Services to ensure you are well equipped to make the most appropriate business decisions to ensure future business viability and profitability, reduce business risk and develop ongoing business strategies.
