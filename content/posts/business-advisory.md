@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Contractors for payroll tax purpose
-status: Published
+status: Featured
 date: '2018-12-05'
 featuredImage: /images/uploads/jun.jpg
 excerpt: >-
@@ -34,5 +34,3 @@ There are 9 exemptions rules and you only need to satisfy one of them for the pa
 9. Services relating to selling insurance. The contractor must hold an Australian Financial Services licence.
 
 If you seek further advice, please don’t hesitate to contact our office.
-
-By Jun Yang
