@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Contractors for payroll tax purpose
-status: Featured
+status: Published
 date: '2018-12-05'
 featuredImage: /images/uploads/jun.jpg
 excerpt: >-
