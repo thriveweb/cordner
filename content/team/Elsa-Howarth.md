@@ -5,7 +5,7 @@ subtitle: Our Resident SMSF Specialist with over 13 years’ Experience
 order: '6'
 featuredImage: /images/uploads/team-member--6.jpg
 mainImage: /images/uploads/team-member--6.jpg
-position: Senior Advisor
+position: Senior Advisor & SMSF Specialist
 categories:
   - category: Self Managed Super Funds
   - category: Private Advisory Services
