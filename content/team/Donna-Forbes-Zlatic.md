@@ -7,12 +7,10 @@ featuredImage: /images/uploads/team-member--7.jpg
 mainImage: /images/uploads/team-member--7.jpg
 position: Practice Manager
 categories:
-  - category: 'R&D, Grants and Taxation Entitlements'
-  - category: Self Managed Super Funds
+  - category: News
 ---
+After 11 years’ of experience in events and learning and development for one of the Big 4 accounting firms, Donna joined Cordner Advisory in 2012. Since then, she has gained extensive experience in all areas of administration management, fostering client relationships and establishing best practices.
 
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+Donna is responsible for overseeing the firms daily operations, internal financial matters, compliance and process as well as handling many HR-related accountabilities.
 
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
-
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+Her strengths in process improvement and people skills support & compliment Cordner Advisory’s team, their vision and our clients.
