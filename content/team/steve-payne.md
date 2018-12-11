@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Steve Payne
-subtitle: Advisor
+subtitle: Senior Advisor
 order: '9'
 featuredImage: /images/uploads/steve.jpg
 mainImage: /images/uploads/steve.jpg
