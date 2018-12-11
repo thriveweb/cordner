@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Shaun Ralph
 subtitle: Advisor
-order: '10'
+order: '15'
 featuredImage: /images/uploads/shaun.jpg
 mainImage: /images/uploads/shaun.jpg
 position: Advisor
