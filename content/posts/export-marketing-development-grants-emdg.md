@@ -1,54 +1,46 @@
 ---
 template: SinglePost
 title: Export Marketing Development Grants (EMDG)
-status: Published
-date: '2018-03-03'
-featuredImage: /images/uploads/our-advisors--banner.jpg
+status: Featured
+date: '2018-11-22'
+featuredImage: /images/uploads/sarah.jpg
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat
+  purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
 categories:
   - category: News
   - category: Export Marketing Development Grants (EMDG)
 authors:
-  - author: Donna Forbes Zlatic
+  - athor: Sarah Crowe
 meta:
   canonicalLink: ''
   description: ''
   noindex: false
   title: ''
 ---
+**EMDG **is the Export Market Development scheme run by the Australian Government financial assistance program administered by Austrade for Australian aspiring and current exporters.
 
-Paragraphs are separated by a blank line.
+The EMDG scheme encourages small to medium Australian businesses the opportunity to develop export markets by reimbursing up to 50 per cent of eligible export promotional expenses above $15,000 in a financial year (July to June).
 
-![Test Image](/images/uploads/our-advisors--banner.jpg)
+Austrade calculate your provisional grant entitlement  based on the following formula: 50% of (total eligible expenses – $5,000 non-reimbursable threshold amount)
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+For example, if your total eligible expenses were $60,000, the provisional grant entitlement would be $27,500. The maximum grant for eligible applicants is $150,000, subject to funds available in the scheme.
 
-### Unordered lists:
+Any Australian individual, partnership, company, association, co-operative, statutory corporation or trust that has carried on export promotion activities during the year can apply for the export grant.
 
-- this one
-- that one
-- the other one
+**To be eligible for EMDG the business must have meet the following conditions:**
 
-### Ordered lists:
+* Income of not more than $50 million in the grant year
+* Incurred at least $15,000 of eligible expenses under the scheme (first-time applicants can combine two years expenses)
+* Principal status for the export business (some exceptions apply, such as non-profit export-focused industry bodies).
 
-1.  first item
-1.  second item
-1.  third item
+**The business also must have promoted one of the following:**
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+* The export of goods or most services
+* Inbound tourism
+* The export of intellectual property and know-how
+* Conferences and events held in Australia
 
-## Heading 2
+If you are a first time applicant you are required to satisfy grant entry requirements, which include providing financial statements and some information that gives details on your business, product or service.
 
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+Should you wish to know more about EMDG and how it could apply to and benefit your business, please don’t hesitate to contact us on 07 5526 7599.
