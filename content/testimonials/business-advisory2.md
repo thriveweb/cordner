@@ -1,8 +1,8 @@
 ---
 template: SingleTestimonial
 title: Always felt well supported
-status: Published
-date: '2018-03-01'
+status: Featured
+date: '2018-11-01'
 featuredImage: /images/uploads/instagram.jpg
 excerpt: ...
 testimonialDetails:
