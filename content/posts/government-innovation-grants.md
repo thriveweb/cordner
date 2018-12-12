@@ -6,10 +6,7 @@ date: '2018-11-08'
 featuredImage: /images/uploads/nathan.jpg
 excerpt: >-
   The Federal Government has recently approved the proposed changes to the small
-  business CGT concessions available to taxpayers on the 20th September 2018.
-  These changes were initially announced in the May 2017 budget handed down but
-  are now drastically different to when they were first put forward, and not in
-  favour of the taxpayers.
+  business CGT concessions available to taxpayers on the 20th September 2018. 
 categories:
   - category: News
   - category: Taxation and Compliance
