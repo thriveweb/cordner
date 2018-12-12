@@ -1,6 +1,6 @@
 ---
 template: SingleTestimonial
-title: Test featured post
+title: Consistently the highest standard
 status: Featured
 date: '2018-03-01'
 featuredImage: /images/uploads/instagram.jpg
@@ -9,11 +9,8 @@ testimonialDetails:
   company: Robbins Watson Solicitors
   image: /images/uploads/instagram.jpg
   name: 'Andrew Smyth, Partner'
-categories:
-  - category: News
-  - category: Business Advisory
-authors:
-  - {}
+categories: []
+authors: []
 meta:
   canonicalLink: ''
   description: ''
