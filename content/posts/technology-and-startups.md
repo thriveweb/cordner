@@ -4,7 +4,11 @@ title: Hot tips for business growth 2019
 status: Published
 date: '2018-07-05'
 featuredImage: /images/uploads/nathan.jpg
-excerpt: ...
+excerpt: >-
+  Many clients ask, “what can I do to grow my business?”, hoping there is a
+  simple solution involving little work. The answer is not always that simple
+  and more times often than not, the first steps to realising business growth
+  takes you back to square one. 
 categories:
   - category: Business Advisory
 authors:
