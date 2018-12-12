@@ -1,54 +1,42 @@
 ---
 template: SinglePost
-title: Property, Construction and Building Services
+title: 'FBT 2019 : Utes are No Tax-Free Perk'
 status: Published
-date: '2018-03-07'
+date: '2018-08-16'
 featuredImage: /images/uploads/our-advisors--banner.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+excerpt: ...
 categories:
-  - category: News
-  - category: Property, Construction and Building Services
+  - category: Taxation and Compliance
 authors:
-  - author: Jarrad Young
+  - athor: Steve Payne
 meta:
   canonicalLink: ''
   description: ''
   noindex: false
   title: ''
 ---
+Although we are already one quarter into the Fringe Benefits Tax (FBT) Year, which runs 01/04/XX to 31/03/XX, the ATO have sought to clarify their position on a perceived “perk” in relation to FBT payable on employer-provided / salary packaged motor vehicles.
 
-Paragraphs are separated by a blank line.
+It has long been a misconception amongst taxpayers that the ownership/provision of a commercial style vehicle, allows for unsubstantiated claiming of expense deductions for that vehicle and exempts it from the imposition of FBT.
+
+Unfortunately, this is not the case, and there is no blanket exemption for any particular vehicle type, as the usage and circumstances must be assessed for each scenario in relation to deductions and FBT. (NB: The load carrying capacity, passenger seating and nature of the vehicle do allow for some exceptions to substantiation requirements – but the popularity of these vehicles as a crossover for work and play, brings them well and truly back under scrutiny).
 
 ![Test Image](/images/uploads/our-advisors--banner.jpg)
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+In early July the ATO revealed that “dodgy” work expense claims by individual taxpayers are a major contributor to what they estimate to be $8.7 billion of uncollected taxes.  Further, as this compliance area becomes more easily targeted, via cross-referencing data and enhanced systems, individual taxpayers have become a focus of the ATO, with further funding allocated in the Federal Budget supporting their efforts.
 
-### Unordered lists:
+A flow on from this focus on individual tax returns is the review of business practices in providing work-related benefits to employees, as a salary packaged sweetener, which may have FBT implications.  As such, the ATO has clarified its stance on guidelines around Fringe Benefits Tax (FBT) on work vehicles.
 
-- this one
-- that one
-- the other one
+For some time, ATO guidelines have allowed “minor, infrequent and irregular” private use of these vehicles.
 
-### Ordered lists:
+The ATO’s new guidance, which will apply for the 2019 FBT year and onwards, clarifies what “minor, infrequent and irregular” private use is.
 
-1.  first item
-1.  second item
-1.  third item
+It allows up to 1000 kilometres of private travel in company cars each year, as long as no single return journey exceeds 200 kilometres.
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+The guidelines surrounding what is considered private use and what is business use for FBT can even extend to private usage undertaken as part of a business related trip, like stopping at the grocery store, or picking up children from school or sports training en route to/from work.
 
-## Heading 2
+So, tradies and others who get vehicles such as utes, as salary-packaged benefits, may find their bosses take away those perks, which could start costing them to provide.
 
-## Heading 2
+Failing to comply may result in a 20 per cent FBT impost on the cost of the vehicle, which means, for example, the FBT payable on a Toyota Hilux 4×4 SR5 double cab pick-up ute valued at $54,990 would be $10,753 per annum.
 
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+Institute of Public Accountants tax expert Tony Greco said the ATO could in future undertake a “compliance blitz” to make sure the rules were being followed correctly.  Further, the perceived “concessional FBT treatment might in part explain why Toyota Hi-Lux and Ford Ranger four-door utes are two of the biggest selling vehicles in Australia”.
