@@ -1,54 +1,46 @@
 ---
 template: SinglePost
-title: Research and Development (R&D) Entitlements
+title: Is it deductible?
 status: Published
-date: '2018-03-09'
-featuredImage: /images/uploads/our-advisors--banner.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+date: '2018-08-02'
+featuredImage: /images/uploads/instagram.jpg
+excerpt: ...
 categories:
-  - category: News
-  - category: Research and Development (R&D) Entitlements
+  - category: Taxation and Compliance
 authors:
-  - author: Jason Cordner
+  - athor: Linda Bergesen
 meta:
   canonicalLink: ''
   description: ''
   noindex: false
   title: ''
 ---
+Australian Taxation Office (ATO) has identified the top 10 tax myths and misunderstandings it says are causing incorrect claims.
 
-Paragraphs are separated by a blank line.
+Kath Anderson, Assistant Commissioner, says that by relying on inaccurate tax advice, taxpayers are exposing themselves to the possibility of claiming invalid deductions; ‘Taxpayers listen to advice from many sources, including tax agents, colleagues, family and friends, and even friendly shop assistants. While some advice is correct, some isn’t and it’s leading to mistakes and errors that can be costly’.
 
-![Test Image](/images/uploads/our-advisors--banner.jpg)
+‘While it’s true that you don’t need to keep detailed receipts for deductions up to those (exempt) amounts, it’s not an automatic entitlement. You still need to meet the three golden rules;
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+* You must have spent the money yourself
+* It must be directly related to earning your income
+* You must be able to show us how you calculated your claim
 
-### Unordered lists:
+‘Around half of the adjustments we (the ATO) make are because taxpayers didn’t keep proper records and therefore they could not demonstrate that they spent the money, what is was spent on and how the expenditure links to earning their income’.
 
-- this one
-- that one
-- the other one
+**For example;**
 
-### Ordered lists:
+“There are only a handful of taxpayers with special circumstances who can claim things like gym membership or makeup containing sunscreen. For most, there isn’t a link to earning their income’.
 
-1.  first item
-1.  second item
-1.  third item
+And if you are thinking of taking a tax-deductible holiday this year, think again because it’s a myth that adding a short conference to your holiday will make the holiday deductible.
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+‘One taxpayer recently took his family on a skiing holiday and claimed it was deductible because he attended a conference for a few days while he was there. He wasn’t very happy when $23,000 of his $25,000 claim was disallowed’.
 
-## Heading 2
+Top 10 tax myths:
 
-## Heading 2
+![Test Image](/images/uploads/cordnergraphictable215-1-441x1024.png)
 
-### Heading 3
+We hope that these details assist you in organising your tax affairs this year in preparation for providing it to our office.
 
-#### Heading 4
+If you have any questions on any of the above, or other matters relating to your tax or financial affairs, please do not hesitate to contact one of our friendly accounting and tax specialists.
 
-##### Heading 5
-
-###### Heading 6
+By Linda Bergesen
