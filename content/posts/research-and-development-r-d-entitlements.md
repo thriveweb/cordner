@@ -3,7 +3,7 @@ template: SinglePost
 title: Is it deductible?
 status: Published
 date: '2018-08-02'
-featuredImage: /images/uploads/instagram.jpg
+featuredImage: /images/uploads/linda.jpg
 excerpt: >-
   Australian Taxation Office (ATO) has identified the top 10 tax myths and
   misunderstandings it says are causing incorrect claims.
