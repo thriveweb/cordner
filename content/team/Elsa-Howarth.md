@@ -10,9 +10,6 @@ categories:
   - category: Self Managed Super Funds
   - category: Private Advisory Services
 ---
+Elsa is Cordner Advisory’s resident SMSF specialist. Her interest in superannuation began in 2003 when she was first introduced to SMSF administration. Since then, Elsa has done extensive training in the field of SMSF and holds the SMSF Associations SMSF Specialist Advisor Qualification.
 
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
-
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
-
-Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui pellentesque, lacinia risus ut, imperdiet eros.
+It’s Elsa’s goal to continuously improve the efficiency of all aspects of SMSF compliance while building trustee knowledge. She is passionate about the provision of relevant and timely information and advice to assist them in superannuation management decisions.
