@@ -3,56 +3,21 @@ template: SingleTestimonial
 title: Test featured post
 status: Featured
 date: '2018-03-01'
-featuredImage: /images/uploads/our-advisors--banner.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
-
+featuredImage: /images/uploads/instagram.jpg
+excerpt: ...
 testimonialDetails:
-  name: Name
-  company: Company
-  image: /images/uploads/our-advisors--banner.jpg
-
+  company: Robbins Watson Solicitors
+  image: /images/uploads/instagram.jpg
+  name: 'Andrew Smyth, Partner'
 categories:
   - category: News
   - category: Business Advisory
 authors:
-  - author: Anne Turner
+  - {}
 meta:
   canonicalLink: ''
   description: ''
   noindex: false
   title: ''
 ---
-
-Paragraphs are separated by a blank line.
-
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
-
-### Unordered lists:
-
-- this one
-- that one
-- the other one
-
-### Ordered lists:
-
-1.  first item
-1.  second item
-1.  third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-## Heading 2
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+"_I have been a client of Cordner Advisory (and its predecessors) for over 15 years. In this time I have found their service to consistently be of the highest standard – both as to technical knowledge, and (just as importantly) for prompt, efficient and friendly responsiveness_. "
