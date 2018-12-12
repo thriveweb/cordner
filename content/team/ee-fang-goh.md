@@ -9,8 +9,8 @@ position: Analyst
 categories:
   - category: Taxation and Compliance
 ---
-Currently pursuing my CPA.
+Currently pursuing her CPA.
 
 Had been in bookkeeping services primarily working with Dominos Pizza Franchisee and numerous client in building and construction industry. 
 
-Now progressing my career towards tax compliance.
+Now progressing her career towards tax compliance.
