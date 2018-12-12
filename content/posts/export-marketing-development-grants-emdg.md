@@ -4,9 +4,7 @@ title: Export Marketing Development Grants (EMDG)
 status: Featured
 date: '2018-11-22'
 featuredImage: /images/uploads/sarah.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat
-  purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+excerpt: ...
 categories:
   - category: News
   - category: Export Marketing Development Grants (EMDG)
