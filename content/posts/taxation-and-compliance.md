@@ -4,7 +4,10 @@ title: Research & Development Incentive – Update
 status: Published
 date: '2018-07-12'
 featuredImage: /images/uploads/sarah.jpg
-excerpt: ...
+excerpt: >-
+  The Australian government is amending the research and development (R&D) tax
+  incentive program in relation to the recommendations of the 2016 Review of the
+  R&D Tax Incentive.
 categories:
   - category: 'R&D, Grants and Taxation Entitlements'
 authors:
