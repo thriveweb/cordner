@@ -3,7 +3,7 @@ template: SinglePost
 title: Base Rate Entity - Corporate Tax Rates
 status: Featured
 date: '2018-11-28'
-featuredImage: /images/uploads/instagram.jpg
+featuredImage: /images/uploads/michael.jpg
 excerpt: ...
 categories:
   - category: News
