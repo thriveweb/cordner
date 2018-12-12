@@ -40,3 +40,7 @@ So, tradies and others who get vehicles such as utes, as salary-packaged benefit
 Failing to comply may result in a 20 per cent FBT impost on the cost of the vehicle, which means, for example, the FBT payable on a Toyota Hilux 4×4 SR5 double cab pick-up ute valued at $54,990 would be $10,753 per annum.
 
 Institute of Public Accountants tax expert Tony Greco said the ATO could in future undertake a “compliance blitz” to make sure the rules were being followed correctly.  Further, the perceived “concessional FBT treatment might in part explain why Toyota Hi-Lux and Ford Ranger four-door utes are two of the biggest selling vehicles in Australia”.
+
+With this change in the landscape of FBT and work-related Tax Deductions, we suggest you contact our advisors on (07) 55045700, who can determine the impact on your situation if your business provides any type of employee benefits in the 2019 FBT year.
+
+Sources: The Age Newspaper / Australian Taxation Office Website / Institute of Public Accountants / Tax & Super Australia
