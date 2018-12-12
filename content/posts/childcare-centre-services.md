@@ -4,7 +4,11 @@ title: Base Rate Entity - Corporate Tax Rates
 status: Featured
 date: '2018-11-28'
 featuredImage: /images/uploads/michael.jpg
-excerpt: ...
+excerpt: >-
+  The corporate tax rate for Small Business Entity (SBE) companies was reduced
+  to 27.5% from the 2017 financial year. To be an SBE, a company must have
+  carried on a business in the current year and met a $10 million aggregated
+  turnover threshold cap.
 categories:
   - category: News
   - category: Taxation and Compliance
