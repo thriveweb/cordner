@@ -1,58 +1,20 @@
 ---
 template: SingleTestimonial
-title: Business Advisory
+title: Always felt well supported
 status: Published
 date: '2018-03-01'
-featuredImage: /images/uploads/our-advisors--banner.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
-
+featuredImage: /images/uploads/instagram.jpg
+excerpt: ...
 testimonialDetails:
-  name: Name
-  company: Company
-  image: /images/uploads/our-advisors--banner.jpg
-
-categories:
-  - category: News
-  - category: Business Advisory
-authors:
-  - author: Anne Turner
+  company: ''
+  image: /images/uploads/instagram.jpg
+  name: Lauren Arkinstall
+categories: []
+authors: []
 meta:
   canonicalLink: ''
   description: ''
   noindex: false
   title: ''
 ---
-
-Paragraphs are separated by a blank line.
-
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
-
-### Unordered lists:
-
-- this one
-- that one
-- the other one
-
-### Ordered lists:
-
-1.  first item
-1.  second item
-1.  third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-## Heading 2
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+"_We have relied on their volumes of proven unfaltering experience to prepare & administer Best Practice across our 3 entities & also Tax returns for our family. As clients we have always felt well supported & informed through many changes to ATO Rules & regulations, always being updated to these where they are relative to our portfolios._"
