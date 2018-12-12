@@ -4,7 +4,9 @@ title: GST Withholding on Property Settlement
 status: Published
 date: '2018-07-19'
 featuredImage: /images/uploads/jun.jpg
-excerpt: ...
+excerpt: >-
+  The new GST withholding act on certain property settlement starts on 1 July
+  2018.
 categories:
   - category: Taxation and Compliance
 authors:
