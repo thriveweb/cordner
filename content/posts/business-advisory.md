@@ -4,7 +4,10 @@ title: Contractors for payroll tax purpose
 status: Featured
 date: '2018-12-05'
 featuredImage: /images/uploads/jun.jpg
-excerpt: ...
+excerpt: >-
+  If your business is paying for contractors, you need to look closer on each
+  contractor to see if the contractor is considered as a relevant contract for
+  payroll tax purpose.
 categories:
   - category: Taxation and Compliance
 authors:
