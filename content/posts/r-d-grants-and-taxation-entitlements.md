@@ -11,7 +11,7 @@ excerpt: >-
 categories:
   - category: Taxation and Compliance
 authors:
-  - athor: Kamil Qureshi
+  - author: Kamil Qureshi
 meta:
   canonicalLink: ''
   description: ''

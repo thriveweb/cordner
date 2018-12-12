@@ -11,7 +11,7 @@ excerpt: >-
 categories:
   - category: Self Managed Super Funds
 authors:
-  - athor: Elsa Howarth
+  - author: Elsa Howarth
 meta:
   canonicalLink: ''
   description: ''

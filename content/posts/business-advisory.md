@@ -11,7 +11,7 @@ excerpt: >-
 categories:
   - category: Taxation and Compliance
 authors:
-  - athor: Jun Yang
+  - author: Jun Yang
 meta:
   canonicalLink: ''
   description: ''

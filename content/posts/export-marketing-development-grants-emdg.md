@@ -12,7 +12,7 @@ categories:
   - category: News
   - category: Export Marketing Development Grants (EMDG)
 authors:
-  - athor: Sarah Crowe
+  - author: Sarah Crowe
 meta:
   canonicalLink: ''
   description: ''

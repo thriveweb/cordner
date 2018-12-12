@@ -10,7 +10,7 @@ excerpt: >-
 categories:
   - category: Taxation and Compliance
 authors:
-  - athor: Linda Bergesen
+  - author: Linda Bergesen
 meta:
   canonicalLink: ''
   description: ''

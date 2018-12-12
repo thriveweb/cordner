@@ -13,7 +13,7 @@ categories:
   - category: News
   - category: Business Advisory
 authors:
-  - athor: Kamil Qureshi
+  - author: Kamil Qureshi
 meta:
   canonicalLink: ''
   description: ''

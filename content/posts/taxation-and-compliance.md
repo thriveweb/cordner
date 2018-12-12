@@ -11,7 +11,7 @@ excerpt: >-
 categories:
   - category: 'R&D, Grants and Taxation Entitlements'
 authors:
-  - athor: Sarah Crowe
+  - author: Sarah Crowe
 meta:
   canonicalLink: ''
   description: ''

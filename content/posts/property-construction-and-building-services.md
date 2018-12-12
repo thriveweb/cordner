@@ -12,7 +12,7 @@ excerpt: >-
 categories:
   - category: Taxation and Compliance
 authors:
-  - athor: Steve Payne
+  - author: Steve Payne
 meta:
   canonicalLink: ''
   description: ''

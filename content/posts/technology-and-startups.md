@@ -12,7 +12,7 @@ excerpt: >-
 categories:
   - category: Business Advisory
 authors:
-  - athor: Nathan Gorry
+  - author: Nathan Gorry
 meta:
   canonicalLink: ''
   description: ''

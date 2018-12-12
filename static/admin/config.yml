@@ -339,7 +339,7 @@ collections:
         widget: 'list'
         fields:
           - label: 'Author'
-            name: 'athor'
+            name: 'author'
             widget: 'relation'
             collection: 'team'
             searchFields: ['title']
@@ -413,7 +413,7 @@ collections:
         widget: 'list'
         fields:
           - label: 'Author'
-            name: 'athor'
+            name: 'author'
             widget: 'relation'
             collection: 'team'
             searchFields: ['title']

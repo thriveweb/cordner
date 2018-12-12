@@ -10,7 +10,7 @@ excerpt: >-
 categories:
   - category: Taxation and Compliance
 authors:
-  - athor: Steve Payne
+  - author: Steve Payne
 ---
 The ATO has announced that it will be closely scrutinizing Motor Vehicle deductions claimed in the 2017/18 income year.
 

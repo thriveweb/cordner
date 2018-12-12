@@ -12,7 +12,7 @@ categories:
   - category: Taxation and Compliance
 authors:
   - {}
-  - athor: ''
+  - author: ''
 meta:
   canonicalLink: ''
   description: ''

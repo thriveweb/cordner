@@ -12,7 +12,7 @@ categories:
   - category: Taxation and Compliance
   - category: Self Managed Super Funds
 authors:
-  - athor: Linda Bergesen
+  - author: Linda Bergesen
 meta:
   canonicalLink: ''
   description: ''
