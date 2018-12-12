@@ -5,7 +5,7 @@ subtitle: Consultant
 order: '15'
 featuredImage: /images/uploads/shaun.jpg
 mainImage: /images/uploads/shaun.jpg
-position: Advisor
+position: Consultant
 categories:
   - category: Taxation and Compliance
   - category: Business Advisory
