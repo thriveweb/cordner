@@ -18,7 +18,7 @@ section2:
   button:
     label: Know More
     link: /our-services/
-  subtitle: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.
+  subtitle: ''
   title: Browse our services
 ---
 
