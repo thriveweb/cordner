@@ -1,54 +1,62 @@
 ---
 template: SinglePost
-title: R&D, Grants and Taxation Entitlements
+title: Queensland Absentee Land Tax
 status: Published
-date: '2018-03-08'
-featuredImage: /images/uploads/our-advisors--banner.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+date: '2018-08-09'
+featuredImage: /images/uploads/kamil.jpg
+excerpt: ...
 categories:
-  - category: News
-  - category: R&D, Grants and Taxation Entitlements
+  - category: Taxation and Compliance
 authors:
-  - author: Jason Cordner
+  - athor: Kamil Qureshi
 meta:
   canonicalLink: ''
   description: ''
   noindex: false
   title: ''
 ---
+**What is the new tax?**
 
-Paragraphs are separated by a blank line.
+In the 2017-18 budget, the government announced a 1.5 per cent land tax surcharge absentee land taxpayers if the value of their taxable land was $350,000 or higher.
 
-![Test Image](/images/uploads/our-advisors--banner.jpg)
+**Who does it apply to?**
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+If you do not usually live in Australia or an external territory, you may be an absentee for land tax purposes even if you are an Australian Citizen.
 
-### Unordered lists:
+As an absentee, you are liable for land tax if the total taxable value of your freehold land at 30 June is $350,000 or more.
 
-- this one
-- that one
-- the other one
+Similar to other types of owners, you will be assessed only on the land you own, which includes the value of your share in any land owned with others.
 
-### Ordered lists:
+**Determining absentee status**
 
-1.  first item
-1.  second item
-1.  third item
+If you have lived outside of Australia during the financial year, the government will consider several factors to determine if you usually live in Australia, such as the reason for your absence and the time spent in and out of the country. If the government is not satisfied that you mainly resided in Australia, you will be an absentee if you:
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+• were away from Australia at 30 June or
 
-## Heading 2
+• have been away from Australia for more than 6 months in total during the financial year before 30 June.
 
-## Heading 2
+If you are an absentee, you cannot claim a home or primary production exemption.
 
-### Heading 3
+In limited cases, a person will not be classed as an absentee land owner if the person is:
 
-#### Heading 4
+• a public officer of the Federal or State Government, and is absent in the performance of their duties; or
 
-##### Heading 5
+• working for their employer in Australia for at least 1 continuous year before they go overseas and are directed by that employer to continue working for them overseas for a period less than 5 year. If the period is longer, they will be reassessed as an absentee for the whole time they are overseas.
 
-###### Heading 6
+**Implications:**
+
+If you are considered an absentee at 30 June 2017 and for following years, a surcharge will apply.
+
+**This is how the surcharge is calculated:**
+
+(Taxable value − $349,999) × 1.5%
+
+The absentee surcharge will appear on the land tax summary section of your assessment notice. It can also appear on reassessment notices, if charged.
+
+The land tax surcharge will apply regardless of whether the property in question is occupied or not and is in addition to any the vacancy charge that the Federal Government imposes on foreign owners of residential property.
+
+**How to inform about the status?**
+
+You can click on the link below to fill up the declaration if you are classified as an absentee for land tax purposes
+
+[https://publications.qld.gov.au/dataset/form-osr-lt16-absentee-resident-status-declaration ](https://publications.qld.gov.au/dataset/form-osr-lt16-absentee-resident-status-declaration)
