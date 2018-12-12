@@ -3,10 +3,8 @@ template: SinglePost
 title: Base Rate Entity - Corporate Tax Rates
 status: Featured
 date: '2018-11-28'
-featuredImage: /images/uploads/card-og.png
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat
-  purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+featuredImage: /images/uploads/instagram.jpg
+excerpt: ...
 categories:
   - category: News
   - category: Taxation and Compliance
