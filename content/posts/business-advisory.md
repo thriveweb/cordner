@@ -4,9 +4,7 @@ title: Contractors for payroll tax purpose
 status: Featured
 date: '2018-12-05'
 featuredImage: /images/uploads/jun.jpg
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed feugiat
-  purus. Ut sit amet vulputate mauris. Praesent id pellentesque massa nunc.
+excerpt: ...
 categories:
   - category: Taxation and Compliance
 authors:
