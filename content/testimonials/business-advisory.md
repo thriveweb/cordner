@@ -2,7 +2,7 @@
 template: SingleTestimonial
 title: Consistently the highest standard
 status: Featured
-date: '2018-03-01'
+date: '2018-10-31'
 featuredImage: /images/uploads/instagram.jpg
 excerpt: ...
 testimonialDetails:
