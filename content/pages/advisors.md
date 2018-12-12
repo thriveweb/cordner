@@ -12,7 +12,7 @@ section1:
     technology companies and startups, childcare, medical/health, construction
     and property. Cordner Advisory delivers experienced senior big firm
     specialist skills with local care and attention.
-  rightTitle: Versatile solutions for everyone.
+  rightTitle: Versatile solutions for everyone
   title: Delivering accounting & advisory services since 1981
 section2:
   button:
