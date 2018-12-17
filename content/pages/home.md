@@ -39,26 +39,41 @@ section5:
   title: What our clients say
 testimonials:
   - author:
-      avatar: /images/uploads/business-advisory.jpg
-      company: Company 1
-      name: name herre
+      avatar: /images/uploads/instagram.jpg
+      company: Active Investments Aust Pty Ltd
+      name: ''
     quote: >-
-      Start a conversation today sed ut perspiciatis unde omnis iste
-      natuserrorsit voluptatem accus
+      "Instrumental in helping us establish business structure which allow us to
+      take maximum advantage"
   - author:
-      avatar: /images/uploads/business-advisory.jpg
-      company: Company 2
-      name: name herre
+      avatar: /images/uploads/instagram.jpg
+      company: Robbins Watson Solicitors
+      name: 'Andrew Smyth, Partner '
     quote: >-
-      Start a conversation today sed ut perspiciatis unde omnis iste
-      natuserrorsit voluptatem accus
+      "I have been a client of Cordner Advisory (and its predecessors) for over
+      15 years. In this time I have found their service to consistently be of
+      the highest standard – both as to technical knowledge, and (just as
+      importantly) for prompt, efficient and friendly responsiveness"  
   - author:
-      avatar: /images/uploads/business-advisory.jpg
-      company: Company 3
-      name: name herre
+      avatar: /images/uploads/instagram.jpg
+      company: ''
+      name: Lauren Arkinstall
     quote: >-
-      Start a conversation today sed ut perspiciatis unde omnis iste
-      natuserrorsit voluptatem accus
+      "We have relied on their volumes of proven unfaltering experience to
+      prepare & administer Best Practice across our 3 entities & also Tax
+      returns for our family. As clients we have always felt well supported &
+      informed through many changes to ATO Rules & regulations, always being
+      updated to these where they are relative to our portfolios"
+  - author:
+      company: 'Veriluma '
+      name: ' Elizabeth Whitelock'
+    quote: >-
+      "Cordner do not act like an outside advisory firm.  Their every action is
+      akin to a Veriluma team member - supporting and sharing our journey and
+      providing timely, relevant advice and hands-on assistance when required" 
+  - {}
+  - {}
+  - {}
 meta:
   canonicalLink: ''
   description: >-
