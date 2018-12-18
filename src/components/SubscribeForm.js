@@ -10,7 +10,7 @@ class SubscribeForm extends React.Component {
     name: 'Subscribe Form',
     subject: '', // optional subject of the notification email
     action: '',
-    successMessage: 'Success! You are subscribed.',
+    successMessage: 'Success!',
     errorMessage: 'There is a problem, your have not subscribed to our list.'
   }
 
