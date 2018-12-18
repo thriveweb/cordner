@@ -1,9 +1,7 @@
 ---
 template: SingleTeam
 title: Anne Turner
-subtitle: >-
-  Tax Compliance & Business Advisory Expert with a Passion for Client
-  Relationship Services
+subtitle: Director
 order: '4'
 featuredImage: /images/uploads/team-member--4.jpg
 mainImage: /images/uploads/team-member--4.jpg
