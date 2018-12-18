@@ -11,8 +11,7 @@ categories:
   - category: News
   - category: Taxation and Compliance
 authors:
-  - {}
-  - author: ''
+  - author: Nathan Gorry
 meta:
   canonicalLink: ''
   description: ''
