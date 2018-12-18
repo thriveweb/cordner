@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Donna Forbes Zlatic
-subtitle: '11 Years in Human Resources, Practice Management & Customer Relations'
+subtitle: Practice Manager
 order: '7'
 featuredImage: /images/uploads/team-member--7.jpg
 mainImage: /images/uploads/team-member--7.jpg
