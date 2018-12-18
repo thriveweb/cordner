@@ -13,7 +13,7 @@ categories:
   - category: News
   - category: Taxation and Compliance
 authors:
-  - {}
+  - author: Michael Courtin
 meta:
   canonicalLink: ''
   description: ''
