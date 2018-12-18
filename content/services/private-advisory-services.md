@@ -1,15 +1,17 @@
 ---
 template: SingleService
-slug: services/private-advisory-services
 title: Private Advisory Services
-subtitle: Our business is dedicated to help protecting and growing your assets. Cordner Advisory prides itself on delivering the very best asset protection, taxation, SMSF, estate planning and succession solutions.
+subtitle: >-
+  Our business is dedicated to help protecting and growing your assets. Cordner
+  Advisory prides itself on delivering the very best asset protection, taxation,
+  SMSF, estate planning and succession solutions.
 status: Featured
+order: 7
+featuredImage: /images/uploads/private-advisory--image.jpg
+icon: /images/uploads/private-advisory--icon.svg
+contentImage: /images/uploads/private-advisory--image.jpg
 categories:
   - category: Private Advisory Services
-featuredImage: /images/uploads/private-advisory--image.jpg
-contentImage: /images/uploads/chart.jpg
-icon: /images/uploads/private-advisory--icon.svg
-order: 7
 ---
 
 Private Advisory Services
