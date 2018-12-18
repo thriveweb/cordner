@@ -43,14 +43,14 @@ testimonials:
       company: Active Investments Aust Pty Ltd
       name: Grant Hutchings
     quote: >-
-      "Instrumental in helping us establish business structure which allow us to
+      Instrumental in helping us establish business structure which allow us to
       take maximum advantage"
   - author:
       avatar: /images/uploads/instagram.jpg
       company: Robbins Watson Solicitors
       name: 'Andrew Smyth, Partner '
     quote: >-
-      "I have been a client of Cordner Advisory (and its predecessors) for over
+      I have been a client of Cordner Advisory (and its predecessors) for over
       15 years. In this time I have found their service to consistently be of
       the highest standard – both as to technical knowledge, and (just as
       importantly) for prompt, efficient and friendly responsiveness"  
@@ -59,7 +59,7 @@ testimonials:
       company: Personal
       name: Lauren Arkinstall
     quote: >-
-      "We have relied on their volumes of proven unfaltering experience to
+      We have relied on their volumes of proven unfaltering experience to
       prepare & administer Best Practice across our 3 entities & also Tax
       returns for our family. As clients we have always felt well supported &
       informed through many changes to ATO Rules & regulations, always being
@@ -69,7 +69,7 @@ testimonials:
       company: 'Veriluma '
       name: ' Elizabeth Whitelock'
     quote: >-
-      "Cordner do not act like an outside advisory firm.  Their every action is
+      Cordner do not act like an outside advisory firm.  Their every action is
       akin to a Veriluma team member - supporting and sharing our journey and
       providing timely, relevant advice and hands-on assistance when required" 
   - author:
@@ -77,25 +77,25 @@ testimonials:
       company: Gardiner Chess
       name: Graeme
     quote: >-
-      "We continue to benefit from our personal relationship and happily
+      We continue to benefit from our personal relationship and happily
       recommend Cordner Advisory to any business looking to improve and grow"  
   - author:
       avatar: /images/uploads/instagram.jpg
       company: Daniel Thompson Pty Ltd
       name: Dan Thompson
-    quote: '"Always provided exemplary service and value added service"'
+    quote: Always provided exemplary service and value added service"
   - author:
       avatar: /images/uploads/instagram.jpg
       company: BluePoint Property
       name: The Directors
     quote: >-
-      "Very thorough and highly responsive… we have no hesitation in
-      recommending them"   
+      Very thorough and highly responsive… we have no hesitation in recommending
+      them"   
   - author:
       avatar: /images/uploads/instagram.jpg
       company: Javro Pty Ltd
       name: Bob Laybutt
-    quote: '"A pro-active and competent accountant and trusted business adviser"  '
+    quote: 'A pro-active and competent accountant and trusted business adviser"  '
 meta:
   canonicalLink: ''
   description: >-
