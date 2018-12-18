@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Jarrad Young
-subtitle: SMSF Specialist & Gold Coast Business Expert.
+subtitle: SMSF Specialist & Gold Coast Business Expert
 order: '2'
 featuredImage: /images/uploads/team-member--3.jpg
 mainImage: /images/uploads/team-member--3.jpg
