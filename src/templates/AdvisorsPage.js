@@ -3,7 +3,6 @@ import Helmet from 'react-helmet'
 
 import PageHeader from '../components/PageHeader'
 import Image from '../components/Image'
-import Content from '../components/Content.js'
 import NumberedHeader from '../components/NumberedHeader'
 import Link from 'gatsby-link'
 
@@ -13,7 +12,6 @@ import './AdvisorsPage.scss'
 export const AdvisorsPageTemplate = ({
   title,
   featuredImage,
-  categories,
   section1,
   section2,
   team

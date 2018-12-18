@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Di Girvin
 subtitle: Director
-order: '4'
+order: 4
 featuredImage: /images/uploads/team-member--5.jpg
 mainImage: /images/uploads/team-member--5.jpg
 position: Director
@@ -12,6 +12,7 @@ categories:
   - category: Export Marketing Development Grants (EMDG)
   - category: Research and Development (R&D) Entitlements
 ---
+
 Di is a member of the Institute of Chartered Accountants and previous Big 4 advisory specialist, has significant experience in tax compliance and advisory services. Di specialises in business advisory, concentrating on assisting businesses with strategy, management reporting, R&D, grants and growth.
 
 Throughout her career Di has amassed diverse knowledge, working with Medium Sized Firms to ASX listed entities across many industries including childcare, construction, IT, NFPs, health and manufacturing

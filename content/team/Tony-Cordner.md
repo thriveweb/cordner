@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Tony Cordner
 subtitle: Founder
-order: '111'
+order: 111
 featuredImage: /images/uploads/team-member--1.jpg
 mainImage: /images/uploads/tony.jpg
 position: Founder
@@ -12,10 +12,11 @@ email: info@cordner.com.au
 categories:
   - category: Taxation and Compliance
 ---
+
 Tony has over 35 years’ experience in the professional practice of
 business services, taxation, superannuation and auditing. As a past
 business owner and operator, Tony understands the needs of a small
-medium business first hand. 
+medium business first hand.
 
 Tony now consults with Cordner Advisory in structuring for taxation,
 asset protection, estate planning strategies and all aspects of SMSF

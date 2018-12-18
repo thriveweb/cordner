@@ -2,13 +2,14 @@
 template: SingleTeam
 title: Kamil Qureshi
 subtitle: Analyst
-order: '17'
+order: 17
 featuredImage: /images/uploads/kamil.jpg
 mainImage: /images/uploads/kamil.jpg
 position: Analyst
 categories:
   - category: Taxation and Compliance
 ---
-Kamil – B-Com is a qualified Accountant with multiple years of experience in Australia’s top 10 Chartered Accounting firms. He is currently studying towards his CPA. Kamil specializes in business advisory and has a sound knowledge of Australian Taxation Law. 
+
+Kamil – B-Com is a qualified Accountant with multiple years of experience in Australia’s top 10 Chartered Accounting firms. He is currently studying towards his CPA. Kamil specializes in business advisory and has a sound knowledge of Australian Taxation Law.
 
 He has been advising and assisting many small to medium businesses across a range of industries. He works with a positive attitude and puts his clients’ needs first and provides assistance in any way he can. He enjoys the challenge of researching complex matters and has assisted many clients to find optimum solutions for their business’s taxation issues. Being multi lingual, Kamil has been a resourceful asset to the firm when it comes to engaging with our clients from overseas.

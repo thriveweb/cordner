@@ -3,7 +3,6 @@ import Helmet from 'react-helmet'
 import _get from 'lodash/get'
 import _format from 'date-fns/format'
 import Link from 'gatsby-link'
-import { ChevronLeft } from 'react-feather'
 
 import Content from '../components/Content'
 import Image from '../components/Image'
