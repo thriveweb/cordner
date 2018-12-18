@@ -19,7 +19,7 @@ excerpt: >-
   Founder – Ben Hennock
 testimonialDetails:
   company: Wash It Australia
-  image: /images/uploads/hennock.png
+  image: /images/uploads/wash-it.png
   name: Ben Hennock
 categories: []
 authors: []
