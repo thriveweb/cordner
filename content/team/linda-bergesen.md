@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Linda Bergesen
-subtitle: 'CA qualified in Australia & New Zealand, England & Wales'
+subtitle: Advisor
 order: '10'
 featuredImage: /images/uploads/linda.jpg
 mainImage: /images/uploads/linda.jpg
