@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Jason Cordner
 subtitle: Director
-order: '1'
+order: '2'
 featuredImage: /images/uploads/team-member--2.jpg
 mainImage: /images/uploads/team-member--2.jpg
 position: Director
