@@ -7,10 +7,10 @@ subtitle: >-
   eligible activities.
 status: Published
 order: 4
-featuredImage: /images/uploads/architecture-building-business-256381.jpg
+featuredImage: /images/uploads/rd--image.jpg
 icon: /images/uploads/rd-advisory--icon.svg
 parentService: 'R&D, Grants and Taxation Entitlements'
-contentImage: /images/uploads/architecture-building-business-256381.jpg
+contentImage: /images/uploads/rd--image.jpg
 categories:
   - category: 'R&D, Grants and Taxation Entitlements'
   - category: Research and Development (R&D) Entitlements
