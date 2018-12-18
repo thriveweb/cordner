@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Michael Courtin
-subtitle: ...
+subtitle: Advisor
 order: '12'
 featuredImage: /images/uploads/michael.jpg
 mainImage: /images/uploads/michael.jpg
