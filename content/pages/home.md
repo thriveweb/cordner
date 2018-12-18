@@ -41,7 +41,7 @@ testimonials:
   - author:
       avatar: /images/uploads/instagram.jpg
       company: Active Investments Aust Pty Ltd
-      name: ''
+      name: Grant Hutchings
     quote: >-
       "Instrumental in helping us establish business structure which allow us to
       take maximum advantage"
@@ -56,7 +56,7 @@ testimonials:
       importantly) for prompt, efficient and friendly responsiveness"  
   - author:
       avatar: /images/uploads/instagram.jpg
-      company: ''
+      company: Personal
       name: Lauren Arkinstall
     quote: >-
       "We have relied on their volumes of proven unfaltering experience to
