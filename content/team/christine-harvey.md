@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Christine Harvey
-subtitle: ....
+subtitle: 'Qualified CPA, has significant experience as a finance manager and advisor '
 order: '11'
 featuredImage: /images/uploads/christine.jpg
 mainImage: /images/uploads/christine.jpg
