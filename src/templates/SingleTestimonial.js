@@ -143,7 +143,7 @@ export const pageQuery = graphql`
     }
 
     allTestimonials: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "testimonials" } } }
+      filter: { fields: { contentType: { eq: "case-studies" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {

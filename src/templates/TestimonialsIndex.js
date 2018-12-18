@@ -90,7 +90,7 @@ export const pageQuery = graphql`
     }
 
     testimonials: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "testimonials" } } }
+      filter: { fields: { contentType: { eq: "case-studies" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
@@ -113,7 +113,7 @@ export const pageQuery = graphql`
     }
     testimonialsFeatured: allMarkdownRemark(
       filter: {
-        fields: { contentType: { eq: "testimonials" } }
+        fields: { contentType: { eq: "case-studies" } }
         frontmatter: { status: { regex: "/Featured/i" } }
         # limit: 1
       }

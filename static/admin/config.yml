@@ -365,11 +365,11 @@ collections:
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
-  - name: testimonials
+  - name: case-studies
     label: Testimonials
     editor:
       preview: true
-    folder: content/testimonials
+    folder: content/case-studies
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
