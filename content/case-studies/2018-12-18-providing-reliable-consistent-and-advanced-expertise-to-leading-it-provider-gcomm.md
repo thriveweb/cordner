@@ -19,10 +19,8 @@ testimonialDetails:
   company: GCOMM
   image: /images/uploads/gcomm.png
   name: Peter Thompson
-categories:
-  - category: News
-authors:
-  - author: Jarrad Young
+categories: []
+authors: []
 ---
 GCOMM, established in 1996, is the Gold Coast’s most successful and largest IT Service provider with over 70 full time employees. GCOMM provide high end business grade internet, private Internet networks, IP Telephony, Data Centre services server hosting and first class cloud technology. 
 
