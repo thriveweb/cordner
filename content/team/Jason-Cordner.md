@@ -10,8 +10,6 @@ categories:
   - category: Business Advisory
   - category: Private Advisory Services
 ---
-Jason Cordner, qualified CPA and fellow of Finisia, field of expertise ranges from tax advice and business services to corporate advisory engagements including due diligence, valuations, business transfers and forensic accounting. Jason advises clients in strategic planning, estate and succession planning, focuses on business improvement and performance indicators to enhance outcomes for his clients. 
+Jason, qualified CPA and fellow of Finisia, field of expertise ranges from tax advice and business services to corporate advisory engagements including due diligence, valuations, business transfers and forensic accounting. Jason advises clients in strategic planning, estate and succession planning, focuses on business improvement and performance indicators to enhance outcomes for his clients. 
 
-\[Insert case study links – WashIt Bluepoint]
-
-His combination of experience and qualifications make him a highly valuable advisor for all sized businesses. Jason leads our Virtual CFO offering and is committed to working with enthusiastic and motivated business owners. Jason currently serves on the board of Faraday (incomplete)
+His combination of experience and qualifications make him a highly valuable advisor for all sized businesses. Jason leads our Virtual CFO offering and is committed to working with enthusiastic and motivated business owners.
