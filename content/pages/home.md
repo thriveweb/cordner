@@ -72,9 +72,30 @@ testimonials:
       "Cordner do not act like an outside advisory firm.  Their every action is
       akin to a Veriluma team member - supporting and sharing our journey and
       providing timely, relevant advice and hands-on assistance when required" 
-  - {}
-  - {}
-  - {}
+  - author:
+      avatar: /images/uploads/instagram.jpg
+      company: Gardiner Chess
+      name: Graeme
+    quote: >-
+      "We continue to benefit from our personal relationship and happily
+      recommend Cordner Advisory to any business looking to improve and grow"  
+  - author:
+      avatar: /images/uploads/instagram.jpg
+      company: Daniel Thompson Pty Ltd
+      name: Dan Thompson
+    quote: '"Always provided exemplary service and value added service"'
+  - author:
+      avatar: /images/uploads/instagram.jpg
+      company: BluePoint Property
+      name: The Directors
+    quote: >-
+      "Very thorough and highly responsive… we have no hesitation in
+      recommending them"   
+  - author:
+      avatar: /images/uploads/instagram.jpg
+      company: Javro Pty Ltd
+      name: Bob Laybutt
+    quote: '"A pro-active and competent accountant and trusted business adviser"  '
 meta:
   canonicalLink: ''
   description: >-
