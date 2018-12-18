@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Ee Fang Goh
-subtitle: Bookkeeping Extraordinaire
+subtitle: Pursuing CPA and career towards tax compliance
 order: '16'
 featuredImage: /images/uploads/ee.png
 mainImage: /images/uploads/ee.png
