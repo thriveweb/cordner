@@ -65,6 +65,7 @@ testimonials:
       informed through many changes to ATO Rules & regulations, always being
       updated to these where they are relative to our portfolios"
   - author:
+      avatar: /images/uploads/instagram.jpg
       company: 'Veriluma '
       name: ' Elizabeth Whitelock'
     quote: >-
