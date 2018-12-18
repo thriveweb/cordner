@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Ee Fang Goh
-subtitle: ...
+subtitle: Bookkeeping Extraordinaire
 order: '16'
 featuredImage: /images/uploads/ee.png
 mainImage: /images/uploads/ee.png
