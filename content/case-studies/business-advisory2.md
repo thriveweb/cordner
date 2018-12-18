@@ -5,7 +5,7 @@ title: >-
   Washing Specialists
 status: Featured
 date: '2018-06-29'
-featuredImage: /images/uploads/wash-it.png
+featuredImage: /images/uploads/washit1.png
 excerpt: >-
 
   “We have built a strong relationship with Jason and the team at Cordner
