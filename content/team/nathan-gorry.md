@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Nathan Gorry
-subtitle: ...
+subtitle: Consultant
 order: '14'
 featuredImage: /images/uploads/nathan.jpg
 mainImage: /images/uploads/nathan.jpg
