@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Jason Cordner
-subtitle: From Tax Advice to Corporate Advisory & more than 20 years’ Experience
+subtitle: Director
 order: '1'
 featuredImage: /images/uploads/team-member--2.jpg
 mainImage: /images/uploads/team-member--2.jpg
