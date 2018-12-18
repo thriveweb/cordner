@@ -9,7 +9,7 @@ order: '3'
 featuredImage: /images/uploads/rd--image.jpg
 icon: /images/uploads/rd-advisory--icon.svg
 parentService: Government Grants
-contentImage: /images/uploads/chart.jpg
+contentImage: /images/uploads/rd--image.jpg
 categories:
   - category: 'R&D, Grants and Taxation Entitlements'
 ---
