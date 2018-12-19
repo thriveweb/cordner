@@ -64,7 +64,9 @@ export default class Nav extends Component {
                 </NavLink>
                 <div
                   className="NavLink hasCildren"
-                  onClick={() => this.handleMobileList('RdGrants')}
+                  to="/services/government-grants"
+                  onClick={this.handleLinkClick}
+                  exact
                 >
                   Government Grants
                   <ChevronRight className="ChevronRight" />
