@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Sarah Crowe
-subtitle: Advisor
+subtitle: Consultant
 teamOrder: 13
 featuredImage: /images/uploads/sarah.jpg
 mainImage: /images/uploads/sarah.jpg
