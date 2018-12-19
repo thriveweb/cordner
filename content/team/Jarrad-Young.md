@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Jarrad Young
-subtitle: Director
+subtitle: Director & SMSF Specialist
 teamOrder: 3
 featuredImage: /images/uploads/jarrad...jpg
 mainImage: /images/uploads/jarrad1.jpg
