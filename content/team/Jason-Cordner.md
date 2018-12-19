@@ -2,9 +2,9 @@
 template: SingleTeam
 title: Jason Cordner
 subtitle: Director
-teamOrder: 2
-featuredImage: /images/uploads/team-member--2.jpg
-mainImage: /images/uploads/team-member--2.jpg
+order: '2'
+featuredImage: /images/uploads/jason...jpg
+mainImage: /images/uploads/jason1.jpg
 position: Director
 categories:
   - category: Business Advisory
