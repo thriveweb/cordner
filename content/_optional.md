@@ -1,6 +1,7 @@
 ---
 featuredImage: /images/logo.svg
 conentImage: /images/logo.svg
+mainImage: /images/logo.svg
 categories:
   - category: ''
 
