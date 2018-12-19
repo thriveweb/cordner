@@ -9,6 +9,8 @@ excerpt: >-
   to improve the integrity on property transactions. 
 categories:
   - category: Taxation and Compliance
+  - category: 'Property, Construction and Building Services'
+  - category: Key Industries
 authors:
   - author: Nathan Gorry
 ---
