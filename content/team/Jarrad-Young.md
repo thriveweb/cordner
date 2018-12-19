@@ -2,9 +2,9 @@
 template: SingleTeam
 title: Jarrad Young
 subtitle: Director
-teamOrder: 3
-featuredImage: /images/uploads/team-member--3.jpg
-mainImage: /images/uploads/team-member--3.jpg
+order: '3'
+featuredImage: /images/uploads/jarrad...jpg
+mainImage: /images/uploads/jarrad1.jpg
 position: Director
 email: jarrad@cordner.com.au
 categories:
