@@ -3,7 +3,7 @@ template: SinglePost
 title: Trusted Advisor
 status: Published
 date: '2018-05-03'
-featuredImage: /images/uploads/team-member--4.jpg
+featuredImage: /images/uploads/anne...jpg
 excerpt: >-
   Given the current Royal Commission into the banks and the financial services
   industry, it seems a good time to revisit just what being a trusted advisor
