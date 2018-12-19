@@ -491,7 +491,7 @@ collections:
       - { label: Template, name: template, widget: hidden, default: SingleTeam }
       - { label: Title, name: title, widget: string }
       - { label: subtitle, name: subtitle, widget: string }
-      - { label: Order, name: order, widget: number }
+      - { label: Order, name: teamOrder, widget: number }
       - { label: Featured Image, name: featuredImage, widget: image }
       - { label: main Image, name: mainImage, widget: image }
       - { label: position, name: position, widget: string }

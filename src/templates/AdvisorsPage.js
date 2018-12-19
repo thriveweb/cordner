@@ -117,7 +117,7 @@ export const pageQuery = graphql`
     }
     team: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "team" } } }
-      sort: { order: ASC, fields: [frontmatter___order] }
+      sort: { order: ASC, fields: [frontmatter___teamOrder] }
     ) {
       edges {
         node {

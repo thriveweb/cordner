@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Jun Yang
 subtitle: Senior Advisor
-order: 8
+teamOrder: 8
 featuredImage: /images/uploads/jun.jpg
 mainImage: /images/uploads/jun.jpg
 position: Senior Advisor

@@ -11,6 +11,7 @@ linkedin: ''
 email: ''
 
 order: 0
+teamOrder: 0
 
 meta:
   canonicalLink: ''

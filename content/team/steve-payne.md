@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Steve Payne
 subtitle: Senior Advisor
-order: 9
+teamOrder: 9
 featuredImage: /images/uploads/steve.jpg
 mainImage: /images/uploads/steve.jpg
 position: Senior Advisor

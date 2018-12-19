@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Nathan Gorry
 subtitle: Consultant
-order: 14
+teamOrder: 14
 featuredImage: /images/uploads/nathan.jpg
 mainImage: /images/uploads/nathan.jpg
 position: Consultant
