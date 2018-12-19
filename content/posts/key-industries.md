@@ -3,7 +3,7 @@ template: SinglePost
 title: SMSF – The Case for Up to Date Reporting
 status: Published
 date: '2018-10-31'
-featuredImage: /images/uploads/team-member--6.jpg
+featuredImage: /images/uploads/elsa...jpg
 excerpt: >-
   The world is changing and, as it changes, everyone who doesn’t adapt are left
   behind. This is very true when it comes to interacting with and accessing
