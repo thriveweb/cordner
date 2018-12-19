@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Elsa Howarth
 subtitle: Senior Advisor & SMSF Specialist
-teamOrder: '6'
+teamOrder: 6
 featuredImage: /images/uploads/elsa...jpg
 mainImage: /images/uploads/elsa1.jpg
 position: Senior Advisor & SMSF Specialist

@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Jarrad Young
 subtitle: Director
-order: '3'
+teamOrder: 3
 featuredImage: /images/uploads/jarrad...jpg
 mainImage: /images/uploads/jarrad1.jpg
 position: Director
