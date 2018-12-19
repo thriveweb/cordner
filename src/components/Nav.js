@@ -62,14 +62,18 @@ export default class Nav extends Component {
                 <NavLink to="/services/taxation-and-compliance" exact>
                   Taxation and compliance
                 </NavLink>
-                <div
-                  className="NavLink hasCildren"
-                  to="/services/government-grants"
-                  onClick={this.handleLinkClick}
-                  exact
-                >
-                  Government Grants
-                  <ChevronRight className="ChevronRight" />
+                <div className="NavLink hasCildren">
+                  <Link
+                    to="/services/government-grants"
+                    onClick={this.handleLinkClick}
+                    exact
+                  >
+                    Government Grants
+                  </Link>
+                  <ChevronRight
+                    className="ChevronRight"
+                    onClick={() => this.handleMobileList('keyIndustries')}
+                  />
                   <div
                     className={`children level-two rd-grants-children  ${
                       this.state['navListRdGrants'] ? 'active' : ''
