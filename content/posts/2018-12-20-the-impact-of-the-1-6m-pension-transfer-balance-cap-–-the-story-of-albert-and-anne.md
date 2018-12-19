@@ -4,7 +4,7 @@ title: >-
   The impact of the $1.6m pension transfer balance cap – The story of Albert and
   Anne
 status: Published
-date: '2018-01-11'
+date: '2017-01-12'
 featuredImage: /images/uploads/anne...jpg
 excerpt: >-
   This story is designed to illustrate the impact of the $1.6m pension transfer
