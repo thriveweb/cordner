@@ -3,8 +3,8 @@ template: SingleTeam
 title: Kamil Qureshi
 subtitle: Analyst
 teamOrder: 17
-featuredImage: /images/uploads/kamil.jpg
-mainImage: /images/uploads/kamil.jpg
+featuredImage: /images/uploads/kamil1.jpg
+mainImage: /images/uploads/kamil1.jpg
 position: Analyst
 categories:
   - category: Taxation and Compliance
