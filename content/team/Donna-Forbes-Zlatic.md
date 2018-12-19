@@ -2,15 +2,9 @@
 template: SingleTeam
 title: Donna Forbes Zlatic
 subtitle: Practice Manager
-<<<<<<< HEAD
 teamOrder: 7
 featuredImage: /images/uploads/team-member--7.jpg
 mainImage: /images/uploads/team-member--7.jpg
-=======
-order: 7
-featuredImage: /images/uploads/_r1a1920_print.jpg
-mainImage: /images/uploads/_r1a1920_print.jpg
->>>>>>> a9f7ad7a76b63c58230012f3221b80f85a887761
 position: Practice Manager
 categories:
   - category: News

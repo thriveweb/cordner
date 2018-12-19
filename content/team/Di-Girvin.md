@@ -2,15 +2,9 @@
 template: SingleTeam
 title: Di Girvin
 subtitle: Director
-<<<<<<< HEAD
 teamOrder: 4
 featuredImage: /images/uploads/team-member--5.jpg
 mainImage: /images/uploads/team-member--5.jpg
-=======
-order: 4
-featuredImage: /images/uploads/_r1a2260_print.jpg
-mainImage: /images/uploads/_r1a2260_print.jpg
->>>>>>> a9f7ad7a76b63c58230012f3221b80f85a887761
 position: Director
 categories:
   - category: Business Advisory

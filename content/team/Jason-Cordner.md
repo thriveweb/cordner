@@ -2,15 +2,9 @@
 template: SingleTeam
 title: Jason Cordner
 subtitle: Director
-<<<<<<< HEAD
 teamOrder: 2
 featuredImage: /images/uploads/team-member--2.jpg
 mainImage: /images/uploads/team-member--2.jpg
-=======
-order: 2
-featuredImage: /images/uploads/_r1a4993_print.jpg
-mainImage: /images/uploads/_r1a4993_print.jpg
->>>>>>> a9f7ad7a76b63c58230012f3221b80f85a887761
 position: Director
 categories:
   - category: Business Advisory
