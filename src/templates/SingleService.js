@@ -74,7 +74,6 @@ export const SingleServiceTemplate = ({
             <div className="grid">
               <div className="ServiceCard red">
                 <NumberedHeader number="" title="We also offer" />
-                <h2>We help you with</h2>
               </div>
               {!!relatedServices &&
                 relatedServices.map((service, index) => {
@@ -90,7 +89,6 @@ export const SingleServiceTemplate = ({
         <section className="section RelatedMembers">
           <div className="container flex">
             <div className="flex-column one-half">
-              <NumberedHeader number="" title="We help you" />
               <h3>Who heads up this service</h3>
             </div>
             <div className="flex-column one-half" />
