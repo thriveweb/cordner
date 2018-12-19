@@ -3,7 +3,7 @@ template: SinglePost
 title: The 2018-19 Federal Budget – how does it impact your SMSF
 status: Published
 date: '2018-05-24'
-featuredImage: /images/uploads/team-member--6.jpg
+featuredImage: /images/uploads/elsa...jpg
 excerpt: >-
   An SMSF friendly budget is the good news coming out of the 2018-19 Federal
   Budget.
