@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Anne Turner
 subtitle: Director
-order: '4'
+teamOrder: '4'
 featuredImage: /images/uploads/anne...jpg
 mainImage: /images/uploads/anne1.jpg
 position: Director
