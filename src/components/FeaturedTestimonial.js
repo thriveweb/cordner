@@ -1,15 +1,15 @@
 import React from 'react'
 
-import TestimonialCard from './TestimonialCard'
+import CasestudyCard from './CasestudyCard'
 
-import './FeaturedTestimonials.scss'
+import './FeaturedCasestudies.scss'
 
-export default ({ testimonialsFeatured }) => (
-  <section className="Section-Featured--Testimonial ">
+export default ({ casestudiesFeatured }) => (
+  <section className="Section-Featured--Casestudy ">
     <div className="container">
-      <div className="FeaturedTestimonials">
-        {testimonialsFeatured.map((testimonial, index) => (
-          <TestimonialCard {...testimonial} key={index} />
+      <div className="FeaturedCasestudies">
+        {casestudiesFeatured.map((casestudy, index) => (
+          <TestimonialCard {...casestudy} key={index} />
         ))}
       </div>
     </div>

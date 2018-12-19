@@ -1,11 +1,11 @@
 import React from 'react'
 
-import TestimonialCard from '../components/TestimonialCard'
+import CasestudyCard from '../components/CasestudyCard'
 import './PostSection.css'
 
-class TestimonialsSection extends React.Component {
+class CasestudiesSection extends React.Component {
   static defaultProps = {
-    testimonials: [],
+    casestudies: [],
     title: '',
     limit: 12,
     showLoadMore: true,
@@ -23,29 +23,23 @@ class TestimonialsSection extends React.Component {
     }))
 
   render() {
-    const { testimonials, title, showLoadMore, loadMoreTitle } = this.props
+    const { casestudies, title, showLoadMore, loadMoreTitle } = this.props
     const { limit } = this.state
 
-    const visibleTestimonials = testimonials.slice(
-      0,
-      limit || testimonials.length
-    )
+    const visibleCasestudies = casestudies.slice(0, limit || casestudies.length)
 
     return (
       <div className="PostSection">
         {title && <h2 className="PostSection--Title">{title}</h2>}
-        {!!visibleTestimonials.length && (
+        {!!visibleCasestudies.length && (
           <div className="PostSection--Grid">
-            {visibleTestimonials.map((testimonial, index) => (
-              <TestimonialCard
-                key={testimonial.title + index}
-                {...testimonial}
-              />
+            {visibleCasestudies.map((casestudy, index) => (
+              <CasestudyCard key={casestudy.title + index} {...casestudy} />
             ))}
           </div>
         )}
         {showLoadMore &&
-          visibleTestimonials.length < testimonials.length && (
+          visibleCasestudies.length < casestudies.length && (
             <div className="taCenter">
               <br />
               <button className="Button" onClick={this.increaseLimit}>
@@ -58,4 +52,4 @@ class TestimonialsSection extends React.Component {
   }
 }
 
-export default TestimonialsSection
+export default CasestudiesSection

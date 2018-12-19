@@ -7,7 +7,7 @@ import { AdvisorsPageTemplate } from '../templates/AdvisorsPage'
 import { ContactPageTemplate } from '../templates/ContactPage'
 import { BlogIndexTemplate } from '../templates/BlogIndex'
 import { SinglePostTemplate } from '../templates/SinglePost'
-import { SingleTestimonialTemplate } from '../templates/SingleTestimonial'
+import { SingleCasestudyTemplate } from '../templates/SingleCasestudy'
 import { SingleServiceTemplate } from '../templates/SingleService'
 import { SingleTeamTemplate } from '../templates/SingleTeam'
 import { StandardPageTemplate } from '../templates/StandardPage'
@@ -42,8 +42,8 @@ CMS.registerPreviewTemplate('privacy-page', ({ entry }) => (
 CMS.registerPreviewTemplate('posts', ({ entry }) => (
   <SinglePostTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('testimonials', ({ entry }) => (
-  <SingleTestimonialTemplate {...entry.toJS().data} />
+CMS.registerPreviewTemplate('casestudies', ({ entry }) => (
+  <SingleCasestudyTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('services', ({ entry }) => (
   <SingleServiceTemplate {...entry.toJS().data} />

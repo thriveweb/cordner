@@ -8,16 +8,13 @@ import Content from '../components/Content'
 import Image from '../components/Image'
 import './SinglePost.css'
 
-export const SingleTestimonialTemplate = ({
+export const SingleCasestudyTemplate = ({
   title,
-  date,
   featuredImage,
   body,
-  nextTestimonialURL,
-  prevTestimonialURL,
-  categories = [],
-  authors = [],
-  testimonialDetails
+  casestudyDetails,
+  nextCasestudyURL,
+  prevCasestudyURL
 }) => (
   <article
     className="SinglePost section light"
@@ -45,40 +42,35 @@ export const SingleTestimonialTemplate = ({
           </h1>
         )}
 
-        <div className="SinglePost--InnerContent">
-          {testimonialDetails.name && (
-            <div className="Testimonial--Details">
+        <Content source={body} />
+
+        {casestudyDetails.name && (
+          <small>
+            <div className="Casestudy--Details">
               <div className="info">
-                {testimonialDetails.name && <h3>{testimonialDetails.name}</h3>}
-                {testimonialDetails.company && (
-                  <h5>{testimonialDetails.company}</h5>
+                {casestudyDetails.name && (
+                  <strong>{casestudyDetails.name}</strong>
                 )}
+                {' - '}
+                {casestudyDetails.company && casestudyDetails.company}
               </div>
-
-              {testimonialDetails.image && (
-                <div className="relative">
-                  <Image src={testimonialDetails.image} alt={title} />
-                </div>
-              )}
             </div>
-          )}
-
-          <Content source={body} />
-        </div>
+          </small>
+        )}
 
         <div className="SinglePost--Pagination">
-          {prevTestimonialURL && (
+          {prevCasestudyURL && (
             <Link
               className="SinglePost--Pagination--Link prev"
-              to={prevTestimonialURL}
+              to={prevCasestudyURL}
             >
               Previous Post
             </Link>
           )}
-          {nextTestimonialURL && (
+          {nextCasestudyURL && (
             <Link
               className="SinglePost--Pagination--Link next"
-              to={nextTestimonialURL}
+              to={nextCasestudyURL}
             >
               Next Post
             </Link>
@@ -90,31 +82,31 @@ export const SingleTestimonialTemplate = ({
 )
 
 // Export Default SinglePost for front-end
-const SingleTestimonial = ({ data, pathContext }) => {
-  const { testimonial, allTestimonials } = data
-  const thisEdge = allTestimonials.edges.find(
-    edge => edge.node.id === testimonial.id
+const SingleCasestudy = ({ data, pathContext }) => {
+  const { casestudy, allCasestudies } = data
+  const thisEdge = allCasestudies.edges.find(
+    edge => edge.node.id === casestudy.id
   )
   return (
-    <SingleTestimonialTemplate
-      {...testimonial}
-      {...testimonial.frontmatter}
-      body={testimonial.html}
-      nextTestimonialURL={_get(thisEdge, 'next.fields.slug')}
-      prevTestimonialURL={_get(thisEdge, 'previous.fields.slug')}
+    <SingleCasestudyTemplate
+      {...casestudy}
+      {...casestudy.frontmatter}
+      body={casestudy.html}
+      nextCasestudyURL={_get(thisEdge, 'next.fields.slug')}
+      prevCasestudyURL={_get(thisEdge, 'previous.fields.slug')}
     />
   )
 }
 
-export default SingleTestimonial
+export default SingleCasestudy
 
 export const pageQuery = graphql`
   ## Query for SinglePost data
   ## Use GraphiQL interface (http://localhost:8000/___graphql)
   ## $id is processed via gatsby-node.js
   ## query name must be unique to this file
-  query SingleTestimonial($id: String!) {
-    testimonial: markdownRemark(id: { eq: $id }) {
+  query SingleCasestudy($id: String!) {
+    casestudy: markdownRemark(id: { eq: $id }) {
       html
       id
       frontmatter {
@@ -122,27 +114,18 @@ export const pageQuery = graphql`
         template
         subtitle
         date
-        categories {
-          category
-        }
-        authors {
-          author
-        }
         featuredImage {
           ...FluidImage
         }
-        testimonialDetails {
+        casestudyDetails {
           name
           company
-          image {
-            ...FluidImage
-          }
         }
       }
     }
 
-    allTestimonials: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "case-studies" } } }
+    allCasestudies: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "casestudies" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
