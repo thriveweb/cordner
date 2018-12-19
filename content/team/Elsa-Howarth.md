@@ -2,9 +2,15 @@
 template: SingleTeam
 title: Elsa Howarth
 subtitle: Senior Advisor & SMSF Specialist
+<<<<<<< HEAD
 teamOrder: 6
 featuredImage: /images/uploads/team-member--6.jpg
 mainImage: /images/uploads/team-member--6.jpg
+=======
+order: 6
+featuredImage: /images/uploads/_r1a5200_print.jpg
+mainImage: /images/uploads/_r1a5200_print.jpg
+>>>>>>> a9f7ad7a76b63c58230012f3221b80f85a887761
 position: Senior Advisor & SMSF Specialist
 categories:
   - category: Self Managed Super Funds

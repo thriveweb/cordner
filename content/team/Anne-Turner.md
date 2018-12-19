@@ -2,9 +2,15 @@
 template: SingleTeam
 title: Anne Turner
 subtitle: Director
+<<<<<<< HEAD
 teamOrder: 5
 featuredImage: /images/uploads/team-member--4.jpg
 mainImage: /images/uploads/team-member--4.jpg
+=======
+order: 5
+featuredImage: /images/uploads/_r1a4950_print.jpg
+mainImage: /images/uploads/_r1a4950_print.jpg
+>>>>>>> a9f7ad7a76b63c58230012f3221b80f85a887761
 position: Director
 categories:
   - category: Business Advisory
