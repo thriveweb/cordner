@@ -3,7 +3,7 @@ template: SinglePost
 title: Queensland Absentee Land Tax
 status: Published
 date: '2018-08-09'
-featuredImage: /images/uploads/kamil.jpg
+featuredImage: /images/uploads/kamil1.jpg
 excerpt: >-
   In the 2017-18 budget, the government announced a 1.5 per cent land tax
   surcharge absentee land taxpayers if the value of their taxable land was
