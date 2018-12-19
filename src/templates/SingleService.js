@@ -73,7 +73,7 @@ export const SingleServiceTemplate = ({
           <section className="SubServices">
             <div className="grid">
               <div className="ServiceCard red">
-                <NumberedHeader number="" title="We also offer" />
+                <h2>We also offer</h2>
               </div>
               {!!relatedServices &&
                 relatedServices.map((service, index) => {
