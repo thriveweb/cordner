@@ -3,8 +3,8 @@ template: SingleTeam
 title: Anne Turner
 subtitle: Director
 order: '4'
-featuredImage: /images/uploads/anne.png
-mainImage: /images/uploads/ann.jpg
+featuredImage: /images/uploads/anne...jpg
+mainImage: /images/uploads/anne1.jpg
 position: Director
 categories:
   - category: Business Advisory
