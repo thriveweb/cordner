@@ -3,8 +3,8 @@ template: SingleTeam
 title: Di Girvin
 subtitle: Director
 order: '5'
-featuredImage: /images/uploads/di.png
-mainImage: /images/uploads/di1.png
+featuredImage: /images/uploads/di...jpg
+mainImage: /images/uploads/di1.jpg
 position: Director
 categories:
   - category: Business Advisory
