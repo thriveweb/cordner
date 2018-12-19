@@ -11,6 +11,7 @@ excerpt: >-
 categories:
   - category: News
   - category: Export Marketing Development Grants (EMDG)
+  - category: Government Innovation Grants
 authors:
   - author: Sarah Crowe
 meta:
