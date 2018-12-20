@@ -10,14 +10,14 @@ class SubscribeForm extends React.Component {
     name: 'Subscribe Form',
     subject: '', // optional subject of the notification email
     action: '',
-    successMessage: 'Success!',
+    successMessage: 'Success! You are subscribed.',
     errorMessage: 'There is a problem, your have not subscribed to our list.'
   }
 
   state = {
     alert: '',
     disabled: false,
-    sucsess: false
+    success: false
   }
 
   handleSubmit = e => {
@@ -38,9 +38,10 @@ class SubscribeForm extends React.Component {
         }
       })
       .then(() => {
+        console.log('hi')
         form.reset()
         this.setState({
-          sucsess: true,
+          success: true,
           disabled: true
         })
       })
@@ -77,7 +78,7 @@ class SubscribeForm extends React.Component {
               <input
                 className="EnquiryForm--Input"
                 type="email"
-                placeholder="Enter email"
+                placeholder="Email"
                 name="email"
                 required
               />
