@@ -38,7 +38,6 @@ class SubscribeForm extends React.Component {
         }
       })
       .then(() => {
-        console.log('hi')
         form.reset()
         this.setState({
           success: true,
