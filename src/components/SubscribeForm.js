@@ -16,7 +16,8 @@ class SubscribeForm extends React.Component {
 
   state = {
     alert: '',
-    disabled: false
+    disabled: false,
+    sucsess: false
   }
 
   handleSubmit = e => {
@@ -39,8 +40,8 @@ class SubscribeForm extends React.Component {
       .then(() => {
         form.reset()
         this.setState({
-          alert: this.props.successMessage,
-          disabled: false
+          sucsess: true,
+          disabled: true
         })
       })
       .catch(err => {
@@ -56,36 +57,49 @@ class SubscribeForm extends React.Component {
     const { name, subject, action } = this.props
 
     return (
-      <form
-        className="SubscribeForm"
-        name={name}
-        action={action}
-        onSubmit={this.handleSubmit}
-        data-netlify=""
-        data-netlify-honeypot="confirmEmail"
-      >
-        {this.state.alert && (
-          <div className="EnquiryForm--Alert">{this.state.alert}</div>
+      <div className="SubscribeForm-wrap">
+        {this.state.success && (
+          <div className="">{this.props.successMessage}</div>
         )}
-        <label className="EnquiryForm--Label">
-          <input
-            className="EnquiryForm--Input"
-            type="email"
-            placeholder="Enter email"
-            name="email"
-            required
-          />
-        </label>
-        <input type="text" name="confirmEmail" style={{ display: 'none' }} />
-        {!!subject && <input type="hidden" name="subject" value={subject} />}
-        <input type="hidden" name="form-name" value={name} />
-        <input
-          className="Button EnquiryForm--SubmitButton"
-          type="submit"
-          value=""
-          disabled={this.state.disabled}
-        />
-      </form>
+        {!this.state.success && (
+          <form
+            className="SubscribeForm"
+            name={name}
+            action={action}
+            onSubmit={this.handleSubmit}
+            data-netlify=""
+            data-netlify-honeypot="confirmEmail"
+          >
+            {this.state.alert && (
+              <div className="EnquiryForm--Alert">{this.state.alert}</div>
+            )}
+            <label className="EnquiryForm--Label">
+              <input
+                className="EnquiryForm--Input"
+                type="email"
+                placeholder="Enter email"
+                name="email"
+                required
+              />
+            </label>
+            <input
+              type="text"
+              name="confirmEmail"
+              style={{ display: 'none' }}
+            />
+            {!!subject && (
+              <input type="hidden" name="subject" value={subject} />
+            )}
+            <input type="hidden" name="form-name" value={name} />
+            <input
+              className="Button EnquiryForm--SubmitButton"
+              type="submit"
+              value=""
+              disabled={this.state.disabled}
+            />
+          </form>
+        )}
+      </div>
     )
   }
 }
