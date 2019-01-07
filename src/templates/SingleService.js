@@ -53,6 +53,9 @@ export const SingleServiceTemplate = ({
 
   return (
     <Fragment>
+      <Helmet>
+        <title>{title}</title>
+      </Helmet>
       <article className="SingleService relative">
         <PageHeader title={title} backgroundImage={featuredImage} />
 

@@ -86,3 +86,17 @@
 .Form--Input-honey {
   display: none;
 }
+
+.Form--SubmitButton {
+  border-radius: 6px;
+  border: 1px solid #bababa;
+  line-height: 40px;
+  text-align: center;
+  display: flex !important;
+  justify-content: space-evenly;
+  color: black;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 0 2rem;
+}

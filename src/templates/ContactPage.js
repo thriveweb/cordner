@@ -5,7 +5,7 @@ import { MapPin, Smartphone, Mail } from 'react-feather'
 import PageHeader from '../components/PageHeader'
 import FormSimpleAjax from '../components/FormSimpleAjax'
 import Content from '../components/Content'
-import GoogleMaps from '../components/GoogleMaps'
+// import GoogleMaps from '../components/GoogleMaps'
 import './ContactPage.css'
 
 // Export Template for use in CMS preview
@@ -56,15 +56,11 @@ export const ContactPageTemplate = ({
             )}
           </div>
         </div>
-
         <div>
           <FormSimpleAjax name="Simple Form Ajax" />
         </div>
       </div>
     </section>
-    <div className="section">
-      <GoogleMaps />
-    </div>
   </main>
 )
 
