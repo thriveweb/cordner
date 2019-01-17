@@ -75,6 +75,7 @@ export const query = graphql`
         twitter
         facebook
         linkedin
+        instagram
       }
       subscribeFormTitle
     }

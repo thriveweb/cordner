@@ -54,6 +54,11 @@ export default ({ globalSettings = {}, ...props }) => {
                   <i className="fab fa-linkedin-in" />
                 </a>
               </li>
+              <li>
+                <a href={socialMediaCard.instagram}>
+                  <i className="fab fa-instagram" />
+                </a>
+              </li>
             </ul>
           </div>
 
