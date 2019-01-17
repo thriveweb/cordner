@@ -75,6 +75,12 @@ export default ({ globalSettings = {}, ...props }) => {
               <Link to="/contact/" exact>
                 Contact
               </Link>
+              <Link to="/terms/" exact>
+                Terms & Conditions
+              </Link>
+              <Link to="/disclaimer/" exact>
+                Disclaimer
+              </Link>
               <Link to="/privacy/" exact>
                 Privacy
               </Link>
