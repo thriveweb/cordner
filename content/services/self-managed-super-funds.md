@@ -4,8 +4,8 @@ title: Self Managed Super Funds
 subtitle: Take control of your future on your terms with a Self Managed Super Fund
 status: Featured
 order: 8
-featuredImage: /images/uploads/self-managed--image.jpg
-icon: /images/uploads/private-advisory--icon.svg
+featuredImage: /images/uploads/smsf.jpg
+icon: /images/uploads/smsf.jpg
 contentImage: /images/uploads/self-managed--image.jpg
 categories:
   - category: Self Managed Super Funds
