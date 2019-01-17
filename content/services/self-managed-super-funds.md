@@ -6,7 +6,7 @@ status: Featured
 order: 8
 featuredImage: /images/uploads/smsf.jpg
 icon: /images/uploads/smsf.jpg
-contentImage: /images/uploads/self-managed--image.jpg
+contentImage: /images/uploads/smsf.jpg
 categories:
   - category: Self Managed Super Funds
 ---
