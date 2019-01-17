@@ -15,7 +15,7 @@ subscribeFormTitle: Sign up for our newsletter
 socialMediaCard:
   facebook: 'https://www.facebook.com/CordnerAdvisory/'
   image: /images/uploads/card-og.png
+  instagram: 'https://www.instagram.com/cordneradvisory_broadbeach/'
   linkedin: 'https://www.linkedin.com/company/cordner-taylor-accountants-pty-ltd'
   twitter: 'https://twitter.com/CordnerAdvisory/'
-  instagram: 'https://instagram/'
 headerScripts: <!-- Add your analytics scripts / verification meta here -->
