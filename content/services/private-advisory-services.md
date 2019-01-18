@@ -8,7 +8,7 @@ subtitle: >-
 status: Featured
 order: 7
 featuredImage: /images/uploads/team-background--image.jpg
-icon: /images/uploads/team-background--image.jpg
+icon: /images/uploads/private-advisory--icon.svg
 contentImage: /images/uploads/team-background--image.jpg
 categories:
   - category: Private Advisory Services
