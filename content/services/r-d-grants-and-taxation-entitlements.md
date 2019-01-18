@@ -6,10 +6,10 @@ subtitle: >-
   and strategically plan for maximum returns.
 status: Featured
 order: 3
-featuredImage: /images/uploads/rd--image.jpg
+featuredImage: /images/uploads/services-personal-wealth-security.jpg
 icon: /images/uploads/rd-advisory--icon.svg
 parentService: Government Grants
-contentImage: /images/uploads/rd--image.jpg
+contentImage: /images/uploads/services-personal-wealth-security.jpg
 categories:
   - category: 'R&D, Grants and Taxation Entitlements'
 ---

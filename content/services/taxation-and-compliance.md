@@ -7,7 +7,7 @@ subtitle: >-
 status: Featured
 order: 2
 featuredImage: /images/uploads/taxation-and-compliance.jpg
-icon: /images/uploads/self-managed--icon.svg
+icon: /images/uploads/taxation-advisory--icon.svg
 contentImage: /images/uploads/taxation-and-compliance.jpg
 categories:
   - category: Taxation and Compliance
