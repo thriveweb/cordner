@@ -345,9 +345,9 @@ collections:
                   required: false,
                 }
 
-      - file: 'content/pages/Disclaimer.md'
-        label: 'Disclaimer Page'
-        name: 'disclaimer'
+      - file: 'content/pages/tandcs.md'
+        label: 'Terms and Conditions Page'
+        name: 'terms'
         fields:
           - {
               label: Template,
@@ -355,7 +355,7 @@ collections:
               widget: hidden,
               default: StandardPage,
             }
-          - { label: Slug, name: slug, widget: hidden, default: 'disclaimer' }
+          - { label: Slug, name: slug, widget: hidden, default: 'terms' }
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
           - { label: Content, name: body, widget: markdown }
