@@ -7,7 +7,7 @@ subtitle: >-
 status: Featured
 order: 3
 featuredImage: /images/uploads/services-personal-wealth-security.jpg
-icon: /images/uploads/services-personal-wealth-security.jpg
+icon: /images/uploads/rd-advisory--icon.svg
 parentService: Government Grants
 contentImage: /images/uploads/services-personal-wealth-security.jpg
 categories:
