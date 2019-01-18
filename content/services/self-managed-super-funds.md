@@ -5,7 +5,7 @@ subtitle: Take control of your future on your terms with a Self Managed Super Fu
 status: Featured
 order: 8
 featuredImage: /images/uploads/smsf.jpg
-icon: /images/uploads/smsf.jpg
+icon: /images/uploads/self-managed--icon.svg
 contentImage: /images/uploads/smsf.jpg
 categories:
   - category: Self Managed Super Funds
