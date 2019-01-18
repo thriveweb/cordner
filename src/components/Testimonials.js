@@ -47,7 +47,7 @@ export default ({ testimonials = [] }) => {
       <Swiper {...params}>
         {testimonials.map((testimonial, index) => (
           <div key={index + testimonial.author.company} className="slide">
-            <h3>"</h3>
+            <h3 className="quotation" />
             <p>{testimonial.quote}</p>
             <div className="quote">
               <Image

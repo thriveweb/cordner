@@ -17,6 +17,15 @@
   opacity: 0.5;
 }
 
+.quotation {
+  font-size: 50px;
+  font-family: 'Lora', serif !important;
+  font-size: 48px;
+}
+
+.quotation:after {
+}
+
 .SwiperButton * {
   display: block;
 }

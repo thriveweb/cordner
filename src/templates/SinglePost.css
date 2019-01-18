@@ -86,6 +86,8 @@
   font-size: 1rem;
   margin: 0 0 2rem 0;
   text-align: center;
+  color: #f68e29;
+  font-weight: 500;
 }
 
 .SinglePost--Meta > * + * {
@@ -95,7 +97,40 @@
 .SinglePost--Title {
   text-align: center;
   line-height: 1.2;
-  color: black;
+  color: #352f32;
+  font-size: 54px;
+}
+
+.SinglePost--Pagination--Link.next:after {
+  content: '';
+  width: 30px;
+  height: 30px;
+  background: url(/images/triangle.svg);
+  top: 6px;
+  right: -34px;
+  position: absolute;
+  display: block;
+  background-repeat: no-repeat;
+}
+
+.SinglePost--Pagination--Link.prev:after {
+  content: '';
+  width: 30px;
+  height: 30px;
+  background: url(/images/triangle-left.svg);
+  top: 6px;
+  left: -14px;
+  position: absolute;
+  display: block;
+  background-repeat: no-repeat;
+}
+
+.SinglePost--Pagination--Link.prev {
+  position: relative;
+}
+
+.SinglePost--Pagination--Link.next {
+  position: relative;
 }
 
 .SinglePost--InnerContent {
