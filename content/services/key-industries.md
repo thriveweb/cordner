@@ -7,7 +7,7 @@ subtitle: >-
 status: Featured
 order: 9
 featuredImage: /images/uploads/key-industries.jpg
-icon: /images/uploads/key-industries.jpg
+icon: /images/uploads/rd-advisory--icon.svg
 parentService: Key Industries
 contentImage: /images/uploads/key-industries.jpg
 categories:
