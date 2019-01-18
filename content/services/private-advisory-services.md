@@ -7,9 +7,9 @@ subtitle: >-
   SMSF, estate planning and succession solutions.
 status: Featured
 order: 7
-featuredImage: /images/uploads/services-personal-wealth-security.jpg
-icon: /images/uploads/services-personal-wealth-security.jpg
-contentImage: /images/uploads/services-personal-wealth-security.jpg
+featuredImage: /images/uploads/team-background--image.jpg
+icon: /images/uploads/team-background--image.jpg
+contentImage: /images/uploads/team-background--image.jpg
 categories:
   - category: Private Advisory Services
 ---
