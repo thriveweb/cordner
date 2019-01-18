@@ -1,6 +1,10 @@
 .SinglePost {
 }
 
+.SinglePost--InnerContent .Content p {
+  opacity: 0.8;
+}
+
 .SinglePost--BackgroundImage {
   height: 40rem;
   background: var(--purple);
@@ -25,6 +29,13 @@
   display: flex;
   margin-bottom: 5rem;
   margin-top: 5rem;
+}
+
+.SinglePost h3 {
+  font-size: 25px;
+  line-height: 33px;
+  margin-bottom: 60px;
+  letter-spacing: 0.2px;
 }
 
 .Testimonial--Details h5 {
@@ -72,7 +83,7 @@
 
 .SinglePost--Content {
   background: white;
-  margin-top: 20rem;
+  margin-top: 33rem;
   padding: 8rem 8rem 4rem 8rem;
 }
 
