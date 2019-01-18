@@ -24,14 +24,16 @@ First of all, contractors can be a sole trader, trust, company, consultant and e
 
 There are 9 exemptions rules and you only need to satisfy one of them for the payment to be excluded from the payroll tax.
 
-1. Services provide for no more than 90 days in a financial year. On the 91st day, the entire period will be subject to the payroll tax.  And any length of working hours in a day is counted as a whole day.
-2. Services required by the business for less than 180 days in a financial year. It is the type of service required by the business which is relevant.  And it is not the extension of the 90-day exemption.
-3. Services performed by 2 or more people.
-4. Services ancillary to the supply of the goods
-5. Services not ordinarily required by your business. A contractor must provides the same service to the general public and derives less than 40% of the gross income from your business in that financial year.
-6. Services approved by the Commissioner as exempt
-7. Services provided by an owner-driver. The contractor main purpose is to deliver the goods. The contractor has to provide the vehicle and can not be your employee.  Courier cyclists are not regarded as owner drivers.
-8. Services relating to door to door sales. The Sales person can not be the employee; he/she must sell directly to the general public and must sell goods at the buyer’s home or work.
-9. Services relating to selling insurance. The contractor must hold an Australian Financial Services licence.
+**Test**
+
+* Services provide for no more than 90 days in a financial year. On the 91st day, the entire period will be subject to the payroll tax.  And any length of working hours in a day is counted as a whole day.
+* Services required by the business for less than 180 days in a financial year. It is the type of service required by the business which is relevant.  And it is not the extension of the 90-day exemption.
+* Services performed by 2 or more people.
+* Services ancillary to the supply of the goods
+* Services not ordinarily required by your business. A contractor must provides the same service to the general public and derives less than 40% of the gross income from your business in that financial year.
+* Services approved by the Commissioner as exempt
+* Services provided by an owner-driver. The contractor main purpose is to deliver the goods. The contractor has to provide the vehicle and can not be your employee.  Courier cyclists are not regarded as owner drivers.
+* Services relating to door to door sales. The Sales person can not be the employee; he/she must sell directly to the general public and must sell goods at the buyer’s home or work.
+* Services relating to selling insurance. The contractor must hold an Australian Financial Services licence.
 
 If you seek further advice, please don’t hesitate to contact our office.
