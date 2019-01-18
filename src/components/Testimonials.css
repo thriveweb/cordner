@@ -24,6 +24,20 @@
 }
 
 .quotation:after {
+  content: '';
+  width: 30px;
+  height: 30px;
+  background: url('/images/quote-marks.svg');
+  top: 6px;
+  left: -14px;
+  position: absolute;
+  display: block;
+  background-repeat: no-repeat;
+}
+
+.quotation {
+  position: relative;
+  margin-bottom: 3rem;
 }
 
 .SwiperButton * {
