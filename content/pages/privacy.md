@@ -10,7 +10,7 @@ Cordner Advisory Pty Ltd ACN 148 874 640 and its related entities (referred to i
 
 **Collection**
 
-**Types of information collected. **We may collect and hold personal information about you, that is, information that can identify you, and is relevant to providing you with the services you are seeking. This can include your name, date of birth, contact details (including address, email address, phone number), financial information (such as credit card or bank account numbers) and information about how you use our products and services.
+Types of information collected. We may collect and hold personal information about you, that is, information that can identify you, and is relevant to providing you with the services you are seeking. This can include your name, date of birth, contact details (including address, email address, phone number), financial information (such as credit card or bank account numbers) and information about how you use our products and services.
 
 This is not an exhaustive list. We may need to collect additional information about you from time to time to provide products or services to you.
 
