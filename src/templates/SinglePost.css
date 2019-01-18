@@ -15,6 +15,11 @@
   background-blend-mode: multiply;
 }
 
+.SinglePost--InnerContent ul {
+  line-height: 32px;
+  opacity: 0.8;
+}
+
 .SinglePost--BackButton {
   color: white;
   position: relative;
