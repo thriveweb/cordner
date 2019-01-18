@@ -2,7 +2,7 @@
 template: StandardPage
 slug: terms
 title: Terms and Conditions
-featuredImage: /images/uploads/our-advisors--banner.jpg
+featuredImage: /images/uploads/home-header--image.jpg
 ---
 **Cordner Advisory Pty Ltd ACN 148 874 640 (‘Cordner Advisory’) Terms and Conditions**
 
