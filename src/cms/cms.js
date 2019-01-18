@@ -39,6 +39,14 @@ CMS.registerPreviewTemplate('privacy-page', ({ entry }) => (
   <StandardPageTemplate {...entry.toJS().data} />
 ))
 
+CMS.registerPreviewTemplate('disclaimer', ({ entry }) => (
+  <StandardPageTemplate {...entry.toJS().data} />
+))
+
+CMS.registerPreviewTemplate('terms', ({ entry }) => (
+  <StandardPageTemplate {...entry.toJS().data} />
+))
+
 CMS.registerPreviewTemplate('posts', ({ entry }) => (
   <SinglePostTemplate {...entry.toJS().data} />
 ))
