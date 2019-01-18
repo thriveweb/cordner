@@ -11,8 +11,7 @@ Use of the website of Cordner Advisory website, https://www.cordner.com.au/, is 
 
 **1. THE WEBSITE**
 
-**
-**1.1  The website may consist of information, interactive courseware, opinions, text, graphics, animations, links, audio, video, software, photos, music, sounds, and other material and data provided by Cordner Advisory, third parties or other users formatted, organised, and collected in a variety of forms including, without limitation, courses, bulletin board postings, databases, and electronic mail services.
+1.1  The website may consist of information, interactive courseware, opinions, text, graphics, animations, links, audio, video, software, photos, music, sounds, and other material and data provided by Cordner Advisory, third parties or other users formatted, organised, and collected in a variety of forms including, without limitation, courses, bulletin board postings, databases, and electronic mail services.
 
 1.2  The website provides information of a general nature to members of the public, and advanced features for registered users such as commenting on material or engaging in online collaboration.
 
