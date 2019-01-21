@@ -28,14 +28,20 @@ export const SinglePostTemplate = ({
       <title>{title}</title>
     </Helmet>
 
-    {featuredImage && (
-      <Image
-        background
-        className="SinglePost--BackgroundImage"
-        src={featuredImage}
-        alt={title}
-      />
-    )}
+    <div className="featured-image">
+      {featuredImage && (
+        <Image
+          background
+          className="SinglePost--BackgroundImage"
+          src={featuredImage}
+          alt={title}
+        />
+      )}
+
+      {prevPostURL && <Link className="arrow-left" to={prevPostURL} />}
+
+      {nextPostURL && <Link className="arrow-right" to={nextPostURL} />}
+    </div>
 
     <div className="container skinny">
       <div className="SinglePost--Content relative">
