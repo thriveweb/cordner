@@ -7,7 +7,7 @@ import './TeamCard.scss'
 const TeamCard = ({ teamMember, className = '', ...props }) => (
   <Link
     to={teamMember.slug}
-    className={`TeamCard relative flex ${className}`}
+    className={`TeamCard relative  ${className}`}
     {...props}
   >
     <Image src={teamMember.featuredImage} alt={teamMember.title} />

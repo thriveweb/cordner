@@ -50,6 +50,36 @@
 }
 
 .RelatedMembers {
+  .one-third {
+    .flex {
+      align-items: center;
+    }
+
+    .TeamCard {
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  @media (max-width: 930px) {
+    .one-third {
+      width: 50%;
+
+      .flex {
+        justify-content: baseline !important;
+      }
+
+      .TeamCard {
+        justify-content: baseline !important;
+      }
+    }
+  }
+
+  @media (max-width: 620px) {
+    .one-third {
+      width: 100%;
+    }
+  }
 }
 
 .relatedPosts {
