@@ -11,7 +11,7 @@ icon: /images/uploads/rd-advisory--icon.svg
 parentService: Government Grants
 contentImage: /images/uploads/services-personal-wealth-security.jpg
 categories:
-  - category: 'R&D, Grants and Taxation Entitlements'
+  - category: 'Government Innovation Grants'
 ---
 
 The Australian Government (Federal and State) provide numerous grants opportunities relating to innovation which contribute funding support for your business for specific projects and functions. These grants are available throughout all stages of your business lifecycle.
