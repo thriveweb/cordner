@@ -47,7 +47,7 @@ export const SingleTeamTemplate = ({
             <NumberedHeader title="Our Team" />
 
             <h2>{title}</h2>
-            <p className="big-body">{position}</p>
+            <p className="big-body">{subtitle}</p>
             <Content source={body} />
 
             <div className="socials">
@@ -132,6 +132,7 @@ export const pageQuery = graphql`
           ...FluidImage
         }
         position
+        subtitle
         twitter
         linkedin
         email

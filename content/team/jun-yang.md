@@ -5,7 +5,7 @@ subtitle: Advisor
 teamOrder: 8
 featuredImage: /images/uploads/jun.jpg
 mainImage: /images/uploads/jun.jpg
-position: Senior Advisor
+position: Advisor
 categories:
   - category: Taxation and Compliance
 ---
