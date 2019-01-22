@@ -11,7 +11,9 @@ export const BlogIndexTemplate = ({
   featuredImage,
   posts = [],
   categories = [],
-  contentType
+  contentType,
+  authors = [],
+  date
 }) => {
   const isCategory = contentType === 'categories'
   const byCategory = post =>
@@ -26,7 +28,7 @@ export const BlogIndexTemplate = ({
       </Helmet>
 
       <PageHeader title={title} backgroundImage={featuredImage} />
-      {/* 
+      {/*
       {!!categories.length && (
         <section className="section thin">
           <div className="container">
@@ -98,6 +100,10 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            date
+            authors {
+              author
+            }
             categories {
               category
             }
