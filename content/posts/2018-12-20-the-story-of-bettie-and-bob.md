@@ -4,6 +4,7 @@ title: The story of Bettie and Bob
 status: Published
 date: '2017-02-13'
 featuredImage: /images/uploads/anne...jpg
+bannerImage: /images/uploads/banner-18.jpg
 excerpt: >-
   This story is designed to illustrate the impact of the $1.6m pension transfer
   balance cap, and the impact of the scrapping of the tax-exempt status of
@@ -14,22 +15,23 @@ categories:
 authors:
   - author: Anne Turner
 ---
+
 **Relevant Information
 **
 
-* 
+-
 
 Bettie is 60 and Bob is 65.
 
-* 
+-
 
 They have an SMSF. Bettie’s balance is $500k and Bob’s balance is $2m.
 
-* 
+-
 
 Bettie’s benefits are held as a Transition to Retirement Income Stream and Bob’s is held as an Account Based Pension.
 
-* 
+-
 
 They are both still contributing to super.
 

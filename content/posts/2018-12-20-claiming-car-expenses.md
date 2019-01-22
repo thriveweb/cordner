@@ -4,6 +4,7 @@ title: Claiming Car Expenses
 status: Published
 date: '2017-09-21'
 featuredImage: /images/uploads/christine.jpg
+bannerImage: /images/uploads/banner-14.jpg
 excerpt: >-
   The ATO will be looking closely at work related car expense claims made under
   the cents per kilometre method with a focus on claims right up to the 5000km
@@ -13,6 +14,7 @@ categories:
 authors:
   - author: Christine Harvey
 ---
+
 The ATO will be looking closely at work related car expense claims made under the cents per kilometre method with a focus on claims right up to the 5000km threshold which does not require detailed records to be kept.
 
 "
@@ -23,17 +25,17 @@ It is also important to make sure you don’t double-dip. In other words, you ca
 
 Per the ATO, you can claim a deduction for work-related car expenses if you use your own car during performing your job as an employee, for example to:
 
-* 
+-
 
 carry bulky tools or equipment (such as an extension ladder or cello) which your employer requires you to use for work and cannot leave at work
 
-* attend conferences or meetings
-* deliver items or collect supplies
-* travel between two separate places of employment, provided one of the places is not your home (for example, when you have a second job)
-* travel from your normal workplace to an alternative workplace and back to your normal workplace or directly home
-* travel from your home to an alternative workplace and then to your normal workplace or directly home (for example, if you travel to a client’s premises)
+- attend conferences or meetings
+- deliver items or collect supplies
+- travel between two separate places of employment, provided one of the places is not your home (for example, when you have a second job)
+- travel from your normal workplace to an alternative workplace and back to your normal workplace or directly home
+- travel from your home to an alternative workplace and then to your normal workplace or directly home (for example, if you travel to a client’s premises)
   .
-* perform itinerant work.
+- perform itinerant work.
 
 If you receive an allowance from your employer for car expenses, it is assessable income and the allowance must be included on your tax return. The amount of the allowance will usually be shown on your payment summary.
 

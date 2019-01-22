@@ -4,6 +4,7 @@ title: Is it deductible?
 status: Published
 date: '2018-08-02'
 featuredImage: /images/uploads/linda.jpg
+bannerImage: /images/uploads/banner-28.jpg
 excerpt: >-
   Australian Taxation Office (ATO) has identified the top 10 tax myths and
   misunderstandings it says are causing incorrect claims.
@@ -17,19 +18,21 @@ meta:
   noindex: false
   title: ''
 ---
+
 Australian Taxation Office (ATO) has identified the top 10 tax myths and misunderstandings it says are causing incorrect claims.
 
 Kath Anderson, Assistant Commissioner, says that by relying on inaccurate tax advice, taxpayers are exposing themselves to the possibility of claiming invalid deductions; ‘Taxpayers listen to advice from many sources, including tax agents, colleagues, family and friends, and even friendly shop assistants. While some advice is correct, some isn’t and it’s leading to mistakes and errors that can be costly’.
 
 ‘While it’s true that you don’t need to keep detailed receipts for deductions up to those (exempt) amounts, it’s not an automatic entitlement. You still need to meet the three golden rules;
 
-* You must have spent the money yourself
-* It must be directly related to earning your income
-* You must be able to show us how you calculated your claim
+- You must have spent the money yourself
+- It must be directly related to earning your income
+- You must be able to show us how you calculated your claim
 
 ‘Around half of the adjustments we (the ATO) make are because taxpayers didn’t keep proper records and therefore they could not demonstrate that they spent the money, what is was spent on and how the expenditure links to earning their income’.
 
-**For example;**
+**For example;
+**
 
 “There are only a handful of taxpayers with special circumstances who can claim things like gym membership or makeup containing sunscreen. For most, there isn’t a link to earning their income’.
 

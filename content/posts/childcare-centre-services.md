@@ -4,6 +4,7 @@ title: Base Rate Entity - Corporate Tax Rates
 status: Featured
 date: '2018-11-28'
 featuredImage: /images/uploads/michael.jpg
+bannerImage: /images/uploads/banner-21.jpg
 excerpt: >-
   The corporate tax rate for Small Business Entity (SBE) companies was reduced
   to 27.5% from the 2017 financial year. To be an SBE, a company must have
@@ -20,6 +21,7 @@ meta:
   noindex: false
   title: ''
 ---
+
 The corporate tax rate for Small Business Entity (SBE) companies was reduced to 27.5% from the 2017 financial year. To be an SBE, a company must have carried on a business in the current year and met a $10 million aggregated turnover threshold cap.
 
 However, as the aggregated turnover for eligibility for the 27.5% corporate tax rate increased to $25 million, the Federal Government decided to move away from this SBE concept and move to a ‘Base Rate Entity’ concept.
@@ -31,20 +33,20 @@ The concept of Base Rate Entity has now been enacted in Treasury Laws Amendment 
 
 Under the Act, an entity is a Base Rate Entity for a year of income if:
 
-* No more than 80% of its assessable income for the year of income is base rate entity passive income; and
-* Its aggregated turnover for the year of income, worked out as at the end of the year, is less than $25 million.
+- No more than 80% of its assessable income for the year of income is base rate entity passive income; and
+- Its aggregated turnover for the year of income, worked out as at the end of the year, is less than $25 million.
 
 **What is Base Rate Entity Passive Income?
 **
 
-* Base Rate Entity Passive income is assessable income that is any of the following:
-* Company dividend, other than a non-portfolio dividend
-* Franking credits
-* Non-share dividend
-* Interest, royalties and rent
-* Gain from a qualifying security
-* Net capital gain
-* Income from a partnership or trust estate that is base rate passive income
+- Base Rate Entity Passive income is assessable income that is any of the following:
+- Company dividend, other than a non-portfolio dividend
+- Franking credits
+- Non-share dividend
+- Interest, royalties and rent
+- Gain from a qualifying security
+- Net capital gain
+- Income from a partnership or trust estate that is base rate passive income
 
 **Some Issues Around This Definition
 **

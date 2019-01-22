@@ -4,6 +4,7 @@ title: When you are having fun and getting paid
 status: Published
 date: '2018-05-31'
 featuredImage: /images/uploads/shaun.jpg
+bannerImage: /images/uploads/banner-8.jpg
 excerpt: >-
   It may seem fairly obvious whether a person is in business or not, but the
   distinction can be important for other reasons. You may be having fun AND

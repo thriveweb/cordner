@@ -4,6 +4,7 @@ title: Queensland Absentee Land Tax
 status: Published
 date: '2018-08-09'
 featuredImage: /images/uploads/kamil1.jpg
+bannerImage: /images/uploads/banner-27.jpg
 excerpt: >-
   In the 2017-18 budget, the government announced a 1.5 per cent land tax
   surcharge absentee land taxpayers if the value of their taxable land was
@@ -18,11 +19,13 @@ meta:
   noindex: false
   title: ''
 ---
+
 **What is the new tax?**
 
 In the 2017-18 budget, the government announced a 1.5 per cent land tax surcharge absentee land taxpayers if the value of their taxable land was $350,000 or higher.
 
-**Who does it apply to?**
+**Who does it apply to?
+**
 
 If you do not usually live in Australia or an external territory, you may be an absentee for land tax purposes even if you are an Australian Citizen.
 
@@ -30,7 +33,8 @@ As an absentee, you are liable for land tax if the total taxable value of your f
 
 Similar to other types of owners, you will be assessed only on the land you own, which includes the value of your share in any land owned with others.
 
-**Determining absentee status**
+**Determining absentee status
+**
 
 If you have lived outside of Australia during the financial year, the government will consider several factors to determine if you usually live in Australia, such as the reason for your absence and the time spent in and out of the country. If the government is not satisfied that you mainly resided in Australia, you will be an absentee if you:
 
@@ -46,11 +50,13 @@ In limited cases, a person will not be classed as an absentee land owner if the 
 
 • working for their employer in Australia for at least 1 continuous year before they go overseas and are directed by that employer to continue working for them overseas for a period less than 5 year. If the period is longer, they will be reassessed as an absentee for the whole time they are overseas.
 
-**Implications:**
+**Implications:
+**
 
 If you are considered an absentee at 30 June 2017 and for following years, a surcharge will apply.
 
-**This is how the surcharge is calculated:**
+**This is how the surcharge is calculated:
+**
 
 (Taxable value − $349,999) × 1.5%
 
@@ -58,8 +64,9 @@ The absentee surcharge will appear on the land tax summary section of your asses
 
 The land tax surcharge will apply regardless of whether the property in question is occupied or not and is in addition to any the vacancy charge that the Federal Government imposes on foreign owners of residential property.
 
-**How to inform about the status?**
+**How to inform about the status?
+**
 
 You can click on the link below to fill up the declaration if you are classified as an absentee for land tax purposes
 
-[https://publications.qld.gov.au/dataset/form-osr-lt16-absentee-resident-status-declaration ](https://publications.qld.gov.au/dataset/form-osr-lt16-absentee-resident-status-declaration)
+

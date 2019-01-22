@@ -4,6 +4,7 @@ title: Labour Hire Arrangements – Do you need to Register?
 status: Published
 date: '2018-02-15'
 featuredImage: /images/uploads/steve.jpg
+bannerImage: /images/uploads/banner-15.jpg
 excerpt: >-
   Recent changes under the Queensland Labour Hire Licensing Act 2017 has meant
   that from April 2018, all employers who engage in the hire of labour to other
@@ -13,20 +14,21 @@ categories:
 authors:
   - author: Steve Payne
 ---
+
 Recent changes under the Queensland Labour Hire Licensing Act 2017 has meant that from April 2018, all employers who engage in the hire of labour to other entities will need to be registered.
 
 **
 The Act provides that Labour Hire Providers :
 **
 
-* 
+-
 
 Will hold mandatory licencing for operations conducted within Queensland (with licences renewed annually)
 
-* Will be subject to substantial penalties if they are found to be providing labour hire services without proper licencing or engaging another Labour Hire Entity which does not hold the correct licencing
-* Must satisfy a fit and proper person test, for all individuals involved in the management and control of the entity, to establish that they are capable of providing these services whilst complying with all relevant laws
-* Must be conducting a financially viable business
-* Will be subject to reporting requirements and inspections of the premises
+- Will be subject to substantial penalties if they are found to be providing labour hire services without proper licencing or engaging another Labour Hire Entity which does not hold the correct licencing
+- Must satisfy a fit and proper person test, for all individuals involved in the management and control of the entity, to establish that they are capable of providing these services whilst complying with all relevant laws
+- Must be conducting a financially viable business
+- Will be subject to reporting requirements and inspections of the premises
   .
 
 Whilst you may believe you don’t formally engage in the provision of labour to other entities, the definition of “Labour Hire” in the Act is quite broad.

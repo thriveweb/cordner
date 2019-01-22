@@ -4,6 +4,7 @@ title: SMSF – The Case for Up to Date Reporting
 status: Published
 date: '2018-10-31'
 featuredImage: /images/uploads/elsa...jpg
+bannerImage: /images/uploads/banner-23.jpg
 excerpt: >-
   The world is changing and, as it changes, everyone who doesn’t adapt are left
   behind. This is very true when it comes to interacting with and accessing
@@ -18,6 +19,7 @@ meta:
   noindex: false
   title: ''
 ---
+
 The world is changing and, as it changes, everyone who doesn’t adapt are left behind. This is very true when it comes to interacting with and accessing information electronically.
 
 The years when you could leave everything in a shoebox to be delivered to the accountant some time after 30 June each year is mostly a thing of the past. Receiving and storing Bank Statements, and pretty much everything else, either on a storage device, or in the cloud, is becoming commonplace.
@@ -28,7 +30,8 @@ Soon all employers will be reporting their Super Guarantee and Salary Sacrificed
 
 Super Fund trustees are also expected to report more frequently on matters such as the commencement or commutation of pensions, the change of a pension in and out of the retirement phase, etc. The ATO rolled this obligation out with the introduction of the $1.6m cap on tax free pensions.
 
-**What does this mean for you?**
+**What does this mean for you?
+**
 
 If your Super Fund has a member with a total super balance of $1m or more, reportable events that affect any member of the Fund, must be reported within 28 days after the end of the quarter in which the event occurs.
 
@@ -36,7 +39,8 @@ Keep in mind, total super balance means the balance that a member holds, not onl
 
 In order for a pension to be commenced, commuted, or stopped as and when it suits the members of a fund, it is crucial that the accounts of the fund can be brought up to date quickly.
 
-**What’s the next step?**
+**What’s the next step?
+**
 
 Check with your accountant to make sure they have the software available to allow for efficient data sharing. At Cordner we use Class Super, supported by BankLink, to ensure as many feeds as are available are provided to us.
 

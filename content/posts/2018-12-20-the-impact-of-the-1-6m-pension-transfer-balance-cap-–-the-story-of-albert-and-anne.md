@@ -6,6 +6,7 @@ title: >-
 status: Published
 date: '2017-01-12'
 featuredImage: /images/uploads/anne...jpg
+bannerImage: /images/uploads/banner-17.jpg
 excerpt: >-
   This story is designed to illustrate the impact of the $1.6m pension transfer
   balance cap, which comes into effect on 1 July 2017
@@ -14,15 +15,16 @@ categories:
 authors:
   - author: Anne Turner
 ---
+
 **Relevant information
 **
 
-* Albert is 85 and Anne is 82.
-* 
+- Albert is 85 and Anne is 82.
+-
 
 They have an SMSF. Albert’s balance is $3m and Anne’s is $1.5m.
 
-* 
+-
 
 These benefits are held in the form of Account Based Pensions.
 

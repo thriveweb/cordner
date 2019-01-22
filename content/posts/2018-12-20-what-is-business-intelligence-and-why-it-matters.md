@@ -4,6 +4,7 @@ title: What is business intelligence and why it matters
 status: Published
 date: '2018-02-21'
 featuredImage: /images/uploads/shaun.jpg
+bannerImage: /images/uploads/banner-19.jpg
 excerpt: >-
   Business Intelligence (BI) refers to the tools, technologies, applications and
   practices used to collect, analyse and present an organisations raw data in
@@ -13,6 +14,7 @@ categories:
 authors:
   - author: Shaun Ralph
 ---
+
 Business Intelligence (BI) refers to the tools, technologies, applications and practices used to collect, analyse and present an organisations raw data in order to create insightful and actionable business information.
 
 Businesses are using BI to detect significant events and to identify/ monitor business trends to in order to adapt to this ever-changing business environment within we all live.
@@ -31,11 +33,11 @@ How can business intelligence benefit your business?
 
 Many small businesses are reluctant to put BI into practice. Not only because it can be expensive and time consuming to set up, but because they are not clear about the benefits of using it. Here are some reasons how it pays for itself:
 
-* 
+-
 
 It’s much easier to make informed decisions.
 
-* It’s a structured way for growing revenue.
-* It increases the competitive advantage over other players in the industry, including larger businesses.
-* It improves the efficiency of your business operations.
-* It enhances the quality of your customer service.
+- It’s a structured way for growing revenue.
+- It increases the competitive advantage over other players in the industry, including larger businesses.
+- It improves the efficiency of your business operations.
+- It enhances the quality of your customer service.

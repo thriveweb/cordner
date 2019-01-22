@@ -13,6 +13,7 @@ export const SinglePostTemplate = ({
   title,
   date,
   featuredImage,
+  bannerImage,
   body,
   nextPostURL,
   prevPostURL,
@@ -33,7 +34,7 @@ export const SinglePostTemplate = ({
         <Image
           background
           className="SinglePost--BackgroundImage"
-          src={featuredImage}
+          src={bannerImage}
           alt={title}
         />
       )}
@@ -157,6 +158,9 @@ export const pageQuery = graphql`
           author
         }
         featuredImage {
+          ...FluidImage
+        }
+        bannerImage {
           ...FluidImage
         }
       }

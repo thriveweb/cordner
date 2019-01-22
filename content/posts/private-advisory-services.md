@@ -4,6 +4,7 @@ title: How can businesses make use of Google to grow?
 status: Published
 date: '2018-10-04'
 featuredImage: /images/uploads/kamil1.jpg
+bannerImage: /images/uploads/banner-25.jpg
 excerpt: >-
   Research shows that every month a single google search drives millions of
   direct connections between businesses and their customers which include
@@ -20,11 +21,13 @@ meta:
   noindex: false
   title: ''
 ---
+
 Research shows that every month a single google search drives millions of direct connections between businesses and their customers which include information such as phone numbers, direction to the business and services like online reservations and buying and selling.
 
 Businesses that take full advantage of technology such as social media and digital tools are one and a half times more likely to be growing and eight time more likely to be creating jobs than those with low levels of digital engagement. Below are simple tips on how business owners can boost their business online.
 
-**Use Google ads to reach more customers**
+**Use Google ads to reach more customers
+**
 
 As a business owner, your preference for online advertising should be simple and effective. Google provides a product by the name of Smart Campaigns, that allows you to reach new audiences and drive results. This product is built with simplicity in mind and amplified with Google AI and Ads technology. Smart Campaigns allow you to create ads in a matter of minutes. Once up and running, you can check to see how your campaign is performing and fine-tune ads for optimal results. So far, Smart Campaigns are (on average) three times more successful, with improvements to targeting and placement of ads.
 

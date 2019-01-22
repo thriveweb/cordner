@@ -4,6 +4,7 @@ title: Research & Development Incentive – Update
 status: Published
 date: '2018-07-12'
 featuredImage: /images/uploads/sarah.jpg
+bannerImage: /images/uploads/banner-30.jpg
 excerpt: >-
   The Australian government is amending the research and development (R&D) tax
   incentive program in relation to the recommendations of the 2016 Review of the
@@ -18,6 +19,7 @@ meta:
   noindex: false
   title: ''
 ---
+
 The Australian government is amending the research and development (R&D) tax incentive program in relation to the recommendations of the 2016 Review of the R&D Tax Incentive.
 
 These changes will come into effect for income years starting on or after 1 July 2018.
@@ -26,10 +28,10 @@ For those Australian companies undertaking research and development activities a
 
 The marginal R&D premium will be the R&D entity (claimant’s) applicable company tax rate plus:
 
-* 4 percentage points for R&D expenditure between 0%-2% R&D intensity;
-* 5 percentage points for R&D expenditure above 2%-5% R&D intensity;
-* 9 percentage points for R&D expenditure above 5%-10% R&D intensity;
-* 5 percentage point for R&D expenditure above 10% R&D intensity.
+- 4 percentage points for R&D expenditure between 0%-2% R&D intensity;
+- 5 percentage points for R&D expenditure above 2%-5% R&D intensity;
+- 9 percentage points for R&D expenditure above 5%-10% R&D intensity;
+- 5 percentage point for R&D expenditure above 10% R&D intensity.
 
 The maximum of R&D expenditure eligible for concessional R&D tax offsets will be increased from $100 million to $150 million per annum.
 

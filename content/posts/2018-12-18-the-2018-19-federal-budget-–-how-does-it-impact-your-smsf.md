@@ -4,6 +4,7 @@ title: The 2018-19 Federal Budget – how does it impact your SMSF
 status: Published
 date: '2018-05-24'
 featuredImage: /images/uploads/elsa...jpg
+bannerImage: /images/uploads/banner-6.jpg
 excerpt: >-
   An SMSF friendly budget is the good news coming out of the 2018-19 Federal
   Budget.
@@ -12,6 +13,7 @@ categories:
 authors:
   - author: Elsa Howarth
 ---
+
 An SMSF friendly budget is the good news coming out of the 2018-19 Federal Budget. With SMSF members still working through the wide-reaching and complex superannuation changes which took effect from 1 July 2017, this Federal Budget will provide much needed stability while looking to reduce costs for SMSFs and prove additional flexibility.
 
 **
@@ -50,12 +52,12 @@ Older Australian package
 
 The Government introduced the following measures to enhance the standard of living older Australians:
 
-* 
+-
 
 Increase to the Pension Work Bonus from $250 to $300 per fortnight.
 
-* Amendments to the pension means test rules to encourage the take up of lifetime retirement income products.
-* Expansion of the Pensions Loan Scheme to allow more Australians to use the equity in their homes to increase their incomes.
+- Amendments to the pension means test rules to encourage the take up of lifetime retirement income products.
+- Expansion of the Pensions Loan Scheme to allow more Australians to use the equity in their homes to increase their incomes.
 
 **Personal income tax bracket changes
 **
@@ -68,11 +70,11 @@ The $87,000 income threshold, above which a 37 per cent tax rate applies, will i
 Other changes
 **
 
-* 
+-
 
 A surplus of $2.2 billion is expected in 2019-20, one year ahead of schedule.
 
-* The Government’s planned increase in the Medicare levy from 2 per cent to 2.5 per cent, to fund the National Disability Insurance Scheme, will now not go ahead due to increased tax revenues.
+- The Government’s planned increase in the Medicare levy from 2 per cent to 2.5 per cent, to fund the National Disability Insurance Scheme, will now not go ahead due to increased tax revenues.
 
 **How can we help?
 **
