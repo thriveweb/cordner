@@ -26,6 +26,8 @@ export const HomePageTemplate = ({
   section5,
   testimonials,
   posts,
+  date,
+  authors = [],
   services
 }) => (
   <main className="Home">
@@ -235,6 +237,10 @@ export const pageQuery = graphql`
           frontmatter {
             title
             excerpt
+            date
+            authors {
+              author
+            }
             categories {
               category
             }
