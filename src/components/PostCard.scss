@@ -30,6 +30,31 @@
     font-size: 1.5rem;
     line-height: 20px;
     width: 77%;
+    padding-left: 1rem;
+
+    @media (max-width: 1170px) {
+      width: 72%;
+    }
+
+    @media (max-width: 1000px) {
+      width: 85%;
+    }
+
+    @media (max-width: 775px) {
+      width: 80%;
+    }
+
+    @media (max-width: 602px) {
+      width: 75%;
+    }
+
+    @media (max-width: 444px) {
+      width: 68%;
+    }
+
+    @media (max-width: 348px) {
+      width: 62%;
+    }
 
     .SinglePost--Meta--Date {
       font-size: 1.2rem;
