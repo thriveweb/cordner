@@ -62,7 +62,7 @@ export const SingleServiceTemplate = ({
         <section className="section SingleService--Welcome">
           <div className="container flex">
             <div className="flex-column one-half">
-              <NumberedHeader number="" title="What we offer" />
+              <NumberedHeader number="01" title="What we offer" />
               <h3>{subtitle}</h3>
               <Image src={contentImage} alt={title} />
             </div>

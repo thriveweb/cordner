@@ -1,4 +1,5 @@
 .SingleService {
+  color: var(--brown);
   .PageHeader {
     padding: 130px;
     &::after {
@@ -18,14 +19,21 @@
   .numbered-header,
   .numbered-header span {
     margin: 1rem 0;
+    padding-right: 3rem;
   }
 }
 
 .SingleService--Welcome {
   h3 {
     width: 60%;
-    margin: 0 0 6rem 4.4rem;
+    margin: 54px 0 6rem 5.5rem;
   }
+
+  p {
+    opacity: 0.8;
+  }
+
+  background-color: #f4f4f4;
 }
 
 .SubServices {
