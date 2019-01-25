@@ -4,7 +4,7 @@ title: The value of a good car log book
 status: Published
 date: '2018-03-29'
 featuredImage: /images/uploads/steve.jpg
-bannerImage: /images/uploads/banner-10.jpg
+bannerImage: /images/uploads/banner29.jpg
 excerpt: >-
   As the end of the Fringe Benefits Tax (FBT) year is fast approaching, it’s
   time to once again turn at least part of our attention to the collation and
