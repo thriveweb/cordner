@@ -4,7 +4,7 @@ title: Are you or your employees missing super?
 status: Featured / Published
 date: '2018-10-24'
 featuredImage: /images/uploads/linda.jpg
-bannerImage: /images/uploads/banner-24.jpg
+bannerImage: /images/uploads/banner-7.jpg
 excerpt: >-
   According to official records, there is still $17.5 billion in lost and
   unclaimed super waiting to be found. Some of it could belong to you or your
