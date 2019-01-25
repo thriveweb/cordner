@@ -4,7 +4,7 @@ title: 'New Years Resolution:  To Avoid Sophisticated Email Scams …'
 status: Featured
 date: '2019-01-24'
 featuredImage: /images/uploads/steve.jpg
-bannerImage: /images/uploads/instagram.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: ...
 categories:
   - category: Taxation and Compliance
