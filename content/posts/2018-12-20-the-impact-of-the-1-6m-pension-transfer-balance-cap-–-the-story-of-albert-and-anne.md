@@ -6,7 +6,7 @@ title: >-
 status: Published
 date: '2017-01-12'
 featuredImage: /images/uploads/anne...jpg
-bannerImage: /images/uploads/banner-17.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   This story is designed to illustrate the impact of the $1.6m pension transfer
   balance cap, which comes into effect on 1 July 2017

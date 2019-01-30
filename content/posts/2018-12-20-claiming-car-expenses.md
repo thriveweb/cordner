@@ -4,7 +4,7 @@ title: Claiming Car Expenses
 status: Published
 date: '2017-09-21'
 featuredImage: /images/uploads/christine.jpg
-bannerImage: /images/uploads/banner-14.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   The ATO will be looking closely at work related car expense claims made under
   the cents per kilometre method with a focus on claims right up to the 5000km

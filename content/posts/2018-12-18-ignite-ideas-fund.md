@@ -4,7 +4,7 @@ title: Ignite Ideas Fund
 status: Published
 date: '2018-04-26'
 featuredImage: /images/uploads/sarah.jpg
-bannerImage: /images/uploads/banner-3.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: 'Applications Close: 2:00 pm EST on Wednesday 9 May 2018'
 categories:
   - category: Business Advisory
@@ -72,4 +72,4 @@ Be registered and head-quartered in Queensland
 **How to Apply
 **
 
-Submissions are now open at  should you require any assistance with or would like to discuss your business eligibility please contact us at Cordner Advisory.
+Submissions are now open at should you require any assistance with or would like to discuss your business eligibility please contact us at Cordner Advisory.

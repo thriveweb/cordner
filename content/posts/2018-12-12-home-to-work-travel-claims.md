@@ -4,7 +4,7 @@ title: Home to work travel claims?
 status: Published
 date: '2018-06-28'
 featuredImage: /images/uploads/steve.jpg
-bannerImage: /images/uploads/banner-2.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   The ATO has announced that it will be closely scrutinizing Motor Vehicle
   deductions claimed in the 2017/18 income year.

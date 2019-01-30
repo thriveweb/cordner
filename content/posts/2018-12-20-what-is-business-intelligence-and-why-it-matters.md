@@ -4,7 +4,7 @@ title: What is business intelligence and why it matters
 status: Published
 date: '2018-02-21'
 featuredImage: /images/uploads/shaun.jpg
-bannerImage: /images/uploads/banner-19.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   Business Intelligence (BI) refers to the tools, technologies, applications and
   practices used to collect, analyse and present an organisations raw data in

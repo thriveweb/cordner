@@ -4,7 +4,7 @@ title: How can businesses make use of Google to grow?
 status: Published
 date: '2018-10-04'
 featuredImage: /images/uploads/kamil1.jpg
-bannerImage: /images/uploads/banner-25.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   Research shows that every month a single google search drives millions of
   direct connections between businesses and their customers which include

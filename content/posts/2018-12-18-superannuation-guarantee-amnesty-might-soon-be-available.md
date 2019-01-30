@@ -4,7 +4,7 @@ title: Superannuation Guarantee Amnesty might soon be available!
 status: Published
 date: '2018-06-07'
 featuredImage: /images/uploads/linda.jpg
-bannerImage: /images/uploads/banner-5.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   The Minister for Revenue and Financial Services has proposed a 12-month
   amnesty for employers to catch up on unpaid superannuation.

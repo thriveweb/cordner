@@ -4,7 +4,7 @@ title: Tips To Best Manage Payroll Compliance
 status: Published
 date: '2018-03-15'
 featuredImage: /images/uploads/kamil1.jpg
-bannerImage: /images/uploads/banner-18.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   Payroll compliance remains one of the biggest but preventable areas of risk
   for many businesses. Payroll is a process that, done well, should be invisible

@@ -4,7 +4,7 @@ title: The story of Bettie and Bob
 status: Published
 date: '2017-02-13'
 featuredImage: /images/uploads/anne...jpg
-bannerImage: /images/uploads/banner-18.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   This story is designed to illustrate the impact of the $1.6m pension transfer
   balance cap, and the impact of the scrapping of the tax-exempt status of

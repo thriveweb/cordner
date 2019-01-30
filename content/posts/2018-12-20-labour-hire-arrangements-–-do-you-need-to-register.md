@@ -4,7 +4,7 @@ title: Labour Hire Arrangements – Do you need to Register?
 status: Published
 date: '2018-02-15'
 featuredImage: /images/uploads/steve.jpg
-bannerImage: /images/uploads/banner-15.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   Recent changes under the Queensland Labour Hire Licensing Act 2017 has meant
   that from April 2018, all employers who engage in the hire of labour to other

@@ -4,7 +4,7 @@ title: Export Marketing Development Grants (EMDG)
 status: Featured
 date: '2018-11-22'
 featuredImage: /images/uploads/sarah.jpg
-bannerImage: /images/uploads/banner-22.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   EMDG is the Export Market Development scheme run by the Australian Government
   financial assistance program administered by Austrade for Australian aspiring

@@ -4,7 +4,7 @@ title: 'What is Single Touch Payroll Reporting, and does it affect you?'
 status: Published
 date: '2018-02-08'
 featuredImage: /images/uploads/linda.jpg
-bannerImage: /images/uploads/banner-20.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   Single Touch Payroll Reporting is a new legal requirement, and it ensures that
   all payroll related information is instantly reported to the Australian

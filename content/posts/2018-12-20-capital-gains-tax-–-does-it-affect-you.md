@@ -4,7 +4,7 @@ title: Capital Gains Tax – does it affect you?
 status: Published
 date: '2017-10-27'
 featuredImage: /images/uploads/sarah.jpg
-bannerImage: /images/uploads/banner-13.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   For those of us that live in and own our own homes or have additional rental
   properties, consideration of capital gains tax or any of the exemptions

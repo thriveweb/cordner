@@ -4,7 +4,7 @@ title: Reasons Why Your Business Should Have a Strong Social Media Presence
 status: Published
 date: '2018-06-20'
 featuredImage: /images/uploads/kamil1.jpg
-bannerImage: /images/uploads/banner-4.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   Statistics show that in 2017 the total users of social media around the globe
   were 2.77 billion with more than 500 million daily users liking more than 4.2

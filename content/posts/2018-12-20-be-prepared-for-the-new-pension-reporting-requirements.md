@@ -4,7 +4,7 @@ title: Be prepared for the New Pension Reporting requirements
 status: Published
 date: '2018-03-08'
 featuredImage: /images/uploads/elsa...jpg
-bannerImage: /images/uploads/banner-12.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   With the new super rule changes that kicked in on 1 July 2017, your
   requirement to report information about your SMSF and the pensions it pays you

@@ -4,7 +4,7 @@ title: 'FBT 2019 : Utes are No Tax-Free Perk'
 status: Published
 date: '2018-08-16'
 featuredImage: /images/uploads/steve.jpg
-bannerImage: /images/uploads/banner-26.jpg
+bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   Although we are already one quarter into the Fringe Benefits Tax (FBT) Year,
   which runs 01/04/XX to 31/03/XX, the ATO have sought to clarify their position
