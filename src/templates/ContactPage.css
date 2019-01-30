@@ -25,6 +25,15 @@
   color: var(--brown);
 }
 
+.images-box img {
+  width: 30%;
+  height: fit-content !important;
+}
+
+.images-box {
+  justify-content: end !important;
+}
+
 @media (min-width: 750px) {
   .Contact--Section1--Container {
     display: flex;

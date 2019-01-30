@@ -5,6 +5,8 @@ import { MapPin, Smartphone, Mail } from 'react-feather'
 import PageHeader from '../components/PageHeader'
 import FormSimpleAjax from '../components/FormSimpleAjax'
 import Content from '../components/Content'
+import Image from '../components/Image'
+
 // import GoogleMaps from '../components/GoogleMaps'
 import './ContactPage.css'
 
@@ -54,6 +56,11 @@ export const ContactPageTemplate = ({
                 <Mail /> {email}
               </a>
             )}
+          </div>
+
+          <div className="images-box flex">
+            <Image src="/images/uploads/tax.jpg" />
+            <Image src="/images/uploads/cpa.jpg" />
           </div>
         </div>
         <div>
