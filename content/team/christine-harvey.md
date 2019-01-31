@@ -6,9 +6,7 @@ teamOrder: 11
 featuredImage: /images/uploads/christine.jpg
 mainImage: /images/uploads/christine.jpg
 position: Advisor
-categories:
-  - category: Business Advisory
-  - category: Taxation and Compliance
+categories: []
 ---
 
 Christine is qualified CPA, she has significant experience as a finance manager and advisor for medium to large multinational corporations in London and Melbourne. Christine has expertise in finance systems and process improvement, tax compliance, strategic planning, budgeting, statutory reporting, management reporting and analysis - all aimed at supporting and enhancing business growth and client outcomes.
