@@ -50,6 +50,9 @@ export const SingleServiceTemplate = ({
       post.categories.find(cat => currentCats.includes(cat.category))
     )
   }
+  {
+    console.log(categories)
+  }
 
   return (
     <Fragment>
@@ -97,7 +100,8 @@ export const SingleServiceTemplate = ({
             <div className="flex-column one-half" />
           </div>
           <div className="container flex">
-            {!!relatedMembers &&
+            {relatedMembers &&
+              relatedMembers.length &&
               relatedMembers.map((member, index) => (
                 <div key={index + member.title} className="one-third">
                   {!!member && <TeamCard teamMember={member} />}
@@ -106,19 +110,20 @@ export const SingleServiceTemplate = ({
           </div>
         </section>
 
-        {!!relatedPosts && (
-          <section className="section relatedPosts">
-            <div className="container">
-              <NumberedHeader number="" title="Blog" />
-              <h3>Related news</h3>
-            </div>
-            <div className="container PostSection--Grid">
-              {relatedPosts.map((post, index) => (
-                <PostCard key={post.title + index} {...post} />
-              ))}
-            </div>
-          </section>
-        )}
+        {relatedPosts &&
+          relatedPosts.length && (
+            <section className="section relatedPosts">
+              <div className="container">
+                <NumberedHeader number="" title="Blog" />
+                <h3>Related news</h3>
+              </div>
+              <div className="container PostSection--Grid">
+                {relatedPosts.map((post, index) => (
+                  <PostCard key={post.title + index} {...post} />
+                ))}
+              </div>
+            </section>
+          )}
 
         <section className="SubServices">
           <div className="SubServices--Titlebar red">
