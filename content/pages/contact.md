@@ -8,4 +8,4 @@ address: 'Suite 315E, Level 3, 3 Oracle Boulevard, Broadbeach Qld 4218'
 phone: (07) 5504 5700
 email: info@cordner.com.au
 ---
-We are located Suite 315E, Level 3, 3 Oracle Boulevard, Broadbeach Qld 4218
+Talk to one of our experts today!
