@@ -26,13 +26,14 @@
 }
 
 .images-box img {
-  width: 130px;
+  width: 120px;
   height: 100%;
   margin-right: 2rem;
 }
 
 .images-box {
   margin-top: 2rem;
+  height: 160px;
   justify-content: end !important;
 }
 
