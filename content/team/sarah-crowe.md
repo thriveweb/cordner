@@ -8,7 +8,6 @@ mainImage: /images/uploads/sarah.jpg
 position: Advisor
 email: sarah@cordner.com.au
 categories:
-  - category: Taxation and Compliance
   - category: Research and Development (R&D) Entitlements
   - category: Export Marketing Development Grants (EMDG)
   - category: Government Innovation Grants
