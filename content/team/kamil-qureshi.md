@@ -6,8 +6,7 @@ teamOrder: 17
 featuredImage: /images/uploads/kamil1.jpg
 mainImage: /images/uploads/kamil1.jpg
 position: Analyst
-categories:
-  - category: Taxation and Compliance
+categories: []
 ---
 
 Kamil – B-Com is a qualified Accountant with multiple years of experience in Australia’s top 10 Chartered Accounting firms. He is currently studying towards his CPA. Kamil specializes in business advisory and has a sound knowledge of Australian Taxation Law.
