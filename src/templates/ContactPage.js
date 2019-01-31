@@ -59,8 +59,8 @@ export const ContactPageTemplate = ({
           </div>
 
           <div className="images-box flex">
-            <Image src="/images/uploads/cpa.jpg" />
-            <Image src="/images/uploads/tax-1.jpg" />
+            <Image src="/images/uploads/cpa.jpg" alt="CPA" />
+            <Image src="/images/uploads/tax-1.jpg" alt="Tax" />
           </div>
         </div>
         <div>

@@ -32,26 +32,23 @@ export const SingleServiceTemplate = ({
   let relatedServices = []
   let relatedMembers = []
   let relatedPosts = []
-  if (!!categories) {
+  if (categories) {
     currentCats = categories.map(obj => obj.category)
   }
-  if (!!services) {
+  if (services) {
     relatedServices = services.filter(obj =>
       obj.categories.find(cat => currentCats.includes(cat.category))
     )
   }
-  if (!!team) {
+  if (team) {
     relatedMembers = team.filter(member =>
-      member.categories.find(cat => currentCats.includes(cat.category))
+      member.categories.find(cat => title.includes(cat.category))
     )
   }
   if (posts) {
     relatedPosts = posts.filter(post =>
-      post.categories.find(cat => currentCats.includes(cat.category))
+      post.categories.find(cat => title.includes(cat.category))
     )
-  }
-  {
-    console.log(categories)
   }
 
   return (

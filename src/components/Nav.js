@@ -43,7 +43,6 @@ export default class Nav extends Component {
               <div
                 className="services"
                 onClick={() => this.handleMobileList('Services')}
-                exact
               >
                 Our Services
               </div>
@@ -55,18 +54,16 @@ export default class Nav extends Component {
                 <NavLink
                   to="/services/business-advisory"
                   onClick={this.handleLinkClick}
-                  exact
                 >
                   Business advisory
                 </NavLink>
-                <NavLink to="/services/taxation-and-compliance" exact>
+                <NavLink to="/services/taxation-and-compliance">
                   Taxation and compliance
                 </NavLink>
                 <div className="NavLink hasCildren">
                   <Link
                     to="/services/government-grants"
                     onClick={this.handleLinkClick}
-                    exact
                   >
                     Government Grants
                   </Link>
@@ -79,24 +76,18 @@ export default class Nav extends Component {
                       this.state['navListRdGrants'] ? 'active' : ''
                     }`}
                   >
-                    <NavLink
-                      to="/services/research-and-development-r-d-entitlements"
-                      exact
-                    >
+                    <NavLink to="/services/research-and-development-r-d-entitlements">
                       Research and development (R&D) entitlements
                     </NavLink>
-                    <NavLink
-                      to="/services/export-marketing-development-grants-emdg"
-                      exact
-                    >
+                    <NavLink to="/services/export-marketing-development-grants-emdg">
                       Export marketing development grants (EMDG)
                     </NavLink>
                   </div>
                 </div>
-                <NavLink to="/services/private-advisory-services" exact>
+                <NavLink to="/services/private-advisory-services">
                   Private advisory services
                 </NavLink>
-                <NavLink to="/services/self-managed-super-funds" exact>
+                <NavLink to="/services/self-managed-super-funds">
                   Self managed super funds
                 </NavLink>
 
@@ -104,7 +95,6 @@ export default class Nav extends Component {
                   <Link
                     to="/services/key-industries"
                     onClick={this.handleLinkClick}
-                    exact
                   >
                     Key industries
                   </Link>
@@ -117,33 +107,24 @@ export default class Nav extends Component {
                       this.state['navListkeyIndustries'] ? 'active' : ''
                     }`}
                   >
-                    <NavLink to="/services/childcare-centre-services" exact>
+                    <NavLink to="/services/childcare-centre-services">
                       Childcare centre services
                     </NavLink>
 
-                    <NavLink to="/services/technology-and-startups" exact>
+                    <NavLink to="/services/technology-and-startups">
                       Technology and startups
                     </NavLink>
-                    <NavLink
-                      to="/services/property-construction-and-building-services"
-                      exact
-                    >
+                    <NavLink to="/services/property-construction-and-building-services">
                       Property construction and building services
                     </NavLink>
                   </div>
                 </div>
               </div>
             </div>
-            <NavLink to="/your-advisors/" exact>
-              Your Advisors
-            </NavLink>
-            <NavLink to="/blog/" exact>
-              Blog
-            </NavLink>
+            <NavLink to="/your-advisors/">Your Advisors</NavLink>
+            <NavLink to="/blog/">Blog</NavLink>
 
-            <NavLink to="/contact/" exact>
-              Contact
-            </NavLink>
+            <NavLink to="/contact/">Contact</NavLink>
 
             <div className="Client--Login">
               <img src="/images/uploads/login-icon.svg" alt="login icon" />
