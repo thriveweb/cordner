@@ -9,8 +9,7 @@ position: Founder
 twitter: 'https://twitter.com/'
 linkedin: 'https://linkedin.com/'
 email: info@cordner.com.au
-categories:
-  - category: Taxation and Compliance
+categories: []
 ---
 
 Tony has over 35 years’ experience in the professional practice of
