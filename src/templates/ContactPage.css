@@ -26,11 +26,13 @@
 }
 
 .images-box img {
-  width: 30%;
-  height: fit-content !important;
+  width: 120px;
+  height: 100%;
+  margin-right: 2rem;
 }
 
 .images-box {
+  margin-top: 2rem;
   justify-content: end !important;
 }
 
