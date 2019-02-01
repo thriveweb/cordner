@@ -6,8 +6,7 @@ teamOrder: 12
 featuredImage: /images/uploads/michael.jpg
 mainImage: /images/uploads/michael.jpg
 position: Advisor
-categories:
-  - category: Taxation and Compliance
+categories: []
 ---
 
 Michael has a Bachelor of Commerce, Chartered Accountant and Masters of Applied Taxation, and has several years of experience working in public practice providing accounting and taxation services. Michael joined Cordner Advisory as an Advisor in 2018, after spending many years working at mid-tier accounting firms in Melbourne and the Gold Coast.
