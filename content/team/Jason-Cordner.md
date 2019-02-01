@@ -11,6 +11,7 @@ categories:
   - category: Private Advisory Services
   - category: 'Property, Construction and Building Services'
   - category: Key Industries
+  - category: Taxation and Compliance
 ---
 
 Jason, qualified CPA and fellow of Finisia, field of expertise ranges from tax advice and business services to corporate advisory engagements including due diligence, valuations, business transfers and forensic accounting. Jason advises clients in strategic planning, estate and succession planning, focuses on business improvement and performance indicators to enhance outcomes for his clients.
