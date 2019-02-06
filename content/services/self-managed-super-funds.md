@@ -32,8 +32,14 @@ Unlike many other SMSF ‘administration’ services in the market place, we do 
 
 Cordner Super Advisory are dedicated to being at the forefront of technical expertise in the SMSF industry on the Gold Coast and committed to providing the professional support to streamline the management of your SMSF.
 
-Our Authorised Advisors:
+Our Authorised Advisors: 
 
 [Jarrad Young](https://cordner.netlify.com/team/jarrad-young/) – Director 
 
 [Elsa Howarth](https://cordner.netlify.com/team/elsa-howarth/) – Director
+
+Cordner Super Advisory Pty Ltd
+
+ABN: 47 157 966 204
+
+AFSL No: 502431
