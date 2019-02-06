@@ -13,6 +13,7 @@ categories:
   - category: Childcare Centre Services
   - category: Key Industries
   - category: Government Innovation Grants
+  - category: Government Grants
 ---
 
 Di is a member of the Institute of Chartered Accountants and previous Big 4 advisory specialist, has significant experience in tax compliance and advisory services. Di specialises in business advisory, concentrating on assisting businesses with strategy, management reporting, R&D, grants and growth.
