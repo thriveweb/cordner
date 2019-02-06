@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Export Marketing Development Grants (EMDG)
-status: Featured
+status: Published
 date: '2018-11-22'
 featuredImage: /images/uploads/sarah.jpg
 bannerImage: /images/uploads/business-advisory-v1.jpg
