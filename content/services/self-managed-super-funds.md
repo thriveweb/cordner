@@ -34,6 +34,6 @@ Cordner Super Advisory are dedicated to being at the forefront of technical expe
 
 Our Authorised Advisors:
 
-Jarrad Young – Director 
+[Jarrad Young](https://cordner.netlify.com/team/jarrad-young/) – Director 
 
-Elsa Howarth – Director
+[Elsa Howarth](https://cordner.netlify.com/team/elsa-howarth/) – Director
