@@ -25,7 +25,7 @@ Our mentoring services focus only on delivering successful outcomes for our cust
 
 Startup and Technology companies attract R&D incentives and innovation grants. We can help you structure, plan and coordinate the lodgments of these applications with the Australian Government.
 
-**Budgets and Forecasting**
+**Budgets and Forecasting **
 
 We help to establish, structure, model, forecast cashflows and profit/loss. With expert forecasting you can identify efficiencies/concerns in the data and plan for better outcomes. 
 
@@ -33,7 +33,6 @@ We help to establish, structure, model, forecast cashflows and profit/loss. With
 
 We advise on appropriate company structures (including trusts, IP protection, governance etc). Structures often evolve over time and we can help provide a roadmap of the most beneficial structures for your business.
 
-**
-Risk Management**
+**Risk Management**
 
 Our expertise in corporate governance and board secretarial services are essential to medium and large businesses.
