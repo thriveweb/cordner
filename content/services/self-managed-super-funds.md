@@ -10,17 +10,30 @@ contentImage: /images/uploads/smsf.jpg
 categories:
   - category: Self Managed Super Funds
 ---
-A Self-Managed Super Fund (SMSF) enables your super contributions to be used for a variety of investments, typically real estate, cash and shares. Your own SMSF is entirely controlled by you, however SMSF’s are complex to administer. Once we have established your SMSF on your behalf, you can begin to acquire assets in your preferred investments. We then ensure that you have all the information and advice necessary to conform with the various legislative obligations and reporting requirements.
+As experienced Gold Coast SMSF accountants we know many people already manage their own superannuation via a SMSF and many more will decide to take control of one of their most significant assets in the next few years.
 
+Being the trustee of your own SMSF is not a matter to be taken lightly however.  There are very complex laws and regulations that impact on the operations of an SMSF and the trustees that manage them.  We have considerable experience in SMSF and dedicate significant resources to make sure we are at the top of the game when it comes to supporting our clients in this area.
 
-Self Managed Super Funds give you the flexibility to invest your superannuation in the investments of your choice and making your super work for you. SMSFs enable you to invest in opportunities not available to other super fund products, freeing up your personal cash flow. SMSFs have highly advantageous concessional taxation benefits and further provide capacity to create a joint fund between friends and family
-Cordner SMSF services include:
-Establishing your SMSF
+Unlike many other SMSF ‘administration’ services in the market place, we do not merely provide data processing and year end account preparation for your SMSF. In conjunction with Cordner Super Advisory, we engage experienced and qualified professionals with specific SMSF qualifications to provide comprehensive administration services to you (the trustee and member) and your SMSF.  While we certainly attend to the basics of annual compliance (preparation of accounts and statutory returns and the annual audit), we also provide support in:
 
-* We create a Statement of Advice (SoA) which is a detailed report that provides recommendations regarding your SMSF 15
-* Establish the SMSF (including a trust deed, company, bank a/c, TFN, ABN etc)
-* Combine your super into one fund and roll over existing benefits to your SMSF Ongoing SMSF management
-* Ensure you conform to ATO legislation and audit requirements
-* Lodge your reports with the ATO and stay on top of your reporting obligations
-  ensuring you meet relevant deadlines
-* Update you with any changes to superannuation laws that could affect your responsibilities as a trustee
+•	Establishing your SMSF and regularly reviewing the trust deed to make sure they meet your requirements and comply with the law;
+
+•	Make sure your SMSF is complimentary to your estate planning and asset protection strategies;
+
+•	Forming your contribution strategies;
+
+•	Your transition to retirement and advise on how an SMSF can be of benefit;
+
+•	Forming your pension strategy;
+
+•	Obtain actuarial reports for the SMSF as required; and
+
+•	Assist with establishing structures that allow your SMSF to borrow for investments.
+
+Cordner Super Advisory are dedicated to being at the forefront of technical expertise in the SMSF industry on the Gold Coast and committed to providing the professional support to streamline the management of your SMSF.
+
+Our Authorised Advisors:
+
+Jarrad Young – Director 
+
+Elsa Howarth – Director
