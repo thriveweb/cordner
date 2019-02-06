@@ -36,6 +36,4 @@ We advise on appropriate company structures (including trusts, IP protection, go
 **
 Risk Management**
 
-Our expertise in corporate governance and board secretarial services are essential to medium and large businesses. 
-
-Below are some of our success stories - link to client case study
+Our expertise in corporate governance and board secretarial services are essential to medium and large businesses.
