@@ -37,12 +37,14 @@ Cordner Super Advisory are dedicated to being at the forefront of technical expe
 <br />
 Our Authorised Advisors:
 
-• [Jarrad Young](https://cordner.netlify.com/team/jarrad-young/) – Director
+[Jarrad Young](https://cordner.netlify.com/team/jarrad-young/) – Director
 
-• [Elsa Howarth](https://cordner.netlify.com/team/elsa-howarth/) – Director
+[Elsa Howarth](https://cordner.netlify.com/team/elsa-howarth/) – Director
 
-• Cordner Super Advisory Pty Ltd
 
-• ABN: 47 157 966 204
 
-• AFSL No: 502431
+Cordner Super Advisory Pty Ltd
+
+ABN: 47 157 966 204
+
+AFSL No: 502431
