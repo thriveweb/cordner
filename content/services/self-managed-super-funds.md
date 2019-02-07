@@ -14,9 +14,15 @@ categories:
 
 As experienced Gold Coast SMSF accountants we know many people already manage their own superannuation via a SMSF and many more will decide to take control of one of their most significant assets in the next few years.
 
+<br />
+
 Being the trustee of your own SMSF is not a matter to be taken lightly however. There are very complex laws and regulations that impact on the operations of an SMSF and the trustees that manage them. We have considerable experience in SMSF and dedicate significant resources to make sure we are at the top of the game when it comes to supporting our clients in this area.
 
+<br />
+
 Unlike many other SMSF ‘administration’ services in the market place, we do not merely provide data processing and year end account preparation for your SMSF. In conjunction with Cordner Super Advisory, we engage experienced and qualified professionals with specific SMSF qualifications to provide comprehensive administration services to you (the trustee and member) and your SMSF. While we certainly attend to the basics of annual compliance (preparation of accounts and statutory returns and the annual audit), we also provide support in:
+
+<br />
 
 • Establishing your SMSF and regularly reviewing the trust deed to make sure they meet your requirements and comply with the law;
 
@@ -31,6 +37,8 @@ Unlike many other SMSF ‘administration’ services in the market place, we do 
 • Obtain actuarial reports for the SMSF as required; and
 
 • Assist with establishing structures that allow your SMSF to borrow for investments.
+
+<br />
 
 Cordner Super Advisory are dedicated to being at the forefront of technical expertise in the SMSF industry on the Gold Coast and committed to providing the professional support to streamline the management of your SMSF.
 
