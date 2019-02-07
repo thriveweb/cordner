@@ -16,6 +16,8 @@ Being the trustee of your own SMSF is not a matter to be taken lightly however. 
 
 Unlike many other SMSF ‘administration’ services in the market place, we do not merely provide data processing and year end account preparation for your SMSF. In conjunction with Cordner Super Advisory, we engage experienced and qualified professionals with specific SMSF qualifications to provide comprehensive administration services to you (the trustee and member) and your SMSF.  While we certainly attend to the basics of annual compliance (preparation of accounts and statutory returns and the annual audit), we also provide support in:
 
+
+
 •	Establishing your SMSF and regularly reviewing the trust deed to make sure they meet your requirements and comply with the law;
 
 •	Make sure your SMSF is complimentary to your estate planning and asset protection strategies;
@@ -32,6 +34,8 @@ Unlike many other SMSF ‘administration’ services in the market place, we do 
 
 Cordner Super Advisory are dedicated to being at the forefront of technical expertise in the SMSF industry on the Gold Coast and committed to providing the professional support to streamline the management of your SMSF.
 
+
+
 Our Authorised Advisors: 
 
 [Jarrad Young](https://cordner.netlify.com/team/jarrad-young/) – Director 
@@ -39,6 +43,8 @@ Our Authorised Advisors:
 [Elsa Howarth](https://cordner.netlify.com/team/elsa-howarth/) – Director
 
 Cordner Super Advisory Pty Ltd
+
+
 
 ABN: 47 157 966 204
 
