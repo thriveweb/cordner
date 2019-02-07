@@ -26,7 +26,8 @@ export const SingleServiceTemplate = ({
   services,
   featuredServices,
   team,
-  posts
+  posts,
+  link
 }) => {
   let currentCats = []
   let relatedServices = []
@@ -68,6 +69,12 @@ export const SingleServiceTemplate = ({
             </div>
             <div className="flex-column one-half">
               <Content source={body} />
+
+              {!!link && (
+                <a className="Button" href={link}>
+                  Financial Services Guide 1
+                </a>
+              )}
             </div>
           </div>
         </section>
@@ -216,6 +223,7 @@ export const pageQuery = graphql`
               category
             }
             parentService
+            link
           }
         }
       }
