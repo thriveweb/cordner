@@ -5,6 +5,18 @@ display_url: https://cordner.netlify.com
 media_folder: 'static/images/uploads' # Media files will be stored in the repo under static/images/uploads
 public_folder: '/images/uploads' # The src attribute for uploaded media will begin with /images/uploads
 
+# display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 7bfe91220356fc18b9c0
+    multiple: false
+    tabs: 'file camera url facebook gdrive'
+    effects: 'crop,rotate,enhance,grayscale'
+    imageShrink: '2000x2000'
+    previewStep: true
+    clearable: true
+
 collections:
   - name: 'pages'
     label: 'Page'

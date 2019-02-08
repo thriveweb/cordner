@@ -4,7 +4,8 @@ title: Self Managed Super Funds
 subtitle: Take control of your future on your terms with a Self Managed Super Fund
 status: Featured
 order: 8
-link: 'http://localhost:8000/images/uploads/Financial-Services-Guide-V1.1.pdf'
+link: 'https://ucarecdn.com/7f67b3c4-20cb-49cc-b3a4-64a2c6883f62/'
+link2: 'https://ucarecdn.com/ad9f9390-7c46-46c3-9072-1af503f8868a/'
 featuredImage: /images/uploads/smsf.jpg
 icon: /images/uploads/self-managed--icon.svg
 contentImage: /images/uploads/smsf.jpg
@@ -50,7 +51,7 @@ Our Authorised Advisors:
 [Elsa Howarth](https://cordner.netlify.com/team/elsa-howarth/) – Director
 
 
-
+<br />
 Cordner Super Advisory Pty Ltd
 
 ABN: 47 157 966 204

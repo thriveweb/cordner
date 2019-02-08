@@ -27,7 +27,8 @@ export const SingleServiceTemplate = ({
   featuredServices,
   team,
   posts,
-  link
+  link,
+  link2
 }) => {
   let currentCats = []
   let relatedServices = []
@@ -70,11 +71,19 @@ export const SingleServiceTemplate = ({
             <div className="flex-column one-half">
               <Content source={body} />
 
-              {!!link && (
-                <a className="Button" href={link}>
-                  Financial Services Guide 1
-                </a>
-              )}
+              <div className="links-container">
+                {!!link &&(
+                  <a className="pdflinks" href={link}>
+                    Financial Services Guide 1
+                  </a>
+                )}
+
+                {!!link2 &&(
+                  <a className="pdflinks"  href={link2}>
+                    Financial Services Guide 2
+                  </a>
+                )}
+              </div>
             </div>
           </div>
         </section>
@@ -194,6 +203,8 @@ export const pageQuery = graphql`
         title
         subtitle
         template
+        link
+        link2
         featuredImage {
           ...FluidImage
         }
@@ -224,6 +235,7 @@ export const pageQuery = graphql`
             }
             parentService
             link
+            link2
           }
         }
       }

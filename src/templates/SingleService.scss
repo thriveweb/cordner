@@ -40,6 +40,17 @@
   }
 
   background-color: #f4f4f4;
+
+  .pdflinks {
+    display:block;
+    color: var(--brightRed);
+    font-weight: 600;
+    font-size: 14px;
+  }
+
+  .links-container {
+    margin-top: 1rem;
+  }
 }
 
 .SubServices {
