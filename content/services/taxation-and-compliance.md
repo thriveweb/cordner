@@ -29,13 +29,19 @@ State and federal regulations are just a few of the many challenges that the tea
 
 Taxation and compliance services are required in every stage in the lifecycle of any business.
 
+<br /> 
+
 **Starting Out**
 
 Let’s say you are just starting out and need advice on matters such as structuring for most appropriate entity to operate from, application of required ATO registrations, employee share schemes, or even government grant opportunities and lodgements, then we can assist.
 
+<br /> 
+
 **Business Maturation**
 
 As you continue in your business journey we deliver advice including ongoing tax obligations, FBT, transfer duty, state taxes, required audits, year tax planning, shareholder reporting and ASIC obligations and so on.
+
+<br /> 
 
 **Exit Planning**
 
