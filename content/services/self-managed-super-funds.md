@@ -4,8 +4,8 @@ title: Self Managed Super Funds
 subtitle: Take control of your future on your terms with a Self Managed Super Fund
 status: Featured
 order: 8
-link: 'https://ucarecdn.com/7f67b3c4-20cb-49cc-b3a4-64a2c6883f62/'
-link2: 'https://ucarecdn.com/ad9f9390-7c46-46c3-9072-1af503f8868a/'
+link: 'https://ucarecdn.com/85dc0d43-f1c3-4fe9-af03-39722006bbd2/'
+link2: 'https://ucarecdn.com/1b7fd1b9-6459-4d99-9a08-9617c3f27cc0/'
 featuredImage: /images/uploads/smsf.jpg
 icon: /images/uploads/self-managed--icon.svg
 contentImage: /images/uploads/smsf.jpg
