@@ -3,6 +3,10 @@
   padding-bottom: 0 !important;
 }
 
+.SinglePost .PostCard:nth-child( n + 3) {
+    display: none;
+}
+
 .arrow-left:after {
   content: '';
   width: 44px;
