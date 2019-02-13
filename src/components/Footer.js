@@ -39,11 +39,11 @@ export default ({ globalSettings = {}, ...props }) => {
             <h3>{subscribeFormTitle}</h3>
             <SubscribeForm />
             <ul className="socials-list">
-              <li>
+              {/* <li>
                 <a href={socialMediaCard.twitter}>
                   <i className="fab fa-twitter" />
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a href={socialMediaCard.facebook}>
                   <i className="fab fa-facebook-f" />
