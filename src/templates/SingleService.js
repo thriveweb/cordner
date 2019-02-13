@@ -141,7 +141,7 @@ export const SingleServiceTemplate = ({
 
         <section className="SubServices">
           <div className="SubServices--Titlebar red">
-            <NumberedHeader number="" title="We also offer" />
+            <NumberedHeader title="We also offer" />
             <h3>Other services</h3>
           </div>
           <div className="grid">

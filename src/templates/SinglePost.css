@@ -1,4 +1,6 @@
 .SinglePost {
+
+  padding-bottom: 0 !important;
 }
 
 .arrow-left:after {
@@ -24,6 +26,7 @@
   display: block;
   background-repeat: no-repeat;
 }
+
 
 .SinglePost--InnerContent .Content p {
   opacity: 0.8;

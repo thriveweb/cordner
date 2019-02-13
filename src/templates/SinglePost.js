@@ -7,6 +7,8 @@ import { ChevronLeft } from 'react-feather'
 
 import Content from '../components/Content'
 import Image from '../components/Image'
+import NumberedHeader from '../components/NumberedHeader'
+import PostCard from '../components/PostCard'
 import './SinglePost.css'
 
 export const SinglePostTemplate = ({
@@ -18,8 +20,22 @@ export const SinglePostTemplate = ({
   nextPostURL,
   prevPostURL,
   categories = [],
-  authors = []
-}) => (
+  authors = [],
+  posts
+}) => {
+  let currentCats = []
+  let relatedPosts = []
+  if (categories) {
+    currentCats = categories.map(obj => obj.category)
+  }
+  if (posts) {
+    relatedPosts = posts.filter(post =>
+      post.categories.find(cat => currentCats.includes(cat.category))
+    )
+  }
+
+
+return (
   <article
     className="SinglePost section light"
     itemScope
@@ -117,12 +133,27 @@ export const SinglePostTemplate = ({
         </div>
       </div>
     </div>
+
+    {relatedPosts &&
+      relatedPosts.length && (
+        <section className="section relatedPosts">
+          <div className="container">
+            <NumberedHeader number="" title="Blog" />
+            <h3>Related news</h3>
+          </div>
+          <div className="container PostSection--Grid">
+            {relatedPosts.map((post, index) => (
+              <PostCard key={post.title + index} {...post} />
+            ))}
+          </div>
+        </section>
+      )}
   </article>
-)
+) }
 
 // Export Default SinglePost for front-end
 const SinglePost = ({ data, pathContext }) => {
-  const { post, allPosts } = data
+  const { post, allPosts, posts } = data
   const thisEdge = allPosts.edges.find(edge => edge.node.id === post.id)
   return (
     <SinglePostTemplate
@@ -131,6 +162,10 @@ const SinglePost = ({ data, pathContext }) => {
       body={post.html}
       nextPostURL={_get(thisEdge, 'next.fields.slug')}
       prevPostURL={_get(thisEdge, 'previous.fields.slug')}
+      posts={posts.edges.map(edge => ({
+        ...edge.node.frontmatter,
+        ...edge.node.fields
+      }))}
     />
   )
 }
@@ -187,6 +222,33 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+          }
+        }
+      }
+    }
+    posts: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "posts" } } }
+      sort: { order: DESC, fields: [frontmatter___date] }
+
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            excerpt
+            date
+            authors {
+              author
+            }
+            categories {
+              category
+            }
+            featuredImage {
+              ...MediumImage
+            }
           }
         }
       }
