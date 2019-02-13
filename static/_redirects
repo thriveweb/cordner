@@ -1,1 +1,77 @@
 # Redirect default Netlify subdomain to primary domain
+
+
+https://www.cordner.com.au/wp-content/themes/cordner-theme/img/ca-logo.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/themes/cordner-theme/img/slider-arrow.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/07/business-advisory.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/07/personal-wealth.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/07/reporting.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/07/self-managed-super-funds.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/Services-business-advisory.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/Services-personal-wealth-security.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/Services-reporting-tax.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/Services-smsf.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/profile-tony.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/profile-jason.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/profile-jarrad.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/profile-anne.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/profile-di.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/profile-elsa.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/profile-donna.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/themes/cordner-theme/img/cpa-practice.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/themes/cordner-theme/img/tax-agent.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/themes/cordner-theme/img/twitter.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/themes/cordner-theme/img/facebook.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/themes/cordner-theme/img/linkedin.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/stonehouse.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/Corpsure-Logo.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/main-our-team.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/pierre_finance.png https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/Main-our-services.jpg https://www.cordner.com.au/
+https://www.cordner.com.au/wp-content/uploads/2016/08/Main-resources.jpg https://www.cordner.com.au/
+
+###
+
+https://www.cordner.com.au/wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/ https://www.cordner.com.au/
+https://www.cordner.com.au/wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/&format=xml https://www.cordner.com.au/
+https://www.cordner.com.au/wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/cordner-advisory-team/ https://www.cordner.com.au/
+https://www.cordner.com.au/wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/cordner-advisory-team/&format=xml https://www.cordner.com.au/
+https://www.cordner.com.au/wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/financial-accounting-services/ https://www.cordner.com.au/
+https://www.cordner.com.au/wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/financial-accounting-services/&format=xml https://www.cordner.com.au/
+https://www.cordner.com.au/wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/business-health-resources/ https://www.cordner.com.au/
+https://www.cordner.com.au/wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/business-health-resources/&format=xml https://www.cordner.com.au/
+
+###
+
+https://www.cordner.com.au/privacy-policy/ https://www.cordner.com.au/privacy/
+https://www.cordner.com.au/#testimonials https://www.cordner.com.au/
+https://www.cordner.com.au/homepage/feed/ https://www.cordner.com.au/
+https://www.cordner.com.au/cordner-advisory-team/ https://www.cordner.com.au/your-advisors/
+https://www.cordner.com.au/financial-accounting-services/ https://www.cordner.com.au/
+https://www.cordner.com.au/business-health-resources/ https://www.cordner.com.au/services/business-advisory/
+https://www.cordner.com.au/business-consulting-services/ https://www.cordner.com.au/services/business-advisory/
+https://www.cordner.com.au/services/personal-wealth-security/ https://www.cordner.com.au/
+https://www.cordner.com.au/services/reporting-and-tax/ https://www.cordner.com.au/services/taxation-and-compliance
+https://www.cordner.com.au/profiles/tony-cordner/ https://www.cordner.com.au/team/tony-cordner/
+https://www.cordner.com.au/profiles/jason-cordner/ https://www.cordner.com.au/team/jason-cordner/
+https://www.cordner.com.au/profiles/jarrad-young/ https://www.cordner.com.au/team/jarrad-young/
+https://www.cordner.com.au/profiles/ann-turner/ https://www.cordner.com.au/team/anne-turner/
+https://www.cordner.com.au/profiles/di-girvin/ https://www.cordner.com.au/your-advisors/
+https://www.cordner.com.au/profiles/elsa-howarth/ https://www.cordner.com.au/your-advisors/
+https://www.cordner.com.au/profiles/donna-forbes-zlatic/ https://www.cordner.com.au/your-advisors/
+https://www.cordner.com.au/profiles/stonehouse/ https://www.cordner.com.au/your-advisors/
+https://www.cordner.com.au/profiles/corpsure/ https://www.cordner.com.au/your-advisors/
+https://www.cordner.com.au/profiles/pierre-finance/ https://www.cordner.com.au/your-advisors/
+https://www.cordner.com.au/profiles/ https://www.cordner.com.au/terms/
+https://www.cordner.com.au/terms-and-conditions/ https://www.cordner.com.au/terms/
+https://www.cordner.com.au/resources/what-is-a-partnership/ https://www.cordner.com.au/
+https://www.cordner.com.au/resources/what-is-a-company/ https://www.cordner.com.au/
+https://www.cordner.com.au/resources/what-is-a-trust/ https://www.cordner.com.au/
+https://www.cordner.com.au/resources/running-a-business-within-a-family-group/ https://www.cordner.com.au/
+https://www.cordner.com.au/resources/recording-your-business-data/ https://www.cordner.com.au/
+https://www.cordner.com.au/resources/tax-effective-structuring-for-asset-protection/ https://www.cordner.com.au/
+https://www.cordner.com.au/resources/property-investment-borrowing-smsf/ https://www.cordner.com.au/
+https://www.cordner.com.au/resources/ https://www.cordner.com.au/
+https://www.cordner.com.au/fbt-2019-utes-are-no-tax-free-perk/ https://www.cordner.com.au/
+https://www.cordner.com.au/queensland-absentee-land-tax/ https://www.cordner.com.au/
+https://www.cordner.com.au/business-consulting-services/page/2/ https://www.cordner.com.au/services/business-advisory
