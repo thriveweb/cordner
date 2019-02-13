@@ -1,5 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
-
+https://cordner.netlify.com/* https://www.cordner.com.au/:splat 301!
 
 https://www.cordner.com.au/wp-content/themes/cordner-theme/img/ca-logo.png https://www.cordner.com.au/
 https://www.cordner.com.au/wp-content/themes/cordner-theme/img/slider-arrow.png https://www.cordner.com.au/
