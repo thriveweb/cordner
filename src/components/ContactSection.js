@@ -9,7 +9,7 @@ export default ({ title, subtitle, content, link, buttonText }) => (
   <div className="ContactSection container">
     <Image
       background
-      src="/images/uploads/contact--banner.jpg"
+      src="/images/uploads/call-banner.jpg"
       alt={title}
       size="cover"
     />
