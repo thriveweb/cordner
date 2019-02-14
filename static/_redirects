@@ -3,13 +3,77 @@ https://cordner.netlify.com/* https://www.cordner.com.au/:splat 301!
 
 ###
 
-/wp-content/* https://www.cordner.com.au/:splat
-/wp-json/* https://www.cordner.com.au/:splat
-/testimonials/* https://www.cordner.com.au/:splat
+/wp-content/themes/cordner-theme/img/ca-logo.png https://www.cordner.com.au/
+/wp-content/themes/cordner-theme/img/slider-arrow.png https://www.cordner.com.au/
+/wp-content/uploads/2016/07/business-advisory.png https://www.cordner.com.au/
+/wp-content/uploads/2016/07/personal-wealth.png https://www.cordner.com.au/
+/wp-content/uploads/2016/07/reporting.png https://www.cordner.com.au/
+/wp-content/uploads/2016/07/self-managed-super-funds.png https://www.cordner.com.au/
+/wp-content/uploads/2016/08/Services-business-advisory.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/Services-personal-wealth-security.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/Services-reporting-tax.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/Services-smsf.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/profile-tony.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/profile-jason.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/profile-jarrad.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/profile-anne.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/profile-di.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/profile-elsa.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/profile-donna.jpg https://www.cordner.com.au/
+/wp-content/themes/cordner-theme/img/cpa-practice.png https://www.cordner.com.au/
+/wp-content/themes/cordner-theme/img/tax-agent.png https://www.cordner.com.au/
+/wp-content/themes/cordner-theme/img/twitter.png https://www.cordner.com.au/
+/wp-content/themes/cordner-theme/img/facebook.png https://www.cordner.com.au/
+/wp-content/themes/cordner-theme/img/linkedin.png https://www.cordner.com.au/
+/wp-content/uploads/2016/08/stonehouse.png https://www.cordner.com.au/
+/wp-content/uploads/2016/08/Corpsure-Logo.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/main-our-team.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/pierre_finance.png https://www.cordner.com.au/
+/wp-content/uploads/2016/08/Main-our-services.jpg https://www.cordner.com.au/
+/wp-content/uploads/2016/08/Main-resources.jpg https://www.cordner.com.au/
 
 ###
 
+wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/ https://www.cordner.com.au/
+wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/&format=xml https://www.cordner.com.au/
+wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/cordner-advisory-team/ https://www.cordner.com.au/
+wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/cordner-advisory-team/&format=xml https://www.cordner.com.au/
+wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/financial-accounting-services/ https://www.cordner.com.au/
+wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/financial-accounting-services/&format=xml https://www.cordner.com.au/
+wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/business-health-resources/ https://www.cordner.com.au/
+wp-json/oembed/1.0/embed?url=https://www.cordner.com.au/business-health-resources/&format=xml https://www.cordner.com.au/
+
+###
+
+/testimonials/andrew-smyth/ https://www.cordner.com.au/
+/testimonials/someone-somewhere/ https://www.cordner.com.au/
+/testimonials/lauren-arkinstall/ https://www.cordner.com.au/
+/testimonials/testimonial-gcomm/ https://www.cordner.com.au/
+/testimonials/testimonial-bluepoint-property/ https://www.cordner.com.au/
+/testimonials/testimonial-gardner-chess/ https://www.cordner.com.au/
+/testimonials/lauren-arkinstall-2/ https://www.cordner.com.au/
+/testimonials/elizabeth-whitelock-veriluma/ https://www.cordner.com.au/
+/testimonials/daniel-thompson-gcomm/ https://www.cordner.com.au/
 /#testimonials https://www.cordner.com.au/
+
+###
+
+/profiles/tony-cordner/ /team/tony-cordner/
+/profiles/jason-cordner/ /team/jason-cordner/
+/profiles/jarrad-young/ /team/jarrad-young/
+/profiles/ann-turner/ /team/anne-turner/
+/profiles/di-girvin/ /your-advisors/
+/profiles/elsa-howarth/ /your-advisors/
+/profiles/donna-forbes-zlatic/ /your-advisors/
+/profiles/stonehouse/ /your-advisors/
+/profiles/corpsure/ /your-advisors/
+/profiles/pierre-finance/ /your-advisors/
+/your-advisors/tony-cordner/_r1a2006_print/ /team/tony-cordner/
+/your-advisors/stonehouse/stonehouse-2/ /your-advisors/
+/profiles/ /terms/
+
+##
+
 /resources/what-is-a-partnership/ https://www.cordner.com.au/
 /resources/what-is-a-company/ https://www.cordner.com.au/
 /resources/what-is-a-trust/ https://www.cordner.com.au/
@@ -38,9 +102,15 @@ https://cordner.netlify.com/* https://www.cordner.com.au/:splat 301!
 /understanding-your-entertainment-expenses/ https://www.cordner.com.au/
 /sharing-economy-basic-rundown/ https://www.cordner.com.au/
 /capital-gains-tax-affect/ https://www.cordner.com.au/
+/taking-emotion-investment-decision-making/ https://www.cordner.com.au/
+/navigating-world-cryptocurrencies-tax-considerations/ https://www.cordner.com.au/
 
 ###
 
+/single-touch-payroll-reporting-affect/ /posts/what-is-single-touch-payroll-reporting-and-does-it-affect-you/
+/gst-withholding-on-property-settlement/ /posts/gst-withholding-on-property-settlement/
+/home-to-work-travel-claims/ /posts/home-to-work-travel-claims/
+/labour-hire-arrangements-need-register/ /posts/labour-hire-arrangements-do-you-need-to-register/
 /tips-best-manage-payroll-compliance/ /posts/tips-to-best-manage-payroll-compliance/
 /business-health-check-up/ /posts/business-health-check-up/
 /research-development-incentive-update/ /posts/research-development-incentive-update/
@@ -62,7 +132,3 @@ https://cordner.netlify.com/* https://www.cordner.com.au/:splat 301!
 /services/reporting-and-tax/ /services/taxation-and-compliance
 /terms-and-conditions/ /terms/
 /business-consulting-services/page/2/ /services/business-advisory
-
-###
-
-/profiles/* /your-advisors/:splat
