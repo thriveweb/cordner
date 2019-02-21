@@ -4,7 +4,7 @@ title: The Capital Gains Tax Consequences of Creating Rights
 status: Featured
 date: '2019-02-21'
 featuredImage: /images/uploads/michael.jpg
-bannerImage: /images/uploads/business-advisory-v1.jpg
+bannerImage: /images/uploads/22-feb.png
 excerpt: >-
   Although most of us think about the disposal of an asset when it comes to
   Capital Gains Tax (CGT), there are another 53 CGT events that have tax
