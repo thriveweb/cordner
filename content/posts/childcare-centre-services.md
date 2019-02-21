@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Base Rate Entity - Corporate Tax Rates
-status: Featured
+status: Published
 date: '2018-11-28'
 featuredImage: /images/uploads/michael.jpg
 bannerImage: /images/uploads/business-advisory-v1.jpg
