@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: When growing your business means more to you than just numbers.
-featuredImage: /images/uploads/header-image.jpg
+featuredImage: /images/uploads/home-banner.jpg
 featureLink:
   label: Let’s talk business
   link: contact
