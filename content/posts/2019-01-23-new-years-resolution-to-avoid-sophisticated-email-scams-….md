@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: 'New Years Resolution:  To Avoid Sophisticated Email Scams …'
-status: Featured
+status: Published
 date: '2019-01-24'
 featuredImage: /images/uploads/steve.jpg
 bannerImage: /images/uploads/business-advisory-v1.jpg
