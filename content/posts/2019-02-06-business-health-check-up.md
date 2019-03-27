@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: 'Business Health Check Up '
-status: Featured
+status: Published
 date: '2019-02-07'
 featuredImage: /images/uploads/sarah.jpg
 bannerImage: /images/uploads/banner-9.jpg
