@@ -72,14 +72,14 @@ export const SingleServiceTemplate = ({
               <Content source={body} />
 
               <div className="links-container">
-                {!!link &&(
+                {!!link && (
                   <a className="pdflinks" href={link}>
                     Financial Services Guide 1
                   </a>
                 )}
 
-                {!!link2 &&(
-                  <a className="pdflinks"  href={link2}>
+                {!!link2 && (
+                  <a className="pdflinks" href={link2}>
                     Financial Services Guide 2
                   </a>
                 )}
@@ -206,10 +206,10 @@ export const pageQuery = graphql`
         link
         link2
         featuredImage {
-          ...FluidImage
+          ...MediumImage
         }
         contentImage {
-          ...FluidImage
+          ...MediumImage
         }
         categories {
           category
