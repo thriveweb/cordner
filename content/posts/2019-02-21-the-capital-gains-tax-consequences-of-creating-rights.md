@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: The Capital Gains Tax Consequences of Creating Rights
-status: Featured
+status: Published
 date: '2019-02-21'
 featuredImage: /images/uploads/michael.jpg
 bannerImage: /images/uploads/22-feb.png
