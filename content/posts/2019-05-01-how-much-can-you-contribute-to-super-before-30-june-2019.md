@@ -16,7 +16,8 @@ authors:
 ---
 As we approach 30 June, there are a few things to remember… and check… when it comes to superannuation contributions.
 
-**Concessional Contributions**
+**Concessional Contributions
+**
 
 These are the contributions paid to a super fund for which a tax deduction will be claimed. (Typically, Employer Contributions and Personal Deductible Contributions).
 
@@ -28,7 +29,8 @@ If you are 65 or over – you must meet a work test before a super fund can acce
 
 If you pass the work test, concessional contributions of up to $25,000 can be made on your behalf. If you are unsure and wish to speak to someone before making a contribution, do not hesitate to contact us.
 
-**Non-concessional Contributions**
+**Non-concessional Contributions
+**
 
 These are the contributions for which no deduction is claimed.
 
@@ -36,7 +38,8 @@ The annual non-concessional contributions cap is $100,000.
 
 The 3-year bring forward provisions mean that some people may be able to contribute up to $300,000 (and forgo making further non-concessional contributions in the following 2 years)
 
-**But wait, there are rules**
+**But wait, there are rules
+**
 
 If you are over 65, you must meet the work test as described for Concessional Contributions above. If you meet a work test, the maximum you may be able to contribute is $100,000 (the 3-year bring forward provisions are not available to you).
 
@@ -52,8 +55,9 @@ If your Total Superannuation Balance is below $1.4million, and you are under the
 
 This is, of course, dependent on you not having triggered the 3-year bring forward rule at some time during the 2016-17 or 2017-18 financial years.
 
-**Simple.**
+**Simple.
+**
 
 Of course, you should always check, check, check… there may well be a technicality, exception or circumstance which may prevent or allow you to make non-concessional contributions. Please call us to discuss this, if you are uncertain.
 
-Cordner Super Advisory (AFSL 502431) can assist you with information and provide personalised or general advice in all areas of superannuation within your SMSF. Please see our Financial Services Guide [here](file:///C:/Users/TraceyPorter/Downloads/CSA-Financial-Services%20Guide-V2.pdf).
+Cordner Super Advisory (AFSL 502431) can assist you with information and provide personalised or general advice in all areas of superannuation within your SMSF. Please see our Financial Services Guide [here](https://www.cordner.com.au/services/self-managed-super-funds)
