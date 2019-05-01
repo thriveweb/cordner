@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: STP Bill now passed through Senate
-status: Featured
+status: Published
 date: '2019-03-07'
 featuredImage: /images/uploads/linda.jpg
 bannerImage: /images/uploads/7-mar.jpg
