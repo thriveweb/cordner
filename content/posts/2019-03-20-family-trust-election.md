@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Family Trust Election
-status: Featured
+status: Published
 date: '2019-03-21'
 featuredImage: /images/uploads/kamil1.jpg
 bannerImage: /images/uploads/21-mar.jpg
