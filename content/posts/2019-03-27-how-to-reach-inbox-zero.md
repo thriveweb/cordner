@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: How to reach inbox zero
-status: Featured
+status: Published
 date: '2019-03-28'
 featuredImage: /images/uploads/shaun.jpg
 bannerImage: /images/uploads/aerial-blog-blogger-990819.jpg
