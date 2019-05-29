@@ -60,6 +60,16 @@ export default ({ globalSettings = {}, ...props }) => {
                 </a>
               </li>
             </ul>
+            <small>
+              <a
+                target="_blank"
+                rel="nofollow"
+                href="https://thriveweb.com.au"
+                className="thrive"
+              >
+                Site designed and developed by Thrive.
+              </a>
+            </small>
           </div>
 
           <div className="column taRight">
