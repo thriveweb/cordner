@@ -16,8 +16,8 @@ authors:
 ---
 Queensland Treasurer Jackie Trad set down the 2019 / 2020 Queensland Budget yesterday and there were some changes to payroll tax and land tax to be aware of.  For a more complete overview of the budget impacts for small business, see this link: <https://budget.qld.gov.au/files/Budget%20Statements%20-%20SMALL%20BUSINESS.pdf>
 
-Payroll tax**
-**
+Payroll tax
+
 
 Small business initiatives include (subject to review of regulations / legislation):
 
@@ -31,8 +31,8 @@ Small business initiatives include (subject to review of regulations / legislati
 
 On the flip side, large businesses (payroll above $6.5 million) will have an additional amount to pay.
 
-Land tax**
-**
+Land tax
+
 
 Some changes to land tax were announced however it is not expected to have widespread impact.  These changes include:
 
