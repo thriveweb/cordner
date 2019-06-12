@@ -14,11 +14,10 @@ categories:
 authors:
   - author: Jason Cordner
 ---
-Queensland Treasurer Jackie Trad set down the 2019 / 2020 Queensland Budget yesterday and there were some changes to payroll tax and land tax to be aware of.  For a more complete overview of the budget impacts for small business, see this link: https://budget.qld.gov.au/files/Budget%20Statements%20-%20SMALL%20BUSINESS.pdf
+Queensland Treasurer Jackie Trad set down the 2019 / 2020 Queensland Budget yesterday and there were some changes to payroll tax and land tax to be aware of.  For a more complete overview of the budget impacts for small business, see this link: <https://budget.qld.gov.au/files/Budget%20Statements%20-%20SMALL%20BUSINESS.pdf>
 
-
-
-**Payroll tax**
+**Payroll tax
+**
 
 Small business initiatives include (subject to review of regulations / legislation):
 
@@ -32,7 +31,8 @@ Small business initiatives include (subject to review of regulations / legislati
 
 On the flip side, large businesses (payroll above $6.5 million) will have an additional amount to pay.
 
-**Land tax**
+**Land tax
+**
 
 Some changes to land tax were announced however it is not expected to have widespread impact.  These changes include:
 
@@ -43,8 +43,6 @@ Some changes to land tax were announced however it is not expected to have wides
 •	Absentee surcharge (applying to foreign residents that do not ordinarily reside in Queensland) increased from 1.5% to 2%
 
 •	Foreign surcharge of 2% will be applied to foreign companies and trustees with Queensland land holdings of more than $350,000
-
-
 
 For full details on the budget, follow this link: <https://budget.qld.gov.au/budget-papers/>
 
