@@ -14,7 +14,7 @@ categories:
 authors:
   - author: Michael Courtin
 ---
-In February 2019, the Federal Government enacted changes to the company loss rules, which were first announced in 2015. The Similar Business Test has been introduced to address limitations to the existing Same Business Test, which may have discouraged certain companies from innovating or adapting their businesses to changing economic circumstances.
+**In February 2019**, the Federal Government enacted changes to the company loss rules, which were first announced in 2015. The Similar Business Test has been introduced to address limitations to the existing Same Business Test, which may have discouraged certain companies from innovating or adapting their businesses to changing economic circumstances.
 
 Existing Company Loss Rules
 
