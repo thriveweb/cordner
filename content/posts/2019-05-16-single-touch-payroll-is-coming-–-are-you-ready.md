@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Single Touch Payroll Is Coming – Are You Ready?
-status: Featured
+status: Published
 date: '2019-05-16'
 featuredImage: /images/uploads/steve.jpg
 bannerImage: /images/uploads/16-may.jpg
