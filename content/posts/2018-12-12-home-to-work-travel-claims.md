@@ -21,8 +21,7 @@ As a general rule, travel from your home to your workplace is not allowed as a d
 
 There are however specific situations where this rule does not apply, and there can be circumstances where you may be entitled to claim some of the travel expenses between your home and your regular workplace, or an alternative workplace.
 
-**What constitutes a deductible ‘travel expense’?
-**
+**What constitutes a deductible ‘travel expense’?**
 
 Individuals are typically able to claim a tax deduction for work-related travel expenses. You can generally claim the cost of travelling:
 
@@ -33,8 +32,7 @@ Individuals are typically able to claim a tax deduction for work-related travel 
 * from your home to an alternative workplace for work purposes, and then to your normal workplace or directly home. This does not apply where the alternative workplace has become a regular workplace
 * if you need to carry bulky tools or equipment that you used for work and can’t leave it at your workplace – like an extension ladder if you’re a tradesperson or a cello if you’re a musician.
 
-**What you can’t claim
-**
+**What you can’t claim**
 
 You can’t claim the cost of driving your car between work and home just because:
 
@@ -46,8 +44,7 @@ You can’t claim the cost of driving your car between work and home just becaus
 * your home was a place where you ran your own business and you travelled directly to a place of work where you worked for somebody else
 * you do some work at home.
 
-**When can you count your home as a workplace?
-**
+**When can you count your home as a workplace?**
 
 You cannot count your home as a workplace unless you carry out “itinerant work”; that is, work that requires you to travel from place to place. If you do itinerant work or have shifting places of work, you can claim the cost of driving between workplaces and your home. The following factors may indicate that you do itinerant work:
 
