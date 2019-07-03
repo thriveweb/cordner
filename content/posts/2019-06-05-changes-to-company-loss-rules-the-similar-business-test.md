@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Changes to Company Loss Rules - The Similar Business Test
-status: Featured
+status: Published
 date: '2019-06-06'
 featuredImage: /images/uploads/michael.jpg
 bannerImage: /images/uploads/blur-card-city-311716.jpg
