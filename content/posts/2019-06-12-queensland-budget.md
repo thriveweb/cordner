@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Queensland Budget
-status: Featured
+status: Published
 date: '2019-06-12'
 featuredImage: /images/uploads/jason...jpg
 bannerImage: /images/uploads/collaboration-cooperation-corporate-1645693-1-.jpg
