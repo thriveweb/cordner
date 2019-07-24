@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Claiming Deductions on your Tax Return
-status: Featured
+status: Published
 date: '2019-06-20'
 featuredImage: /images/uploads/kamil1.jpg
 bannerImage: /images/uploads/automobile-automotive-car-1073031.jpg
