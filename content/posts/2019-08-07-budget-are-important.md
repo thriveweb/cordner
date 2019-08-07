@@ -19,7 +19,7 @@ authors:
 ---
 Why budget?
 
-**Planning**
+**Planning**
 
 Combining past trends with realistic forecasts for the financial year, a budget provides a detailed view of assets, realistic revenue expectations, and how those balance against your anticipated expenses.
 
@@ -29,7 +29,7 @@ Businesses that rely heavily on seasonal sales revenue serve as a good example o
 
 Planning also should account for long-term needs. If you anticipate a large expenditure one or two years down the road for computer upgrades, it's a good idea to start budgeting for that expense in advance.
 
-**Evaluation**
+**Evaluation**
 
 In addition to being an important part of the planning process, budgets are necessary for evaluating the performance of your company over the course of the financial year. Part of budgeting responsibly is tracking actual revenue and expenses and comparing them to what was budgeted. This helps to assure that your business is sticking to its plans, but budgeting also offers an important means of identifying problems and opportunities.
 
