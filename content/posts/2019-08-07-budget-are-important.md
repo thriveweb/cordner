@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Budget are Important
+title: Budgets Are Important
 status: Featured
 date: '2019-08-08'
 featuredImage: /images/uploads/shaun.jpg
