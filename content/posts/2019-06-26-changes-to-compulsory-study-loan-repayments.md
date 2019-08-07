@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Changes to Compulsory Study Loan Repayments
-status: Featured
+status: Published
 date: '2019-06-27'
 featuredImage: /images/uploads/lara.jpg
 bannerImage: /images/uploads/27-june-blog.jpg
