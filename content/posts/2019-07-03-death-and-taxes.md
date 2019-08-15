@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Death and Taxes
-status: Featured
+status: Published
 date: '2019-07-04'
 featuredImage: /images/uploads/elsa...jpg
 bannerImage: /images/uploads/4-july-blog.jpg
