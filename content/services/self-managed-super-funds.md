@@ -6,6 +6,8 @@ status: Featured
 order: 8
 link: 'https://ucarecdn.com/85dc0d43-f1c3-4fe9-af03-39722006bbd2/'
 link2: 'https://ucarecdn.com/1b7fd1b9-6459-4d99-9a08-9617c3f27cc0/'
+link3: 'mailto:elsa@cordner.com.au'
+link3Text: 'Have a question about your super?'
 featuredImage: /images/uploads/smsf.jpg
 icon: /images/uploads/self-managed--icon.svg
 contentImage: /images/uploads/smsf.jpg
@@ -49,7 +51,6 @@ Our Authorised Advisors:
 [Jarrad Young](https://cordner.netlify.com/team/jarrad-young/) – Director
 
 [Elsa Howarth](https://cordner.netlify.com/team/elsa-howarth/) – Director
-
 
 <br />
 Cordner Super Advisory Pty Ltd

@@ -42,7 +42,7 @@
   background-color: #f4f4f4;
 
   .pdflinks {
-    display:block;
+    display: block;
     color: var(--brightRed);
     font-weight: 600;
     font-size: 14px;
@@ -50,6 +50,23 @@
 
   .links-container {
     margin-top: 1rem;
+
+    .Button {
+      margin-top: 2rem;
+      max-width: 345px;
+      width: 100%;
+      color: white;
+      background: var(--brightRed);
+
+      &:after {
+        display: none;
+      }
+
+      &:hover {
+        color: var(--brightRed);
+        background: white;
+      }
+    }
   }
 }
 

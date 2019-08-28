@@ -542,6 +542,8 @@ collections:
         }
       - { label: Content Image, name: contentImage, widget: image }
       - { label: Content, name: body, widget: markdown }
+      - { label: Super Link, name: link3, widget: string }
+      - { label: Super Link Text, name: link3Text, widget: string }
       - label: 'Categories'
         name: 'categories'
         widget: 'list'

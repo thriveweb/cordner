@@ -28,7 +28,9 @@ export const SingleServiceTemplate = ({
   team,
   posts,
   link,
-  link2
+  link2,
+  link3,
+  link3Text
 }) => {
   let currentCats = []
   let relatedServices = []
@@ -83,11 +85,15 @@ export const SingleServiceTemplate = ({
                     Financial Services Guide 2
                   </a>
                 )}
+                {!!link3 && (
+                  <a className="Button" href={link3}>
+                    {link3Text}
+                  </a>
+                )}
               </div>
             </div>
           </div>
         </section>
-
         {parentService && (
           <section className="SubServices">
             <div className="grid">
@@ -205,6 +211,8 @@ export const pageQuery = graphql`
         template
         link
         link2
+        link3
+        link3Text
         featuredImage {
           ...MediumImage
         }
@@ -236,6 +244,8 @@ export const pageQuery = graphql`
             parentService
             link
             link2
+            link3
+            link3Text
           }
         }
       }
