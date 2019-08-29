@@ -12,8 +12,8 @@ careerDetails:
   name: Could have a career name here?
 meta:
   canonicalLink: ''
-  description: ''
-  title: ''
+  description: test
+  title: test
 ---
 
 **DETAILS: HERE COULD HAVE DETAILS**
