@@ -8,6 +8,7 @@ import { ContactPageTemplate } from '../templates/ContactPage'
 import { BlogIndexTemplate } from '../templates/BlogIndex'
 import { SinglePostTemplate } from '../templates/SinglePost'
 import { SingleCasestudyTemplate } from '../templates/SingleCasestudy'
+import { SingleCareerTemplate } from '../templates/SingleCareer'
 import { SingleServiceTemplate } from '../templates/SingleService'
 import { SingleTeamTemplate } from '../templates/SingleTeam'
 import { StandardPageTemplate } from '../templates/StandardPage'
@@ -52,6 +53,9 @@ CMS.registerPreviewTemplate('posts', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('casestudies', ({ entry }) => (
   <SingleCasestudyTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('careers', ({ entry }) => (
+  <SingleCareerTemplate {...entry.toJS().data} />
 ))
 CMS.registerPreviewTemplate('services', ({ entry }) => (
   <SingleServiceTemplate {...entry.toJS().data} />

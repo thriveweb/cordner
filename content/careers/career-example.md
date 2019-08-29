@@ -1,11 +1,11 @@
 ---
-template: SingleCasestudy
+template: SingleCareer
 title: test
 status: Published
 date: '2018-12-19'
 featuredImage: /images/uploads/architecture-building-business-256381.jpg
 excerpt: test
-casestudyDetails:
+careerDetails:
   company: test
   name: test
 meta:

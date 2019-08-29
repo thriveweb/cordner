@@ -458,6 +458,58 @@ collections:
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
+  - name: careers
+    label: Careers
+    editor:
+      preview: true
+    folder: content/careers
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: SingleCareer,
+        }
+      - { label: Title, name: title, widget: string }
+      - label: 'Status'
+        name: 'status'
+        widget: 'select'
+        options: ['Published', 'Featured']
+        default: 'Published'
+      - { label: Date / Order, name: date, widget: date }
+      - { label: Featured Image, name: featuredImage, widget: image }
+      - { label: Excerpt, name: excerpt, widget: text }
+      - { label: Content, name: body, widget: markdown }
+      - label: 'Career Details'
+        required: true
+        name: 'careerDetails'
+        widget: 'object'
+        fields:
+          - { label: Name, name: name, widget: string }
+          - { label: Company, name: company, widget: string }
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+              pattern: ['.{,300}', 'Must not exceed 300 characters'],
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
+
   - name: casestudies
     label: Case Studies
     editor:
