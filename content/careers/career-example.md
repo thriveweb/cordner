@@ -1,7 +1,7 @@
 ---
 template: SingleCareer
 title: Business Advisor
-status: Featured
+status: Published
 date: '2019-09-05'
 featuredImage: /images/uploads/7-mar.jpg
 excerpt: Business Advisor Required
