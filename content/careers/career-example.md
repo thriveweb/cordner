@@ -25,8 +25,7 @@ Our company is seeking a Business Advisor with a strong business insight, who wi
 
 You will possess previous experience in a similar role with/or studying towards CPA/CA qualifications. 
 
-**To be successful in this role, you will possess:
-**
+**To be successful in this role, you will possess:**
 
 * Tertiary qualifications 
 * Chartered Accountant or Certified Practicing Accountant (or studying towards)
