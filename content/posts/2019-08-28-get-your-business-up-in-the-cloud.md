@@ -2,7 +2,7 @@
 template: SinglePost
 title: Get Your Business up in the Cloud
 status: Featured
-date: '2019-08-29'
+date: '2019-09-04'
 featuredImage: /images/uploads/lara.jpg
 bannerImage: /images/uploads/art-blue-skies-clouds-335907.jpg
 excerpt: >-
