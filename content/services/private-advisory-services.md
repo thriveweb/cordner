@@ -14,7 +14,7 @@ categories:
   - category: Private Advisory Services
 ---
 We are focussed on securing and growing assets. When is the appropriate time to start the planning process? The answer is simple – now! Before you have a structuring problem. Before you have a tax problem. Before you have a retirement affordability problem. Before you have a health problem. Before...
-Key offerings include: Insert Graphic
+
 Structuring​ is a key element for ​wealth creation​, ​tax planning​ and a​sset protection​. Cordner Advisory help you grow and protect your wealth by structuring your affairs in a practical and tailored manner. 
 
 <br /> 
