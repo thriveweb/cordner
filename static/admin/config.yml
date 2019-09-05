@@ -585,6 +585,12 @@ collections:
           widget: string,
           required: false,
         }
+      - { label: Link 4, name: link4, widget: string, required: false }
+      - { label: Link 4 Text, name: link4Text, widget: string, required: false }
+      - { label: Link 5, name: link5, widget: string, required: false }
+      - { label: Link 5 Text, name: link5Text, widget: string, required: false }
+      - { label: Link 6, name: link6, widget: string, required: false }
+      - { label: Link 6 Text, name: link6Text, widget: string, required: false }
       - label: 'Status'
         name: 'status'
         widget: 'select'

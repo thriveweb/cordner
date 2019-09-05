@@ -30,7 +30,13 @@ export const SingleServiceTemplate = ({
   link,
   link2,
   link3,
-  link3Text
+  link3Text,
+  link4,
+  link4Text,
+  link5,
+  link5Text,
+  link6,
+  link6Text
 }) => {
   let currentCats = []
   let relatedServices = []
@@ -69,24 +75,38 @@ export const SingleServiceTemplate = ({
               <NumberedHeader number="01" title="What we offer" />
               <h3>{subtitle}</h3>
               <Image src={contentImage} alt={title} />
+
+              <div className="links-container">
+                <a className="Button" target="_blank" href={link4}>
+                  {link4Text}
+                </a>
+
+                <a className="Button" target="_blank" href={link5}>
+                  {link5Text}
+                </a>
+
+                <a className="Button" target="_blank" href={link6}>
+                  {link6Text}
+                </a>
+              </div>
             </div>
             <div className="flex-column one-half">
               <Content source={body} />
 
               <div className="links-container">
                 {!!link && (
-                  <a className="pdflinks" href={link}>
+                  <a className="pdflinks" target="_blank" href={link}>
                     Financial Services Guide 1
                   </a>
                 )}
 
                 {!!link2 && (
-                  <a className="pdflinks" href={link2}>
+                  <a className="pdflinks" target="_blank" href={link2}>
                     Financial Services Guide 2
                   </a>
                 )}
                 {!!link3 && (
-                  <a className="Button" href={link3}>
+                  <a className="Button" target="_blank" href={link3}>
                     {link3Text}
                   </a>
                 )}
@@ -213,6 +233,12 @@ export const pageQuery = graphql`
         link2
         link3
         link3Text
+        link4
+        link4Text
+        link5
+        link5Text
+        link6
+        link6Text
         featuredImage {
           ...MediumImage
         }
@@ -246,6 +272,12 @@ export const pageQuery = graphql`
             link2
             link3
             link3Text
+            link4
+            link4Text
+            link5
+            link5Text
+            link6
+            link6Text
           }
         }
       }
