@@ -77,17 +77,23 @@ export const SingleServiceTemplate = ({
               <Image src={contentImage} alt={title} />
 
               <div className="links-container">
-                <a className="Button" target="_blank" href={link4}>
-                  {link4Text}
-                </a>
+                {!!link4 && (
+                  <a className="Button" target="_blank" href={link4}>
+                    {link4Text}
+                  </a>
+                )}
 
-                <a className="Button" target="_blank" href={link5}>
-                  {link5Text}
-                </a>
+                {!!link5 && (
+                  <a className="Button" target="_blank" href={link5}>
+                    {link5Text}
+                  </a>
+                )}
 
-                <a className="Button" target="_blank" href={link6}>
-                  {link6Text}
-                </a>
+                {!!link6 && (
+                  <a className="Button" target="_blank" href={link6}>
+                    {link6Text}
+                  </a>
+                )}
               </div>
             </div>
             <div className="flex-column one-half">
