@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: The difference between a budget and a forecast
-status: Featured
+status: Published
 date: '2019-07-25'
 featuredImage: /images/uploads/linda.jpg
 bannerImage: /images/uploads/25-july-blog.jpg
