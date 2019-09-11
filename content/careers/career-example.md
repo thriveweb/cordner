@@ -15,7 +15,8 @@ meta:
 ---
 Our company is seeking a Business Advisor with a strong business insight, who will present exceptional written skills, with excellent problem-solving and research skills and attention to detail.
 
-* As a Business Advisor, you’ll take on a range of responsibilities including:
+As a Business Advisor, you’ll take on a range of responsibilities including:
+
 * Build and nurture strong business relationships and act as trusted advisor to clients
 * Develop recommendations and implementation strategies for client business improvement
 * Business Planning, Budgeting and Forecasting
