@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Budgets Are Important
-status: Featured
+status: Published
 date: '2019-08-08'
 featuredImage: /images/uploads/shaun.jpg
 bannerImage: /images/uploads/8-aug-blog.jpg
