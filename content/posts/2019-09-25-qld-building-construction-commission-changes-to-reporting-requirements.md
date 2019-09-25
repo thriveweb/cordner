@@ -23,23 +23,29 @@ Additionally, there have been a number of phoenixing activities which have come 
 
 From 01 January 2019, these new laws that strengthen the Minimum Financial Requirements (MFR) of all Licence Holders in the construction industry have come into effect to :-
 
-1.	Better monitor licensees financial situations
+1. Better monitor licensees financial situations
+2. Take appropriate action where a licensee may not be operating a financially sustainable business
+3. To mitigate the effects of potential insolvencies and corporate collapses, better protecting end users and subcontractors
 
-2.	Take appropriate action where a licensee may not be operating a financially sustainable business
+![null](/images/uploads/sp-blog-1.png)
 
-3.	To mitigate the effects of potential insolvencies and corporate collapses, better protecting end users and subcontractors
 
-![](/images/uploads/sp-blog-1.png)
 
 The new system was implemented in January 2019, after industry consultation in late 2018, commencing with Phase 1 requiring the **Cat 4-7** Licensees to report by **31 March 2019**.  Phase 2 commenced immediately after this on 02 April 2019, detailing the requirements for **SC1-2 and Cat 1-3** reporting due by **31 December 2019**. 
 
 There are a number of self reporting options via the QBCC Online Portal, however the variables in reporting requirements and the onerous nature of getting the report wrong, would encourage a conversation with us to ensure compliance is achieved.
 
-![](/images/uploads/sp-blog-2.png)
+![null](/images/uploads/sp-blog-2.png)
+
+
 
 **What are the Categories?**
 
-![](/images/uploads/sp-blog-3.png)
+
+
+![null](/images/uploads/sp-blog-3.png)
+
+
 
 **What do I do now?** 
 
@@ -48,7 +54,5 @@ There are a number of self reporting options via the QBCC Online Portal, however
 3. <https://www.qbcc.qld.gov.au/>
 4. Diarise to submit your first report well before the due date of **31 December 2019**
 5. If you are unsure as to your categorisation, required coverage or level of reporting for compliance please contact us to make a determination for you
-
-
 
 As always, if you have any other concerns or queries in relation to this or any other financial matter, please do not hesitate to contact one of the Cordner Advisory team on (07) 5504 5700 so we can discuss the matter and solutions with you.
