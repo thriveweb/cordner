@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Small Business Entrepreneur Grants Program
-status: Featured
+status: Published
 date: '2019-08-15'
 featuredImage: /images/uploads/kamil1.jpg
 bannerImage: /images/uploads/diagram-direction-electronics-1305360.jpg
