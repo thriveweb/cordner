@@ -1,8 +1,8 @@
 ---
 template: SingleTeam
 title: Christine Harvey
-subtitle: Advisor
-teamOrder: 11
+subtitle: Senior Advisor
+teamOrder: '7'
 featuredImage: /images/uploads/christine.jpg
 mainImage: /images/uploads/christine.jpg
 position: Advisor
