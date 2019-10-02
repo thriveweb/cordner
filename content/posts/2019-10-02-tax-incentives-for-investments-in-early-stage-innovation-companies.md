@@ -3,7 +3,7 @@ template: SinglePost
 title: Tax Incentives for Investments in Early Stage Innovation Companies
 status: Featured
 date: '2019-10-02'
-featuredImage: /images/uploads/di...jpg
+featuredImage: /images/uploads/instagram.jpg
 bannerImage: /images/uploads/3-oct.jpg
 excerpt: >-
   Are you looking to raise equity capital from investors and operate an early
@@ -11,8 +11,7 @@ excerpt: >-
   stage innovation company?  
 categories:
   - category: Government Grants
-authors:
-  - author: Di Girvin
+authors: []
 ---
 The Governments lucrative early investor tax incentive called the Early Stage Innovation Company (ESIC) scheme allow investors to claim non – refundable carry forward tax offsets and exemptions on CGT dependent upon meeting certain criteria.
 
