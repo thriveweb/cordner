@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Steve Payne
 subtitle: Advisor
-teamOrder: 9
+teamOrder: '10'
 featuredImage: /images/uploads/steve.jpg
 mainImage: /images/uploads/steve.jpg
 position: Advisor
