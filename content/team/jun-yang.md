@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Jun Yang
 subtitle: Advisor
-teamOrder: 8
+teamOrder: '9'
 featuredImage: /images/uploads/jun.jpg
 mainImage: /images/uploads/jun.jpg
 position: Advisor
