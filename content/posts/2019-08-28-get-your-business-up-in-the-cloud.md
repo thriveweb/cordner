@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Get Your Business up in the Cloud
-status: Featured
+status: Published
 date: '2019-09-04'
 featuredImage: /images/uploads/lara.jpg
 bannerImage: /images/uploads/art-blue-skies-clouds-335907.jpg
