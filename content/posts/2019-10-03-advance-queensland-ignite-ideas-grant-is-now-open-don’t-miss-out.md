@@ -16,7 +16,7 @@ authors:
 ---
 Do you have a highly innovative product, process or service, the Advance Queensland Ignite ideas fund can help you bring it to market.
 
-See the below information released from Advance Queensland:
+**See the below information released from Advance Queensland:**
 
 The Ignite Ideas Fund is offering grants of up to $200,000 to support businesses that have reached MVP (minimum viable product) stage or beyond, to commercialise their products, processes or services.
 
