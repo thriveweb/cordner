@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Is your passive investment company carrying on a business?
-status: Featured
+status: Published
 date: '2019-09-11'
 featuredImage: /images/uploads/michael.jpg
 bannerImage: /images/uploads/11-sep.jpg
