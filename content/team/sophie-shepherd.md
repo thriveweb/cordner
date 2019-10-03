@@ -5,7 +5,7 @@ subtitle: Analyst
 teamOrder: '17'
 featuredImage: /images/uploads/sophie.jpg
 mainImage: /images/uploads/sophie.jpg
-position: .
+position: Analyst
 categories:
   - category: Self Managed Super Funds
   - category: Taxation and Compliance
