@@ -44,6 +44,7 @@ export const AdvisorsPageTemplate = ({
               key={member.title + index}
               to={member.slug}
               className="single--team relative"
+              style={{ order: member.teamOrder }}
             >
               <Image
                 background
@@ -60,7 +61,7 @@ export const AdvisorsPageTemplate = ({
             </Link>
           ))}
 
-        <div className="services-sneak">
+        <div className="services-sneak" style={{ order: '999' }}>
           <div className="container">
             <h2>{section2.title}</h2>
             <p className="big-body">{section2.subtitle}</p>
@@ -117,7 +118,6 @@ export const pageQuery = graphql`
     }
     team: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "team" } } }
-      sort: { order: ASC, fields: [frontmatter___teamOrder] }
     ) {
       edges {
         node {
@@ -127,6 +127,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             subtitle
+            teamOrder
             categories {
               category
             }

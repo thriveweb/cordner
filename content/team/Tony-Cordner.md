@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Tony Cordner
 subtitle: Founder
-teamOrder: 1
+teamOrder: '1'
 featuredImage: /images/uploads/tony.jpg
 mainImage: /images/uploads/tony1.jpg
 position: Founder

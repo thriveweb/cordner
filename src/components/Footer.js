@@ -61,6 +61,10 @@ export default ({ globalSettings = {}, ...props }) => {
               </li>
             </ul>
             <small>
+              {' '}
+              I asked the other prefects and staff to see if they know how.
+              No-one has replied yet. Mr Q changed the server structure and I
+              can't find the list of commnands.
               <a
                 target="_blank"
                 rel="nofollow"
