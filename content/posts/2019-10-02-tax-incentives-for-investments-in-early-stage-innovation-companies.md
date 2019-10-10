@@ -20,14 +20,12 @@ The Governments lucrative early investor tax incentive called the Early Stage In
 To qualify as an ESIC there are several criteria that a company must first satisfy. To be eligible for the tax incentives the company must:
 
 * Have been incorporated in Australia within the last 3 income years
-
     o	This is extended to the last 6 income years if the company and its 100% owned subsidiaries incurred total expenses of $1million or less 
-
 * Registered in the Australian Business Register within the last 3 income years
 * Have total expenses of $1million or less in the income year before the current year
 * Have total assessable income of $200k or less in the income year before the current year
 * Have no equity interests listed on an official stock exchange 
-* Meet the 100-point innovation test or the principles-based innovation test
+* Meet the [100-point innovation test or the principles-based innovation test](https://www.ato.gov.au/Business/Tax-incentives-for-innovation/In-detail/Tax-incentives-for-early-stage-investors/?page=2)
 
 **Who is Eligible?**
 
@@ -40,11 +38,8 @@ For the investor to be eligible for the tax incentives the investment must satis
 * Trust / Partnerships excluded themselves, though individual members are not
 * Widely held companies and their 100% owned subsidiaries excluded
 * Equity interest that are shares must have been issued directly from the ESIC. 
-
     o	Preference shares and debt investments are not covered. 
-
     o	Convertible notes can be considered eligible granted that they satisfy the ESIC conditions and that they satisfy such criteria when the notes are converted into shares.
-
 * The company must be an ESIC
 * Investor cannot be an affiliate of the company 
 * Acquisition is not an employee share scheme interest issued under an employee share scheme 
