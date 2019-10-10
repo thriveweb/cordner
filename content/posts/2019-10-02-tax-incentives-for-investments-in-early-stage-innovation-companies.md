@@ -25,7 +25,7 @@ To qualify as an ESIC there are several criteria that a company must first satis
 * Have total expenses of $1million or less in the income year before the current year
 * Have total assessable income of $200k or less in the income year before the current year
 * Have no equity interests listed on an official stock exchange 
-* Meet the [100-point innovation test or the principles-based innovation test](https://www.ato.gov.au/Business/Tax-incentives-for-innovation/In-detail/Tax-incentives-for-early-stage-investors/?page=2)
+* Meet the 100-point innovation test or the principles-based innovation test [Click here](https://www.ato.gov.au/Business/Tax-incentives-for-innovation/In-detail/Tax-incentives-for-early-stage-investors/?page=2)
 
 **Who is Eligible?**
 
