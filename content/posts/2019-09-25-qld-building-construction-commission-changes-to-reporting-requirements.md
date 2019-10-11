@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Qld Building & Construction Commission - Changes to Reporting Requirements
-status: Featured
+status: Published
 date: '2019-09-25'
 featuredImage: /images/uploads/steve.jpg
 bannerImage: /images/uploads/25-sep.jpg
