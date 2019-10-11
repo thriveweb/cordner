@@ -22,8 +22,7 @@ A cash flow forecast predicts the cash inflows and cash outflows of the period (
 
 ![null](/images/uploads/shaun-blog.png)
 
-**Here are the key reasons why a cash flow forecast is so important:
-**
+**Here are the key reasons why a cash flow forecast is so important:**
 
 **Identifies potential shortfalls in cash balances in advance** – think of the cash flow forecast as an "early warning system". This is the most important reason for a cash flow forecast: for example, if the forecast shows a negative cash balance then the business needs to analyse ways to bring it back into positive, such as tighter debt collection policies or ensure it has a bank overdraft facility to cover the shortfall
 
