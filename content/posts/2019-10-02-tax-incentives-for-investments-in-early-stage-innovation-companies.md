@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Tax Incentives for Investments in Early Stage Innovation Companies
-status: Featured
+status: Published
 date: '2019-10-02'
 featuredImage: /images/uploads/instagram.jpg
 bannerImage: /images/uploads/3-oct.jpg
