@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Holding costs on vacant land
-status: Featured
+status: Published
 date: '2019-10-09'
 featuredImage: /images/uploads/jun.jpg
 bannerImage: /images/uploads/9-oct-blog.jpg
