@@ -1,13 +1,12 @@
 ---
 template: SinglePost
-title: Budgeting
-featuredImage: /images/uploads/business-advisory-v1.jpg
+title: Death Benefit Noms & EPoA
+featuredImage: /images/uploads/21-mar.jpg
 status: Published
-date: '2020-01-15'
+date: '2020-04-15'
 categories:
   - category: Upcoming Event
 ---
-
 Would you like to be involved in this event?
 
 Contact us now!
