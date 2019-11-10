@@ -3,7 +3,7 @@ import Helmet from 'react-helmet'
 
 import PageHeader from '../components/PageHeader'
 import EventsSection from '../components/EventsSection'
-import PostCategoriesNav from '../components/PostCategoriesNav'
+import EventCategoriesNav from '../components/EventCategoriesNav'
 
 // Export Template for use in CMS preview
 export const EventsIndexTemplate = ({
@@ -15,7 +15,7 @@ export const EventsIndexTemplate = ({
   bannerImage,
   date
 }) => {
-  const isCategory = contentType === 'categories'
+  const isCategory = contentType === 'eventcategories'
   const byCategory = post =>
     post.categories &&
     post.categories.filter(cat => cat.category === title).length
@@ -28,14 +28,14 @@ export const EventsIndexTemplate = ({
       </Helmet>
 
       <PageHeader title={title} backgroundImage={featuredImage} />
-      {/*
+
       {!!categories.length && (
         <section className="section thin">
           <div className="container">
-            <PostCategoriesNav categories={categories} />
+            <EventCategoriesNav categories={categories} />
           </div>
         </section>
-      )} */}
+      )}
 
       {!!posts.length && (
         <section className="section">
@@ -115,7 +115,7 @@ export const pageQuery = graphql`
       }
     }
     categories: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "categories" } } }
+      filter: { fields: { contentType: { eq: "eventcategories" } } }
       sort: { order: ASC, fields: [frontmatter___title] }
     ) {
       edges {
