@@ -475,7 +475,7 @@ collections:
         options: ['Published', 'Featured']
         default: 'Published'
       - { label: Date / Order, name: date, widget: date }
-      - { label: Email, name: email, widget: string }
+      - { label: Email, name: email, widget: string, required: false }
       - { label: Content, name: body, widget: markdown }
       - label: 'Categories'
         name: 'categories'
