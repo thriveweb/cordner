@@ -1,6 +1,15 @@
 .EventsSection {
 }
 
+.relatedPosts .EventsSection--Grid .EventCard:nth-child(n + 4) {
+  display: none;
+}
+
+.EventsSection--Grid h3,
+.relatedPosts .EventsSection--Grid h3 {
+  margin: 2rem auto 0.5rem;
+}
+
 .EventsSection--Grid {
   display: flex;
   justify-content: space-between;
@@ -29,7 +38,7 @@
 .EventsSection--Title {
   width: 100%;
   max-width: 200px;
-  margin: 0 auto 4rem auto;
+  margin: 0 auto;
   line-height: 1.2;
 }
 

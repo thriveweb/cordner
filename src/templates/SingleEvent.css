@@ -1,0 +1,219 @@
+.SingleEvent {
+  padding-bottom: 0 !important;
+}
+
+.SingleEvent .PostCard:nth-child(n + 3) {
+  display: none;
+}
+
+.arrow-left:after {
+  content: '';
+  width: 44px;
+  height: 44px;
+  background: url(/images/arrow-left.svg);
+  top: 180px;
+  left: 20px;
+  position: absolute;
+  display: block;
+  background-repeat: no-repeat;
+}
+
+.arrow-right:after {
+  content: '';
+  width: 44px;
+  height: 44px;
+  background: url(/images/arrow-right.svg);
+  top: 180px;
+  right: 20px;
+  position: absolute;
+  display: block;
+  background-repeat: no-repeat;
+}
+
+.SingleEvent--InnerContent {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.SingleEvent--InnerContent .Button {
+  background: var(--brightRed);
+  color: white;
+  width: 200px;
+  text-align: left;
+}
+
+.SingleEvent--InnerContent .Button:after {
+  content: url('/images/uploads/button_arrow.svg');
+}
+
+.SingleEvent--BackgroundImage {
+  height: 40rem;
+  background: var(--purple);
+}
+
+.SingleEvent--BackgroundImage .gatsby-image-outer-wrapper {
+  opacity: 0.3;
+  background-blend-mode: multiply;
+}
+
+.SingleEvent--InnerContent ul {
+  line-height: 32px;
+  opacity: 0.8;
+}
+
+.SingleEvent--BackButton {
+  color: white;
+  position: relative;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+}
+
+.Testimonial--Details {
+  display: flex;
+  margin-bottom: 5rem;
+  margin-top: 5rem;
+}
+
+.SingleEvent h3 {
+  font-size: 25px;
+  line-height: 33px;
+  margin-bottom: 2rem;
+  letter-spacing: 0.2px;
+}
+
+.Testimonial--Details h5 {
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.Testimonial--Details .info {
+  width: 45%;
+}
+
+.Testimonial--Details .relative {
+  width: 45%;
+}
+
+.Testimonial--Details img {
+  height: 100%;
+  width: 100%;
+}
+
+@media (max-width: 400px) {
+  .Testimonial--Details {
+    flex-direction: column;
+  }
+
+  .Testimonial--Details .info {
+    width: 100%;
+  }
+
+  .Testimonial--Details .relative {
+    width: 100%;
+  }
+}
+
+.SingleEvent--BackButton svg {
+  transition: transform 0.2s ease-out;
+  transform: translateX(0);
+  height: 1.2em;
+}
+
+.SingleEvent--BackButton:hover svg,
+.SingleEvent--BackButton:focus svg {
+  transform: translateX(-0.25em);
+}
+
+.SingleEvent--Content {
+  background: white;
+  margin-top: 33rem;
+  padding: 8rem 8rem 4rem 8rem;
+}
+
+@media screen and (max-width: 750px) {
+  .SingleEvent--Content {
+    padding: 4rem 2rem;
+  }
+}
+
+.SingleEvent--Meta {
+  font-size: 1.2rem;
+  margin: 0 0 2rem 0;
+  text-align: center;
+  color: #f68e29;
+  font-weight: 500;
+}
+
+.SingleEvent--Meta > * + * {
+  margin-left: 0.75em;
+}
+
+.SingleEvent--Title {
+  text-align: center;
+  line-height: 1.2;
+  color: #352f32;
+  font-size: 54px;
+}
+
+.SingleEvent--Pagination--Link.next:after {
+  content: '';
+  width: 30px;
+  height: 30px;
+  background: url(/images/triangle.svg);
+  top: 6px;
+  right: -34px;
+  position: absolute;
+  display: block;
+  background-repeat: no-repeat;
+}
+
+.SingleEvent--Pagination--Link.prev:after {
+  content: '';
+  width: 30px;
+  height: 30px;
+  background: url(/images/triangle-left.svg);
+  top: 6px;
+  left: -14px;
+  position: absolute;
+  display: block;
+  background-repeat: no-repeat;
+}
+
+.SingleEvent--Pagination--Link.prev {
+  position: relative;
+}
+
+.SingleEvent--Pagination--Link.next {
+  position: relative;
+}
+
+.SingleEvent--InnerContent {
+  padding: 0 8rem;
+}
+
+@media screen and (max-width: 750px) {
+  .SingleEvent--InnerContent {
+    padding: 0;
+  }
+}
+
+.SingleEvent--Pagination {
+  margin: 4rem 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.SingleEvent--Pagination--Link {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.SingleEvent--Pagination--Link.next {
+  margin-left: auto;
+}

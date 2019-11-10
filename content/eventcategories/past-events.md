@@ -1,6 +1,5 @@
 ---
 template: EventsIndex
-slug: events
-title: Events
+title: Past Events
 featuredImage: /images/uploads/events.png
 ---

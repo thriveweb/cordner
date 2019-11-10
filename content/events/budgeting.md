@@ -1,13 +1,10 @@
 ---
-template: SinglePost
+template: SingleEvent
 title: Budgeting
-featuredImage: /images/uploads/business-advisory-v1.jpg
+featuredImage: /images/uploads/events.png
+bannerImage: /images/uploads/events.png
 status: Published
 date: '2020-01-15'
 categories:
-  - category: Upcoming Event
+  - category: Upcoming Events
 ---
-
-Would you like to be involved in this event?
-
-Contact us now!

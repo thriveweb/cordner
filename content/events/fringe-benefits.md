@@ -1,14 +1,10 @@
 ---
-template: SinglePost
+template: SingleEvent
 title: Fringe Benefits
+featuredImage: /images/uploads/events.png
+bannerImage: /images/uploads/events.png
 status: Published
 date: '2020-02-14'
-featuredImage: /images/uploads/business-advisory-v1.jpg
-bannerImage: /images/uploads/business-advisory-v1.jpg
 categories:
-  - category: Upcoming Event
+  - category: Upcoming Events
 ---
-
-Would you like to be involved in this event?
-
-Contact us now!
