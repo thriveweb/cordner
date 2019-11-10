@@ -33,6 +33,9 @@ CMS.registerPreviewTemplate('advisors-page', ({ entry }) => (
 CMS.registerPreviewTemplate('blog-page', ({ entry }) => (
   <BlogIndexTemplate {...entry.toJS().data} />
 ))
+CMS.registerPreviewTemplate('events-page', ({ entry }) => (
+  <EventsIndexTemplate {...entry.toJS().data} />
+))
 CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
   <ContactPageTemplate {...entry.toJS().data} />
 ))
