@@ -1,10 +1,9 @@
 ---
 template: SinglePost
 title: Budgeting
+featuredImage: /images/uploads/business-advisory-v1.jpg
 status: Published
 date: '2020-01-15'
-featuredImage: /images/uploads/business-advisory-v1.jpg
-bannerImage: /images/uploads/business-advisory-v1.jpg
 categories:
   - category: Upcoming Event
 ---
