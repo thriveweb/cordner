@@ -1,0 +1,51 @@
+.EventsSection {
+}
+
+.EventsSection--Grid {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.EventsSection--Grid > * {
+  width: calc(33% - 2rem);
+  margin-bottom: 4rem;
+}
+
+@supports (display: grid) {
+  .EventsSection--Grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 4rem;
+  }
+
+  .EventsSection--Grid > * {
+    width: auto;
+    margin: 0;
+  }
+}
+
+.EventsSection--Title {
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto 4rem auto;
+  line-height: 1.2;
+}
+
+@media screen and (max-width: 1000px) {
+  .EventsSection--Grid > * {
+    width: 100%;
+
+    margin: 0 auto 4rem;
+    display: block;
+  }
+
+  @supports (display: grid) {
+    .EventsSection--Grid {
+      display: block;
+      grid-template-columns: 1;
+      grid-gap: 0;
+    }
+  }
+}

@@ -1,0 +1,64 @@
+.EventCard {
+  text-decoration: none;
+  background: rgba(white, 0.7);
+  color: inherit;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.15s ease-in-out;
+  overflow: hidden;
+  color: var(--brown);
+}
+
+.EventCard .Button {
+  background: transparent;
+  padding: 0;
+  margin-top: 2rem;
+}
+
+.EventCard:hover,
+.EventCard:focus {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 30px rgba(0, 0, 0, 0.15);
+}
+
+.SinglePost--Meta--Date {
+  font-size: 1.2rem;
+  opacity: 0.8;
+  margin: 0.5rem 0 1rem;
+}
+
+.EventCard--Title {
+  margin-top: 2rem;
+  color: var(--brown);
+}
+
+.EventCard--Content {
+  padding: 2.5rem;
+  width: 100%;
+  height: 100%;
+}
+
+.EventCard--Category {
+  font-size: 1.4rem;
+  font-weight: 600;
+  min-height: 1.2em;
+  line-height: 1;
+  margin: 0.5em 0;
+  color: var(--orange);
+}
+
+@media (max-width: 500px) {
+  .EventCard {
+    .flex {
+      flex-direction: column;
+    }
+
+    .EventCard--Content {
+      width: 100%;
+      height: 100%;
+    }
+
+    .EventCard--Image {
+      width: 100%;
+    }
+  }
+}
