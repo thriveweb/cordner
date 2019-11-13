@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Cash is King
-status: Featured
+status: Published
 date: '2019-10-16'
 featuredImage: /images/uploads/shaun.jpg
 bannerImage: /images/uploads/shaun-blog.jpg
