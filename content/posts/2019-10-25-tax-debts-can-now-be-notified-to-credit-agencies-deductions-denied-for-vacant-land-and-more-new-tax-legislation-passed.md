@@ -3,7 +3,7 @@ template: SinglePost
 title: >-
   TAX DEBTS CAN NOW BE NOTIFIED TO CREDIT AGENCIES, DEDUCTIONS DENIED FOR VACANT
   LAND AND MORE - NEW TAX LEGISLATION PASSED
-status: Featured
+status: Published
 date: '2019-10-25'
 featuredImage: /images/uploads/kamil1.jpg
 bannerImage: /images/uploads/directors.png
