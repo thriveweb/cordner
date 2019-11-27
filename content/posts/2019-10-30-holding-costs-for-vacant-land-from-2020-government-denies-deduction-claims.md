@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Holding Costs for Vacant Land from 2020 - Government denies deduction claims
-status: Featured
+status: Published
 date: '2019-10-30'
 featuredImage: /images/uploads/steve.jpg
 bannerImage: /images/uploads/30-oct.jpg
