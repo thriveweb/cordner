@@ -24,8 +24,7 @@ Some examples where you could utilise the grant money will be to do either of be
 * get a fresh and modern looking website & branding upgrades including online payment capability if required, or
 * Secure your documents and systems having a detailed look at your security posture.
 
-**How much can you apply for and what can it be used for?
-**
+**How much can you apply for and what can it be used for?**
 
 If the application is successful, matched funding of up to $10,000 (excluding GST) is available for the purchase of hardware, software and services (such as digital coaching). The minimum grant funding amount is $1,000. Reimbursement will occur after submission of supplier invoices and proof of purchase/s. 
 
