@@ -4,7 +4,7 @@ title: Anne Turner
 subtitle: Director
 teamOrder: '4'
 featuredImage: /images/uploads/anne...jpg
-mainImage: /images/uploads/anne1.jpg
+mainImage: /images/uploads/_r1a4870_print.jpg
 position: Director
 categories:
   - category: Business Advisory
