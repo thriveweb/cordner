@@ -4,7 +4,7 @@ title: Di Girvin
 subtitle: Director
 teamOrder: '5'
 featuredImage: /images/uploads/di...jpg
-mainImage: /images/uploads/di1.jpg
+mainImage: /images/uploads/_r1a2217_print.jpg
 position: Director
 categories:
   - category: Business Advisory
