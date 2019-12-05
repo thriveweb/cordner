@@ -4,7 +4,7 @@ title: Donna Forbes Zlatic
 subtitle: Practice Manager
 teamOrder: '8'
 featuredImage: /images/uploads/donna...jpg
-mainImage: /images/uploads/donna1.jpg
+mainImage: /images/uploads/_r1a1871_print.jpg
 position: Practice Manager
 categories:
   - category: News
