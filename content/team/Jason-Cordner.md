@@ -4,7 +4,7 @@ title: Jason Cordner
 subtitle: Director
 teamOrder: '2'
 featuredImage: /images/uploads/jason...jpg
-mainImage: /images/uploads/jason1.jpg
+mainImage: /images/uploads/_r1a5046_print.jpg
 position: Director
 categories:
   - category: Business Advisory
