@@ -4,7 +4,7 @@ title: Tony Cordner
 subtitle: Founder
 teamOrder: '1'
 featuredImage: /images/uploads/tony.jpg
-mainImage: /images/uploads/tony1.jpg
+mainImage: /images/uploads/_r1a2006_print.jpg
 position: Founder
 twitter: 'https://twitter.com/'
 linkedin: 'https://linkedin.com/'
