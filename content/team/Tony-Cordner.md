@@ -3,7 +3,7 @@ template: SingleTeam
 title: Tony Cordner
 subtitle: Founder
 teamOrder: '1'
-featuredImage: /images/uploads/tony.jpg
+featuredImage: /images/uploads/_r1a1972_print.jpg
 mainImage: /images/uploads/_r1a2006_print.jpg
 position: Founder
 twitter: 'https://twitter.com/'
