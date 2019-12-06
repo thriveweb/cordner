@@ -3,7 +3,7 @@ template: SingleTeam
 title: Di Girvin
 subtitle: Director
 teamOrder: '5'
-featuredImage: /images/uploads/di...jpg
+featuredImage: /images/uploads/_r1a2260_print.jpg
 mainImage: /images/uploads/_r1a2217_print.jpg
 position: Director
 categories:
