@@ -3,7 +3,7 @@ template: SingleTeam
 title: Anne Turner
 subtitle: Director
 teamOrder: '4'
-featuredImage: /images/uploads/anne...jpg
+featuredImage: /images/uploads/_r1a4950_print.jpg
 mainImage: /images/uploads/_r1a4870_print.jpg
 position: Director
 categories:
