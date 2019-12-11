@@ -111,7 +111,7 @@ export const SingleEventTemplate = ({
           <div className="SingleEvent--InnerContent">
             <h3>Interested in this event?</h3>
             <a href="mailto:info@cordner.com.au" class="Button">
-              Find out more
+              Register now
             </a>
             <Content source={body} />
           </div>

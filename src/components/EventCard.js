@@ -32,7 +32,7 @@ const EventCard = ({
 
       {title && <h3 className="EventCard--Title">{title}</h3>}
 
-      <div className="Button">Find out more</div>
+      <div className="Button">Register</div>
     </div>
   </Link>
 )
