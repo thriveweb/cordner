@@ -3,8 +3,8 @@ template: SingleTeam
 title: Kamil Qureshi
 subtitle: Analyst
 teamOrder: '16'
-featuredImage: /images/uploads/kamil1.jpg
-mainImage: /images/uploads/kamil1.jpg
+featuredImage: /images/uploads/kamil3....jpg
+mainImage: /images/uploads/kamil3....jpg
 position: Analyst
 categories: []
 ---
