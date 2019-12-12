@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Zoe Farnworth
 subtitle: Advisor
-teamOrder: '13'
+teamOrder: '12'
 featuredImage: /images/uploads/zoe.jpg
 mainImage: /images/uploads/zoe.jpg
 position: Advisor
