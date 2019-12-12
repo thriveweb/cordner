@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Lara Sorrentino
 subtitle: Consultant
-teamOrder: '14'
+teamOrder: '15'
 featuredImage: /images/uploads/lara.jpg
 mainImage: /images/uploads/lara.jpg
 position: Consultant
