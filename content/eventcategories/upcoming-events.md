@@ -1,5 +1,5 @@
 ---
 template: EventsIndex
 title: Upcoming Events
-featuredImage: /images/uploads/events.png
+featuredImage: /images/uploads/events1.png
 ---
