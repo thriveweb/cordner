@@ -3,7 +3,7 @@ template: SinglePost
 title: >-
   TPAR Reporting requirements for Builders, Cleaners, Road Freight, IT or
   Security, Investigation or Surveillance Services
-status: Featured
+status: Published
 date: '2019-11-06'
 featuredImage: /images/uploads/linda.jpg
 bannerImage: /images/uploads/linda-blog.jpg
