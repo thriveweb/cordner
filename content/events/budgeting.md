@@ -1,10 +1,10 @@
 ---
 template: SingleEvent
-title: Budgeting
+title: Budgeting & KPI's
 featuredImage: /images/uploads/events1.png
-bannerImage: /images/uploads/events1.png
 status: Published
-date: '2020-01-15'
+date: '2020-01-29'
 categories:
   - category: Upcoming Events
 ---
+.
