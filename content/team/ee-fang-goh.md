@@ -1,11 +1,11 @@
 ---
 template: SingleTeam
 title: Ee Fang Goh
-subtitle: Analyst
+subtitle: Consultant
 teamOrder: '16'
 featuredImage: /images/uploads/ee.png
 mainImage: /images/uploads/ee.png
-position: Analyst
+position: Consultant
 categories: []
 ---
 
