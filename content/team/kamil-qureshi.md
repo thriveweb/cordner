@@ -1,7 +1,7 @@
 ---
 template: SingleTeam
 title: Kamil Qureshi
-subtitle: Analyst
+subtitle: Consultant
 teamOrder: '17'
 featuredImage: /images/uploads/kamil3.jpg
 mainImage: /images/uploads/kamil3.jpg
