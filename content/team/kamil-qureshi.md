@@ -5,7 +5,7 @@ subtitle: Consultant
 teamOrder: '17'
 featuredImage: /images/uploads/kamil3.jpg
 mainImage: /images/uploads/kamil3.jpg
-position: Analyst
+position: Consultant
 categories: []
 ---
 Kamil is a Bachelor of Commerce graduate and is a qualified Accountant with multiple years of experience in Australia’s top 10 Chartered Accounting firms. He is currently studying towards his CPA. Kamil specializes in business advisory and has a sound knowledge of Australian Taxation Law.
