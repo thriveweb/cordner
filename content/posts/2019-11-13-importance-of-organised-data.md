@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Importance of Organised Data
-status: Featured
+status: Published
 date: '2019-11-13'
 featuredImage: /images/uploads/lara.jpg
 bannerImage: /images/uploads/lara-blog.jpg
