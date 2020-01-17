@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Sophie Shepherd
 subtitle: Analyst
-teamOrder: '18'
+teamOrder: '17'
 featuredImage: /images/uploads/sophie.jpg
 mainImage: /images/uploads/sophie.jpg
 position: Analyst
