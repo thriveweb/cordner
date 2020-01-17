@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Ee Fang Goh
 subtitle: Consultant
-teamOrder: '16'
+teamOrder: '15'
 featuredImage: /images/uploads/ee.png
 mainImage: /images/uploads/ee.png
 position: Consultant
