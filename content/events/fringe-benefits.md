@@ -2,9 +2,9 @@
 template: SingleEvent
 title: Fringe Benefits
 featuredImage: /images/uploads/events1.png
-bannerImage: /images/uploads/events1.png
 status: Published
-date: '2020-02-14'
+date: '2020-03-06'
 categories:
   - category: Upcoming Events
 ---
+.
