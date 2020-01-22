@@ -3,7 +3,7 @@ template: SinglePost
 title: How much can you contribute to super before 30 June 2019?
 status: Published
 date: '2019-05-02'
-featuredImage: /images/uploads/elsa...jpg
+featuredImage: /images/uploads/_r1a5200_print.jpg
 bannerImage: /images/uploads/elsa-blog.jpg
 excerpt: >-
   As we approach 30 June, there are a few things to remember… and check… when it
