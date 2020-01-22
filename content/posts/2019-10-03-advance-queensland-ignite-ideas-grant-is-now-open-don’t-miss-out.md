@@ -3,7 +3,7 @@ template: SinglePost
 title: 'Advance Queensland Ignite Ideas Grant is now open, don’t miss out!'
 status: Featured
 date: '2019-10-03'
-featuredImage: /images/uploads/di...jpg
+featuredImage: /images/uploads/_r1a2260_print.jpg
 bannerImage: /images/uploads/di-blog.jpg
 excerpt: >
   The Ignite Ideas Fund is offering grants of up to $200,000 to support
