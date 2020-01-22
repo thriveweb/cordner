@@ -3,7 +3,7 @@ template: SinglePost
 title: Tax policy update
 status: Published
 date: '2019-05-30'
-featuredImage: /images/uploads/jason...jpg
+featuredImage: /images/uploads/_r1a4993_print.jpg
 bannerImage: /images/uploads/30-may.jpg
 excerpt: >-
   By now I am sure you have heard all about the most unexpected election result
