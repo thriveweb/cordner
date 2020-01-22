@@ -3,7 +3,7 @@ template: SinglePost
 title: SMSF – The Case for Up to Date Reporting
 status: Published
 date: '2018-10-31'
-featuredImage: /images/uploads/elsa...jpg
+featuredImage: /images/uploads/_r1a5200_print.jpg
 bannerImage: /images/uploads/business-advisory-v1.jpg
 excerpt: >-
   The world is changing and, as it changes, everyone who doesn’t adapt are left
