@@ -3,7 +3,7 @@ template: SinglePost
 title: Keep Calm and Don’t Panic – the ATO action on SMSF Investment Strategies
 status: Featured
 date: '2019-09-18'
-featuredImage: /images/uploads/elsa...jpg
+featuredImage: /images/uploads/_r1a5200_print.jpg
 bannerImage: /images/uploads/18-sep.jpg
 excerpt: >-
   You may have read in the media recently that the ATO mailed out approximately
