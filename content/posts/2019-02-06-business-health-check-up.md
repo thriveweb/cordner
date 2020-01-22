@@ -3,7 +3,7 @@ template: SinglePost
 title: 'Business Health Check Up '
 status: Published
 date: '2019-02-07'
-featuredImage: /images/uploads/sarah.jpg
+featuredImage: /images/uploads/instagram.jpg
 bannerImage: /images/uploads/banner-9.jpg
 excerpt: 'Business Health Check Up '
 categories:
