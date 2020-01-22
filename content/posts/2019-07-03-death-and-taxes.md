@@ -3,7 +3,7 @@ template: SinglePost
 title: Death and Taxes
 status: Published
 date: '2019-07-04'
-featuredImage: /images/uploads/elsa...jpg
+featuredImage: /images/uploads/_r1a4993_print.jpg
 bannerImage: /images/uploads/4-july-blog.jpg
 excerpt: “The only things certain in life are death and taxes” - Benjamin Franklin
 categories:
