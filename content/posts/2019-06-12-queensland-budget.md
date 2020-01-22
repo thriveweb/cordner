@@ -3,7 +3,7 @@ template: SinglePost
 title: Queensland Budget
 status: Published
 date: '2019-06-12'
-featuredImage: /images/uploads/jason...jpg
+featuredImage: /images/uploads/_r1a4993_print.jpg
 bannerImage: /images/uploads/collaboration-cooperation-corporate-1645693-1-.jpg
 excerpt: >-
   Queensland Treasurer Jackie Trad set down the 2019 / 2020 Queensland Budget
