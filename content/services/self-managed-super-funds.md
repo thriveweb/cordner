@@ -3,7 +3,7 @@ template: SingleService
 title: Self Managed Super Funds
 subtitle: Take control of your future on your terms with a Self Managed Super Fund
 status: Featured
-order: 8
+order: 9
 link: 'https://ucarecdn.com/85dc0d43-f1c3-4fe9-af03-39722006bbd2/'
 link2: 'https://ucarecdn.com/1b7fd1b9-6459-4d99-9a08-9617c3f27cc0/'
 link3: 'mailto:elsa@cordner.com.au'

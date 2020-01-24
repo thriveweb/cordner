@@ -57,6 +57,18 @@ export default class Nav extends Component {
                 >
                   Business advisory
                 </NavLink>
+                <NavLink
+                  to="/services/smarter-cfo"
+                  onClick={this.handleLinkClick}
+                >
+                  Smarter CFO
+                </NavLink>
+                <NavLink
+                  to="/services/出售您的出租物业"
+                  onClick={this.handleLinkClick}
+                >
+                  出售您的出租物业
+                </NavLink>
                 <NavLink to="/services/taxation-and-compliance">
                   Taxation and compliance
                 </NavLink>

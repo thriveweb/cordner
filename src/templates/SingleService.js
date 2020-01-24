@@ -126,7 +126,7 @@ export const SingleServiceTemplate = ({
               <div className="ServiceCard red">
                 <h2>We also offer</h2>
               </div>
-              {!!relatedServices &&
+              {relatedServices &&
                 relatedServices.map((service, index) => {
                   if (title !== service.title) {
                     return (
@@ -137,27 +137,26 @@ export const SingleServiceTemplate = ({
             </div>
           </section>
         )}
-
-        <section className="section RelatedMembers">
-          <div className="container flex">
-            <div className="flex-column one-half">
-              <h3>Who heads up this service</h3>
-            </div>
-            <div className="flex-column one-half" />
-          </div>
-          <div className="container flex">
-            {relatedMembers &&
-              relatedMembers.length &&
-              relatedMembers.map((member, index) => (
-                <div key={index + member.title} className="one-third">
-                  {!!member && <TeamCard teamMember={member} />}
+        {relatedMembers &&
+          relatedMembers.length > 0 && (
+            <section className="section RelatedMembers">
+              <div className="container flex">
+                <div className="flex-column one-half">
+                  <h3>Who heads up this service</h3>
                 </div>
-              ))}
-          </div>
-        </section>
-
+                <div className="flex-column one-half" />
+              </div>
+              <div className="container flex">
+                {relatedMembers.map((member, index) => (
+                  <div key={index + member.title} className="one-third">
+                    {!!member && <TeamCard teamMember={member} />}
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
         {relatedPosts &&
-          relatedPosts.length && (
+          relatedPosts.length > 0 && (
             <section className="section relatedPosts">
               <div className="container">
                 <NumberedHeader number="" title="Blog" />
