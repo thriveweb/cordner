@@ -2,7 +2,7 @@
 template: SingleService
 title: 出售您的出租物业
 subtitle: 除非您在CGT于1985年9月20日开始之前将其出售或出售，否则您在出售或处置租赁财产时可能会产生资本损益。
-status: Featured
+status: 
 order: 2
 featuredImage: /images/uploads/business-advisory-v1.jpg
 icon: /images/uploads/growth.svg
