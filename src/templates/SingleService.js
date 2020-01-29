@@ -75,7 +75,6 @@ export const SingleServiceTemplate = ({
               <NumberedHeader number="01" title="What we offer" />
               <h3>{subtitle}</h3>
               <Image src={contentImage} alt={title} />
-
               <div className="links-container">
                 {!!link4 && (
                   <a className="Button" target="_blank" href={link4}>
