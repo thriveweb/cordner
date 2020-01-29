@@ -5,9 +5,9 @@ subtitle: >-
   Born from the idea that we all need to balance our lifestyle with our workload.
 status: Featured
 order: 2
-featuredImage: /images/uploads/business-advisory-v1.jpg
+featuredImage: /images/uploads/smartercfo.jpg
 icon: /images/uploads/growth.svg
-contentImage: /images/uploads/business-advisory-v1.jpg
+contentImage: /images/uploads/smartercfo-3-2-.jpg
 categories:
   - category: SmarterCFO
 ---

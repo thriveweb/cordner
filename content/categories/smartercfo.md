@@ -1,5 +1,5 @@
 ---
 template: BlogIndex
 title: SmarterCFO
-featuredImage: /images/uploads/business-advisory-v1.jpg
+featuredImage: /images/uploads/smartercfo.jpg
 ---
