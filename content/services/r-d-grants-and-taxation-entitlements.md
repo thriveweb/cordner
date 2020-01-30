@@ -3,15 +3,15 @@ template: SingleService
 title: Government Grants
 subtitle: >-
   We work with you to map your innovation journey, identify eligible activities
-  and strategically plan for maximum returns.
+  and strategically plan for maximum returns
+categories:
+  - category: Government Innovation Grants
 status: Featured
 order: 4
 featuredImage: /images/uploads/services-personal-wealth-security.jpg
 icon: /images/uploads/rd-advisory--icon.svg
 parentService: Government Grants
 contentImage: /images/uploads/services-personal-wealth-security.jpg
-categories:
-  - category: Government Innovation Grants
 ---
 
 The Australian Government (Federal and State) provide numerous grants opportunities relating to innovation which contribute funding support for your business for specific projects and functions. These grants are available throughout all stages of your business lifecycle.
