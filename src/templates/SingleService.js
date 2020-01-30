@@ -30,16 +30,6 @@ export const SingleServiceTemplate = ({
   pdfLinks,
   team,
   posts,
-  link,
-  link2,
-  link3,
-  link3Text,
-  link4,
-  link4Text,
-  link5,
-  link5Text,
-  link6,
-  link6Text
 }) => {
   let currentCats = []
   let relatedServices = []
@@ -221,16 +211,6 @@ export const pageQuery = graphql`
         title
         subtitle
         template
-        link
-        link2
-        link3
-        link3Text
-        link4
-        link4Text
-        link5
-        link5Text
-        link6
-        link6Text
         buttonsLeft{
           title
           link
@@ -284,16 +264,6 @@ export const pageQuery = graphql`
               title
               link
             }
-            link
-            link2
-            link3
-            link3Text
-            link4
-            link4Text
-            link5
-            link5Text
-            link6
-            link6Text
           }
         }
       }
