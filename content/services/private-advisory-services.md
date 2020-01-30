@@ -4,14 +4,14 @@ title: Private Advisory Services
 subtitle: >-
   Our business is dedicated to help protecting and growing your assets. Cordner
   Advisory prides itself on delivering the very best asset protection, taxation,
-  SMSF, estate planning and succession solutions.
+  SMSF, estate planning and succession solutions
+categories:
+  - category: Private Advisory Services
 status: Featured
 order: 8
 featuredImage: /images/uploads/main-our-team80.jpg
 icon: /images/uploads/private-advisory--icon.svg
 contentImage: /images/uploads/main-our-team80.jpg
-categories:
-  - category: Private Advisory Services
 ---
 
 We are focussed on securing and growing assets. When is the appropriate time to start the planning process? The answer is simple – now! Before you have a structuring problem. Before you have a tax problem. Before you have a retirement affordability problem. Before you have a health problem. Before...
