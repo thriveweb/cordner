@@ -11,6 +11,18 @@ twitter: ''
 linkedin: ''
 email: ''
 
+buttonsLeft:
+  - title:
+    customLink: '/images/logo.svg'
+
+buttonsRight:
+  - title:
+    customLink: '/images/logo.svg'
+
+pdfLinks:
+  - title:
+    customLink: '/images/logo.svg'
+
 meta:
   canonicalLink: ''
   description: ''

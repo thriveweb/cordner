@@ -71,8 +71,8 @@ export const SingleServiceTemplate = ({
 
               <div className="links-container">
                 {buttonsLeft && buttonsLeft.map((button, index) => (
-                  <p>
-                    <a className="Button" href={button.link} target="_blank" key={button.title}>{button.title}</a>
+                  <p key={button.title}>
+                    <a className="Button" href={button.link} target="_blank">{button.title}</a>
                   </p>
                 ))}
               </div>
@@ -83,14 +83,14 @@ export const SingleServiceTemplate = ({
 
               <div className="links-container">
                 {pdfLinks && pdfLinks.map((pdf, index) => (
-                  <a href={pdf.link} target="_blank" key={pdf.title}>
+                  <a key={pdf.title} href={pdf.link} target="_blank">
                     <p>{pdf.title}</p>
                   </a>
                 ))}
 
                 {buttonsRight && buttonsRight.map((button, index) => (
-                  <p>
-                    <a className="Button" href={button.link} target="_blank" key={button.title}>{button.title}</a>
+                  <p key={button.title}>
+                    <a className="Button" href={button.link} target="_blank">{button.title}</a>
                   </p>
                 ))}
               </div>
@@ -213,15 +213,15 @@ export const pageQuery = graphql`
         template
         buttonsLeft{
           title
-          link
+          customLink
         }
         buttonsRight{
           title
-          link
+          customLink
         }
         pdfLinks{
           title
-          link
+          customLink
         }
         featuredImage {
           ...MediumImage
@@ -254,15 +254,15 @@ export const pageQuery = graphql`
             parentService
             buttonsLeft{
               title
-              link
+              customLink
             }
             buttonsRight{
               title
-              link
+              customLink
             }
             pdfLinks{
               title
-              link
+              customLink
             }
           }
         }

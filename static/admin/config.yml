@@ -663,7 +663,7 @@ collections:
         widget: 'list'
         fields:
           - { label: Title, name: title, widget: string }
-          - { label: Link, name: link, widget: string }
+          - { label: Link, name: customLink, widget: string }
 
       - { label: Content, name: body, widget: markdown }
 
@@ -673,7 +673,7 @@ collections:
         required: false
         fields:
           - { label: Title, name: title, widget: string }
-          - { label: Link, name: link, widget: string }
+          - { label: Link, name: customLink, widget: string }
 
       - name: 'pdfLinks'
         label: 'PDF Links'
@@ -681,7 +681,7 @@ collections:
         required: false
         fields:
           - { label: Title, name: title, widget: string }
-          - { label: Link, name: link, widget: string }
+          - { label: Link, name: customLink, widget: string }
 
       - label: 'Meta'
         name: 'meta'

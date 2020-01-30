@@ -10,12 +10,11 @@ icon: /images/uploads/growth.svg
 contentImage: /images/uploads/SmarterCFOinline.jpg
 categories:
   - category: SmarterCFO
-
 buttonsLeft:
   - title: Email us now
-    link: 'mailto:smarterCFO@cordner.com.au'
+    customLink: 'mailto:smarterCFO@cordner.com.au'
   - title: Call us to book appointment
-    link: 'tel:0756782080'
+    customLink: 'tel:0756782080'
 ---
 
 Born from the idea that we all need to balance our lifestyle with our workload. As a business
