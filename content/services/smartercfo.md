@@ -2,19 +2,23 @@
 template: SingleService
 title: SmarterCFO
 subtitle: >-
-  Born from the idea that we all need to balance our lifestyle with our workload.
-status:
+  Born from the idea that we all need to balance our lifestyle with our
+  workload.
+categories:
+  - category: SmarterCFO
+status: Published
 order: 2
 featuredImage: /images/uploads/SmarterCFO.jpg
 icon: /images/uploads/growth.svg
 contentImage: /images/uploads/SmarterCFOinline.jpg
-categories:
-  - category: SmarterCFO
 buttonsLeft:
-  - title: Email us now
-    customLink: 'mailto:smarterCFO@cordner.com.au'
-  - title: Call us to book appointment
-    customLink: 'tel:0756782080'
+  - customLink: 'mailto:smarterCFO@cordner.com.au'
+    title: Email us now
+  - customLink: 'tel:0756782080'
+    title: Call us to book appointment
+buttonsRight:
+  - customLink: link
+    title: Button title
 ---
 
 Born from the idea that we all need to balance our lifestyle with our workload. As a business
