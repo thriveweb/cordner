@@ -2,6 +2,8 @@
 template: SingleService
 title: Self Managed Super Funds
 subtitle: Take control of your future on your terms with a Self Managed Super Fund
+categories:
+  - category: Self Managed Super Funds
 status: Featured
 order: 9
 featuredImage: /images/uploads/smsf.jpg
@@ -26,9 +28,8 @@ pdfLinks:
   - title: Financial Services Guide 1
     link: 'https://ucarecdn.com/85dc0d43-f1c3-4fe9-af03-39722006bbd2/'
   - title: Financial Services Guide 2
-    link: 'https://ucarecdn.com/1b7fd1b9-6459-4d99-9a08-9617c3f27cc0/'
-
-
+    link: 'https://ucarecdn.com/1b7fd1b9-6459-4d99-9a08-9617c3f27cc0/
+    
 ---
 
 As experienced Gold Coast SMSF accountants we know many people already manage their own superannuation via a SMSF and many more will decide to take control of one of their most significant assets in the next few years.
