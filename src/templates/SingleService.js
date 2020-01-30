@@ -25,6 +25,9 @@ export const SingleServiceTemplate = ({
   body,
   services,
   featuredServices,
+  buttonsLeft,
+  buttonsRight,
+  pdfLinks,
   team,
   posts,
   link,
@@ -75,46 +78,31 @@ export const SingleServiceTemplate = ({
               <NumberedHeader number="01" title="What we offer" />
               <h3>{subtitle}</h3>
               <Image src={contentImage} alt={title} />
+
               <div className="links-container">
-                {!!link4 && (
-                  <a className="Button" target="_blank" href={link4}>
-                    {link4Text}
+                {buttonsLeft && buttonsLeft.map((button, index) => (
+                  <a className="Button" href={button.link} target="_blank" key={button.title}>
+                    {button.title}
                   </a>
-                )}
-
-                {!!link5 && (
-                  <a className="Button" target="_blank" href={link5}>
-                    {link5Text}
-                  </a>
-                )}
-
-                {!!link6 && (
-                  <a className="Button" target="_blank" href={link6}>
-                    {link6Text}
-                  </a>
-                )}
+                ))}
               </div>
+
             </div>
             <div className="flex-column one-half">
               <Content source={body} />
 
               <div className="links-container">
-                {!!link && (
-                  <a className="pdflinks" target="_blank" href={link}>
-                    Financial Services Guide 1
+                {pdfLinks && pdfLinks.map((pdf, index) => (
+                  <a href={pdf.link} target="_blank" key={pdf.title}>
+                    <p>{pdf.title}</p>
                   </a>
-                )}
+                ))}
 
-                {!!link2 && (
-                  <a className="pdflinks" target="_blank" href={link2}>
-                    Financial Services Guide 2
+                {buttonsRight && buttonsRight.map((button, index) => (
+                  <a className="Button" href={button.link} target="_blank" key={button.title}>
+                    {button.title}
                   </a>
-                )}
-                {!!link3 && (
-                  <a className="Button" target="_blank" href={link3}>
-                    {link3Text}
-                  </a>
-                )}
+                ))}
               </div>
             </div>
           </div>
@@ -243,6 +231,18 @@ export const pageQuery = graphql`
         link5Text
         link6
         link6Text
+        buttonsLeft{
+          title
+          link
+        }
+        buttonsRight{
+          title
+          link
+        }
+        pdfLinks{
+          title
+          link
+        }
         featuredImage {
           ...MediumImage
         }
@@ -272,6 +272,18 @@ export const pageQuery = graphql`
               category
             }
             parentService
+            buttonsLeft{
+              title
+              link
+            }
+            buttonsRight{
+              title
+              link
+            }
+            pdfLinks{
+              title
+              link
+            }
             link
             link2
             link3
