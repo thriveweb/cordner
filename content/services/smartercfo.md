@@ -19,18 +19,18 @@ buttonsRight:
     title: Button title
 ---
 As a business owner that is easier said than done we spend so much time and energy focusing on every part, every role. Because a new role adds new costs and new responsibilities. Our aim with the SmarterCFO is to assist in this space and take some of the heavy lifting for you, from you it’s a SmarterCFO role without the Payroll.
-<br/>
+<br>
 
 We share a vision, maintain focus, plan and walk the path of growing you and your business
 together in providing support, insights & advice to keep you and your business fresh and
 balanced.
-<br/>
+<br>
 
 The SmarterCFO that helps you and your business grow with confidence.
-<br/>
+<br>
 
 **What are the Benefits**
-<br/>
+<br>
 
 * Helps you maintain focus, provides support, advice & insights
 * Helping to keep you & your business fresh & balanced
@@ -39,17 +39,17 @@ The SmarterCFO that helps you and your business grow with confidence.
 * Business insights & planning
 * SmarterCFO role without the Payroll
 * The ability to scale up with high’s, down with the low’s, the all new SmarterCFO that works for you.
-  <br/>
+<br>
 
 **Solutions**
-
+<br>
 One of the biggest challenges for businesses is maintaining operational finances and turning
 a profit. Couple that with the burden both financially and the health implications that come with
 this on your well being.
-<br/>
+<br>
 
 **Overall Role**
-
+<br>
 * Management of the finance function of your business, including in-house bookkeeping to ensure regular and accurate accounts
 * Budgets and forecasts, including setting of relevant KPI's, to set a baseline for expected business performance
 * Management reporting and analysis of performance to budgets or forecasts, including cashflow management assistance
@@ -58,21 +58,21 @@ this on your well being.
 * Facilitate and guide the strategic planning process to map out growth and expansion
 * Financial advice, guidance and modelling on business decisions and issues, including due
       diligence, business valuations, business sales and structuring, advisory board meetings
-    <br/>
-  Prices are indicative only, please contact us for a detailed quote for your specific circumstances.
-
+<br>
+Prices are indicative only, please contact us for a detailed quote for your specific circumstances.
+<br>
 **Service offerings:**
-
+<br>
 * Bookkeeping and payroll
 * Accounting process review and recommendations
 * Budgets and forecasts
 * Cashflow management reporting and advice
 * Setting key performance indicators and reporting on same
 * Monthly or quarterly management reporting and analysis
-  <br/>
+<br>
 
 Financial advice and modelling on business decisions and issues, including but not limited to:
-
+<br>
 * Due diligence on business acquisitions
 * Business valuations
 * Business structuring advice
@@ -80,3 +80,4 @@ Financial advice and modelling on business decisions and issues, including but n
 * Exit strategies
 * Capital raising support
 * Strategic planning and advisory board
+<br>
