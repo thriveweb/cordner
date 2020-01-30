@@ -12,7 +12,7 @@ contentImage: /images/uploads/smsf.jpg
 buttonsLeft:
   - link: >-
       https://www.moneysmart.gov.au/superannuation-and-retirement/self-managed-super-fund-smsf
-    title: Considering an SMSF?
+    title: Considering an SMSF????
   - link: >-
       https://ucarecdn.com/49ce21c5-86b2-424a-baac-72cd73e0a88b/FactSheetRetirementIncomeYourOptions.pdf
     title: FACT SHEET – Retirement Income from Super
