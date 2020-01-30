@@ -16,7 +16,7 @@ buttonsLeft:
     title: FACT SHEET – Retirement Income from Super
   - customLink: 'https://ucarecdn.com/aa775bd6-e7bd-4030-b084-f6221f37159d/FactSheetContributingtoSuper'
     title: FACT SHEET – Contributing to Super
-buttonRight:
+buttonsRight:
   - customLink: 'mailto:elsa@cordner.com.au'
     title: Have a question about your super?
 pdfLinks:

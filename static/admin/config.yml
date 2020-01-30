@@ -667,7 +667,7 @@ collections:
 
       - { label: Content, name: body, widget: markdown }
 
-      - name: 'buttonRight'
+      - name: 'buttonsRight'
         label: 'Buttons'
         widget: 'list'
         required: false
