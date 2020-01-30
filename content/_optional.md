@@ -13,15 +13,15 @@ email: ''
 
 buttonsLeft:
   - title:
-    customLink: '/images/logo.svg'
+    customLink: ''
 
 buttonsRight:
   - title:
-    customLink: '/images/logo.svg'
+    customLink: ''
 
 pdfLinks:
   - title:
-    customLink: '/images/logo.svg'
+    customLink: ''
 
 meta:
   canonicalLink: ''
