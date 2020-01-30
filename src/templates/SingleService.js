@@ -252,18 +252,6 @@ export const pageQuery = graphql`
               category
             }
             parentService
-            buttonsLeft{
-              title
-              customLink
-            }
-            buttonsRight{
-              title
-              customLink
-            }
-            pdfLinks{
-              title
-              customLink
-            }
           }
         }
       }
