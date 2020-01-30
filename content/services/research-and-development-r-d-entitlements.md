@@ -4,16 +4,16 @@ title: Research and Development (R&D) Entitlements
 subtitle: >-
   The Australian Government is supportive of industry Research and Development
   and will provide to your business a substantial refundable tax offset for
-  eligible activities.
+  eligible activities
+categories:
+  - category: 'R&D, Grants and Taxation Entitlements'
+  - category: Research and Development (R&D) Entitlements
 status: Published
 order: 5
 featuredImage: /images/uploads/architecture-building-business-256381.jpg
 icon: /images/uploads/button_arrow_suscribe.svg
 parentService: 'R&D, Grants and Taxation Entitlements'
 contentImage: /images/uploads/architecture-building-business-256381.jpg
-categories:
-  - category: 'R&D, Grants and Taxation Entitlements'
-  - category: Research and Development (R&D) Entitlements
 ---
 
 At Cordner Advisory we:
