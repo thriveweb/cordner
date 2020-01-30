@@ -11,9 +11,9 @@ icon: /images/uploads/growth.svg
 contentImage: /images/uploads/SmarterCFOinline.jpg
 buttonsLeft:
   - customLink: 'mailto:smarterCFO@cordner.com.au'
-    title: Email us now
+    title: Click to request more info
   - customLink: 'tel:0756782080'
-    title: Call us to book appointment
+    title: Call to book an appointment
 buttonsRight:
   - customLink: link
     title: Button title
