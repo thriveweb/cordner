@@ -4,7 +4,7 @@ title: Taxation and Compliance
 subtitle: >-
   Cordner Advisory are your trusted team for all taxation reporting and
   compliance obligations
-status: 
+status: Featured
 order: 3
 featuredImage: /images/uploads/taxation-and-compliance.jpg
 icon: /images/uploads/taxation-advisory--icon.svg
