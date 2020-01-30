@@ -14,6 +14,7 @@ categories:
   - category: Private Advisory Services
   - category: Key Industries
   - category: Business Advisory
+  - category: SmarterCFO
 ---
 
 Jarrad, CPA and MBA qualified, has an extensive background in tax compliance, structuring, asset protection and business advisory engagements. After spending many years at an iconic big four accounting firm, Jarrad joined Cordner Advisory as Director in 2014 and has established a reputation as a trusted advisor for clients.

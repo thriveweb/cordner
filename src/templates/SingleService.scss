@@ -41,21 +41,22 @@
 
   background-color: #f4f4f4;
 
-  .pdflinks {
-    display: block;
-    color: var(--brightRed);
-    font-weight: 600;
-    font-size: 14px;
-  }
-
   .links-container {
     margin-top: 1rem;
     margin-bottom: 4rem;
 
+    p{
+      color: var(--brightRed);
+      font-weight: 500;
+      opacity: 1;
+      margin: 1rem 0;
+    }
+
     .Button {
       margin-top: 2rem;
-      max-width: 345px;
-      width: 100%;
+      display: inline-block;
+      clear: both;
+      width: auto;
       color: white;
       background: var(--brightRed);
 

@@ -628,19 +628,18 @@ collections:
         }
       - { label: Title, name: title, widget: string }
       - { label: Subtitle, name: subtitle, widget: string }
-      - { label: Super Link, name: link3, widget: string, required: false }
-      - {
-          label: Super Link Text,
-          name: link3Text,
-          widget: string,
-          required: false,
-        }
-      - { label: Link 4, name: link4, widget: string, required: false }
-      - { label: Link 4 Text, name: link4Text, widget: string, required: false }
-      - { label: Link 5, name: link5, widget: string, required: false }
-      - { label: Link 5 Text, name: link5Text, widget: string, required: false }
-      - { label: Link 6, name: link6, widget: string, required: false }
-      - { label: Link 6 Text, name: link6Text, widget: string, required: false }
+
+      - label: 'Categories'
+        name: 'categories'
+        widget: 'list'
+        fields:
+          - label: 'Category'
+            name: 'category'
+            widget: 'relation'
+            collection: 'categories'
+            searchFields: ['title']
+            valueField: 'title'
+
       - label: 'Status'
         name: 'status'
         widget: 'select'
@@ -655,22 +654,38 @@ collections:
           widget: string,
           required: false,
         }
-      - { label: Content Image, name: contentImage, widget: image }
-      - { label: Content, name: body, widget: markdown }
 
-      - label: 'Categories'
-        name: 'categories'
+      - { label: Image, name: contentImage, widget: image }
+
+      - name: 'buttonsLeft'
+        label: 'Buttons'
+        required: false
         widget: 'list'
         fields:
-          - label: 'Category'
-            name: 'category'
-            widget: 'relation'
-            collection: 'categories'
-            searchFields: ['title']
-            valueField: 'title'
-      - label: 'Meta'
+          - { label: Title, name: title, widget: string }
+          - { label: Link, name: link, widget: string }
+
+      - { label: Content, name: body, widget: markdown }
+
+      - name: 'buttonRight'
+        label: 'Buttons'
+        widget: 'list'
         required: false
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Link, name: link, widget: string }
+
+      - name: 'pdfLinks'
+        label: 'PDF Links'
+        widget: 'list'
+        required: false
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Link, name: link, widget: string }
+
+      - label: 'Meta'
         name: 'meta'
+        required: false
         widget: 'object'
         fields:
           - { label: Title, name: title, widget: string, required: false }

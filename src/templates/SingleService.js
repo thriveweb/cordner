@@ -25,18 +25,11 @@ export const SingleServiceTemplate = ({
   body,
   services,
   featuredServices,
+  buttonsLeft,
+  buttonsRight,
+  pdfLinks,
   team,
   posts,
-  link,
-  link2,
-  link3,
-  link3Text,
-  link4,
-  link4Text,
-  link5,
-  link5Text,
-  link6,
-  link6Text
 }) => {
   let currentCats = []
   let relatedServices = []
@@ -77,45 +70,29 @@ export const SingleServiceTemplate = ({
               <Image src={contentImage} alt={title} />
 
               <div className="links-container">
-                {!!link4 && (
-                  <a className="Button" target="_blank" href={link4}>
-                    {link4Text}
-                  </a>
-                )}
-
-                {!!link5 && (
-                  <a className="Button" target="_blank" href={link5}>
-                    {link5Text}
-                  </a>
-                )}
-
-                {!!link6 && (
-                  <a className="Button" target="_blank" href={link6}>
-                    {link6Text}
-                  </a>
-                )}
+                {buttonsLeft && buttonsLeft.map((button, index) => (
+                  <p>
+                    <a className="Button" href={button.link} target="_blank" key={button.title}>{button.title}</a>
+                  </p>
+                ))}
               </div>
+
             </div>
             <div className="flex-column one-half">
               <Content source={body} />
 
               <div className="links-container">
-                {!!link && (
-                  <a className="pdflinks" target="_blank" href={link}>
-                    Financial Services Guide 1
+                {pdfLinks && pdfLinks.map((pdf, index) => (
+                  <a href={pdf.link} target="_blank" key={pdf.title}>
+                    <p>{pdf.title}</p>
                   </a>
-                )}
+                ))}
 
-                {!!link2 && (
-                  <a className="pdflinks" target="_blank" href={link2}>
-                    Financial Services Guide 2
-                  </a>
-                )}
-                {!!link3 && (
-                  <a className="Button" target="_blank" href={link3}>
-                    {link3Text}
-                  </a>
-                )}
+                {buttonsRight && buttonsRight.map((button, index) => (
+                  <p>
+                    <a className="Button" href={button.link} target="_blank" key={button.title}>{button.title}</a>
+                  </p>
+                ))}
               </div>
             </div>
           </div>
@@ -126,7 +103,7 @@ export const SingleServiceTemplate = ({
               <div className="ServiceCard red">
                 <h2>We also offer</h2>
               </div>
-              {!!relatedServices &&
+              {relatedServices &&
                 relatedServices.map((service, index) => {
                   if (title !== service.title) {
                     return (
@@ -137,27 +114,26 @@ export const SingleServiceTemplate = ({
             </div>
           </section>
         )}
-
-        <section className="section RelatedMembers">
-          <div className="container flex">
-            <div className="flex-column one-half">
-              <h3>Who heads up this service</h3>
-            </div>
-            <div className="flex-column one-half" />
-          </div>
-          <div className="container flex">
-            {relatedMembers &&
-              relatedMembers.length &&
-              relatedMembers.map((member, index) => (
-                <div key={index + member.title} className="one-third">
-                  {!!member && <TeamCard teamMember={member} />}
+        {relatedMembers &&
+          relatedMembers.length > 0 && (
+            <section className="section RelatedMembers">
+              <div className="container flex">
+                <div className="flex-column one-half">
+                  <h3>Who heads up this service</h3>
                 </div>
-              ))}
-          </div>
-        </section>
-
+                <div className="flex-column one-half" />
+              </div>
+              <div className="container flex">
+                {relatedMembers.map((member, index) => (
+                  <div key={index + member.title} className="one-third">
+                    {!!member && <TeamCard teamMember={member} />}
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
         {relatedPosts &&
-          relatedPosts.length && (
+          relatedPosts.length > 0 && (
             <section className="section relatedPosts">
               <div className="container">
                 <NumberedHeader number="" title="Blog" />
@@ -235,16 +211,18 @@ export const pageQuery = graphql`
         title
         subtitle
         template
-        link
-        link2
-        link3
-        link3Text
-        link4
-        link4Text
-        link5
-        link5Text
-        link6
-        link6Text
+        buttonsLeft{
+          title
+          link
+        }
+        buttonsRight{
+          title
+          link
+        }
+        pdfLinks{
+          title
+          link
+        }
         featuredImage {
           ...MediumImage
         }
@@ -274,16 +252,18 @@ export const pageQuery = graphql`
               category
             }
             parentService
-            link
-            link2
-            link3
-            link3Text
-            link4
-            link4Text
-            link5
-            link5Text
-            link6
-            link6Text
+            buttonsLeft{
+              title
+              link
+            }
+            buttonsRight{
+              title
+              link
+            }
+            pdfLinks{
+              title
+              link
+            }
           }
         }
       }
