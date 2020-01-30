@@ -10,20 +10,22 @@ featuredImage: /images/uploads/smsf.jpg
 icon: /images/uploads/self-managed--icon.svg
 contentImage: /images/uploads/smsf.jpg
 buttonsLeft:
-  - title: Considering an SMSF?
-    customLink: 'https://www.moneysmart.gov.au/superannuation-and-retirement/self-managed-super-fund-smsf'
-  - title: FACT SHEET – Retirement Income from Super
-    customLink: 'https://ucarecdn.com/49ce21c5-86b2-424a-baac-72cd73e0a88b/FactSheetRetirementIncomeYourOptions'
-  - title: FACT SHEET – Contributing to Super
-    customLink: 'https://ucarecdn.com/aa775bd6-e7bd-4030-b084-f6221f37159d/FactSheetContributingtoSuper'
-buttonsRight:
-  - title: Have a question about your super?
-    customLink: 'mailto:elsa@cordner.com.au'
+  - customLink: >-
+      https://www.moneysmart.gov.au/superannuation-and-retirement/self-managed-super-fund-smsf
+    title: Considering an SMSF?
+  - customLink: >-
+      https://ucarecdn.com/49ce21c5-86b2-424a-baac-72cd73e0a88b/FactSheetRetirementIncomeYourOptions
+    title: FACT SHEET – Retirement Income from Super
+  - customLink: >-
+      https://ucarecdn.com/aa775bd6-e7bd-4030-b084-f6221f37159d/FactSheetContributingtoSuper
+    title: FACT SHEET – Contributing to Super
+buttonRight:
+  - customLink: 'mailto:elsa@cordner.com.au'
+    title: Have a question about your super?
 pdfLinks:
   - title: Financial Services Guide 1
-    link: 'https://ucarecdn.com/85dc0d43-f1c3-4fe9-af03-39722006bbd2/'
-  - title: Financial Services Guide 2
-    customLink: 'https://ucarecdn.com/1b7fd1b9-6459-4d99-9a08-9617c3f27cc0/'
+  - customLink: 'https://ucarecdn.com/1b7fd1b9-6459-4d99-9a08-9617c3f27cc0/'
+    title: Financial Services Guide 2
 ---
 
 As experienced Gold Coast SMSF accountants we know many people already manage their own superannuation via a SMSF and many more will decide to take control of one of their most significant assets in the next few years.
