@@ -657,8 +657,8 @@ collections:
 
       - { label: Image, name: contentImage, widget: image }
 
-      - name: Buttons
-        label: buttonsLeft
+      - name: 'buttonsLeft'
+        label: 'Buttons'
         required: false
         widget: 'list'
         fields:
@@ -667,25 +667,25 @@ collections:
 
       - { label: Content, name: body, widget: markdown }
 
-      - name: Buttons
-        label: buttonsRight
-        required: false
+      - name: 'buttonRight'
+        label: 'Buttons'
         widget: 'list'
+        required: false
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Link, name: link, widget: string }
 
-      - name: PDF Links
-        label: pdfLinks
-        required: false
+      - name: 'pdfLinks'
+        label: 'PDF Links'
         widget: 'list'
+        required: false
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Link, name: link, widget: string }
 
       - label: 'Meta'
-        required: false
         name: 'meta'
+        required: false
         widget: 'object'
         fields:
           - { label: Title, name: title, widget: string, required: false }
