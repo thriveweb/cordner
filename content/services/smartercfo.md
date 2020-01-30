@@ -4,7 +4,7 @@ title: SmarterCFO
 subtitle: Born from the idea that we all need to balance our lifestyle with our workload
 categories:
   - category: SmarterCFO
-status: Published
+status: Featured
 order: 2
 featuredImage: /images/uploads/SmarterCFO.jpg
 icon: /images/uploads/growth.svg
@@ -14,7 +14,6 @@ buttonsLeft:
     title: Click to request more info
   - customLink: 'tel:0756782080'
     title: Call to book an appointment
-buttonsRight: []
 ---
 As a business owner that is easier said than done we spend so much time and energy focusing on every part, every role. Because a new role adds new costs and new responsibilities. Our aim with the SmarterCFO is to assist in this space and take some of the heavy lifting for you, from you it’s a SmarterCFO role without the Payroll.
 <br>

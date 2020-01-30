@@ -57,12 +57,12 @@ export default class Nav extends Component {
                 >
                   Business advisory
                 </NavLink>
-                {/* <NavLink
+                <NavLink
                   to="/services/smarter-cfo"
                   onClick={this.handleLinkClick}
                 >
                   Smarter CFO
-                </NavLink> */}
+                </NavLink>
                 <NavLink to="/services/taxation-and-compliance">
                   Taxation and compliance
                 </NavLink>
