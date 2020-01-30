@@ -71,9 +71,9 @@ export const SingleServiceTemplate = ({
 
               <div className="links-container">
                 {buttonsLeft && buttonsLeft.map((button, index) => (
-                  <a className="Button" href={button.link} target="_blank" key={button.title}>
-                    {button.title}
-                  </a>
+                  <p>
+                    <a className="Button" href={button.link} target="_blank" key={button.title}>{button.title}</a>
+                  </p>
                 ))}
               </div>
 
@@ -89,9 +89,9 @@ export const SingleServiceTemplate = ({
                 ))}
 
                 {buttonsRight && buttonsRight.map((button, index) => (
-                  <a className="Button" href={button.link} target="_blank" key={button.title}>
-                    {button.title}
-                  </a>
+                  <p>
+                    <a className="Button" href={button.link} target="_blank" key={button.title}>{button.title}</a>
+                  </p>
                 ))}
               </div>
             </div>

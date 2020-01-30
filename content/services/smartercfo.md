@@ -12,7 +12,7 @@ categories:
   - category: SmarterCFO
 
 buttonsLeft:
-  - title: Email us
+  - title: Email us now
     link: 'mailto:smarterCFO@cordner.com.au'
   - title: Call us to book appointment
     link: 'tel:0756782080'
