@@ -8,6 +8,7 @@ mainImage: /images/uploads/zoe1.jpg
 position: Advisor
 categories:
   - category: Business Advisory
+  - category: SmarterCFO
 ---
 Zoe has a passion for working with small to medium sized businesses to support their growth through process improvement, strategic planning and effective management accounting analysis. 
 
