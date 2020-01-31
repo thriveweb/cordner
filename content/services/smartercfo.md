@@ -1,9 +1,7 @@
 ---
 template: SingleService
 title: SmarterCFO
-subtitle: >-
-  Born from the idea that we all need to balance our lifestyle with our
-  workload 
+subtitle: Born from the idea that we all need to balance our lifestyle with our workload
 categories:
   - category: SmarterCFO
 status: Featured
@@ -14,8 +12,6 @@ contentImage: /images/uploads/SmarterCFOinline.jpg
 buttonsLeft:
   - customLink: 'mailto:smarterCFO@cordner.com.au'
     title: Click to request more info
-  - customLink: ''
-    title: 'Call 07 5678 2080 '
 ---
 As a business owner that is easier said than done we spend so much time and energy focusing on every part, every role. Because a new role adds new costs and new responsibilities. Our aim with the SmarterCFO is to assist in this space and take some of the heavy lifting for you, from you it’s a SmarterCFO role without the Payroll.
 <br>
@@ -47,6 +43,8 @@ The SmarterCFO that helps you and your business grow with confidence.
 One of the biggest challenges for businesses is maintaining operational finances and turning
 a profit. Couple that with the burden both financially and the health implications that come with
 this on your well being.
+
+
 <br>
 
 
@@ -66,8 +64,6 @@ this on your well being.
   <br>
   Prices are indicative only, please contact us for a detailed quote for your specific circumstances.
   <br>
-
-
 
 **Service offerings:**
 
