@@ -1,7 +1,9 @@
 ---
 template: SingleService
 title: SmarterCFO
-subtitle: Born from the idea that we all need to balance our lifestyle with our workload
+subtitle: >-
+  Born from the idea that we all need to balance our lifestyle with our
+  workload 
 categories:
   - category: SmarterCFO
 status: Featured
