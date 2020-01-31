@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Small Business Digital Grants Program
-status: Featured
+status: Published
 date: '2019-11-20'
 featuredImage: /images/uploads/sophie.jpg
 bannerImage: /images/uploads/digital-blog.jpg
