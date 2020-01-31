@@ -6,7 +6,8 @@ teamOrder: '11'
 featuredImage: /images/uploads/linda.jpg
 mainImage: /images/uploads/linda.jpg
 position: Advisor
-categories: []
+categories:
+  - category: SmarterCFO
 ---
 
 Linda Bergesen is CA qualified in Australia & New Zealand, England & Wales, and State Authorised Public Accountant in Norway. She has many years’ experience working in Business Advisory Services, External & Internal Auditing, Financial Accounting and Advisor Services and Project Controlling.
