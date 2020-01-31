@@ -44,10 +44,7 @@ One of the biggest challenges for businesses is maintaining operational finances
 a profit. Couple that with the burden both financially and the health implications that come with
 this on your well being.
 
-
 <br>
-
-
 
 **Overall Role**
 
@@ -62,8 +59,10 @@ this on your well being.
 * Financial advice, guidance and modelling on business decisions and issues, including due
         diligence, business valuations, business sales and structuring, advisory board meetings
   <br>
-  Prices are indicative only, please contact us for a detailed quote for your specific circumstances.
-  <br>
+
+Prices are indicative only, please contact us for a detailed quote for your specific circumstances.
+
+<br>
 
 **Service offerings:**
 
