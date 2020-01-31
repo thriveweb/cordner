@@ -16,7 +16,7 @@ buttonsLeft:
     title: 'Call 07 5678 2080 '
 ---
 As a business owner that is easier said than done we spend so much time and energy focusing on every part, every role. Because a new role adds new costs and new responsibilities. Our aim with the SmarterCFO is to assist in this space and take some of the heavy lifting for you, from you it’s a SmarterCFO role without the Payroll.
-<br><br>
+<br>
 
 We share a vision, maintain focus, plan and walk the path of growing you and your business
 together in providing support, insights & advice to keep you and your business fresh and
