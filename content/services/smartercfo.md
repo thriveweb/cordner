@@ -37,7 +37,9 @@ The SmarterCFO that helps you and your business grow with confidence.
 * Business insights & planning
 * SmarterCFO role without the Payroll
 * The ability to scale up with high’s, down with the low’s, the all new SmarterCFO that works for you.
-  <br>
+
+
+<br>
 
 **Solutions**
 
