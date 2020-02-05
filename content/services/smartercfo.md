@@ -1,6 +1,6 @@
 ---
 template: SingleService
-title: SmarterCFO
+title: 'SmarterCFO '
 subtitle: Born from the idea that we all need to balance our lifestyle with our workload
 categories:
   - category: SmarterCFO
