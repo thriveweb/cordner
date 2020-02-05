@@ -12,15 +12,17 @@ contentImage: /images/uploads/SmarterCFOinline.jpg
 buttonsLeft:
   - customLink: 'mailto:smarterCFO@cordner.com.au'
     title: Click to request more info
-  - customLink: 'tel:0756782080'
-    title: call us now
+  - customLink: ''
+    title: Call 07 5678 2080
 ---
-As a business owner that is easier said than done we spend so much time and energy focusing on every part, every role. Because a new role adds new costs and new responsibilities. Our aim with the SmarterCFO is to assist in this space and take some of the heavy lifting for you, from you it’s a SmarterCFO role without the Payroll.
+As a business owner that is easier said than done we spend so much time and energy focusing on every part, every role. Because a new role adds new costs and new responsibilities. Our aim with the SmarterCFO is to assist in this space and take some of the heavy lifting for you, from you it’s a SmarterCFO role without the Payroll. 
+
 <br>
 
 We share a vision, maintain focus, plan and walk the path of growing you and your business
 together in providing support, insights & advice to keep you and your business fresh and
 balanced.
+
 <br>
 
 The SmarterCFO that helps you and your business grow with confidence.
@@ -38,19 +40,15 @@ The SmarterCFO that helps you and your business grow with confidence.
 * SmarterCFO role without the Payroll
 * The ability to scale up with high’s, down with the low’s, the all new SmarterCFO that works for you.
 
-
 <br>
 
 **Solutions**
 
 <br>
+
 One of the biggest challenges for businesses is maintaining operational finances and turning
 a profit. Couple that with the burden both financially and the health implications that come with
 this on your well being.
-
-<br>
-
-
 
 <br>
 
