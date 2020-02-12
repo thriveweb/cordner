@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Lodgement and payment deferral to taxpayers impacted by the recent bushfires
-status: Featured
+status: Published
 date: '2019-12-16'
 featuredImage: /images/uploads/linda.jpg
 bannerImage: /images/uploads/herd-of-sheep-on-focus-photography-2148933.jpg
