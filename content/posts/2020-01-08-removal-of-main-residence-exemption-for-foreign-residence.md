@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Removal of main residence exemption for foreign residence
-status: Featured
+status: Published
 date: '2020-01-08'
 featuredImage: /images/uploads/jun.jpg
 bannerImage: /images/uploads/8-jan-blog.jpg
