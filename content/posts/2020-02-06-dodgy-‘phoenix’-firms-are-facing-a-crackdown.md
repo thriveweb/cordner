@@ -24,8 +24,13 @@ Unscrupulous pre-insolvency could also face penalties. The Government will give 
 
 Labor’s push to have the laws reviewed after five years was agreed to by the Government, meaning the Bill will now return for final approval in the lower house. Government Minister Jane Hume said phoenix activity had been an increasing problem for decades. “The Morrison Government is committed to tackling illegal phoenix activity to protect honest and hardworking Australian small businesses and taxpayers”, she told Parliament yesterday.
 
-**Courier Mail 6 Feb 2020**
-
-
+**Courier Mail 6 Feb 2020
+**
 
 If your business is facing any challenges on cashflow problems and can’t pay their debts when due and payable, please contact our office on (07) 5504 5700 to advise appropriate plans and strategies.
+
+
+
+> **UPDATE:**
+>
+>  The Treasury Laws Amendment (Combating Illegal Phoenixing) Bill 2019 received assent as Act No 6 of 2020 on 17 February 2020. The Act includes a range of measures targeting illegal phoenixing including penalties for directors related to GST liabilities and retaining tax refunds.
