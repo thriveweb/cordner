@@ -24,7 +24,7 @@ Unscrupulous pre-insolvency could also face penalties. The Government will give 
 
 Labor’s push to have the laws reviewed after five years was agreed to by the Government, meaning the Bill will now return for final approval in the lower house. Government Minister Jane Hume said phoenix activity had been an increasing problem for decades. “The Morrison Government is committed to tackling illegal phoenix activity to protect honest and hardworking Australian small businesses and taxpayers”, she told Parliament yesterday.
 
-**\-	Courier Mail 6 Feb 2020**
+**Courier Mail 6 Feb 2020**
 
 
 
