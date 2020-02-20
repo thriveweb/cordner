@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Incoming SME tax changes for the FY 2020
-status: Featured
+status: Published
 date: '2020-02-04'
 featuredImage: /images/uploads/kamil3.jpg
 bannerImage: /images/uploads/4-feb.jpg
