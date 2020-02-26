@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Dodgy ‘phoenix’ firms are facing a crackdown
-status: Featured
+status: Published
 date: '2020-02-06'
 featuredImage: /images/uploads/_r1a5138_print.jpg
 bannerImage: /images/uploads/6-feb.jpg
