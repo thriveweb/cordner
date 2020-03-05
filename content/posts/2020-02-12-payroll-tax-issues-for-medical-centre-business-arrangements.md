@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Payroll tax issues for Medical Centre business arrangements
-status: Featured
+status: Published
 date: '2020-02-13'
 featuredImage: /images/uploads/steve.jpg
 bannerImage: /images/uploads/steve-blog-2.png
