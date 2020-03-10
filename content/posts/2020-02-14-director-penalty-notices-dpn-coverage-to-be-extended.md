@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: 'Director Penalty Notices (DPN): Coverage to be extended'
-status: Featured
+status: Published
 date: '2020-02-17'
 featuredImage: /images/uploads/steve.jpg
 bannerImage: /images/uploads/17-feb.jpg
