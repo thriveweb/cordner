@@ -112,7 +112,7 @@ export const SingleEventTemplate = ({
             <h3>Interested in this event?</h3>
             <a href="mailto:info@cordner.com.au" class="Button">
               Register now
-            </a><br>
+            </a><br/>
             <Content source={body} />
           </div>
 
