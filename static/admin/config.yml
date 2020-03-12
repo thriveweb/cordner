@@ -466,7 +466,7 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - { label: Template, name: template, widget: hidden, default: SinglePost }
+      - { label: Template, name: template, widget: hidden, default: SingleEvent }
       - { label: Title, name: title, widget: string }
       - { label: Featured Image, name: featuredImage, widget: image }
       - label: 'Status'
@@ -475,7 +475,6 @@ collections:
         options: ['Published', 'Featured']
         default: 'Published'
       - { label: Date / Order, name: date, widget: date }
-      - { label: Email, name: email, widget: string, required: false }
       - { label: Content, name: body, widget: markdown }
       - label: 'Categories'
         name: 'categories'
