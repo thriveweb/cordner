@@ -1,5 +1,5 @@
 ---
-template: SinglePost
+template: SingleEvent
 title: Xero Help-Desk
 featuredImage: /images/uploads/shaun-blog.jpg
 status: Published
