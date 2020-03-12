@@ -463,7 +463,7 @@ collections:
     editor:
       preview: true
     folder: content/events
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: Template, name: template, widget: hidden, default: SingleEvent }
