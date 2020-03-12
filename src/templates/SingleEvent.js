@@ -112,7 +112,7 @@ export const SingleEventTemplate = ({
             <h3>Interested in this event?</h3>
             <a href="mailto:info@cordner.com.au" class="Button">
               Register now
-            </a><br> 
+            </a><br>
             <Content source={body} />
           </div>
 
@@ -157,16 +157,16 @@ export const SingleEventTemplate = ({
 
 // Export Default SingleEvent for front-end
 const SingleEvent = ({ data, pathContext }) => {
-  const { post, allPosts, posts } = data
-  const thisEdge = allPosts.edges.find(edge => edge.node.id === post.id)
+  const { event, allEvevnts, events } = data
+  const thisEdge = allEvevnts.edges.find(edge => edge.node.id === event.id)
   return (
     <SingleEventTemplate
-      {...post}
-      {...post.frontmatter}
-      body={post.html}
+      {...event}
+      {...event.frontmatter}
+      body={event.html}
       nextPostURL={_get(thisEdge, 'next.fields.slug')}
       prevPostURL={_get(thisEdge, 'previous.fields.slug')}
-      posts={posts.edges.map(edge => ({
+      posts={events.edges.map(edge => ({
         ...edge.node.frontmatter,
         ...edge.node.fields
       }))}
@@ -182,7 +182,7 @@ export const pageQuery = graphql`
   ## $id is processed via gatsby-node.js
   ## query name must be unique to this file
   query SingleEvent($id: String!) {
-    post: markdownRemark(id: { eq: $id }) {
+    event: markdownRemark(id: { eq: $id }) {
       html
       id
       frontmatter {
@@ -204,7 +204,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    allPosts: allMarkdownRemark(
+    allEvents: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "events" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
@@ -230,7 +230,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    posts: allMarkdownRemark(
+    events: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "events" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
