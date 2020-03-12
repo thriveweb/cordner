@@ -113,9 +113,7 @@ export const SingleEventTemplate = ({
             <a href="mailto:info@cordner.com.au" class="Button">
               Register now
             </a><br> 
-            {body &&(
             <Content source={body} />
-            )}
           </div>
 
           <div className="SingleEvent--Pagination">
