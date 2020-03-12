@@ -157,8 +157,8 @@ export const SingleEventTemplate = ({
 
 // Export Default SingleEvent for front-end
 const SingleEvent = ({ data, pathContext }) => {
-  const { event, allEvevnts, events } = data
-  const thisEdge = allEvevnts.edges.find(edge => edge.node.id === event.id)
+  const { event, allEvents, events } = data
+  const thisEdge = allEvents.edges.find(edge => edge.node.id === event.id)
   return (
     <SingleEventTemplate
       {...event}
