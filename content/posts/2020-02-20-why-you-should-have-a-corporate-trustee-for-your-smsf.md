@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Why you should have a Corporate Trustee for your SMSF?
-status: Featured
+status: Published
 date: '2020-02-20'
 featuredImage: /images/uploads/_r1a5200_print.jpg
 bannerImage: /images/uploads/smsf.jpg
