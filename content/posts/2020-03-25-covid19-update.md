@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Covid19 Update
+title: Covid_19 Update
 status: Featured
 date: '2020-03-26'
 featuredImage: /images/uploads/_r1a5138_print.jpg
