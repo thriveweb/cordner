@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: '$30,000 Instant Asset Write-Off Before 1 July 2020'
-status: Featured
+status: Published
 date: '2020-03-05'
 featuredImage: /images/uploads/sophie.jpg
 bannerImage: /images/uploads/5-mar.jpg
