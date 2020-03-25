@@ -30,17 +30,18 @@ With the formal announcement made today, we will be monitoring for further detai
 
 The Federal Government has announced several measures to assist business and each State Government has also implemented varying programs to try and maintain employment, mainly through payroll tax concessions and waivers.  A summary of those measures announced for Victoria, New South Wales, Queensland and Federally is set out below.
 
-_Federal_
+_Federal_
 
 * PAYG credits of up to $50,000 for SME’s for the period to June 2020 and a further $50,000 for the period to September 2020
 * 50% subsidy for apprentice or trainee wages
 * Government ‘backed’ loans (50% of bank loan amount guaranteed by the Government)
 * Instant asset write off up to $150,000 to be used by 30 June 2020
 
-_Queensland_
+_Queensland_
 
 * Waiver of payroll tax for SME’s (recent announcement, detail still to be advised)
-* Interest free loans to business of up to $250,000.  Expressions of interest can be submitted online [here](http://www.qrida.qld.gov.au/current-programs/covid-19-business-support/queensland-covid19-jobs-support-scheme)
+* Interest free loans to business of up to $250,000.  Expressions of interest can be submitted online [here
+  ](http://www.qrida.qld.gov.au/current-programs/covid-19-business-support/queensland-covid19-jobs-support-scheme)
 * Diversification grants of up to $50,000 for SME’s in the agriculture, food and fish exporting industries
 * Waiving various fees for SME’s (mainly associated with hospitality and tourism operators)
 
@@ -48,12 +49,12 @@ _New South Wales_
 
 * Payroll tax reduction of 25% of annual liability for SME’s.  No payroll tax monthly lodgements required for March, April and May.
 
-_Victoria_
+_Victoria_
 
 * No payroll tax for SME’s with wages less than $3 million.  We are awaiting detail as to whether the wages threshold is Victorian wages or national wages. 
 * Deferral of land tax payments for eligible businesses
 * Establishment of a business support fund for businesses in hospitality, tourism, accommodation, arts, entertainment and retail sectors.
 
-**Next Steps**
+**Next Steps**
 
 We are constantly monitoring the various Government announcements and make sure our clients are positioned to best utilise them.  If you have any questions at all concerning any particular measure and how it may apply to your business, please do not hesitate to contact us.
