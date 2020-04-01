@@ -39,8 +39,7 @@ Anyone providing these critical services that need to enter Queensland can apply
 
 If you are a Queensland resident, and have not visited a place declared as a ‘COVID19 hotspot’ you do not have to self-quarantine. 
 
-**Living in one state, working in another:
-**
+**Living in one state, working in another:**
 
 Those who live near the border of Queensland, NSW, SA or the NT but ordinarily work in QLD will still be allowed to travel to work, providing they do not stay in Queensland longer than required. This exemption is not restricted to particular industries, meaning anyone with a job is allowed ‘essential travel between their residence and place of work’. 
 
