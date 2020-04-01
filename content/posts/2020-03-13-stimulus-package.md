@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: 'Stimulus Package '
-status: Featured
+status: Published
 date: '2020-03-13'
 featuredImage: /images/uploads/jun.jpg
 bannerImage: /images/uploads/13-mar.jpg
