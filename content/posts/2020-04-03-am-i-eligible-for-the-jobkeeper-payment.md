@@ -53,7 +53,7 @@ Currently to date job loss around the country sits at more than 700,000 and is c
 * The subsidy will begin accruing on the 30 March 2020, with the first payment being paid in the first week of May.
 * How do I apply for the JobKeeper payment and what are the ongoing requirements?
 * You can register your interest for the JobKeeper payment as of 30 March 2020 using the ATO Website. You can use the following link
-   [_https://www.ato.gov.au/general/gen/JobKeeper-payment/
+  _ _[_https://www.ato.gov.au/general/gen/JobKeeper-payment/
   _](https://www.ato.gov.au/general/gen/JobKeeper-payment/)
 * You will need to identify your eligible employees and provide monthly updates to the ATO ensuring that your employees are receiving the $1,500 before tax.
 
