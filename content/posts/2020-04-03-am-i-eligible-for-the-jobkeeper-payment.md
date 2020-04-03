@@ -36,9 +36,7 @@ Currently to date job loss around the country sits at more than 700,000 and is c
 * You will need to be in an employment relationship as of 1 March 2020 and confirm that the employee is still currently engaged in employment. This does still include the employees who were stood down or rehired.
 * The employee is full-time, part-time or employed on a casual basis for longer than 12 months.
 * The employee is 16 years or older
-  .
 * The employee is an Australian Citizen, holder of a Permanent Visa, a Protected Special Category Visa Holder, a non-protected Special Category Visa Holder who has been residing continually in Australia for 10 years or more, or a Special Category (Subclass 444) Visa Holder
-  .
 * Employee is not receiving this JobKeeper payment from another employer.
 
 **How does the payment work?**
