@@ -3,7 +3,7 @@ template: SinglePost
 title: Am I eligible for the JobKeeper payment?
 status: Featured
 date: '2020-04-06'
-featuredImage: /images/uploads/ca-logo.jpg
+featuredImage: /images/uploads/ca.jpg
 bannerImage: /images/uploads/6-april.jpg
 excerpt: >-
   During this trying time, the Australian Government has dug in deep to help
