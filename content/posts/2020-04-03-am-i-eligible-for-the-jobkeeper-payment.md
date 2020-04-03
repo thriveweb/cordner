@@ -36,7 +36,7 @@ Currently to date job loss around the country sits at more than 700,000 and is c
 * The employee is an Australian Citizen, holder of a Permanent Visa, a Protected Special Category Visa Holder, a non-protected Special Category Visa Holder who has been residing continually in Australia for 10 years or more, or a Special Category (Subclass 444) Visa Holder.
 * Employee is not receiving this JobKeeper payment from another employer.
 
-**How does the payment work**?
+**How does the payment work?**
 
 * If your employee ordinarily receives $1,500 or more in income per fortnight before tax, they will continue to receive their regular income according to their prevailing workplace arrangements. The JobKeeper Payment will assist you to continue operating by subsidising all or part of the income of your employee(s).
 * If your employee ordinarily receives less than $1,500 in income per fortnight before tax, your employee will receive, at a minimum, $1,500 per fortnight, before tax.
@@ -44,7 +44,7 @@ Currently to date job loss around the country sits at more than 700,000 and is c
 * If your employee was employed on 1 March 2020, subsequently ceased employment with you and then has been re-engaged by you, the employee will receive, at a minimum, $1,500 per fortnight, before tax.
 * It will be at your discretion as to whether you pay superannuation on any additional wages because of the JobKeeper payment.
 
-**When will you receive the JobKeeper payment for your eligible employees?**
+**When will you receive the JobKeeper payment for your eligible employees?**
 
 * The subsidy will begin accruing on the 30 March 2020, with the first payment being paid in the first week of May.
 * How do I apply for the JobKeeper payment and what are the ongoing requirements?
