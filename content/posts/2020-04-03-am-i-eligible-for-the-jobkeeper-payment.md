@@ -23,8 +23,7 @@ Currently to date job loss around the country sits at more than 700,000 and is c
 * Does your business have a turnover of $1 billion or more and your turnover has fallen by more than 50% (of at least a month);and
 * Can you confirm your business is not subject to the Major Bank Levy
 
-**What do I need to show my turnover had reduced by the relevant %?
-**
+**What do I need to show my turnover had reduced by the relevant percent?**
 
 * You will need to provide evidence that your turnover has fallen in the relevant month or three months (depending on the natural activity statement reporting period of your business) relative to your turnover a year earlier. For example, the March quarter for the period ending 31 March 2020 compared to the March Quarter for the period ending 31 March 2019. If you are on monthly reporting, you will apply the same methodology, for the relative month.
 * Where you were not in operation a year earlier, or your prior year results do not reflect normal conditions for example your income is much lower in the prior year due to drought or your business was in the start-up phase, the Tax Commissioner will have discretion to consider additional information.
