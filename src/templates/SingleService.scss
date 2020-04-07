@@ -45,7 +45,7 @@
     margin-top: 1rem;
     margin-bottom: 4rem;
 
-    p{
+    p {
       color: var(--brightRed);
       font-weight: 500;
       opacity: 1;
@@ -54,20 +54,10 @@
 
     .Button {
       margin-top: 2rem;
+      margin-right: 1rem;
       display: inline-block;
       clear: both;
       width: auto;
-      color: white;
-      background: var(--brightRed);
-
-      &:after {
-        display: none;
-      }
-
-      &:hover {
-        color: var(--brightRed);
-        background: white;
-      }
     }
   }
 }

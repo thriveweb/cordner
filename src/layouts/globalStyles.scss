@@ -266,6 +266,17 @@ blockquote {
   justify-content: center;
 }
 
+.links-container .Button {
+  background: var(--brightRed);
+  color: white;
+  width: auto;
+  text-align: left;
+}
+
+.links-container .Button:after {
+  content: '';
+}
+
 .button--secondary {
   border-bottom: 1px solid white;
   display: flex;

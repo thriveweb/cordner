@@ -1,0 +1,18 @@
+---
+template: UpdatesPage
+slug: updates
+title: COVID19 Updates
+featuredImage: /images/uploads/covid-19.jpg
+pdfTitle: 'Download our fact sheets'
+pdfLinks:
+  - title: Fact Sheet 1
+    customLink: 'https://ucarecdn.com/1b7fd1b9-6459-4d99-9a08-9617c3f27cc0/'
+  - title: Fact Sheet 2
+    customLink: 'https://ucarecdn.com/1b7fd1b9-6459-4d99-9a08-9617c3f27cc0/'
+---
+
+Given the level of uncertainty we're confronting and the rapid deployment of stimulus and other financial responses to the crisis, we will commit to regularly updating our community - taking the news headlines, fact checking them where possible on putting them in to context of what they mean for people and how they can access any available assistance.
+
+Unfortunately, sometimes the position will be 'watch this space' as all the media have to go on is a press release or announcement, with real details on implementation to follow later.
+
+We will monitor all such situations and let you know as and when specifics come to hand.

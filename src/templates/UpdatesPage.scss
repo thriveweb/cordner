@@ -1,0 +1,18 @@
+.UpdatesPage {
+  hr {
+    border-top: var(--brightRed);
+    margin: 3rem 0;
+  }
+
+  h3 {
+    margin: 0 0 2rem;
+  }
+
+  .links-container {
+    text-align: center;
+
+    .Button {
+      margin: 0.5rem;
+    }
+  }
+}
