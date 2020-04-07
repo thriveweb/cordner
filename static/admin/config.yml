@@ -407,10 +407,11 @@ collections:
               widget: hidden,
               default: UpdatesPage,
             }
-          - { label: Slug, name: slug, widget: hidden, default: 'terms' }
+          - { label: Slug, name: slug, widget: hidden, default: 'updates' }
           - { label: Title, name: title, widget: string }
           - { label: Featured Image, name: featuredImage, widget: image }
           - { label: Content, name: body, widget: markdown }
+          - { label: PDF Title, name: pdfTitle, widget: string }
           - name: 'pdfLinks'
             label: 'PDF Links'
             widget: 'list'
