@@ -51,6 +51,10 @@ CMS.registerPreviewTemplate('terms', ({ entry }) => (
   <StandardPageTemplate {...entry.toJS().data} />
 ))
 
+CMS.registerPreviewTemplate('updates', ({ entry }) => (
+  <UpdatesPageTemplate {...entry.toJS().data} />
+))
+
 CMS.registerPreviewTemplate('posts', ({ entry }) => (
   <SinglePostTemplate {...entry.toJS().data} />
 ))
