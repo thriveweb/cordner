@@ -3,7 +3,7 @@ template: UpdatesPage
 slug: updates
 title: COVID19 Updates
 featuredImage: /images/uploads/covid-19.jpg
-pdfTitle: 'Our Fact Sheets'
+pdfTitle: Discover our Fact Sheets
 pdfLinks:
   - customLink: 'https://ucarecdn.com/1b7fd1b9-6459-4d99-9a08-9617c3f27cc0/'
     title: Fact Sheet 1
