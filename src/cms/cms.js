@@ -12,6 +12,7 @@ import { SingleCareerTemplate } from '../templates/SingleCareer'
 import { SingleServiceTemplate } from '../templates/SingleService'
 import { SingleTeamTemplate } from '../templates/SingleTeam'
 import { StandardPageTemplate } from '../templates/StandardPage'
+import { UpdatesPageTemplate } from '../templates/UpdatesPage'
 
 if (
   window.location.hostname === 'localhost' &&
