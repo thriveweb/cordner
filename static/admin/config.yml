@@ -397,6 +397,53 @@ collections:
                   required: false,
                 }
 
+      - file: 'content/pages/updates.md'
+        label: 'Updates'
+        name: 'updates'
+        fields:
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: UpdatesPage,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: 'terms' }
+          - { label: Title, name: title, widget: string }
+          - { label: Featured Image, name: featuredImage, widget: image }
+          - { label: Content, name: body, widget: markdown }
+          - name: 'pdfLinks'
+            label: 'PDF Links'
+            widget: 'list'
+            required: false
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - { label: Link, name: customLink, widget: string, required: false }
+          - label: 'Meta'
+            required: false
+            name: 'meta'
+            widget: 'object'
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Description,
+                  name: description,
+                  widget: text,
+                  required: false,
+                  pattern: ['.{,300}', 'Must not exceed 300 characters'],
+                }
+              - {
+                  label: Canonical Link,
+                  name: canonicalLink,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Noindex,
+                  name: noindex,
+                  widget: boolean,
+                  required: false,
+                }
+
   - name: posts
     label: Post
     editor:

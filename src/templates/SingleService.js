@@ -29,7 +29,7 @@ export const SingleServiceTemplate = ({
   buttonsRight,
   pdfLinks,
   team,
-  posts,
+  posts
 }) => {
   let currentCats = []
   let relatedServices = []
@@ -70,29 +70,43 @@ export const SingleServiceTemplate = ({
               <Image src={contentImage} alt={title} />
 
               <div className="links-container">
-                {buttonsLeft && buttonsLeft.map((button, index) => (
-                  <p key={button.title}>
-                    <a className="Button" href={button.customLink} target="_blank">{button.title}</a>
-                  </p>
-                ))}
+                {buttonsLeft &&
+                  buttonsLeft.map((button, index) => (
+                    <p key={button.title}>
+                      <a
+                        className="Button"
+                        href={button.customLink}
+                        target="_blank"
+                      >
+                        {button.title}
+                      </a>
+                    </p>
+                  ))}
               </div>
-
             </div>
             <div className="flex-column one-half">
               <Content source={body} />
 
               <div className="links-container">
-                {pdfLinks && pdfLinks.map((pdf, index) => (
-                  <a key={pdf.title} href={pdf.customLink} target="_blank">
-                    <p>{pdf.title}</p>
-                  </a>
-                ))}
+                {pdfLinks &&
+                  pdfLinks.map((pdf, index) => (
+                    <a key={pdf.title} href={pdf.customLink} target="_blank">
+                      <p>{pdf.title}</p>
+                    </a>
+                  ))}
 
-                {buttonsRight && buttonsRight.map((button, index) => (
-                  <p key={button.title}>
-                    <a className="Button" href={button.customLink} target="_blank">{button.title}</a>
-                  </p>
-                ))}
+                {buttonsRight &&
+                  buttonsRight.map((button, index) => (
+                    <p key={button.title}>
+                      <a
+                        className="Button"
+                        href={button.customLink}
+                        target="_blank"
+                      >
+                        {button.title}
+                      </a>
+                    </p>
+                  ))}
               </div>
             </div>
           </div>
@@ -114,38 +128,36 @@ export const SingleServiceTemplate = ({
             </div>
           </section>
         )}
-        {relatedMembers &&
-          relatedMembers.length > 0 && (
-            <section className="section RelatedMembers">
-              <div className="container flex">
-                <div className="flex-column one-half">
-                  <h3>Who heads up this service</h3>
+        {relatedMembers && relatedMembers.length > 0 && (
+          <section className="section RelatedMembers">
+            <div className="container flex">
+              <div className="flex-column one-half">
+                <h3>Who heads up this service</h3>
+              </div>
+              <div className="flex-column one-half" />
+            </div>
+            <div className="container flex">
+              {relatedMembers.map((member, index) => (
+                <div key={index + member.title} className="one-third">
+                  {!!member && <TeamCard teamMember={member} />}
                 </div>
-                <div className="flex-column one-half" />
-              </div>
-              <div className="container flex">
-                {relatedMembers.map((member, index) => (
-                  <div key={index + member.title} className="one-third">
-                    {!!member && <TeamCard teamMember={member} />}
-                  </div>
-                ))}
-              </div>
-            </section>
-          )}
-        {relatedPosts &&
-          relatedPosts.length > 0 && (
-            <section className="section relatedPosts">
-              <div className="container">
-                <NumberedHeader number="" title="Blog" />
-                <h3>Related news</h3>
-              </div>
-              <div className="container PostSection--Grid">
-                {relatedPosts.map((post, index) => (
-                  <PostCard key={post.title + index} {...post} />
-                ))}
-              </div>
-            </section>
-          )}
+              ))}
+            </div>
+          </section>
+        )}
+        {relatedPosts && relatedPosts.length > 0 && (
+          <section className="section relatedPosts">
+            <div className="container">
+              <NumberedHeader number="" title="Blog" />
+              <h3>Related news</h3>
+            </div>
+            <div className="container PostSection--Grid">
+              {relatedPosts.map((post, index) => (
+                <PostCard key={post.title + index} {...post} />
+              ))}
+            </div>
+          </section>
+        )}
 
         <section className="SubServices">
           <div className="SubServices--Titlebar red">
@@ -211,15 +223,15 @@ export const pageQuery = graphql`
         title
         subtitle
         template
-        buttonsLeft{
+        buttonsLeft {
           title
           customLink
         }
-        buttonsRight{
+        buttonsRight {
           title
           customLink
         }
-        pdfLinks{
+        pdfLinks {
           title
           customLink
         }

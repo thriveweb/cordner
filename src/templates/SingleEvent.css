@@ -35,17 +35,6 @@
   margin-top: 3rem;
 }
 
-.SingleEvent--InnerContent .Button {
-  background: var(--brightRed);
-  color: white;
-  width: 200px;
-  text-align: left;
-}
-
-.SingleEvent--InnerContent .Button:after {
-  content: url('/images/uploads/button_arrow.svg');
-}
-
 .SingleEvent--BackgroundImage {
   height: 40rem;
   background: var(--purple);
