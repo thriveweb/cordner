@@ -5,7 +5,8 @@ title: COVID19 Updates
 featuredImage: /images/uploads/covid-19.jpg
 pdfTitle: COVID19 Fact Sheets
 pdfLinks:
-  - customLink: ''
+  - customLink: >-
+      https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/fact_sheet_supporting_businesses_6.pdf
     title: Business - General
   - customLink: ''
     title: Business - Childcare
