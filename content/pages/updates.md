@@ -12,7 +12,7 @@ pdfLinks:
   - customLink: ''
     title: Business - Tech and Start Ups
   - customLink: >-
-      https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/Fact_sheet_Info_for_Employers_3
+      https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/fact_sheet_info_for_employers_3.pdf
     title: Business - Employment
   - title: Property
   - customLink: >-
