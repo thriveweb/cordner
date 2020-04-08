@@ -15,7 +15,9 @@ pdfLinks:
       https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/Fact_sheet_Info_for_Employers_3
     title: Business - Employment
   - title: Property
-  - title: Private Wealth / SMSF
+  - customLink: >-
+      https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid_19-smsf.pdf
+    title: Private Wealth / SMSF
 ---
 
 Given the level of uncertainty we're confronting and the rapid deployment of stimulus and other financial responses to the crisis, we will commit to regularly updating our community - taking the news headlines, fact checking them where possible on putting them in to context of what they mean for people and how they can access any available assistance.
