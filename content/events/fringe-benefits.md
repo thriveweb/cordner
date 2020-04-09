@@ -5,7 +5,7 @@ featuredImage: /images/uploads/events1.png
 status: Published
 date: '2020-03-13'
 categories:
-  - category: Upcoming Events
+  - category: Past Events
 ---
 Do you have employees?
 
