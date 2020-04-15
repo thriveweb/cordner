@@ -5,8 +5,7 @@ title: COVID19 Updates
 featuredImage: /images/uploads/covid-19.jpg
 pdfTitle: COVID19 Fact Sheets
 pdfLinks:
-  - customLink: >-
-      https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/fact_sheet_supporting_businesses_6.pdf
+  - customLink: ''
     title: Business - General
   - customLink: ''
     title: Business - Childcare
@@ -17,7 +16,7 @@ pdfLinks:
     title: Business - Employment
   - title: Property
   - customLink: >-
-      https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid_19-smsf.pdf
+      https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid19-fact-sheet-private-wealth.pdf
     title: Private Wealth / SMSF
 ---
 
