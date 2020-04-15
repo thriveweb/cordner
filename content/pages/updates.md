@@ -13,7 +13,7 @@ pdfLinks:
   - customLink: ''
     title: Business - Tech and Start Ups
   - customLink: >-
-      https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/fact_sheet_info_for_employers_3.pdf
+      https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid19-fact-sheet-business-employers.pdf
     title: Business - Employment
   - title: Property
   - customLink: >-
