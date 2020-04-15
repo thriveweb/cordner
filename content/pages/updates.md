@@ -9,8 +9,6 @@ pdfLinks:
     title: Business - General
   - customLink: ''
     title: Business - Childcare
-  - customLink: ''
-    title: Business - Tech and Start Ups
   - customLink: >-
       https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid19-fact-sheet-business-employers.pdf
     title: Business - Employment
