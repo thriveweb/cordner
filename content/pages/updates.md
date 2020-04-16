@@ -7,11 +7,12 @@ pdfTitle: COVID19 Fact Sheets
 pdfLinks:
   - customLink: ''
     title: Business - General
-  - customLink: ''
-    title: Business - Childcare
   - customLink: >-
       https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid19-fact-sheet-business-employers.pdf
-    title: Business - Employment
+    title: Business - Employer
+  - title: Business - Employee
+  - customLink: ''
+    title: Business - Childcare
   - customLink: >-
       https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid19-fact-sheet-property.pdf
     title: Property
