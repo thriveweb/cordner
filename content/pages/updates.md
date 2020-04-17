@@ -1,9 +1,9 @@
 ---
 template: UpdatesPage
 slug: updates
-title: COVID19 Updates
+title: COVID-19 Updates
 featuredImage: /images/uploads/covid-19.jpg
-pdfTitle: COVID19 Fact Sheets
+pdfTitle: COVID-19 Fact Sheets
 pdfLinks:
   - customLink: >-
       https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid19-fact-sheet-business-general.pdf

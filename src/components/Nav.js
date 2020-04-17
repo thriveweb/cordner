@@ -39,7 +39,7 @@ export default class Nav extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/updates/">COVID19 Updates</NavLink>
+            <NavLink to="/updates/">COVID-19 Updates</NavLink>
 
             <div className="NavLink NavLink-container">
               <div
