@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Why Business Planning Isn’t Just for Start-ups
-status: Featured
+status: Published
 date: '2020-03-25'
 featuredImage: /images/uploads/zoe1.jpg
 bannerImage: /images/uploads/shaun-blog.jpg
