@@ -4,7 +4,7 @@ title: Accessing Your Super Early
 status: Featured
 date: '2020-05-27'
 featuredImage: /images/uploads/michael.jpg
-bannerImage: /images/uploads/27-may.jpg
+bannerImage: /images/uploads/27may.jpg
 excerpt: >-
   There are very limited circumstances when you can access your super earlier
   other than reaching a certain age and retiring. 
