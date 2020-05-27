@@ -4,7 +4,7 @@ title: Accessing Your Super Early
 status: Featured
 date: '2020-05-27'
 featuredImage: /images/uploads/michael.jpg
-bannerImage: /images/uploads/27may.jpg
+bannerImage: /images/uploads/27-may.jpg
 excerpt: >-
   There are very limited circumstances when you can access your super earlier
   other than reaching a certain age and retiring. 
@@ -12,6 +12,15 @@ categories:
   - category: Private Advisory Services
 authors:
   - author: Michael Courtin
+meta:
+  description: >-
+    There are very limited circumstances when you can access your super earlier
+    other than reaching a certain age and retiring. The limited circumstances
+    mainly relate to specific medical conditions, severe financial hardship or
+    on compassionate grounds. As a part of the stimulus packages, the federal
+    government announced that individuals that are adversely affected by
+    COVID-19 can apply for an early release of their super.
+  title: Accessing Your Super Early
 ---
 There are very limited circumstances when you can access your super earlier other than reaching a certain age and retiring. The limited circumstances mainly relate to specific medical conditions, severe financial hardship or on compassionate grounds. As a part of the stimulus packages, the federal government announced that individuals that are adversely affected by COVID-19 can apply for an early release of their super.
 
