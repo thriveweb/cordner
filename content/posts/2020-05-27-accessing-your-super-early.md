@@ -33,8 +33,7 @@ To apply for early release, you must satisfy any one or more of the following re
 * Are unemployed.
 * Are eligible to receive a job seeker payment, youth allowance for jobseekers, parenting payment (which includes the single and partnered payments), special benefit, or farm household allowance
 
-**On or after 1 January 2020, either:
-**
+**On or after 1 January 2020, either:**
 
 * Have been made redundant; or
 * Have had working hours were reduced by 20% or more (including to zero); or
