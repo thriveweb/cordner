@@ -24,7 +24,7 @@ meta:
 ---
 There are very limited circumstances when you can access your super earlier other than reaching a certain age and retiring. The limited circumstances mainly relate to specific medical conditions, severe financial hardship or on compassionate grounds. As a part of the stimulus packages, the federal government announced that individuals that are adversely affected by COVID-19 can apply for an early release of their super.
 
-Access due to COVID-19 
+**Access due to COVID-19** 
 
 Individuals affected by COVID-19 can access up to $10,000 of their super in 2019–20 and a further $10,000 in 2020–21. Individuals do not need to pay tax on amounts released and will not need to include it in their income tax return.
 
@@ -33,7 +33,8 @@ To apply for early release, you must satisfy any one or more of the following re
 * Are unemployed.
 * Are eligible to receive a job seeker payment, youth allowance for jobseekers, parenting payment (which includes the single and partnered payments), special benefit, or farm household allowance
 
-**On or after 1 January 2020, either:**
+**On or after 1 January 2020, either:
+**
 
 * Have been made redundant; or
 * Have had working hours were reduced by 20% or more (including to zero); or
@@ -50,7 +51,7 @@ You may be allowed to withdraw some of your super on compassionate grounds for u
 
 The amount is paid and taxed as a normal super lump sum. The tax rates depend upon various factors including age and the components of the super lump sum. Your super provider will automatically deduct the tax from your super account.
 
-**Access due to severe financial hardship**
+**Access due to severe financial hardship**
 
 You may be able to withdraw some of your super if you have received eligible government income support payments continuously for 26 weeks and are unable to meet reasonable and immediate family living expenses.
 
