@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Going interstate for work? Restricted entry to QLD now applies
-status: Featured
+status: Published
 date: '2020-04-01'
 featuredImage: /images/uploads/linda.jpg
 bannerImage: /images/uploads/1-april.jpg
