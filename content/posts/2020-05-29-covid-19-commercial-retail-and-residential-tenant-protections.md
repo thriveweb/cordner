@@ -25,7 +25,7 @@ The various states and territories across Australia have declared an assortment 
 
 **NSW** – up to 25% waiver/rebate and payment plans or deferrals on 2020 land tax for eligible residential and commercial landlords.
 
-** SA** - 25% discount and optional 6-month payment deferral on 3rd and 4th quarter instalments on 2020 land tax for eligible residential and commercial landlords.
+**SA** - 25% discount and optional 6-month payment deferral on 3rd and 4th quarter instalments on 2020 land tax for eligible residential and commercial landlords.
 
 **WA** - 25% grants and interest free payment plans on 2020 land tax for eligible commercial landlords. Late payment penalties will also be waived. Such grants are equally applicable to the Metropolitan Region Improvement Tax. 
 
@@ -35,7 +35,7 @@ The various states and territories across Australia have declared an assortment 
 
 **NT** - Land tax does not apply. 
 
-**Eviction Freezes**
+**Eviction Freezes**
 
 Each state or territory has implemented eviction freezes for tenants in rental arrears that are suffering financial hardship because of COVID-19. Note in certain cases, evictions may be still enacted on successful application with the relevant state/territory tenancy authority. 
 
