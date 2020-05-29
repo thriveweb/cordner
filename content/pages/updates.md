@@ -15,7 +15,7 @@ pdfLinks:
       https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid19-fact-sheet-business-employees.pdf
     title: Business - Employee
   - customLink: >-
-      https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid19-fact-sheet-childcare.pdf
+      https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid19-fact-sheet-business-childcare_.pdf
     title: Business - Childcare
   - customLink: >-
       https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid19-fact-sheet-property.pdf
