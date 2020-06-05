@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Am I eligible for the JobKeeper payment?
-status: Featured
+status: Published
 date: '2020-04-06'
 featuredImage: /images/uploads/ca.jpg
 bannerImage: /images/uploads/6-april.jpg
