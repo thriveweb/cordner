@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Small Business COVID-19 Adaption Grant Program
-status: Featured
+status: Published
 date: '2020-05-20'
 featuredImage: /images/uploads/shaun.jpg
 bannerImage: /images/uploads/20-may.jpg
