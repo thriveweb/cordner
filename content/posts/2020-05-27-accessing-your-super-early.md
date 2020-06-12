@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Accessing Your Super Early
-status: Featured
+status: Published
 date: '2020-05-27'
 featuredImage: /images/uploads/michael.jpg
 bannerImage: /images/uploads/9-oct-blog.jpg
