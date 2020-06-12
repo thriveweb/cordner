@@ -23,48 +23,20 @@ There are a few different types of tax planning that are useful for individual p
 
 If you are expecting to have a higher income this financial year, compared to your projections/expectations for the next financial year, we can plan and propose the following strategies for you: 
 
-1. 
-
-Proposing to repay some of your 2020-21 expenses (such as your rent, insurance or subscriptions to professional associations) in the 2019-20 financial year. Up to 12 months of the following year’s expenses can be deducted in the current tax year. 
-
-2. 
-
-Taking advantage of the instant asset write-off, which enables you to immediately deduct assets you purchase for your business costing less than the associated threshold (whether the asset is purchased new or second-hand).   
-
-3. 
-
-Reviewing and postponing some of your invoicing for the current tax year, if appropriate. 
-
-4. 
-
-Topping up your voluntary superannuation contributions. 
-
-5. 
-
-Reviewing your debtors and writing off any unrecoverable debts. 
-
-6. 
-
-If applicable, deducting any start-up expenses – such as obtaining legal or accounting advice on your business structure, and fees in relation to establishing the structure (eg. ASIC company registration fee). 
+1. Proposing to repay some of your 2020-21 expenses (such as your rent, insurance or subscriptions to professional associations) in the 2019-20 financial year. Up to 12 months of the following year’s expenses can be deducted in the current tax year. 
+2. Taking advantage of the instant asset write-off, which enables you to immediately deduct assets you purchase for your business costing less than the associated threshold (whether the asset is purchased new or second-hand).   
+3. Reviewing and postponing some of your invoicing for the current tax year, if appropriate. 
+4. Topping up your voluntary superannuation contributions. 
+5. Reviewing your debtors and writing off any unrecoverable debts. 
+6. If applicable, deducting any start-up expenses – such as obtaining legal or accounting advice on your business structure, and fees in relation to establishing the structure (eg. ASIC company registration fee). 
 
 **
 In relation to long term planning we can assist you with strategies such as:** 
 
-1. 
-
-Asset Protection Position 
-
-2. 
-
-Estate / Succession Planning 
-
-3. 
-
-Business Strategy and Optimisation 
-
-4. 
-
-Business Exit Readiness 
+1. Asset Protection Position 
+2. Estate / Succession Planning 
+3. Business Strategy and Optimisation 
+4. Business Exit Readiness 
 
 Overall, there are many reasons why tax planning is important. If you would like to know how you can begin to manage your tax more efficiently, whether you own a business or are a private individual, speak to us today. 
 
