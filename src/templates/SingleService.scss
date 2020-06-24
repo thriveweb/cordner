@@ -59,6 +59,31 @@
       width: auto;
     }
   }
+
+  .Content {
+        table {
+            width: 100%;
+            margin: 0 0 20px;
+            border-collapse: collapse;
+
+            thead {
+                text-align: left;
+
+                th {
+                    border-bottom: 1px solid #aaa;
+                    padding: 5px;
+                }
+            }
+            tbody {
+                td {
+                    padding: 5px;
+                }     
+            }     
+        }
+        ul {
+            margin-bottom: 2.5rem;
+        }
+    }   
 }
 
 .SubServices {
