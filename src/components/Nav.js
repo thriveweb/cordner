@@ -128,10 +128,10 @@ export default class Nav extends Component {
                   </div>
                 </div>
                 <NavLink
-                  to="/services/xero-subscription"
+                  to="/services/subscription-pricing"
                   onClick={this.handleLinkClick}
                 >
-                  Xero Subscription
+                  Subscription Pricing
                 </NavLink>
               </div>
             </div>
