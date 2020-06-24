@@ -2,7 +2,7 @@
 template: SingleService
 title: Subscription Pricing
 subtitle: >-
-  Subscription Pricing
+  Our subscriptions include Xero and QuickBooks
 categories:
   - category: Business Advisory
 status: Published
@@ -12,27 +12,32 @@ icon: /images/uploads/business-advisory--icon.svg
 contentImage: /images/uploads/business-advisory-v1.jpg
 ---
 
-|                      | Payroll | Normal Price | Client to Pay |
-|----------------------|---------|--------------|---------------|
-| Starter              | 1       | 25           | 20            |
-| Standard             | 2       | 50           | 40            |
-| Premium 5            | 5       | 65           | 55            |
-| Premium 10           | 10      | 75           | 65            |
-| Premium 20           | 20      | 90           | 80            |
-| Premium 50           | 50      | 125          | 105           |
-| Premium 100          | 100     | 150          | 130           |
-| **Non-GST Cashbook** | **0**   | **10**       | **10**        |
-| **GST Cashbook**     | **0**   | **19**       | **19**        |
-| **Payroll Cashbook** | **4**   | **29**       | **29**        |
+#### Xero Subscription
 
-
-* Partner Only Plans
-
+|                           | Payroll | Normal Price | Client to Pay |
+|---------------------------|---------|--------------|---------------|
+| Starter                   | 1       | 25           | 20            |
+| Standard                  | 2       | 50           | 40            |
+| Premium 5                 | 5       | 65           | 55            |
+| Premium 10                | 10      | 75           | 65            |
+| Premium 20                | 20      | 90           | 80            |
+| Premium 50                | 50      | 125          | 105           |
+| Premium 100               | 100     | 150          | 130           |
+| \* Non-GST Cashbook       | 0       | 10           | 10            |
+| \* GST Cashbook           | 0       | 19           | 19            |
+| \* Payroll Cashbook       | 4       | 29           | 29            |
+|                           |         |              |               |
+| \* **Partner Only Plans** |         |              |               |
  
 
-Notes: There are no discounts on Partner Only Plans. No invoicing functionality on Partner Only Plans.
+
+*Notes:*
+- There are no discounts on Partner Only Plans. 
+- No invoicing functionality on Partner Only Plans.
 
 
+
+#### QuickBooks Subscriptions
 
 |                                     | Simple Start | Essentials | Plus     |
 |-------------------------------------|--------------|------------|----------|
