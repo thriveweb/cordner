@@ -127,12 +127,12 @@ export default class Nav extends Component {
                     </NavLink>
                   </div>
                 </div>
-                <NavLink
+                {/* <NavLink
                   to="/services/subscription-pricing"
                   onClick={this.handleLinkClick}
                 >
                   Subscription Pricing
-                </NavLink>
+                </NavLink> */}
               </div>
             </div>
             <NavLink to="/your-advisors/">Your Advisors</NavLink>
