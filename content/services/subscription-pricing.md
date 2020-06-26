@@ -6,7 +6,7 @@ categories:
   - category: Business Advisory
 status: Published
 order: 14
-featuredImage: /images/uploads/subscriptions.jpg
+featuredImage: /images/uploads/logos.jpg
 icon: /images/uploads/business-advisory--icon.svg
 contentImage: /images/uploads/subscriptions.jpg
 ---
