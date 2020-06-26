@@ -8,7 +8,7 @@ status: Published
 order: 14
 featuredImage: /images/uploads/logos.jpg
 icon: /images/uploads/business-advisory--icon.svg
-contentImage: /images/uploads/logos.jpg
+contentImage: /images/uploads/elsa-blog.jpg
 ---
 #### Xero Subscription
 
