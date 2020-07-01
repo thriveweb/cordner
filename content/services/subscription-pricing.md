@@ -34,18 +34,18 @@ _Notes:_
 
 #### QuickBooks Subscriptions
 
-|                                     | Simple Start | Essentials | Plus    |
-| ----------------------------------- | ------------ | ---------- | ------- |
-| Allows bank feeds                   | Yes          | Yes        | Yes     |
-| Payroll                             | 4            | 7          | 10      |
-| Send custom invoices & quotes       | Yes          | Yes        | Yes     |
-| Manage Suppliers & Bills            | No           | Yes        | Yes     |
-| Track GST & e-lodge BAS             | Yes          | Yes        | Yes     |
-| Multi-currency                      | No           | Yes        | Yes     |
-| Set-up Recurring transactions       | No           | Yes        | Yes     |
-| Manage Users                        | No           | 3          | 5       |
-| Track Inventory                     | No           | No         | Yes     |
-| Track projects & locations          | No           | No         | Yes     |
-| Manage budgets                      | No           | No         | Yes     |
-|                                     |              |            |         |
-| **Monthly Retail Price (Incl GST)** | **$20**      | **$35**    | **$50** |
+|                                 | Simple Start | Essentials | Plus |
+| ------------------------------- | ------------ | ---------- | ---- |
+| Allows bank feeds               | Yes          | Yes        | Yes  |
+| Payroll                         | 4            | 7          | 10   |
+| Send custom invoices & quotes   | Yes          | Yes        | Yes  |
+| Manage Suppliers & Bills        | No           | Yes        | Yes  |
+| Track GST & e-lodge BAS         | Yes          | Yes        | Yes  |
+| Multi-currency                  | No           | Yes        | Yes  |
+| Set-up Recurring transactions   | No           | Yes        | Yes  |
+| Manage Users                    | No           | 3          | 5    |
+| Track Inventory                 | No           | No         | Yes  |
+| Track projects & locations      | No           | No         | Yes  |
+| Manage budgets                  | No           | No         | Yes  |
+| Monthly Retail Price (Incl GST) | $20          | $35        | $50  |
+| **Cordner Price**               | **$15**      | **$25**    |      |
