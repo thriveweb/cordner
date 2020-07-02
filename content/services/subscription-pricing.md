@@ -24,7 +24,7 @@ contentImage: /images/uploads/elsa-blog.jpg
 | Non-GST Cashbook*         | 0       | 10           | 10            |
 | GST Cashbook*             | 0       | 19           | 19            |
 | Payroll Cashbook*         | 4       | 29           | 29            |
-| Payroll Only              | 4       | 10           | 10            |
+| Payroll Only*             | 4       | 10           | 10            |
 | \* **Partner Only Plans** |         |              |               |
 
 _Notes:_
@@ -51,6 +51,5 @@ _Notes:_
 | **Cordner Price**               | **$15**      | **$25**    | **$25** |
 
 _Notes_:
-
 
 * Essentials file will include the Plus file for a **limited time only!**
