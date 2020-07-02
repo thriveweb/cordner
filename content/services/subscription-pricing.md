@@ -12,20 +12,20 @@ contentImage: /images/uploads/elsa-blog.jpg
 ---
 #### Xero Subscription
 
-|                           | Payroll | Normal Price | Client to Pay |
-| ------------------------- | ------- | ------------ | ------------- |
-| Starter                   | 1       | 25           | 20            |
-| Standard                  | 2       | 50           | 40            |
-| Premium 5                 | 5       | 65           | 55            |
-| Premium 10                | 10      | 75           | 65            |
-| Premium 20                | 20      | 90           | 80            |
-| Premium 50                | 50      | 125          | 105           |
-| Premium 100               | 100     | 150          | 130           |
-| Non-GST Cashbook*         | 0       | 10           | 10            |
-| GST Cashbook*             | 0       | 19           | 19            |
-| Payroll Cashbook*         | 4       | 29           | 29            |
-| Payroll Only*             | 4       | 10           | 10            |
-| \* **Partner Only Plans** |         |              |               |
+|                           | Max No. Employees | Normal Price | Client to Pay |
+| ------------------------- | ----------------- | ------------ | ------------- |
+| Starter                   | 1                 | 25           | 20            |
+| Standard                  | 2                 | 50           | 40            |
+| Premium 5                 | 5                 | 65           | 55            |
+| Premium 10                | 10                | 75           | 65            |
+| Premium 20                | 20                | 90           | 80            |
+| Premium 50                | 50                | 125          | 105           |
+| Premium 100               | 100               | 150          | 130           |
+| Non-GST Cashbook*         | 0                 | 10           | 10            |
+| GST Cashbook*             | 0                 | 19           | 19            |
+| Payroll Cashbook*         | 4                 | 29           | 29            |
+| Payroll Only*             | 4                 | 10           | 10            |
+| \* **Partner Only Plans** |                   |              |               |
 
 _Notes:_
 
