@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: 'COVID 19 - Commercial, Retail and Residential Tenant Protections'
-status: Featured
+status: Published
 date: '2020-06-02'
 featuredImage: /images/uploads/sophie.jpg
 bannerImage: /images/uploads/2-june.jpg
