@@ -26,8 +26,7 @@ The corporate tax rate for Small Business Entity (SBE) companies was reduced to 
 
 However, as the aggregated turnover for eligibility for the 27.5% corporate tax rate increased to $25 million, the Federal Government decided to move away from this SBE concept and move to a ‘Base Rate Entity’ concept.
 
-**What is a Base Rate Entity?
-**
+**What is a Base Rate Entity?**
 
 The concept of Base Rate Entity has now been enacted in Treasury Laws Amendment (Enterprise Tax Plan Base Rate Entities) Act 2018.
 
@@ -48,8 +47,7 @@ Under the Act, an entity is a Base Rate Entity for a year of income if:
 - Net capital gain
 - Income from a partnership or trust estate that is base rate passive income
 
-**Some Issues Around This Definition
-**
+**Some Issues Around This Definition**
 
 A non-portfolio dividend is a dividend paid to a company where that company has a voting interest amounting to at least 10% of the voting power in the company paying that dividend. Consequently, dividends derived by a holding company which are made by a wholly owned subsidiary company are not base rate entity passive income of the holding company.
 
@@ -63,8 +61,7 @@ Similarly, if the only income of a discretionary trust was from the carrying on 
 
 Capital gains and franked dividends are the only base rate entity passive income that a trust can stream, provided the trust deed allows it. Therefore, if a trust has both base rate entity passive income and trading income, it will be necessary to apportion the expenses of the trust to determine the correct amount of base rate entity passive income that is included in the beneficiary’s assessable income.
 
-**Has the maximum franking rate of dividends changed?
-**
+**Has the maximum franking rate of dividends changed?**
 
 The maximum franking rate of dividends for the 2018 financial year will be 27.5% if either:
 
