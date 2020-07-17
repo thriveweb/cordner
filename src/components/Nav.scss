@@ -21,11 +21,11 @@
 }
 
 .Nav--Links > * + * {
-  margin-left: 1rem;
+  margin-left: 0.6rem;
 }
 
 .Nav .Logo {
-  margin-right: 3rem;
+  margin-right: 2rem;
   position: relative;
 }
 
@@ -136,7 +136,7 @@
   justify-content: space-evenly;
   color: var(--cream);
   font-size: 14px;
-  margin-left: 3rem;
+  margin-left: 2rem;
   font-weight: 500;
   cursor: pointer;
 }
@@ -146,7 +146,7 @@
   transition: all ease 0.5s;
 }
 
-@media (max-width: 1250px) {
+@media (max-width: 1360px) {
   .NavLink {
     .children {
       &.level-one {

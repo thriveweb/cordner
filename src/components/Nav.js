@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Link from 'gatsby-link'
-import { Menu, X, ChevronRight } from 'react-feather'
+import { Menu, X, ChevronRight, ExternalLink } from 'react-feather'
 
 import Logo from './Logo'
 import './Nav.scss'
@@ -150,6 +150,18 @@ export default class Nav extends Component {
                   href="https://cordner.acclipse.com/clientportal/"
                 >
                   Client login
+                </a>
+              </p>
+            </div>
+
+            <div className="Client--Login">
+              <p>
+                <a
+                  target="_blank"
+                  rel="nofollow"
+                  href="https://www.payway.com.au/MakePayment?BillerCode=146019"
+                >
+                  Pay an invoice
                 </a>
               </p>
             </div>
