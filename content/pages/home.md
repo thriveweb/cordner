@@ -4,7 +4,7 @@ slug: ''
 title: When growing your business means more to you than just numbers.
 featuredImage: /images/uploads/home-banner.jpg
 featureLink:
-  label: Let’s talk business
+  label: Let’s talk Business Advisory & Accounting
   link: contact
 section1:
   button:
