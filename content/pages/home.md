@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: When growing your business means more to you than just numbers.
+title: Gold Coast Business Advisory & Accounting
 featuredImage: /images/uploads/home-banner.jpg
 featureLink:
   label: Let’s talk Business
