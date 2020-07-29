@@ -12,7 +12,7 @@ section1:
     link: your-advisors
   number: '300+ '
   numberTitle: Happy clients
-  rightContent: >-
+  rightContent: >
     Established on the Gold Coast in 1981. Cordner Advisory specialises in
     Business Advisory, Tax & Compliance, SmarterCFO, Private Advisory,
     Superannuation, and specialist R&D tax incentive/Government Grants. Cordner
@@ -20,12 +20,11 @@ section1:
     technology companies and startups, childcare,medical/health, construction
     and property. Cordner Advisory delivers experienced senior big firm
     specialist skills with local care and attention.
-
+  rightTitle: Business Advisory Specialists
+  title: >-
     We work with clients across Australia, from the golden beaches of the Gold
     Coast and Sunshine Coast to the capital cities such as Brisbane, Sydney and
     Melbourne.
-  rightTitle: Business Advisory Specialists
-  title: Delivering trustworthy accounting and advisory solutions since 1981
 section2:
   title: How can we help you today?
 section3:
