@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: 'Business, Accounting & Private Advisory'
+title: 'Business Advisory, Accounting & Tax'
 featuredImage: /images/uploads/home-banner.jpg
 featureLink:
   label: Let’s talk Business
