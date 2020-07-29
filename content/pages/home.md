@@ -14,12 +14,16 @@ section1:
   numberTitle: Happy clients
   rightContent: >-
     Established on the Gold Coast in 1981. Cordner Advisory specialises in
-    Business Advisory Services, Tax & Compliance, Family Wealth & Superannuation
-    (SMSF), and specialist R&D tax incentive/government grants. Cordner Advisory
-    service a broad range of businesses and most industries including technology
-    companies and startups, childcare,medical/health, construction and property.
-    Cordner Advisory delivers experienced senior big firm specialist skills with
-    local care and attention.
+    Business Advisory, Tax & Compliance, SmarterCFO, Private Advisory,
+    Superannuation, and specialist R&D tax incentive/Government Grants. Cordner
+    Advisory service a broad range of businesses and most industries including
+    technology companies and startups, childcare,medical/health, construction
+    and property. Cordner Advisory delivers experienced senior big firm
+    specialist skills with local care and attention.
+
+    We work with clients across Australia, from the golden beaches of the Gold
+    Coast and Sunshine Coast to the capital cities such as Brisbane, Sydney and
+    Melbourne.
   rightTitle: Business Advisory Specialists
   title: Delivering trustworthy accounting and advisory solutions since 1981
 section2:
