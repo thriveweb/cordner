@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: Gold Coast Business Advisory & Accounting
+title: 'Business, Accounting & Private Advisory'
 featuredImage: /images/uploads/home-banner.jpg
 featureLink:
   label: Let’s talk Business
