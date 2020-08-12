@@ -3,8 +3,8 @@ template: SingleTeam
 title: Shaun Ralph
 subtitle: Consultant
 teamOrder: '14'
-featuredImage: /images/uploads/shaun.jpg
-mainImage: /images/uploads/shaun.jpg
+featuredImage: /images/uploads/shaunnew.jpg
+mainImage: /images/uploads/shaunnew.jpg
 position: Consultant
 categories:
   - category: SmarterCFO
