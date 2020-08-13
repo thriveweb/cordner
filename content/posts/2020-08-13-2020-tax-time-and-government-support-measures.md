@@ -15,9 +15,7 @@ authors:
 ---
 The 2020 financial year will be remembered as the year of uncertainty for all small businesses and individuals. The government ramped things up and made every effort to ensure that there was financial support available for all Australians. 
 
-
 **So what are the tax implications for financial support received?**
-
 
 **JobKeeper:**
 All JobKeeper payments will be treated as assessable income to the entity that is in receipt of the payment. Whilst the income received is assessable for tax pruposes, it is not subject to GST. The gross wages reported, including those that have attracted the JobKeeper subsidy will be fully deductible under the normal rules. 
@@ -35,4 +33,8 @@ If you report on a cash basis, the income will be derived when the government pa
 **Early Release of Superannuation:**
 If you were eligible and in turn received access to early release of your superannuation you do not need to do anything. The income you have received will not be assessable nor will it be included in your tax return. 
 
-If you would like more information regarding the 2020 financial year, please give one of our friendly advisors a call.
+If you would like more information regarding the 2020 financial year, please give one of our friendly Gold Coast advisors a call on (07) 5504 5700.
+
+
+
+_Cordner Advisory - Your Business Advisory, Accounting & Tax Specialists. Catering for clients all across Australia, from the golden beaches of the Gold Coast and Sunshine Coast to the capital cities such as Brisbane, Sydney and Melbourne._
