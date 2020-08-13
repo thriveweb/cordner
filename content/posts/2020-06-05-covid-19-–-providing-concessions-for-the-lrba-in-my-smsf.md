@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: 'COVID-19 – Providing concessions for the LRBA in my SMSF '
-status: Featured
+status: Published
 date: '2020-06-05'
 featuredImage: /images/uploads/_r1a5200_print.jpg
 bannerImage: /images/uploads/taxation-and-compliance.jpg
