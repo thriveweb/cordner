@@ -3,8 +3,8 @@ template: SingleTeam
 title: Zoe Farnworth
 subtitle: Advisor
 teamOrder: '13'
-featuredImage: /images/uploads/zoe1.jpg
-mainImage: /images/uploads/zoe1.jpg
+featuredImage: /images/uploads/zoe2.jpg
+mainImage: /images/uploads/zoe2.jpg
 position: Advisor
 categories:
   - category: Business Advisory
