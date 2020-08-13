@@ -3,8 +3,8 @@ template: SingleTeam
 title: Rochelle Whitbread
 subtitle: Analyst
 teamOrder: '18'
-featuredImage: /images/uploads/rochelle1.jpg
-mainImage: /images/uploads/rochelle1.jpg
+featuredImage: /images/uploads/rochelle2.jpg
+mainImage: /images/uploads/rochelle2.jpg
 position: Analyst
 categories:
   - category: Taxation and Compliance
