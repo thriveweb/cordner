@@ -8,7 +8,8 @@ excerpt: >-
   There are currently no positions available. Please check in again in the near
   future
 careerDetails:
-  company: .
-  name: .
+  company: 'Cordner'
+  name: 'Cordner'
 ---
+
 ...
