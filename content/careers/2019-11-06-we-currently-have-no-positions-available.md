@@ -11,8 +11,8 @@ excerpt: >-
   liability, or other financial activities within a client organisation or
   group.
 careerDetails:
-  company: Cordner
-  name: Cordner
+  company: Cordner Advisory
+  name: ''
 ---
 Reporting to Senior Advisors and the Directors, the Analyst Role will review and process and financial information and prepare financial reports to determine or maintain record of assets, liabilities, profit and loss, tax liability, or other financial activities within a client organisation or group.
 
