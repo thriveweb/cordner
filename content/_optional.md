@@ -23,6 +23,10 @@ pdfLinks:
   - title:
     customLink: ''
 
+careerDetails:
+  company: ''
+  name: ''
+
 meta:
   canonicalLink: ''
   description: ''
