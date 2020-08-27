@@ -16,8 +16,7 @@ careerDetails:
 ---
 Reporting to Senior Advisors and the Directors, the Analyst Role will review and process and financial information and prepare financial reports to determine or maintain record of assets, liabilities, profit and loss, tax liability, or other financial activities within a client organisation or group.
 
-**
-Role & Responsibilities**  
+**Role & Responsibilities**  
 
 * Preparation of financial statements and tax returns for a wide range of clients and different entity types
 * Preparation of management reports on a regular basis to a group of clients, making use of online accounting software to assist clients with decision making
@@ -25,8 +24,7 @@ Role & Responsibilities**
 * Preparation and supervising the lodgement of activity statements for your clients
 * Generally managing the day-to-day relationship with your client base and liaising with directors as and when required.
 
-**
-Qualifications and Experience**
+**Qualifications and Experience**
 
 * Demonstrate a good grasp of general business services accounting and tax compliance 
 * A completed degree and working toward your professional qualifications is expected
