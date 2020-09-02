@@ -36,4 +36,6 @@ Reporting to Senior Advisors and the Directors, the Analyst Role will review and
 
 Key attributes include the willingness to seek solutions (rather than impose limitations), possess and demonstrate client empathy, have some technical knowledge / capabilities and a strong appetite for continual learning.
 
+To apply, please send your resume to info@cordner.com.au.
+
 Salary commensurate with experience.
