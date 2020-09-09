@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Construction Industry Stimulus Home Builder Program
-status: Featured
+status: Published
 date: '2020-06-11'
 featuredImage: /images/uploads/steve.jpg
 bannerImage: /images/uploads/11-june_.jpg
