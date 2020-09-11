@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Importance of Tax Planning
-status: Featured
+status: Published
 date: '2020-06-12'
 featuredImage: /images/uploads/kamil1.jpg
 bannerImage: /images/uploads/16-mar.jpg
