@@ -15,15 +15,13 @@ Supporting and reporting to the Client Managers, the Assistant Accountant Role w
 
 **Role & Responsibilities**  
 
-* Support Accountants in the preparation of workpapers for a wide range of clients and different entity types, leading to preparation of financial statements and income tax returns
+* Support Accountants in the preparation of workpapers for a wide range of clients and different entity types, leading to preparation of financial statements and income tax returns
 * Manage full‐service bookkeeping including payroll 
 * Management of ATO and various industry specific compliance and reporting obligations including but not limited to BAS/IAS, Employment contracts, JobKeeper, QBCC, Superannuation, TPAR and WorkCover declarations
 
-
-
 **Qualifications and Experience**
 
-* Demonstrate a good grasp of general business services accounting and tax compliance 
+* Demonstrate a good grasp of general business services accounting and tax compliance 
 * Minimum of 3 years practical accounting assistant / bookkeeping experience
 * A solid understanding of various accounting software packages & PC skills
 * Be well organised, efficient and self motivated 
