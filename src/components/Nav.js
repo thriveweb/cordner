@@ -148,7 +148,7 @@ export default class Nav extends Component {
                 <a
                   target="_blank"
                   rel="nofollow"
-                  href="https://cordner.acclipse.com/clientportal/"
+                  href="https://connect.suitefiles.com/#/folder/Cordner%20Advisory"
                 >
                   Client login
                 </a>
