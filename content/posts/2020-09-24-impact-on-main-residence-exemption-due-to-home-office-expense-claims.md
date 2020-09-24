@@ -18,8 +18,7 @@ Due to COVID-19, many taxpayers have now started working from home either tempor
 
 
 
-**Home office expenses fall into two broad categories:
-**
+**Home office expenses fall into two broad categories:**
 
 1. Occupancy expenses — relating to the ownership or use of a home which are not affected by the taxpayer’s income earning activities (e.g. rent, mortgage interest, municipal and water rates, land taxes, house insurance premiums);
 2. Running expenses — relating to the use of facilities within the home (electricity charges for heating/cooling and lighting, cleaning costs, depreciation, leasing charges, cost of repairs).
@@ -32,8 +31,7 @@ A capital gain that a taxpayer makes from the sale of a dwelling that is their m
 
 
 
-**Example:
-**
+**Example:**
 
 Michael paid $400,000 for the house and it now sells for $700,000. The capital gain of $300,000 will be exempt under the main residence exemption rule. However, Michael was using 15% of the floor space of his house to work from home and generates taxable income. He also intends to claim interest on mortgage as a tax deduction for that office area. Therefore, Michael will be assessed for:
 
