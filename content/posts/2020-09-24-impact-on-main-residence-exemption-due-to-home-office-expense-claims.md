@@ -16,6 +16,8 @@ authors:
 ---
 Due to COVID-19, many taxpayers have now started working from home either temporarily or some taxpayers have now made this as a permanent arrangement with their employers. Due to these changes, many taxpayers now have a designated office space in their homes and can have a list of questions in relation to what expenses they can claim in their tax return for working from home?
 
+
+
 Home office expenses fall into two broad categories:**
 **
 
@@ -27,6 +29,8 @@ The ATO is of the view that in most cases the apportionment of the above mention
 However, taxpayers need to be aware that where the taxpayer has a place of business in their dwelling and claims occupancy expenses then the taxpayer’s entitlement to the Main residence exemption will be reduced proportionately; and where the taxpayer does not have a place of business in their dwelling and only claims running costs then working from home has no impact on the taxpayer’s entitlement to the main residence exemption. 
 
 A capital gain that a taxpayer makes from the sale of a dwelling that is their main residence is exempt from CGT under normal circumstances however, under s.118-190, only a partial main residence exemption is available where, had the taxpayer incurred interest on money borrowed to acquire the dwelling, the taxpayer could have deducted some or all of the interest.
+
+
 
 Example:**
 **
