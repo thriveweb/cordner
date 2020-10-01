@@ -25,22 +25,19 @@ The measure to increase the number of members allowed in an SMSF from four to si
 * Allows larger families to include all members (up to 6) in the same fund
 * High net worth individuals will also be able to plan for their children's future by making contributions into a child's super account. The changes will ultimately result in increased funds being deposited and retained in super and therefore taxed concessionally.
 
-
-
 **\***  The number of parties required to sign the SMSF Accounts and Statements:
 
 * Corporate Trustees – with only 1 or 2 directors both must sign; 3 or more half sign. 
 * Individual Trustees - - with only 2 trustees both must sign; 3 or more half sign.
 * Minors cannot act as trustees or directors, so the SMSF's records must reflect that the child's parent or guardian is appointed and acts as trustee/director of the trustee 'in place of the member'.
 
-
-
 **\***  If a fund’s trust deed is prescriptive on the number of allowable members, a trust deed upgrade may   be necessary to cater for an elected increase. 
-
-
 
 **\***  Note at this stage Queensland state legislation does not allow 6 individual trustees, the limit remains at 4. 
 
 If you would like more information, please give one of our friendly Gold Coast advisors a call on (07) 5504 5700.
 
-_Cordner Advisory - Your Business Advisory, Accounting & Tax Specialists. Catering for clients all across Australia, from the golden beaches of the Gold Coast and Sunshine Coast to the capital cities such as Brisbane, Sydney and Melbourne._
+
+
+_Cordner Advisory - Your Business Advisory, Accounting & Tax Specialists. Catering for clients all across Australia, from the golden beaches of the Gold Coast and Sunshine Coast to the capital cities such as Brisbane, Sydney and Melbourne.
+_
