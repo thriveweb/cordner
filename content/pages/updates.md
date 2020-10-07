@@ -6,6 +6,9 @@ featuredImage: /images/uploads/covid-19.jpg
 pdfTitle: COVID-19 Fact Sheets
 pdfLinks:
   - customLink: >-
+      https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/business-employers-jobkeeper-2.0.pdf
+    title: BUSINESS - EMPLOYER JOB KEEPER 2.0
+  - customLink: >-
       https://raw.githubusercontent.com/thriveweb/cordner/master/static/images/uploads/covid19-fact-sheet-business-general.pdf
     title: Business - General
   - customLink: >-
