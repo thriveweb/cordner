@@ -4,15 +4,8 @@ title: 'Accountant Analyst '
 status: Featured
 date: '2020-08-27'
 featuredImage: /images/uploads/7-mar.jpg
-excerpt: >-
-  THIS POSITION HAS NOW BEEN FILLED
-
-
-  Reporting to Senior Advisors and the Directors, the Analyst Role will review
-  and process and financial information and prepare financial reports to
-  determine or maintain record of assets, liabilities, profit and loss, tax
-  liability, or other financial activities within a client organisation or
-  group.
+excerpt: |
+  PLEASE NOTE: This position has now been filled
 careerDetails:
   company: Cordner Advisory
   name: ''
