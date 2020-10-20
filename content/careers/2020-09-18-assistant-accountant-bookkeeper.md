@@ -1,6 +1,6 @@
 ---
 template: SingleCareer
-title: Assistant Accountant/Bookkeeper
+title: Assistant Accountant/Bookkeeper - FILLED
 status: Published
 date: '2020-09-18'
 featuredImage: /images/uploads/7-mar.jpg
@@ -11,6 +11,8 @@ excerpt: >-
 careerDetails:
   company: Cordner Advisory
 ---
+**THIS POSITION HAS NOW BEEN FILLED**
+
 Supporting and reporting to the Client Managers, the Assistant Accountant Role will coordinate bookkeeping services and assist Accountants in the preparation of BAS, Financial Accounts, and Tax Returns.
 
 **Role & Responsibilities**  
