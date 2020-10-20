@@ -1,6 +1,6 @@
 ---
 template: SingleCareer
-title: 'Accountant Analyst '
+title: Accountant Analyst - filled
 status: Featured
 date: '2020-08-27'
 featuredImage: /images/uploads/7-mar.jpg
@@ -10,6 +10,8 @@ careerDetails:
   company: Cordner Advisory
   name: ''
 ---
+**THIS POSITION HAS NOW BEEN FILLED**
+
 Reporting to Senior Advisors and the Directors, the Analyst Role will review and process and financial information and prepare financial reports to determine or maintain record of assets, liabilities, profit and loss, tax liability, or other financial activities within a client organisation or group.
 
 **Role & Responsibilities**  
