@@ -1,6 +1,6 @@
 ---
 template: SingleCareer
-title: Accountant Analyst - filled
+title: Accountant Analyst - FILLED
 status: Featured
 date: '2020-08-27'
 featuredImage: /images/uploads/7-mar.jpg
