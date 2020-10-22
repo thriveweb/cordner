@@ -30,7 +30,7 @@ The PPSR is a national online noticeboard that shows you whether someone is clai
 
 You can also make a registration, so others know when you have retained an interest in goods you are supplying.  Meaning that, if your customer doesn’t pay or goes broke, you are in the best position to get your goods, or their value, back.
 
-![](/images/uploads/sp_blog_4.png)
+![null](/images/uploads/sp_blog_4.png)
 
 **How does it work?**
 
@@ -42,7 +42,7 @@ Selling or Hiring / Leasing Goods – by properly registering your interest in g
 
 A “Retention of Title Clause” on your contract, may not be sufficient to protect you in the event that your customer does not pay, and you may find yourself at the back of the queue of creditors.
 
-![](/images/uploads/sp_blog_3.png)
+![null](/images/uploads/sp_blog_3.png)
 
 **What Personal Property is on the Register?**
 
@@ -54,11 +54,11 @@ A security interest can be granted over almost anything of value, except for lan
 * Intangible property, patents, copyrights, licences
 * Shares, cash, cheques and other financial instruments 
 
-**Can it happen to you?**
+
+
+**Can it happen to you?**
 
 Some case law decisions on the PPSA:
-
-
 
 **Keon Pty Ltd as trustee for Keon Family Trust v Goldfields Equipment Pty Ltd (In Liquidation) \[2020]**
 
@@ -76,7 +76,7 @@ Some case law decisions on the PPSA:
 * The court held that StockCo held a perfected PMSI over the cattle that it funded, despite the fact that Reid had taken possession of the cattle, prior to the StockCo PMSI being registered
 * It was held that StockCo was entitled to the funds from the sale and the physical “possession” by Reid was secondary to the “possession” granted by DLS to StockCo under it’s PMSI
 
-**BMW Australia Finance Ltd v Civic Park Medical Centre Pty Ltd atf Civic Park Medical Centre Unit Trust \[2019]**
+**BMW Australia Finance Ltd v Civic Park Medical Centre Pty Ltd atf Civic Park Medical Centre Unit Trust \[2019]**
 
 * BMW provided finance to its customers for the purchase of motor vehicles
 * Customers grant BMW security interest over the vehicles for “super priority” under PPSA
@@ -84,9 +84,7 @@ Some case law decisions on the PPSA:
 * Liquidator for Civic Park successfully asserted BMW registration defective as made under A.C.N. of Corporate Trustee and not the ABN of the Trust as required by PPSR
 * BMW required to go back and fix all of its other vehicle registrations for other customers so as not to suffer the same fate as Civic
 
-
-
-**Alleasing Pty Ltd v OneSteel Manufacturing Pty Ltd**
+**Alleasing Pty Ltd v OneSteel Manufacturing Pty Ltd**
 
 * Alleasing leased equipment to OneSteel worth $23M and registered the arrangements on the PPSR
 * OneSteel appointed administrators and they advised Alleasing that their claim to the leased assets was ineffective as the PPSR registration was “imperfect”
@@ -102,12 +100,10 @@ Some case law decisions on the PPSA:
 * This case may be appealed, but it shows the strict interpretation of the form over function, that the courts can take in determining interests under the PPSR
 * Getting it even a little wrong could be a costly mistake
 
-![](/images/uploads/sp_blog_2.png)
+![null](/images/uploads/sp_blog_2.png)
 
 There are many instances of businesses suffering losses due to inattention to the PPSA requirements or having ineffectual registrations.
 
 If you believe that the PPSR may be something that can have an impact on your business, or you want further information relating to the operations under this legislation, please do not hesitate to contact our team members.
-
-
 
 _Cordner Advisory - Your Business Advisory, Accounting & Tax Specialists. Catering for clients all across Australia, from the golden beaches of the Gold Coast and Sunshine Coast to the capital cities such as Brisbane, Sydney and Melbourne_
