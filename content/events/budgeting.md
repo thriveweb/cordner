@@ -1,6 +1,6 @@
 ---
 template: SingleEvent
-title: BUDGETING
+title: Budgeting
 featuredImage: /images/uploads/11-sep.jpg
 status: Published
 date: '2020-02-07'
