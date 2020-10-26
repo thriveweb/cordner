@@ -16,6 +16,8 @@ export const SingleEventTemplate = ({
   date,
   featuredImage,
   bannerImage,
+  linkTitle,
+  linkURL,
   body,
   nextPostURL,
   prevPostURL,
@@ -24,14 +26,18 @@ export const SingleEventTemplate = ({
   posts
 }) => {
   let currentCats = []
-  let relatedPosts = []
   if (categories) {
     currentCats = categories.map(obj => obj.category)
   }
+  let relatedPosts = []
   if (posts) {
     relatedPosts = posts.filter(post =>
       post.categories.find(cat => currentCats.includes(cat.category))
     )
+  }
+  let pastEvent = false
+  if (currentCats.includes('Past Events')) {
+    pastEvent = true
   }
 
   return (
@@ -107,15 +113,27 @@ export const SingleEventTemplate = ({
               </Fragment>
             )}
           </div>
+          {!pastEvent && (
+            <div className="SingleEvent--InnerContent">
+              <h3>Interested in this event?</h3>
+              <a href="mailto:info@cordner.com.au" className="Button">
+                Register now
+              </a>
+              <br />
+              <Content source={body} />
+            </div>
+          )}
 
-          <div className="SingleEvent--InnerContent">
-            <h3>Interested in this event?</h3>
-            <a href="mailto:info@cordner.com.au" class="Button">
-              Register now
-            </a><br/>
-            <Content source={body} />
-          </div>
-
+          {pastEvent && (
+            <div className="SingleEvent--InnerContent">
+              <h3>Find out more</h3>
+              <a href={linkURL} className="Button">
+                {linkTitle}
+              </a>
+              <br />
+              <Content source={body} />
+            </div>
+          )}
           <div className="SingleEvent--Pagination">
             {prevPostURL && (
               <Link
@@ -193,6 +211,8 @@ export const pageQuery = graphql`
         categories {
           category
         }
+        linkTitle
+        linkURL
         authors {
           author
         }

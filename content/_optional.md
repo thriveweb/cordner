@@ -27,6 +27,9 @@ careerDetails:
   company: ''
   name: ''
 
+linkTitle: ''
+linkURL: ''
+
 meta:
   canonicalLink: ''
   description: ''
