@@ -4,10 +4,9 @@ title: FY2021 Budget Announcement Webinar
 featuredImage: /images/uploads/ca.jpg
 status: Featured
 date: '2020-10-15'
-linkTitle: 'Watch now'
+linkTitle: Watch now
 linkURL: 'https://youtu.be/JsYaaCvGlvA'
 categories:
-  - category: Business Advisory
   - category: Past Events
 ---
 
