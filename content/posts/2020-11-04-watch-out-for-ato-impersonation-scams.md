@@ -29,12 +29,8 @@ The ATO have recently released several scam alerts, and provided guidance on how
 * March 2020 SMS scam – tax refund notification
 * February 2020 SMS scam – 8% bonus for people affected by natural disasters
 
-The ATO is strongly encouraging anyone who receive a message from the ATO asking for personal information, to phone them on 1800 008 540 to ensure it is legitimate. If you believe you have received a fraudulent request, you should report it by sending an email to [reportemailfraud@ato.gov.au](reportemailfraud@ato.gov.au). 
+The ATO is strongly encouraging anyone who receive a message from the ATO asking for personal information, to phone them on 1800 008 540 to ensure it is legitimate. If you believe you have received a fraudulent request, you should report it by sending an email to reportemailfraud@ato.gov.au. 
 
-You can also review the following page for a summary of how to spot a scam and how to report it: <https://www.ato.gov.au/General/Online-services/Identity-security/Verify-or-report-a-scam/?=QC53447_Link1>
-
-Remember to stay vigilant and know who you are corresponding with. 
-
-
+You can also [click here](https://www.ato.gov.au/General/Online-services/Identity-security/Verify-or-report-a-scam/?=QC53447_Link1) for a summary of how to spot a scam and how to report it. Remember to stay vigilant and know who you are corresponding with. 
 
 _Cordner Advisory - Your Business Advisory, Accounting & Tax Specialists. Catering for clients all across Australia, from the golden beaches of the Gold Coast and Sunshine Coast to the capital cities such as Brisbane, Sydney and Melbourne_
