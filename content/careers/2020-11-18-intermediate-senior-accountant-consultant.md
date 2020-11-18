@@ -24,10 +24,7 @@ The Consultant will analyse, evaluate and report on financial matters for a port
 **
 Role & Responsibilities**  
 
-* 
-
-Preparation of financial statements and tax returns for a wide range of clients and different entity types
-
+* Preparation of financial statements and tax returns for a wide range of clients and different entity types
 * Preparation of management reports on a regular basis to a group of clients, making use of online accounting software to assist clients with decision making
 * Preparation of income tax returns and BAS 
 * Working with clients to prepare budgets / forecasts and to plan for tax obligations
@@ -41,10 +38,7 @@ Preparation of financial statements and tax returns for a wide range of clients 
 Qualifications and Experience
 **
 
-* 
-
-Demonstrate a good grasp of general business services accounting and tax compliance 
-
+* Demonstrate a good grasp of general business services accounting and tax compliance 
 * A completed degree and having (or working toward) your professional qualifications is expected
 * Minimum of 2-3 years practical accounting experience
 * Experience working with a client base directly and as part of a team
