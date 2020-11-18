@@ -21,8 +21,7 @@ We are proud of our friendly team culture and the diverse clients we work with a
 
 The Consultant will analyse, evaluate and report on financial matters for a portfolio of clients, including preparation of management reports, financial statements and tax returns. This includes providing advice on various financial matters for clients, including income tax, GST, structuring and budgeting and forecasting.
 
-**
-Role & Responsibilities**  
+**Role & Responsibilities**  
 
 * Preparation of financial statements and tax returns for a wide range of clients and different entity types
 * Preparation of management reports on a regular basis to a group of clients, making use of online accounting software to assist clients with decision making
@@ -34,9 +33,7 @@ Role & Responsibilities**
 * Liaising with third parties such as the ATO, financiers, financial planners and software support
 * Training and supporting junior staff members
 
-**
-Qualifications and Experience
-**
+**Qualifications and Experience**
 
 * Demonstrate a good grasp of general business services accounting and tax compliance 
 * A completed degree and having (or working toward) your professional qualifications is expected
