@@ -11,7 +11,7 @@ excerpt: >-
   financial matters for clients, including income tax, GST, structuring and
   budgeting and forecasting.
 careerDetails:
-  name: Intermediate / Senior Accountant (Consultant)
+  name: ''
 ---
 Cordner Advisory is seeking to recruit a new Intermediate to Senior level accountant.
 
