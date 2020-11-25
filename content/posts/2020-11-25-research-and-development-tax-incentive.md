@@ -19,8 +19,7 @@ The Research and Development tax incentive encourages companies to engage in Res
 * a refundable tax offset for certain eligible entities whose aggregated turnover is less than $20 million
 * a non-refundable tax offset for all other eligible entities.
 
-**Who is eligible?
-**
+**Who is eligible?**
 
 You are an eligible Research and Development entity if you are a company that is:
 
