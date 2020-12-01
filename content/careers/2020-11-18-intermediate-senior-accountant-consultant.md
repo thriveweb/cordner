@@ -1,6 +1,6 @@
 ---
 template: SingleCareer
-title: Intermediate / Senior Accountant (Consultant)
+title: 'Intermediate / Senior Accountant : (POSITION FILLED)'
 status: Featured
 date: '2020-11-18'
 featuredImage: /images/uploads/7-mar.jpg
