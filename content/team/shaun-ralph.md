@@ -10,4 +10,4 @@ categories:
   - category: SmarterCFO
 ---
 
-Shaun Ralph has been working within the accounting industry since 2009 and started at Cordner Advisory in August 2015. A big believer in technology making our lives easier, Shaun is always on the look out for the best up and coming apps to help out our clients with their day to day operations. When Shaun isn’t working on financials and tax returns, he spends his time reading and watching basketball.
+Shaun Ralph has been working within the accounting industry since 2010 and started at Cordner Advisory in August 2015. A big believer in technology making our lives easier, Shaun is always on the look out for the best up and coming apps to help out our clients with their day to day operations. When Shaun isn’t working on financials and tax returns, he spends his time reading and watching basketball.
