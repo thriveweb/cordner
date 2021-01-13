@@ -17,7 +17,8 @@ authors:
 JobKeeper extension 2 starts from 4 January 2021 and it runs till 28 March 2021.  Eligible employers must submit the new turnover decline form to the ATO regardless you are existing or new participants.  
 
 
-**Eligible employer**
+
+**Eligible employer**
 
 To be eligible for extension 2, you need to pass the actual decline in turnover test when your current GST turnover for the quarter ending 31 December 2020 has declined by 15%, 30% or 50% comparing the quarter ending 31 December 2019.  
 
@@ -46,8 +47,6 @@ There are alternative tests available for:
 * Sole trader or small partnership with sickness, injury and leave
 * Business that temporarily ceased trading during the relevant comparison period
 
-
-
 **Eligible employee**
 
 To be eligible employee, they were employed by you as of 1 July 2020 as either a:
@@ -56,10 +55,6 @@ To be eligible employee, they were employed by you as of 1 July 2020 as either a
 * Long term casual for those employed on a regular and systematic basis during the 12-month period that ended 1 July 2020.
 * Were 18 years or older
 * Were Australian resident under the Social Security Act 1991, i.e. Australian citizen; permanent resident or a protected Special Category Visa Holder.
-
-
-
-
 
 **Rates of payment**
 
@@ -76,9 +71,5 @@ For new register, you need to enrol your business for the JobKeeper program.
 For both existing and new participants for the program, you need to make sure your STP lodgement to the ATO is up to date.  ATO allows employers until 31 January 2021 to pay their employees.
 
 If you have any query on this JobKeeper extension, please contact our office.
-
-
-
-
 
 _Cordner Advisory - Your Business Advisory, Accounting & Tax Specialists. Catering for clients all across Australia, from the golden beaches of the Gold Coast and Sunshine Coast to the capital cities such as Brisbane, Sydney and Melbourne_
