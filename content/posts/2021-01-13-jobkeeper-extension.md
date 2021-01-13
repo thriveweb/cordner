@@ -17,7 +17,6 @@ authors:
 JobKeeper extension 2 starts from 4 January 2021 and it runs till 28 March 2021.  Eligible employers must submit the new turnover decline form to the ATO regardless you are existing or new participants.  
 
 
-
 **Eligible employer**
 
 To be eligible for extension 2, you need to pass the actual decline in turnover test when your current GST turnover for the quarter ending 31 December 2020 has declined by 15%, 30% or 50% comparing the quarter ending 31 December 2019.  
