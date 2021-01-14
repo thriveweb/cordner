@@ -1,7 +1,7 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog
+title: Blogs
 featuredImage: /images/uploads/singleService-header--image.jpg
 ---
 
