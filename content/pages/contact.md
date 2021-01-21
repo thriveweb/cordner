@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact
-featuredImage: /images/uploads/main-our-team80.jpg
+featuredImage: /images/uploads/21-mar.jpg
 subtitle: 'We want to get to know you, start a conversation with us'
 address: 'Suite 315E, Level 3, 3 Oracle Boulevard, Broadbeach Qld 4218'
 phone: (07) 5504 5700
