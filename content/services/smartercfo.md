@@ -6,7 +6,7 @@ categories:
   - category: SmarterCFO
 status: Featured
 order: 2
-featuredImage: /images/uploads/SmarterCFO.jpg
+featuredImage: /images/uploads/SmarterCFOinline.jpg
 icon: /images/uploads/growth.svg
 contentImage: /images/uploads/SmarterCFOinline.jpg
 buttonsLeft:
