@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact
-featuredImage: /images/uploads/21-mar.jpg
+featuredImage: /images/uploads/property-construction.jpeg
 subtitle: 'We want to get to know you, start a conversation with us'
 address: 'Suite 315E, Level 3, 3 Oracle Boulevard, Broadbeach Qld 4218'
 phone: (07) 5504 5700
@@ -10,6 +10,4 @@ email: info@cordner.com.au
 ---
 Talk to one of our experts today!
 
-
-
-![](/images/uploads/main-our-team80.jpg)
+![null](/images/uploads/main-our-team80.jpg)
