@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: 'Business Advisory, Accounting & Tax'
+title: 'Trusted Gold Coast Firm Specialising in Business Advisory, Tax & Accounting '
 featuredImage: /images/uploads/home-banner.jpg
 featureLink:
   label: Let’s talk Business
@@ -20,7 +20,7 @@ section1:
     technology companies and startups, childcare,medical/health, construction
     and property. Cordner Advisory delivers experienced senior big firm
     specialist skills with local care and attention.
-  rightTitle: Business Advisory Specialists
+  rightTitle: Gold Coast Business Advisory Specialists
   title: >-
     We work with clients across Australia, from the golden beaches of the Gold
     Coast and Sunshine Coast to the capital cities such as Brisbane, Sydney and
