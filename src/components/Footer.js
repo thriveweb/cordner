@@ -45,17 +45,29 @@ export default ({ globalSettings = {}, ...props }) => {
                 </a>
               </li> */}
               <li>
-                <a href={socialMediaCard.facebook}>
+                <a
+                  target="_blank"
+                  rel="noreferrer"
+                  href={socialMediaCard.facebook}
+                >
                   <i className="fab fa-facebook-f" />
                 </a>
               </li>
               <li>
-                <a href={socialMediaCard.linkedin}>
+                <a
+                  target="_blank"
+                  rel="noreferrer"
+                  href={socialMediaCard.linkedin}
+                >
                   <i className="fab fa-linkedin-in" />
                 </a>
               </li>
               <li>
-                <a href={socialMediaCard.instagram}>
+                <a
+                  target="_blank"
+                  rel="noreferrer"
+                  href={socialMediaCard.instagram}
+                >
                   <i className="fab fa-instagram" />
                 </a>
               </li>

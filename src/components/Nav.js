@@ -39,8 +39,7 @@ export default class Nav extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/updates/">COVID-19 Updates</NavLink>
-
+            <NavLink to="/contact/">Contact</NavLink>
             <div className="NavLink NavLink-container">
               <div
                 className="services"
@@ -133,6 +132,7 @@ export default class Nav extends Component {
                 >
                   Subscription Pricing
                 </NavLink>
+                <NavLink to="/updates/">COVID-19 Updates</NavLink>
               </div>
             </div>
             <NavLink to="/your-advisors/">Your Advisors</NavLink>
@@ -140,10 +140,12 @@ export default class Nav extends Component {
             <NavLink to="/events/">Events</NavLink>
             <NavLink to="/blog/">Blog</NavLink>
 
-            <NavLink to="/contact/">Contact</NavLink>
-
             <div className="Client--Login">
-              <img src="/images/uploads/login-icon.svg" alt="login icon" />
+              <img
+                src="/images/uploads/login-icon.svg"
+                alt="login icon"
+                width="20px"
+              />
               <p>
                 <a
                   target="_blank"
