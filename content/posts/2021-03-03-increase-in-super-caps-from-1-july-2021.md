@@ -31,8 +31,7 @@ Also increasing on 1 July 2021 is the Transfer Balance Cap. It is increasing by 
 
 This increase will impact both people in and/or about to enter retirement phase as well as people who are considering escalating their contributions in the near future.
 
-**Advice
-**
+**Advice**
 
 The impact of the increases will affect people in different ways and for different reasons. Cordner Advisory’s expert SMSF advisers can assist you with any questions and provide both general and personal advice, as required.
 
