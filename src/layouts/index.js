@@ -51,6 +51,9 @@ export default ({ children, data }) => {
           })(window,document,‘script’,‘dataLayer’,‘GTM-5WHHNSW’);
         `}
         </script>
+        <noscript>
+          {`<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5WHHNSW" height="0" width="0" style="display:none;visibility:hidden"/>`}
+        </noscript>
       </Helmet>
 
       <Meta
