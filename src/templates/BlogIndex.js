@@ -1,5 +1,8 @@
 import React from 'react'
 import Helmet from 'react-helmet'
+import { graphql } from 'gatsby'
+
+import Layout from '../layouts'
 
 import PageHeader from '../components/PageHeader'
 import PostSection from '../components/PostSection'
@@ -50,21 +53,23 @@ export const BlogIndexTemplate = ({
 
 // Export Default BlogIndex for front-end
 const BlogIndex = ({ data }) => (
-  <BlogIndexTemplate
-    {...data.page}
-    {...data.page.fields}
-    {...data.page.frontmatter}
-    posts={data.posts.edges.map(post => ({
-      ...post.node,
-      ...post.node.frontmatter,
-      ...post.node.fields
-    }))}
-    categories={data.categories.edges.map(post => ({
-      ...post.node,
-      ...post.node.frontmatter,
-      ...post.node.fields
-    }))}
-  />
+  <Layout>
+    <BlogIndexTemplate
+      {...data.page}
+      {...data.page.fields}
+      {...data.page.frontmatter}
+      posts={data.posts.edges.map(post => ({
+        ...post.node,
+        ...post.node.frontmatter,
+        ...post.node.fields
+      }))}
+      categories={data.categories.edges.map(post => ({
+        ...post.node,
+        ...post.node.frontmatter,
+        ...post.node.fields
+      }))}
+    />
+  </Layout>
 )
 
 export default BlogIndex

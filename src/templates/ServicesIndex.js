@@ -1,4 +1,7 @@
 import React, { Fragment } from 'react'
+import { graphql } from 'gatsby'
+
+import Layout from '../layouts'
 
 import PageHeader from '../components/PageHeader'
 import ServicesSection from '../components/ServicesSection'
@@ -27,17 +30,19 @@ export const ServicesIndexTemplate = ({
 const ServicesIndex = ({ data }) => {
   const { page, services } = data
   return (
-    <ServicesIndexTemplate
-      title={page.frontmatter.title}
-      subtitle={page.frontmatter.subtitle}
-      featuredImage={page.frontmatter.featuredImage}
-      // pull frontmatter to root of post
-      services={services.edges.map(post => ({
-        ...post.node,
-        ...post.node.frontmatter,
-        ...post.node.fields
-      }))}
-    />
+    <Layout>
+      <ServicesIndexTemplate
+        title={page.frontmatter.title}
+        subtitle={page.frontmatter.subtitle}
+        featuredImage={page.frontmatter.featuredImage}
+        // pull frontmatter to root of post
+        services={services.edges.map(post => ({
+          ...post.node,
+          ...post.node.frontmatter,
+          ...post.node.fields
+        }))}
+      />
+    </Layout>
   )
 }
 

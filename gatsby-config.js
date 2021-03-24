@@ -35,7 +35,7 @@ module.exports = {
         plugins: [
           // gatsby-remark-relative-images must
           // go before gatsby-remark-images
-          'gatsby-remark-relative-images',
+          'gatsby-remark-relative-images-v2',
           {
             resolve: 'gatsby-remark-images',
             options: {
@@ -50,7 +50,7 @@ module.exports = {
 
     // css (replace with gatsby-plugin-sass for v2)
     {
-      resolve: `gatsby-plugin-postcss-sass`,
+      resolve: `gatsby-plugin-sass`,
       options: {
         postCssPlugins: [
           postcssPresetEnv({

@@ -1,5 +1,8 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import { graphql } from 'gatsby'
+
+import Layout from '../layouts'
 
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
@@ -140,18 +143,20 @@ export const HomePageTemplate = ({
 
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page, posts, services } }) => (
-  <HomePageTemplate
-    {...page}
-    {...page.frontmatter}
-    posts={posts.edges.map(edge => ({
-      ...edge.node.frontmatter,
-      ...edge.node.fields
-    }))}
-    services={services.edges.map(edge => ({
-      ...edge.node.frontmatter,
-      ...edge.node.fields
-    }))}
-  />
+  <Layout>
+    <HomePageTemplate
+      {...page}
+      {...page.frontmatter}
+      posts={posts.edges.map(edge => ({
+        ...edge.node.frontmatter,
+        ...edge.node.fields
+      }))}
+      services={services.edges.map(edge => ({
+        ...edge.node.frontmatter,
+        ...edge.node.fields
+      }))}
+    />
+  </Layout>
 )
 
 export default HomePage

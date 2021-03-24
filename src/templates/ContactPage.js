@@ -1,6 +1,9 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import { MapPin, Smartphone, Mail } from 'react-feather'
+import { graphql } from 'gatsby'
+
+import Layout from '../layouts'
 
 import PageHeader from '../components/PageHeader'
 import FormSimpleAjax from '../components/FormSimpleAjax'
@@ -72,7 +75,9 @@ export const ContactPageTemplate = ({
 )
 
 const ContactPage = ({ data: { page } }) => (
-  <ContactPageTemplate {...page.frontmatter} body={page.html} />
+  <Layout>
+    <ContactPageTemplate {...page.frontmatter} body={page.html} />
+  </Layout>
 )
 
 export default ContactPage

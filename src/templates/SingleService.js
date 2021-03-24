@@ -2,6 +2,9 @@ import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import _findIndex from 'lodash/findIndex'
 import _find from 'lodash/find'
+import { graphql } from 'gatsby'
+
+import Layout from '../layouts'
 
 import PageHeader from '../components/PageHeader'
 import Image from '../components/Image'
@@ -188,27 +191,29 @@ const SingleService = ({ data, pathContext }) => {
   const { service, services, featuredServices, team, posts } = data
 
   return (
-    <SingleServiceTemplate
-      {...service}
-      {...service.frontmatter}
-      body={service.html}
-      services={services.edges.map(edge => ({
-        ...edge.node.frontmatter,
-        ...edge.node.fields
-      }))}
-      featuredServices={featuredServices.edges.map(edge => ({
-        ...edge.node.frontmatter,
-        ...edge.node.fields
-      }))}
-      team={team.edges.map(edge => ({
-        ...edge.node.frontmatter,
-        ...edge.node.fields
-      }))}
-      posts={posts.edges.map(edge => ({
-        ...edge.node.frontmatter,
-        ...edge.node.fields
-      }))}
-    />
+    <Layout>
+      <SingleServiceTemplate
+        {...service}
+        {...service.frontmatter}
+        body={service.html}
+        services={services.edges.map(edge => ({
+          ...edge.node.frontmatter,
+          ...edge.node.fields
+        }))}
+        featuredServices={featuredServices.edges.map(edge => ({
+          ...edge.node.frontmatter,
+          ...edge.node.fields
+        }))}
+        team={team.edges.map(edge => ({
+          ...edge.node.frontmatter,
+          ...edge.node.fields
+        }))}
+        posts={posts.edges.map(edge => ({
+          ...edge.node.frontmatter,
+          ...edge.node.fields
+        }))}
+      />
+    </Layout>
   )
 }
 

@@ -1,5 +1,8 @@
 import React from 'react'
 import Helmet from 'react-helmet'
+import { graphql } from 'gatsby'
+
+import Layout from '../layouts'
 
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
@@ -23,7 +26,9 @@ export const StandardPageTemplate = ({ body, title, featuredImage }) => (
 )
 
 const StandardPage = ({ data: { page } }) => (
-  <StandardPageTemplate {...page.frontmatter} body={page.html} />
+  <Layout>
+    <StandardPageTemplate {...page.frontmatter} body={page.html} />
+  </Layout>
 )
 
 export default StandardPage

@@ -1,8 +1,10 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import _get from 'lodash/get'
-import _format from 'date-fns/format'
 import Link from 'gatsby-link'
+import { graphql } from 'gatsby'
+
+import Layout from '../layouts'
 
 import Content from '../components/Content'
 import Image from '../components/Image'
@@ -84,13 +86,15 @@ const SingleCareer = ({ data, pathContext }) => {
   const { career, allCareers } = data
   const thisEdge = allCareers.edges.find(edge => edge.node.id === career.id)
   return (
-    <SingleCareerTemplate
-      {...career}
-      {...career.frontmatter}
-      body={career.html}
-      nextCareerURL={_get(thisEdge, 'next.fields.slug')}
-      prevCareerURL={_get(thisEdge, 'previous.fields.slug')}
-    />
+    <Layout>
+      <SingleCareerTemplate
+        {...career}
+        {...career.frontmatter}
+        body={career.html}
+        nextCareerURL={_get(thisEdge, 'next.fields.slug')}
+        prevCareerURL={_get(thisEdge, 'previous.fields.slug')}
+      />
+    </Layout>
   )
 }
 
