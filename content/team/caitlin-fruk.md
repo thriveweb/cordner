@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Caitlin Fruk
 subtitle: Consultant
-teamOrder: '16'
+teamOrder: '17'
 featuredImage: /images/uploads/caitlinedited.jpg
 mainImage: /images/uploads/caitlinedited.jpg
 position: Consultant
