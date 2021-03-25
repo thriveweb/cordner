@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Zeel Tanawala
 subtitle: Analyst
-teamOrder: '15'
+teamOrder: '18'
 featuredImage: /images/uploads/zeel.jpg
 mainImage: /images/uploads/zeel.jpg
 position: Analyst
