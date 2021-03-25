@@ -2,7 +2,7 @@
 template: SingleTeam
 title: Kamil Qureshi
 subtitle: Consultant
-teamOrder: '16'
+teamOrder: '15'
 featuredImage: /images/uploads/kamil3.jpg
 mainImage: /images/uploads/kamil3.jpg
 position: Consultant
