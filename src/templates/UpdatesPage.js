@@ -1,6 +1,9 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import { MapPin, Smartphone, Mail } from 'react-feather'
+import { graphql } from 'gatsby'
+
+import Layout from '../layouts'
 
 import PageHeader from '../components/PageHeader'
 import Image from '../components/Image'
@@ -48,7 +51,9 @@ export const UpdatesPageTemplate = ({
 )
 
 const UpdatesPage = ({ data: { page } }) => (
-  <UpdatesPageTemplate {...page.frontmatter} body={page.html} />
+  <Layout>
+    <UpdatesPageTemplate {...page.frontmatter} body={page.html} />
+  </Layout>
 )
 
 export default UpdatesPage

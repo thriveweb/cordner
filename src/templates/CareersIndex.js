@@ -1,5 +1,8 @@
 import React from 'react'
 import Helmet from 'react-helmet'
+import { graphql } from 'gatsby'
+
+import Layout from '../layouts'
 
 import PageHeader from '../components/PageHeader'
 import CareersSection from '../components/CareersSection'
@@ -30,16 +33,18 @@ export const CareersIndexTemplate = ({
 
 // Export Default BlogIndex for front-end
 const CareersIndex = ({ data, careers }) => (
-  <CareersIndexTemplate
-    {...data.page}
-    {...data.page.fields}
-    {...data.page.frontmatter}
-    careers={data.careers.edges.map(testimonial => ({
-      ...testimonial.node,
-      ...testimonial.node.frontmatter,
-      ...testimonial.node.fields
-    }))}
-  />
+  <Layout>
+    <CareersIndexTemplate
+      {...data.page}
+      {...data.page.fields}
+      {...data.page.frontmatter}
+      careers={data.careers.edges.map(testimonial => ({
+        ...testimonial.node,
+        ...testimonial.node.frontmatter,
+        ...testimonial.node.fields
+      }))}
+    />
+  </Layout>
 )
 
 export default CareersIndex

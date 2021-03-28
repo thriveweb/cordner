@@ -1,10 +1,13 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 
+import Layout from '../layouts'
+
 import PageHeader from '../components/PageHeader'
 import Image from '../components/Image'
 import NumberedHeader from '../components/NumberedHeader'
 import Link from 'gatsby-link'
+import { graphql } from 'gatsby'
 
 import './AdvisorsPage.scss'
 
@@ -76,15 +79,17 @@ export const AdvisorsPageTemplate = ({
 )
 
 const AdvisorsPage = ({ data: { page, team } }) => (
-  <AdvisorsPageTemplate
-    {...page}
-    {...page.frontmatter}
-    body={page.html}
-    team={team.edges.map(edge => ({
-      ...edge.node.frontmatter,
-      ...edge.node.fields
-    }))}
-  />
+  <Layout>
+    <AdvisorsPageTemplate
+      {...page}
+      {...page.frontmatter}
+      body={page.html}
+      team={team.edges.map(edge => ({
+        ...edge.node.frontmatter,
+        ...edge.node.fields
+      }))}
+    />
+  </Layout>
 )
 
 export default AdvisorsPage

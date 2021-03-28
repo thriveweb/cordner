@@ -5,3 +5,7 @@
  */
 
  // You can delete this file if you're not using it
+
+import 'swiper/dist/css/swiper.css';
+import './src/layouts/globalStyles.scss'
+ 

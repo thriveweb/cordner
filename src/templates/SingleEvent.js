@@ -1,9 +1,13 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import _get from 'lodash/get'
-import _format from 'date-fns/format'
 import Link from 'gatsby-link'
 import { ChevronLeft } from 'react-feather'
+import { graphql } from 'gatsby'
+import _format from 'date-fns/format'
+import _parseISO from 'date-fns/parseISO'
+
+import Layout from '../layouts'
 
 import Content from '../components/Content'
 import Image from '../components/Image'
@@ -79,7 +83,7 @@ export const SingleEventTemplate = ({
                 itemProp="dateCreated pubdate datePublished"
                 date={date}
               >
-                {_format(date, 'MMMM Do, YYYY')}
+                {_format(_parseISO(date), 'MMMM Do, yyyy')}
               </time>
             )}
             {authors && (
@@ -178,17 +182,19 @@ const SingleEvent = ({ data, pathContext }) => {
   const { event, allEvents, events } = data
   const thisEdge = allEvents.edges.find(edge => edge.node.id === event.id)
   return (
-    <SingleEventTemplate
-      {...event}
-      {...event.frontmatter}
-      body={event.html}
-      nextPostURL={_get(thisEdge, 'next.fields.slug')}
-      prevPostURL={_get(thisEdge, 'previous.fields.slug')}
-      posts={events.edges.map(edge => ({
-        ...edge.node.frontmatter,
-        ...edge.node.fields
-      }))}
-    />
+    <Layout>
+      <SingleEventTemplate
+        {...event}
+        {...event.frontmatter}
+        body={event.html}
+        nextPostURL={_get(thisEdge, 'next.fields.slug')}
+        prevPostURL={_get(thisEdge, 'previous.fields.slug')}
+        posts={events.edges.map(edge => ({
+          ...edge.node.frontmatter,
+          ...edge.node.fields
+        }))}
+      />
+    </Layout>
   )
 }
 

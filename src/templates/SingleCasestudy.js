@@ -1,8 +1,10 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import _get from 'lodash/get'
-import _format from 'date-fns/format'
 import Link from 'gatsby-link'
+import { graphql } from 'gatsby'
+
+import Layout from '../layouts'
 
 import Content from '../components/Content'
 import Image from '../components/Image'
@@ -88,13 +90,15 @@ const SingleCasestudy = ({ data, pathContext }) => {
     edge => edge.node.id === casestudy.id
   )
   return (
-    <SingleCasestudyTemplate
-      {...casestudy}
-      {...casestudy.frontmatter}
-      body={casestudy.html}
-      nextCasestudyURL={_get(thisEdge, 'next.fields.slug')}
-      prevCasestudyURL={_get(thisEdge, 'previous.fields.slug')}
-    />
+    <Layout>
+      <SingleCasestudyTemplate
+        {...casestudy}
+        {...casestudy.frontmatter}
+        body={casestudy.html}
+        nextCasestudyURL={_get(thisEdge, 'next.fields.slug')}
+        prevCasestudyURL={_get(thisEdge, 'previous.fields.slug')}
+      />
+    </Layout>
   )
 }
 

@@ -2,6 +2,9 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import { Grid } from 'react-feather'
+import { graphql } from 'gatsby'
+
+import Layout from '../layouts'
 
 import Image from '../components/Image'
 import NumberedHeader from '../components/NumberedHeader'
@@ -104,15 +107,17 @@ export const SingleTeamTemplate = ({
 }
 
 const SingleTeam = ({ data: { teamMember, posts } }) => (
-  <SingleTeamTemplate
-    {...teamMember}
-    {...teamMember.frontmatter}
-    body={teamMember.html}
-    posts={posts.edges.map(edge => ({
-      ...edge.node.frontmatter,
-      ...edge.node.fields
-    }))}
-  />
+  <Layout>
+    <SingleTeamTemplate
+      {...teamMember}
+      {...teamMember.frontmatter}
+      body={teamMember.html}
+      posts={posts.edges.map(edge => ({
+        ...edge.node.frontmatter,
+        ...edge.node.fields
+      }))}
+    />
+  </Layout>
 )
 
 export default SingleTeam

@@ -2,6 +2,7 @@ import React, { Fragment } from 'react'
 import Link from 'gatsby-link'
 import _map from 'lodash/map'
 import _format from 'date-fns/format'
+import _parseISO from 'date-fns/parseISO'
 
 import Image from './Image'
 import './PostCard.scss'
@@ -48,7 +49,7 @@ const PostCard = ({
               itemProp="dateCreated pubdate datePublished"
               date={date}
             >
-              {_format(date, 'MMMM Do, YYYY')}
+              {_format(_parseISO(date), 'MMMM Do, yyyy')}
             </time>
           )}
         </div>

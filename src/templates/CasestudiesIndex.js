@@ -1,5 +1,8 @@
 import React from 'react'
 import Helmet from 'react-helmet'
+import { graphql } from 'gatsby'
+
+import Layout from '../layouts'
 
 import PageHeader from '../components/PageHeader'
 import CasestudiesSection from '../components/CasestudiesSection'
@@ -30,16 +33,18 @@ export const CasestudiesIndexTemplate = ({
 
 // Export Default BlogIndex for front-end
 const CasestudiesIndex = ({ data, casestudies }) => (
-  <CasestudiesIndexTemplate
-    {...data.page}
-    {...data.page.fields}
-    {...data.page.frontmatter}
-    casestudies={data.casestudies.edges.map(testimonial => ({
-      ...testimonial.node,
-      ...testimonial.node.frontmatter,
-      ...testimonial.node.fields
-    }))}
-  />
+  <Layout>
+    <CasestudiesIndexTemplate
+      {...data.page}
+      {...data.page.fields}
+      {...data.page.frontmatter}
+      casestudies={data.casestudies.edges.map(testimonial => ({
+        ...testimonial.node,
+        ...testimonial.node.frontmatter,
+        ...testimonial.node.fields
+      }))}
+    />
+  </Layout>
 )
 
 export default CasestudiesIndex

@@ -2,6 +2,7 @@ import React from 'react'
 import GatsbyImage from 'gatsby-image'
 import PropTypes from 'prop-types'
 import _get from 'lodash/get'
+import { graphql } from 'gatsby'
 
 import './Image.css'
 
@@ -11,7 +12,7 @@ const extractChildImageSharp = (src = '', format) => {
     const childImageSharp = _get(src, 'childImageSharp')
     if (!childImageSharp) return _get(src, 'publicURL')
   }
-  if (format === 'sizes' || format === 'resolutions')
+  if (format === 'fluid' || format === 'fixed')
     return _get(src, `childImageSharp.${format}`)
   return src
 }
@@ -32,8 +33,8 @@ class Image extends React.Component {
       imgStyle
     } = this.props
 
-    const imageSizes = extractChildImageSharp(src, 'sizes')
-    const resolutions = extractChildImageSharp(src, 'resolutions')
+    const imageSizes = extractChildImageSharp(src, 'fluid')
+    const resolutions = extractChildImageSharp(src, 'fixed')
     const imageSrc = extractChildImageSharp(src || source)
 
     if (background) {
@@ -67,8 +68,8 @@ class Image extends React.Component {
       return (
         <GatsbyImage
           className={`Image ${className}`}
-          sizes={imageSizes}
-          resolutions={resolutions}
+          fluid={imageSizes}
+          fixed={resolutions}
           onClick={onClick}
           alt={alt}
           style={style}
@@ -99,72 +100,72 @@ export const query = graphql`
   fragment FluidImage on File {
     publicURL
     childImageSharp {
-      sizes(maxWidth: 2800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp
+      fluid(maxWidth: 2800, quality: 75) {
+        ...GatsbyImageSharpFluid_withWebp
       }
     }
   }
   fragment NoBlurImage on File {
     publicURL
     childImageSharp {
-      sizes(maxWidth: 2800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp_noBase64
+      fluid(maxWidth: 2800, quality: 75) {
+        ...GatsbyImageSharpFluid_withWebp_noBase64
       }
     }
   }
   fragment TracedImage on File {
     publicURL
     childImageSharp {
-      sizes(maxWidth: 2800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp_tracedSVG
+      fluid(maxWidth: 2800, quality: 75) {
+        ...GatsbyImageSharpFluid_withWebp_tracedSVG
       }
     }
   }
   fragment LargeImage on File {
     publicURL
     childImageSharp {
-      sizes(maxWidth: 1800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp
+      fluid(maxWidth: 1800, quality: 75) {
+        ...GatsbyImageSharpFluid_withWebp
       }
     }
   }
   fragment MediumImage on File {
     publicURL
     childImageSharp {
-      sizes(maxWidth: 800, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp
+      fluid(maxWidth: 800, quality: 75) {
+        ...GatsbyImageSharpFluid_withWebp
       }
     }
   }
   fragment SmallImage on File {
     publicURL
     childImageSharp {
-      sizes(maxWidth: 400, quality: 75) {
-        ...GatsbyImageSharpSizes_withWebp
+      fluid(maxWidth: 400, quality: 75) {
+        ...GatsbyImageSharpFluid_withWebp
       }
     }
   }
   fragment LargeImageFixed on File {
     publicURL
     childImageSharp {
-      resolutions(width: 1800, quality: 75) {
-        ...GatsbyImageSharpResolutions_withWebp
+      fixed(width: 1800, quality: 75) {
+        ...GatsbyImageSharpFixed_withWebp
       }
     }
   }
   fragment MediumImageFixed on File {
     publicURL
     childImageSharp {
-      resolutions(width: 800, quality: 75) {
-        ...GatsbyImageSharpResolutions_withWebp
+      fixed(width: 800, quality: 75) {
+        ...GatsbyImageSharpFixed_withWebp
       }
     }
   }
   fragment SmallImageFixed on File {
     publicURL
     childImageSharp {
-      resolutions(width: 400, quality: 75) {
-        ...GatsbyImageSharpResolutions_withWebp
+      fixed(width: 400, quality: 75) {
+        ...GatsbyImageSharpFixed_withWebp
       }
     }
   }

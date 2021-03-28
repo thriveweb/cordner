@@ -1,7 +1,6 @@
 import React from 'react'
 import { ChevronRight, ChevronLeft } from 'react-feather'
-import Swiper from 'react-id-swiper/lib/custom'
-import 'react-id-swiper/src/styles/css/swiper.css'
+import Swiper from 'react-id-swiper';
 import _get from 'lodash/get'
 
 import Image from './Image'
