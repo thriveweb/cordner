@@ -2,9 +2,9 @@
 template: SingleTeam
 title: Caitlin Fruk
 subtitle: Consultant
-teamOrder: '15'
-featuredImage: /images/uploads/caitlin.jpg
-mainImage: /images/uploads/caitlin.jpg
+teamOrder: '17'
+featuredImage: /images/uploads/caitlinedited.jpg
+mainImage: /images/uploads/caitlinedited.jpg
 position: Consultant
 categories:
   - category: Taxation and Compliance
