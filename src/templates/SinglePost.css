@@ -40,7 +40,7 @@
   background: var(--purple);
 }
 
-.SinglePost--BackgroundImage .gatsby-image-outer-wrapper {
+.SinglePost--BackgroundImage .gatsby-image-wrapper {
   opacity: 0.3;
   background-blend-mode: multiply;
 }
