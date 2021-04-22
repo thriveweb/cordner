@@ -29,109 +29,109 @@ collections:
         name: 'home-page'
         fields:
           - {
-              label: Template,
-              name: template,
-              widget: hidden,
-              default: HomePage,
+              label: 'Template',
+              name: 'template',
+              widget: 'hidden',
+              default: 'HomePage',
             }
-          - { label: Slug, name: slug, widget: hidden, default: '' }
-          - { label: Title, name: title, widget: string }
-          - { label: Featured Image, name: featuredImage, widget: image }
-          - name: featureLink
-            label: feature Link
-            widget: object
+          - { label: 'Slug', name: 'slug', widget: 'hidden', default: '' }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Featured Image', name: 'featuredImage', widget: 'image' }
+          - name: 'featureLink'
+            label: 'feature Link'
+            widget: 'object'
             fields:
-              - { name: label, label: label, widget: string }
-              - { name: link, label: Link, widget: string }
-          - name: section1
-            label: section 1
-            widget: object
+              - { name: 'label', label: 'label', widget: 'string' }
+              - { name: 'link', label: 'Link', widget: 'string' }
+          - name: 'section1'
+            label: 'section 1'
+            widget: 'object'
             fields:
-              - { name: number, label: number, widget: string }
-              - { name: numberTitle, label: numberTitle, widget: string }
-              - { name: title, label: title, widget: string }
-              - name: button
-                label: button
-                widget: object
+              - { name: 'number', label: 'number', widget: 'string' }
+              - { name: 'numberTitle', label: 'numberTitle', widget: 'string' }
+              - { name: 'title', label: 'title', widget: 'string' }
+              - name: 'button'
+                label: 'button'
+                widget: 'object'
                 fields:
-                  - { name: label, label: label, widget: string }
-                  - { name: link, label: Link, widget: string }
-              - { name: rightTitle, label: rightTitle, widget: string }
-              - { name: rightContent, label: rightContent, widget: markdown }
+                  - { name: 'label', label: 'label', widget: 'string' }
+                  - { name: 'link', label: 'Link', widget: 'string' }
+              - { name: 'rightTitle', label: 'rightTitle', widget: 'string' }
+              - { name: 'rightContent', label: 'rightContent', widget: 'markdown' }
 
-          - name: section2
-            label: section 2
-            widget: object
+          - name: 'section2'
+            label: 'section 2'
+            widget: 'object'
             fields:
-              - { name: title, label: title, widget: string }
-          - name: section3
-            label: section 3
-            widget: object
+              - { name: 'title', label: 'title', widget: 'string' }
+          - name: 'section3'
+            label: 'section 3'
+            widget: 'object'
             fields:
-              - { name: image, label: image, widget: image }
-              - { name: title, label: title, widget: string }
-              - name: button
-                label: button
-                widget: object
+              - { name: 'image', label: 'image', widget: 'image' }
+              - { name: 'title', label: 'title', widget: 'string' }
+              - name: 'button'
+                label: 'button'
+                widget: 'object'
                 fields:
-                  - { name: label, label: label, widget: string }
-                  - { name: link, label: Link, widget: string }
-          - name: section4
-            label: section 4
-            widget: object
+                  - { name: 'label', label: 'label', widget: 'string' }
+                  - { name: 'link', label: 'Link', widget: 'string' }
+          - name: 'section4'
+            label: 'section 4'
+            widget: 'object'
             fields:
-              - { name: title, label: title, widget: string }
-              - name: button
-                label: button
-                widget: object
+              - { name: 'title', label: 'title', widget: 'string' }
+              - name: 'button'
+                label: 'button'
+                widget: 'object'
                 fields:
-                  - { name: label, label: label, widget: string }
-                  - { name: link, label: Link, widget: string }
-          - name: section5
-            label: section 5
-            widget: object
+                  - { name: 'label', label: 'label', widget: 'string' }
+                  - { name: 'link', label: 'Link', widget: 'string' }
+          - name: 'section5'
+            label: 'section 5'
+            widget: 'object'
             fields:
-              - { name: title, label: title, widget: string }
+              - { name: 'title', label: 'title', widget: 'string' }
           - name: 'testimonials'
             label: 'testimonials'
             widget: 'list'
             fields:
               - {
-                  label: Quote,
-                  name: quote,
-                  widget: string,
+                  label: 'Quote',
+                  name: 'quote',
+                  widget: 'string',
                   default: 'Everything is awesome!',
                 }
-              - label: Author
-                name: author
-                widget: object
+              - label: 'Author'
+                name: 'author'
+                widget: 'object'
                 fields:
-                  - { name: name, label: name, widget: string }
-                  - { name: company, label: company, widget: string }
-                  - { name: avatar, label: avatar, widget: image }
+                  - { name: 'name', label: 'name', widget: 'string' }
+                  - { name: 'company', label: 'company', widget: 'string' }
+                  - { name: 'avatar', label: 'avatar', widget: 'image' }
 
           - label: 'Meta'
             required: false
             name: 'meta'
             widget: 'object'
             fields:
-              - { label: Title, name: title, widget: string, required: false }
+              - { label: 'Title', name: 'title', widget: 'string', required: false }
               - {
-                  label: Description,
-                  name: description,
-                  widget: text,
+                  label: 'Description',
+                  name: 'description',
+                  widget: 'text',
                   required: false,
                   pattern: ['.{,300}', 'Must not exceed 300 characters'],
                 }
               - {
-                  label: Canonical Link,
-                  name: canonicalLink,
-                  widget: string,
+                  label: 'Canonical Link',
+                  name: 'canonicalLink',
+                  widget: 'string',
                   required: false,
                 }
               - {
-                  label: Noindex,
-                  name: noindex,
+                  label: 'Noindex',
+                  name: 'noindex',
                   widget: boolean,
                   required: false,
                 }

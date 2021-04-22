@@ -7,7 +7,7 @@ if (typeof window !== 'undefined') {
   document.head.appendChild(link)
 
   if (process.env.NETLIFY_SITE_URL) {
-    window.localStorage.setItem('netlifySiteURL', process.env.NETLIFY_SITE_URL)
+    // window.localStorage.setItem('netlifySiteURL', process.env.NETLIFY_SITE_URL)
   }
   // Log netlifySiteURL if editing on localhost
   if (
