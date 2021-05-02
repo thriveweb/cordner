@@ -29,49 +29,49 @@ CMS.registerMediaLibrary(uploadcare);
 //   CMS.registerPreviewStyle('/styles.css')
 // }
 
-CMS.registerPreviewTemplate('home-page', ({ entry }) => (
-  <HomePageTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('advisors-page', ({ entry }) => (
-  <AdvisorsPageTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('blog-page', ({ entry }) => (
-  <BlogIndexTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('events-page', ({ entry }) => (
-  <EventsIndexTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
-  <ContactPageTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('privacy-page', ({ entry }) => (
-  <StandardPageTemplate {...entry.toJS().data} />
-))
+// CMS.registerPreviewTemplate('home-page', ({ entry }) => (
+//   <HomePageTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('advisors-page', ({ entry }) => (
+//   <AdvisorsPageTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('blog-page', ({ entry }) => (
+//   <BlogIndexTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('events-page', ({ entry }) => (
+//   <EventsIndexTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('contact-page', ({ entry }) => (
+//   <ContactPageTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('privacy-page', ({ entry }) => (
+//   <StandardPageTemplate {...entry.toJS().data} />
+// ))
 
-CMS.registerPreviewTemplate('disclaimer', ({ entry }) => (
-  <StandardPageTemplate {...entry.toJS().data} />
-))
+// CMS.registerPreviewTemplate('disclaimer', ({ entry }) => (
+//   <StandardPageTemplate {...entry.toJS().data} />
+// ))
 
-CMS.registerPreviewTemplate('terms', ({ entry }) => (
-  <StandardPageTemplate {...entry.toJS().data} />
-))
+// CMS.registerPreviewTemplate('terms', ({ entry }) => (
+//   <StandardPageTemplate {...entry.toJS().data} />
+// ))
 
-CMS.registerPreviewTemplate('updates', ({ entry }) => (
-  <UpdatesPageTemplate {...entry.toJS().data} />
-))
+// CMS.registerPreviewTemplate('updates', ({ entry }) => (
+//   <UpdatesPageTemplate {...entry.toJS().data} />
+// ))
 
-CMS.registerPreviewTemplate('posts', ({ entry }) => (
-  <SinglePostTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('casestudies', ({ entry }) => (
-  <SingleCasestudyTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('careers', ({ entry }) => (
-  <SingleCareerTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('services', ({ entry }) => (
-  <SingleServiceTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('team', ({ entry }) => (
-  <SingleTeamTemplate {...entry.toJS().data} />
-))
+// CMS.registerPreviewTemplate('posts', ({ entry }) => (
+//   <SinglePostTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('casestudies', ({ entry }) => (
+//   <SingleCasestudyTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('careers', ({ entry }) => (
+//   <SingleCareerTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('services', ({ entry }) => (
+//   <SingleServiceTemplate {...entry.toJS().data} />
+// ))
+// CMS.registerPreviewTemplate('team', ({ entry }) => (
+//   <SingleTeamTemplate {...entry.toJS().data} />
+// ))

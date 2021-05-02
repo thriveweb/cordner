@@ -38,8 +38,8 @@ export const HomePageTemplate = ({
       <PageHeader large title={title} backgroundImage={featuredImage} />
 
       <div className="container">
-        <Link to={featureLink.link} className="button">
-          <span>{featureLink.label}</span>
+        <Link to={featureLink && featureLink.link} className="button">
+          <span>{featureLink && featureLink.label}</span>
           <img src="/images/uploads/button_arrow.svg" alt="login icon" />
         </Link>
       </div>
