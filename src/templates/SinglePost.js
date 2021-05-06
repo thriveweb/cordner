@@ -78,7 +78,7 @@ export const SinglePostTemplate = ({
                 itemProp="dateCreated pubdate datePublished"
                 date={date}
               >
-                {_format(_parseISO(date), 'MMMM Do, yyyy')}
+                {_format(_parseISO(date), 'MMMM do, yyyy')}
               </time>
             )}
             {authors && (
