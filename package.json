@@ -37,7 +37,7 @@
     "react-helmet": "^6.1.0",
     "react-id-swiper": "^1.6.8",
     "react-markdown": "^6.0.1",
-    "swiper": "^4.4.1"
+    "swiper": "^6.5.1"
   },
   "keywords": [
     "gatsby"
