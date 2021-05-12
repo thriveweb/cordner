@@ -7,6 +7,10 @@ featuredImage: https://ucarecdn.com/a983b13d-14fe-4674-afae-ad9f524d2514/
 bannerImage: https://ucarecdn.com/33106077-bf97-4589-b619-e3c3e8734797/
 excerpt: The government have introduced several new measures aimed at boosting
   new investment and providing relief for both businesses and individuals.
+categories:
+  - category: Taxation and Compliance
+authors:
+  - author: Caitlin Fruk
 ---
 With the end of the 2021 financial year drawing closer tax planning considerations are as important as ever. The government have introduced several new measures aimed at boosting new investment and providing relief for both businesses and individuals.  
 
