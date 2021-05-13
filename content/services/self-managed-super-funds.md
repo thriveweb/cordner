@@ -66,6 +66,8 @@ Cordner Super Advisory Pty Ltd
 
 ABN: 47 157 966 204
 
+AFSL: Gamma Wealth Group
+
 AFSL No: 334040
 
 ![](https://ucarecdn.com/82990c72-f25f-4807-9ad7-877668cad258/)
