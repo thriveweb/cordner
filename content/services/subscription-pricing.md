@@ -14,23 +14,26 @@ contentImage: /images/uploads/elsa-blog.jpg
 
 |                           | Max No. Employees | Normal Price | **Client to Pay (Incl GST)** |
 | ------------------------- | ----------------- | ------------ | ---------------------------- |
-| Starter                   | 1                 | 25           | **$20**                      |
-| Standard                  | 2                 | 50           | **$40**                      |
-| Premium 5                 | 5                 | 65           | **$55**                      |
-| Premium 10                | 10                | 75           | **$65**                      |
-| Premium 20                | 20                | 90           | **$80**                      |
-| Premium 50                | 50                | 125          | **$105**                     |
-| Premium 100               | 100               | 150          | **$130**                     |
+| Starter                   | 1                 | 27           | **$20**                      |
+| Standard                  | 2                 | 52           | **$40**                      |
+| Premium 5                 | 5                 | 67           | **$55**                      |
+| Premium 10                | 10                | 77           | **$65**                      |
+| Premium 20                | 20                | 92           | **$80**                      |
+| Premium 50                | 50                | 127          | **$105**                     |
+| Premium 100               | 100               | 152          | **$130**                     |
 | Non-GST Cashbook*         | 0                 | 10           | **$10**                      |
 | GST Cashbook*             | 0                 | 19           | **$19**                      |
 | Payroll Cashbook*         | 4                 | 29           | **$29**                      |
 | Payroll Only*             | 4                 | 10           | **$10**                      |
 | \* **Partner Only Plans** |                   |              |                              |
 
-_Notes:_
+*Notes:*
 
 * There are no discounts on Partner Only Plans. 
 * No invoicing functionality on Partner Only Plans.
+* Auto-Super and multi-currency enabled with a subscription of premium 5 or higher.
+
+
 
 #### QuickBooks Subscriptions
 
@@ -50,6 +53,6 @@ _Notes:_
 | Monthly Retail Price (Incl GST) | $20          | $35        | $50     |
 | **Cordner Price (Incl GST)**    | **$15**      | **$25**    | **$25** |
 
-_Notes_:
+*Notes*:
 
 * Essentials file will include the Plus file for a **limited time only!**

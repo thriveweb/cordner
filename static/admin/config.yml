@@ -22,7 +22,7 @@ collections:
     label: 'Page'
     delete: false
     editor:
-      preview: true
+      preview: false
     files:
       - file: 'content/pages/home.md'
         label: 'Home Page'
@@ -448,7 +448,7 @@ collections:
   - name: posts
     label: Post
     editor:
-      preview: true
+      preview: false
     folder: content/posts
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true # Allow users to create new documents in this collection
@@ -509,7 +509,7 @@ collections:
   - name: events
     label: Event
     editor:
-      preview: true
+      preview: false
     folder: content/events
     slug: '{{slug}}'
     create: true # Allow users to create new documents in this collection
@@ -560,7 +560,7 @@ collections:
   - name: careers
     label: Careers
     editor:
-      preview: true
+      preview: false
     folder: content/careers
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true # Allow users to create new documents in this collection
@@ -612,7 +612,7 @@ collections:
   - name: casestudies
     label: Case Studies
     editor:
-      preview: true
+      preview: false
     folder: content/casestudies
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true # Allow users to create new documents in this collection
@@ -664,7 +664,7 @@ collections:
   - name: services
     label: Services
     editor:
-      preview: true
+      preview: false
     folder: content/services
     slug: '{{slug}}'
     create: true # Allow users to create new documents in this collection
@@ -756,7 +756,7 @@ collections:
   - name: team
     label: Team
     editor:
-      preview: true
+      preview: false
     folder: content/team
     slug: '{{slug}}'
     create: true # Allow users to create new documents in this collection
