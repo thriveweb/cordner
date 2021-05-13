@@ -10,21 +10,18 @@ featuredImage: /images/uploads/smsf.jpg
 icon: /images/uploads/self-managed--icon.svg
 contentImage: /images/uploads/smsf.jpg
 buttonsLeft:
-  - customLink: >-
-      https://www.moneysmart.gov.au/superannuation-and-retirement/self-managed-super-fund-smsf
+  - customLink: https://www.moneysmart.gov.au/superannuation-and-retirement/self-managed-super-fund-smsf
     title: Considering an SMSF?
-  - customLink: >-
-      https://ucarecdn.com/49ce21c5-86b2-424a-baac-72cd73e0a88b/FactSheetRetirementIncomeYourOptions
+  - customLink: https://ucarecdn.com/49ce21c5-86b2-424a-baac-72cd73e0a88b/FactSheetRetirementIncomeYourOptions
     title: FACT SHEET – Retirement Income from Super
-  - customLink: >-
-      https://ucarecdn.com/aa775bd6-e7bd-4030-b084-f6221f37159d/FactSheetContributingtoSuper
+  - customLink: https://ucarecdn.com/aa775bd6-e7bd-4030-b084-f6221f37159d/FactSheetContributingtoSuper
     title: FACT SHEET – Contributing to Super
 buttonsRight:
-  - customLink: 'mailto:elsa@cordner.com.au'
+  - customLink: mailto:elsa@cordner.com.au
     title: Have a question about your super?
 pdfLinks:
   - title: Financial Services Guide 1
-  - customLink: 'https://ucarecdn.com/1b7fd1b9-6459-4d99-9a08-9617c3f27cc0/'
+  - customLink: https://ucarecdn.com/1b7fd1b9-6459-4d99-9a08-9617c3f27cc0/
     title: Financial Services Guide 2
 ---
 As experienced Gold Coast SMSF accountants we know many people already manage their own superannuation via a SMSF and many more will decide to take control of one of their most significant assets in the next few years.
@@ -70,3 +67,5 @@ Cordner Super Advisory Pty Ltd
 ABN: 47 157 966 204
 
 AFSL No: 334040
+
+![](https://ucarecdn.com/e8ccfaca-b62c-496e-b64f-b053a51a02a8/)
