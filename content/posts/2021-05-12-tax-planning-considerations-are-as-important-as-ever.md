@@ -3,8 +3,8 @@ template: SinglePost
 title: Tax planning considerations are as important as ever
 status: Featured
 date: 2021-05-13T04:42:15.382Z
-featuredImage: https://ucarecdn.com/03b0c8b7-ba16-4889-80c3-8a8b089d3896/
-bannerImage: https://ucarecdn.com/7f3e596a-72f6-4781-a425-d8cbc06434b0/
+featuredImage: /images/uploads/caitlinedited.jpg
+bannerImage: /images/uploads/caitlinblog.jpg
 excerpt: The government have introduced several new measures aimed at boosting
   new investment and providing relief for both businesses and individuals.
 categories:
