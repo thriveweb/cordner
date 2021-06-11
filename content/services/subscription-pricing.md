@@ -50,7 +50,3 @@ contentImage: /images/uploads/elsa-blog.jpg
 | Manage budgets                  | No           | No         | Yes     |
 | Monthly Retail Price (Incl GST) | $22          | $37        | $52     |
 | **Cordner Price (Incl GST)**    | **$15**      | **$25**    | **$25** |
-
-*Notes*:
-
-* Essentials file will include the Plus file for a **limited time only!**
