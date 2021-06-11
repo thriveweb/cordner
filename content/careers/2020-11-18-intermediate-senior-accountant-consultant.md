@@ -1,50 +1,47 @@
 ---
 template: SingleCareer
-title: 'Intermediate / Senior Accountant : (POSITION FILLED)'
+title: Junior Office Administrator
 status: Featured
-date: '2020-11-18'
+date: 2020-11-17T14:00:00.000Z
 featuredImage: /images/uploads/7-mar.jpg
-excerpt: >-
-  The Consultant will analyse, evaluate and report on financial matters for a
-  portfolio of clients, including preparation of management reports, financial
-  statements and tax returns. This includes providing advice on various
-  financial matters for clients, including income tax, GST, structuring and
-  budgeting and forecasting.
+excerpt: An exciting opportunity exists for an enthusiastic team player to join
+  our busy office in Broadbeach, Gold Coast. You will be joining a small
+  friendly accounting team with a great working culture. The successful
+  candidate will work with existing team members, supporting a variety of office
+  duties.
 careerDetails:
-  name: ''
+  name: Junior Office Administrator
+  company: Cordner Advisory
 ---
-Cordner Advisory is seeking to recruit a new Intermediate to Senior level accountant.
+An exciting opportunity exists for an enthusiastic team player to join our busy office in Broadbeach, Gold Coast. You will be joining a small friendly accounting team with a great working culture. The successful candidate will work with existing team members, supporting a variety of office duties.
 
-We are centrally located in Broadbeach, on the Gold Coast offering great benefits and incentives, flexible work arrangements and opportunities for career advancement.
+This full-time role will give the candidate experience across various parts of the business including secretarial and administrative duties, business development, digital platforms, office facilities, reception, and client onboarding. 
 
-We are proud of our friendly team culture and the diverse clients we work with and are seeking a candidate that demonstrates strong ability to work with a team, makes client service their priority and has enthusiasm for working in the industry.
 
-The Consultant will analyse, evaluate and report on financial matters for a portfolio of clients, including preparation of management reports, financial statements and tax returns. This includes providing advice on various financial matters for clients, including income tax, GST, structuring and budgeting and forecasting.
+**Your responsibilities will include, but are not limited to:**
 
-**Role & Responsibilities**  
+•	Reception and client meeting rooms
+•	Greeting clients on arrival 
+•	Upkeep of general common areas\
+•	Taking and directing all incoming phone calls
+•	Mail processing\
+•	General electronic scanning & filing and general office administration
+•	Ordering of stationary & office supplies
+•	New business administration support 
+•	Client onboarding, exiting, and maintaining our client databases\
+•	Assist with events & sponsorship, branding & merchandise
+•	Maintain digital platforms, website and social media accounts
 
-* Preparation of financial statements and tax returns for a wide range of clients and different entity types
-* Preparation of management reports on a regular basis to a group of clients, making use of online accounting software to assist clients with decision making
-* Preparation of income tax returns and BAS 
-* Working with clients to prepare budgets / forecasts and to plan for tax obligations
-* Preparation and lodgement of activity statements for your clients
-* Generally managing the day-to-day relationship with your client base and liaising with Directors and Team Lead as and when required
-* Support the firm’s business development strategy
-* Liaising with third parties such as the ATO, financiers, financial planners and software support
-* Training and supporting junior staff members
+**The ideal candidate will possess:**
 
-**Qualifications and Experience**
+•	Some problem-solving skills
+•	Attention to detail
+•	Good written and oral communication skills
+•	Self-motivated and display good time management skills
+•	Some knowledge of web-based applications and sites\
+•	Experience with Microsoft Office (Word, Excel and Outlook)
+•	Customer service experience an advantage
 
-* Demonstrate a good grasp of general business services accounting and tax compliance 
-* A completed degree and having (or working toward) your professional qualifications is expected
-* Minimum of 2-3 years practical accounting experience
-* Experience working with a client base directly and as part of a team
-* Be well organised, efficient and self motivated 
-* Strong communication
-* Extensive use of cloud software, specifically Xero
-* Flexible and able to effectively deal with changes in business needs as they arise
-* A solid understanding of various accounting software packages & PC skills 
+On the job training will be provided.
 
 To apply, please send your resume to info@cordner.com.au.
-
-Salary commensurate with experience
