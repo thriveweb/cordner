@@ -33,8 +33,6 @@ contentImage: /images/uploads/elsa-blog.jpg
 * No invoicing functionality on Partner Only Plans.
 * Auto-Super and multi-currency enabled with a subscription of premium 5 or higher.
 
-
-
 #### QuickBooks Subscriptions
 
 |                                 | Simple Start | Essentials | Plus    |
@@ -50,7 +48,7 @@ contentImage: /images/uploads/elsa-blog.jpg
 | Track Inventory                 | No           | No         | Yes     |
 | Track projects & locations      | No           | No         | Yes     |
 | Manage budgets                  | No           | No         | Yes     |
-| Monthly Retail Price (Incl GST) | $20          | $35        | $50     |
+| Monthly Retail Price (Incl GST) | $22          | $37        | $52     |
 | **Cordner Price (Incl GST)**    | **$15**      | **$25**    | **$25** |
 
 *Notes*:
