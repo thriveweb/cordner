@@ -586,8 +586,8 @@ collections:
         name: 'careerDetails'
         widget: 'object'
         fields:
-          - { label: Name, name: name, widget: string }
-          - { label: Company, name: company, widget: string }
+          - { label: Name, name: name, widget: string, required: false  }
+          - { label: Company, name: company, widget: string, required: false  }
       - label: 'Meta'
         required: false
         name: 'meta'
