@@ -17,6 +17,7 @@ An exciting opportunity exists for an enthusiastic team player to join our busy 
 
 This full-time role will give the candidate experience across various parts of the business including secretarial and administrative duties, business development, digital platforms, office facilities, reception, and client onboarding. 
 
+
 **Your responsibilities will include, but are not limited to:**
 
 •	Reception and client meeting rooms
@@ -43,4 +44,4 @@ This full-time role will give the candidate experience across various parts of t
 
 On the job training will be provided.
 
-To apply, please send your resume to info@cordner.com.au or click [here ](https://www.seek.com.au/job/52506019?type=promoted#searchRequestToken=30043df8-302b-4333-b5f8-35e28b3cfaf9)to apply via Seek
+**To apply, please send your resume to info@cordner.com.au or click [here ](https://www.seek.com.au/job/52506019?type=promoted#searchRequestToken=30043df8-302b-4333-b5f8-35e28b3cfaf9)to apply via Seek**
