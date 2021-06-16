@@ -3,9 +3,9 @@ template: SingleEvent
 title: Budgeting
 featuredImage: /images/uploads/11-sep.jpg
 status: Published
-date: '2020-02-07'
+date: 2020-02-07
 categories:
-  - category: Past event
+  - category: Past Events
 ---
 We invite you to join us for the first session in our
 
