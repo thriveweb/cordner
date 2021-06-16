@@ -19,6 +19,7 @@ An exciting opportunity exists for an enthusiastic team player to join our busy 
 
 **Your responsibilities will include, but are not limited to:**
 
+
 •	Manage client software subscriptions
 •	Manage monthly fixed invoicing
 •	Assist with client engagement planning and job set-up in our systems
