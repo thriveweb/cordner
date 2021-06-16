@@ -3,9 +3,9 @@ template: SingleEvent
 title: Fringe Benefits
 featuredImage: /images/uploads/11-mar.jpg
 status: Published
-date: '2020-03-13'
+date: 2020-03-13
 categories:
-  - category: Past events
+  - category: Past Events
 ---
 **Do you have employees?**
 
