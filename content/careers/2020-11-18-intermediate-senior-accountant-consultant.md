@@ -10,12 +10,15 @@ excerpt: An exciting opportunity exists for an enthusiastic team player to join
   candidate will work with existing team members, supporting a variety of office
   duties.
 careerDetails:
-  name: Cordner Advisory
-  company: "-"
+  name: ""
+  company: ""
 ---
 An exciting opportunity exists for an enthusiastic team player to join our busy office in Broadbeach, Gold Coast. You will be joining a small friendly accounting team with a great working culture. The successful candidate will work with existing team members, supporting a variety of office duties.
 
+An exciting opportunity exists for an enthusiastic team player to join our busy office in Broadbeach, Gold Coast. You will be joining a small friendly accounting team with a great working culture. The successful candidate will work with existing team members, supporting a variety of office duties.
+
 This full-time role will give the candidate experience across various parts of the business including secretarial and administrative duties, business development, digital platforms, office facilities, reception, and client onboarding. 
+
 
 **Your responsibilities will include, but are not limited to:**
 
