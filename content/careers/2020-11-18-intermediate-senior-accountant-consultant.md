@@ -33,7 +33,7 @@ This full-time role will give the candidate experience across various parts of t
 
 **The ideal candidate will possess:**
 
-\- Some problem-solving skills
+- Some problem-solving skills
 - Attention to detail
 - Good written and oral communication skills
 - Self-motivated and display good time management skills
