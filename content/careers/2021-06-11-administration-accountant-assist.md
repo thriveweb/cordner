@@ -15,7 +15,7 @@ careerDetails:
 ---
 An exciting opportunity exists for an enthusiastic team player to join our busy office in Broadbeach, Gold Coast. You will be joining a small friendly accounting team with a great working culture. This is a permanent part-time role (approx. 22.5 hours per week) working alongside an existing team member and supporting the accountants.
 
-Job Overview: Responsible for managing the end to end workflow process, lodgement program, and Corporate Secretarial within the firm while ensuring compliance is met. Communicating with internal stakeholders and producing reports for tracking and monitoring.
+**Job Overview:** Responsible for managing the end to end workflow process, lodgement program, and Corporate Secretarial within the firm while ensuring compliance is met. Communicating with internal stakeholders and producing reports for tracking and monitoring.
 
 **Your responsibilities will include, but are not limited to:**
 
@@ -29,8 +29,6 @@ Job Overview: Responsible for managing the end to end workflow process, lodgemen
 •	Workflow reporting and timesheets
 •	Company Corporate Secretarial Services
 •	New entity set-up
-
-
 
 **The ideal candidate will possess:**
 
