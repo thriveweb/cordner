@@ -19,7 +19,7 @@ This full-time role will give the candidate experience across various parts of t
 
 **Your responsibilities will include, but are not limited to:**
 
-\- Reception and client meeting rooms
+- Reception and client meeting rooms
 - Greeting clients on arrival 
 - Upkeep of general common areas\
 - Taking and directing all incoming phone calls
