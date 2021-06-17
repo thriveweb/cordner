@@ -8,7 +8,7 @@ excerpt: An exciting opportunity exists for an enthusiastic team player to join
   our busy office in Broadbeach, Gold Coast. You will be joining a small
   friendly accounting team with a great working culture. The successful
   candidate will work with existing team members, supporting a variety of office
-  duties.
+  duties
 careerDetails:
   name: ""
   company: ""
