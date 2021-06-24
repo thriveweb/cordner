@@ -38,7 +38,7 @@ contentImage: /images/uploads/elsa-blog.jpg
 |                                 | Simple Start | Essentials | Plus    |
 | ------------------------------- | ------------ | ---------- | ------- |
 | Allows bank feeds               | Yes          | Yes        | Yes     |
-| Payroll                         | 4            | 7          | 10      |
+| Payroll                         | No           | No         | No      |
 | Send custom invoices & quotes   | Yes          | Yes        | Yes     |
 | Manage Suppliers & Bills        | No           | Yes        | Yes     |
 | Track GST & e-lodge BAS         | Yes          | Yes        | Yes     |
@@ -51,7 +51,11 @@ contentImage: /images/uploads/elsa-blog.jpg
 | Monthly Retail Price (Incl GST) | $22          | $37        | $52     |
 | **Cordner Price (Incl GST)**    | **$15**      | **$25**    | **$25** |
 
-|                              | Retail price per month                    | **Cordner Advisory price per month**            |
-| ---------------------------- | ----------------------------------------- | ----------------------------------------------- |
-| Standard Payroll             | $0 + $5.00 per employee paid              | $0 + $2.50 per employee paid                    |
-| Advance Payroll              | $10 + $5.00 per employee paid             | $5 + $2.50 per employee paid                    |
+|                  | Retail price per month        | **Cordner Advisory price per month** |
+| ---------------- | ----------------------------- | ------------------------------------ |
+| Standard Payroll | $0 + $5.00 per employee paid  | $0 + $2.50 per employee paid         |
+| Advance Payroll  | $10 + $5.00 per employee paid | $5 + $2.50 per employee paid         |
+
+*Notes:*
+
+* Advanced Payroll includes Award Rates, Rostering & Time and Attendance Tracking
