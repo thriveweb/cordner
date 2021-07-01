@@ -1,6 +1,6 @@
 ---
 template: SingleCareer
-title: Administration - Accountant Assist
+title: POSITION NOW FILLED - Administration - Accountant Assist
 status: Featured
 date: 2021-06-11T03:58:48.417Z
 featuredImage: /images/uploads/7-mar.jpg
