@@ -1,6 +1,6 @@
 ---
 template: SingleCareer
-title: Junior Office Administrator
+title: POSITION NOW FILLED - Junior Office Administrator
 status: Featured
 date: 2020-11-17T14:00:00.000Z
 featuredImage: /images/uploads/7-mar.jpg
