@@ -4,7 +4,7 @@ title: Changes to STP reporting from 1 July
 status: Featured
 date: 2021-08-02T23:53:09.630Z
 featuredImage: /images/uploads/cordner-advisory-headshots-1x1-risen-film-10-of-14-.jpg
-bannerImage: /images/uploads/16-may.jpg
+bannerImage: /images/uploads/kamil-blog.jpg
 excerpt: Most employers should now be reporting through Single Touch Payroll
   (STP) each pay day, unless they only have closely held payees or are covered
   by a deferral or exemption.
