@@ -21,9 +21,9 @@ From 1 July 2021, small employers must report payments made to closely held paye
 
 A ‘closely held payee’ is an individual who is directly related to the entity from which they receive payments, for example:
 
-•	family members of a family business;
-•	directors or shareholders of a company; and
-•	beneficiaries of a trust.
+* family members of a family business;
+* directors or shareholders of a company; and
+* beneficiaries of a trust.
 
 Payments to closely held payees can be reported via STP (from 1 July 2021) using any of the following three options:
 
@@ -34,11 +34,6 @@ Payments to closely held payees can be reported via STP (from 1 July 2021) using
 STP quarterly reporting concessions for micro employers will only be available to micro employers who meet certain eligibility requirements. These now include the need for exceptional circumstances to exist.
 Employers who haven't started reporting through STP and don't have a deferral or exemption need to start reporting now.
 
-
 At Cordner Advisory we can assist your business to apply for this concession. Please do not hesitate to contact one of your trusted advisors at Cordner Advisory should you need further assistance. 
-
-
-
-
 
 *Cordner Advisory - Your Business Advisory, Accounting & Tax Specialists. Catering for clients all across Australia, from the golden beaches of the Gold Coast and Sunshine Coast to the capital cities such as Brisbane, Sydney and Melbourne*
