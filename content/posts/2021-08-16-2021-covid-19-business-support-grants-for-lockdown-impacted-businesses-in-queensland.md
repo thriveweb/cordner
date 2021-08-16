@@ -24,4 +24,4 @@ Applications are lodged through the Queensland Rural and Industry Development Au
 
 However, please contact our office should you wish to discuss and require assistance with the application including an Independent Accountant’s letter which we can assist with.
 
-[Click here for more information](<https://www.business.qld.gov.au/starting-business/advice-support/grants/covid19-support-grants>)
+[](https://www.business.qld.gov.au/starting-business/advice-support/grants/covid19-support-grants)Click to go to the Queensland government website for more information.
