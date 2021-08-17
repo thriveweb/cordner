@@ -5,7 +5,7 @@ title: 2021 COVID-19 Business Support Grants for lockdown-impacted businesses in
 status: Featured
 date: 2021-08-16T06:03:14.417Z
 featuredImage: /images/uploads/_r1a5138_print.jpg
-bannerImage: /images/uploads/v5.jpeg
+bannerImage: /images/uploads/covidblog.jpg
 excerpt: Your business or not-for-profit organisation may be eligible for a
   $5,000 grant if you're impacted by the Queensland lockdowns that commenced at
   4pm, Saturday 31 July 2021.
