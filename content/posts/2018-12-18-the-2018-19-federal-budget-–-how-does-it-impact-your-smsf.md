@@ -2,12 +2,11 @@
 template: SinglePost
 title: The 2018-19 Federal Budget – how does it impact your SMSF
 status: Published
-date: '2018-05-24'
-featuredImage: /images/uploads/elsa...jpg
+date: 2018-05-24
+featuredImage: /images/uploads/_r1a5200_print.jpg
 bannerImage: /images/uploads/tax--image.jpg
-excerpt: >-
-  An SMSF friendly budget is the good news coming out of the 2018-19 Federal
-  Budget.
+excerpt: An SMSF friendly budget is the good news coming out of the 2018-19
+  Federal Budget.
 categories:
   - category: Self Managed Super Funds
 authors:
