@@ -28,3 +28,9 @@ There are updated car threshold amounts from 1 July as follows;
 1. The threshold for LCT has increased to $69,152 from 1 July 2021
 2. For fuel efficient cards, the threshold has increased to $79,659 for the 2021-22 financial year
 3. Note that the value of the car generally includes parts, accessories and attachments supplied or imported at the same time
+
+Please do not hesitate to contact one of your trusted advisors at Cordner Advisory should you need further assistance.
+
+
+
+Cordner Advisory - Your Business Advisory, Accounting & Tax Specialists. Catering for clients all across Australia, from the golden beaches of the Gold Coast and Sunshine Coast to the capital cities such as Brisbane, Sydney and Melbourne
