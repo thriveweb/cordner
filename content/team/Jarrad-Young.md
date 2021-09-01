@@ -3,7 +3,7 @@ template: SingleTeam
 title: Jarrad Young
 subtitle: Director & SMSF Specialist
 teamOrder: "3"
-featuredImage: /images/uploads/_r1a5138_print.jpg
+featuredImage: /images/uploads/jarrad.png
 mainImage: /images/uploads/_r1a5079_print.jpg
 position: Director
 email: jarrad@cordner.com.au
