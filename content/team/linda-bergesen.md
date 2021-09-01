@@ -2,8 +2,8 @@
 template: SingleTeam
 title: Linda Bergesen
 subtitle: Advisor
-teamOrder: '11'
-featuredImage: /images/uploads/linda.jpg
+teamOrder: "11"
+featuredImage: /images/uploads/linda.png
 mainImage: /images/uploads/linda.jpg
 position: Advisor
 categories:
