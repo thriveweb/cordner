@@ -51,7 +51,7 @@ Again, MFR regulations set out rules which I cover a few common ones below:
 7. Cryptocurrency
 8. Patent and Intellectual Property
 
-The process of annual reporting is not them describe “easy as”.  You may come across QBCC saying you should have financial information in your accounting software, and you don’t need to engage accountant to submit, however red tape is everywhere in the MRF regulations.
+The process of annual reporting is not then described “easy as”.  You may come across QBCC saying you should have financial information in your accounting software, and you don’t need to engage accountant to submit, however red tape is everywhere in the MFR regulations.
 
 My recommendation for QBCC licensee is get your year end information in as early possible after the financial year for us to perform the initial assessment.  If you fail to meeting the minimum financial requirement, we can come up with a strategy in the next couple months for you to comply.  It is very important you seek professional advice on this.
 
