@@ -1,10 +1,10 @@
 ---
 template: SingleCareer
-title: No current open job opportunites
+title: No current job opportunities
 status: Published
 date: 2021-09-08T00:41:43.248Z
 featuredImage: /images/uploads/7-mar.jpg
-excerpt: |+
+excerpt: |
   There are currently no vacant positions at Cordner Advisory.
 ---
 There are currently no vacant positions at Cordner Advisory.
