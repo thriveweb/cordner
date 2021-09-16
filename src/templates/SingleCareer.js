@@ -46,7 +46,7 @@ export const SingleCareerTemplate = ({
 
         <Content source={body} />
 
-        {careerDetails.name && (
+        {careerDetails && (
           <small>
             <div className="Career--Details">
               <div className="info">
