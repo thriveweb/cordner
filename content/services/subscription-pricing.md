@@ -15,12 +15,12 @@ contentImage: /images/uploads/elsa-blog.jpg
 |                           | Max No. Employees | Normal Price | **Client to Pay (Incl GST)** |
 | ------------------------- | ----------------- | ------------ | ---------------------------- |
 | Starter                   | 1                 | 27           | **$20**                      |
-| Standard                  | 2                 | 52           | **$40**                      |
-| Premium 5                 | 5                 | 67           | **$55**                      |
-| Premium 10                | 10                | 77           | **$65**                      |
-| Premium 20                | 20                | 92           | **$80**                      |
-| Premium 50                | 50                | 127          | **$105**                     |
-| Premium 100               | 100               | 152          | **$130**                     |
+| Standard                  | 2                 | 54           | **$45**                      |
+| Premium 5                 | 5                 | 70           | **$60**                      |
+| Premium 10                | 10                | 80           | **$65**                      |
+| Premium 20                | 20                | 100          | **$85**                      |
+| Premium 50                | 50                | 137          | **$115**                     |
+| Premium 100               | 100               | 163          | **$135**                     |
 | Non-GST Cashbook*         | 0                 | 10           | **$10**                      |
 | GST Cashbook*             | 0                 | 19           | **$19**                      |
 | Payroll Cashbook*         | 4                 | 29           | **$29**                      |
