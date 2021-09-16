@@ -15,12 +15,12 @@ contentImage: /images/uploads/elsa-blog.jpg
 |                           | Max No. Employees | Normal Price | **Client to Pay (Incl GST)** |
 | ------------------------- | ----------------- | ------------ | ---------------------------- |
 | Starter                   | 1                 | 27           | **$20**                      |
-| Standard                  | 2                 | 52           | **$40**                      |
-| Premium 5                 | 5                 | 67           | **$55**                      |
-| Premium 10                | 10                | 77           | **$65**                      |
-| Premium 20                | 20                | 92           | **$80**                      |
-| Premium 50                | 50                | 127          | **$105**                     |
-| Premium 100               | 100               | 152          | **$130**                     |
+| Standard                  | 2                 | 54           | **$45**                      |
+| Premium 5                 | 5                 | 70           | **$60**                      |
+| Premium 10                | 10                | 80           | **$65**                      |
+| Premium 20                | 20                | 100          | **$85**                      |
+| Premium 50                | 50                | 137          | **$115**                     |
+| Premium 100               | 100               | 163          | **$135**                     |
 | Non-GST Cashbook*         | 0                 | 10           | **$10**                      |
 | GST Cashbook*             | 0                 | 19           | **$19**                      |
 | Payroll Cashbook*         | 4                 | 29           | **$29**                      |
@@ -38,7 +38,7 @@ contentImage: /images/uploads/elsa-blog.jpg
 |                                 | Simple Start | Essentials | Plus    |
 | ------------------------------- | ------------ | ---------- | ------- |
 | Allows bank feeds               | Yes          | Yes        | Yes     |
-| Payroll                         | 4            | 7          | 10      |
+| Payroll                         | No           | No         | No      |
 | Send custom invoices & quotes   | Yes          | Yes        | Yes     |
 | Manage Suppliers & Bills        | No           | Yes        | Yes     |
 | Track GST & e-lodge BAS         | Yes          | Yes        | Yes     |
@@ -51,7 +51,11 @@ contentImage: /images/uploads/elsa-blog.jpg
 | Monthly Retail Price (Incl GST) | $22          | $37        | $52     |
 | **Cordner Price (Incl GST)**    | **$15**      | **$25**    | **$25** |
 
-|                              | Retail price per month                    | **Cordner Advisory price per month**            |
-| ---------------------------- | ----------------------------------------- | ----------------------------------------------- |
-| Standard Payroll             | $0 + $5.00 per employee paid              | $0 + $2.50 per employee paid                    |
-| Advance Payroll              | $10 + $5.00 per employee paid             | $5 + $2.50 per employee paid                    |
+|                  | Retail price per month        | **Cordner Advisory price per month** |
+| ---------------- | ----------------------------- | ------------------------------------ |
+| Standard Payroll | $0 + $5.00 per employee paid  | $0 + $2.50 per employee paid         |
+| Advance Payroll  | $10 + $5.00 per employee paid | $5 + $2.50 per employee paid         |
+
+*Notes:*
+
+* Advanced Payroll includes Award Rates, Rostering & Time and Attendance Tracking

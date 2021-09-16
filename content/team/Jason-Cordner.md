@@ -2,14 +2,14 @@
 template: SingleTeam
 title: Jason Cordner
 subtitle: Director
-teamOrder: '2'
-featuredImage: /images/uploads/_r1a4993_print.jpg
+teamOrder: "2"
+featuredImage: /images/uploads/jason.png
 mainImage: /images/uploads/_r1a5046_print.jpg
 position: Director
 categories:
   - category: Business Advisory
   - category: Private Advisory Services
-  - category: 'Property, Construction and Building Services'
+  - category: Property, Construction and Building Services
   - category: Key Industries
   - category: Taxation and Compliance
   - category: SmarterCFO
