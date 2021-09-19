@@ -21,7 +21,7 @@ As a general rule of thumb, when you provide labour, skills or goods for a fee, 
 
 The ATO is aware that many people have picked up jobs on the side of their usual income stream during the pandemic, across a wide range of activities, from freelance deliveries, to setting up a local market stall, or receiving income from subscribers through platforms like Patreon.
 
-Regardless of whether you are an employee, independent contractor or carrying on a business - when you receive payment for your services, that income needs to be reported even if it's a one-off.\
+Regardless of whether you are an employee, independent contractor or carrying on a business - when you receive payment for your services, that income needs to be reported even if it's a one-off.
 
 The ATO receives data feeds from a number of sources, which may be used to cross match the income being declared by individuals or businesses.
 
