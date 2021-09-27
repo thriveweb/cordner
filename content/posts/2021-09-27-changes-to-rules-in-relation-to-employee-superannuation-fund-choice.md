@@ -30,7 +30,7 @@ Employers will need to use the ATO’s online services and request their employe
 
 It is expected that employers will receive the stapled fund details within minutes and the ATO will notify the employee of the stapled super fund request and the fund details provided to them. Bulk requests can be made to the ATO for up to 100 new employees at once.
 
-**When to use default funds going forward?**\
+**When to use default funds going forward?**
 
 From 1 November 2021, employers can only pay superannuation guarantee contributions into their default fund, or another fund that meets the choice of fund rules only if:
 
