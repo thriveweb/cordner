@@ -6,14 +6,14 @@ date: 2021-09-27T02:46:17.993Z
 featuredImage: /images/uploads/kamil.jpg
 bannerImage: /images/uploads/superannuation-kamils-blog.jpeg
 excerpt: Rules around superannuation compliance when onboarding new employees
-  will change from 1 November 2001. Employers will need to undertake an extra
+  will change from 1 November 2021. Employers will need to undertake an extra
   step explained below. Failing to meet the requirements may incur penalties.
 categories:
   - category: Self Managed Super Funds
 authors:
   - author: Kamil Qureshi
 ---
-Rules around superannuation compliance when onboarding new employees will change from 1 November 2001. Employers will need to undertake an extra step explained below. Failing to meet the requirements may incur penalties.
+Rules around superannuation compliance when onboarding new employees will change from 1 November 2021. Employers will need to undertake an extra step explained below. Failing to meet the requirements may incur penalties.
 
 The current ruling states that when onboarding new employees, employers can add them to their default superannuation fund if the employee has not chosen a superannuation fund. Going forward, for any new employees starting from 1 November 2021, employers will be required to contact the Australian Taxation Office (ATO) if the employee has not chosen a fund and check whether the employee has a “stapled fund”. A stapled super fund is an existing super account which is linked, or ‘stapled’, to an individual employee so that it follows them as they change jobs. If the employee has a stapled fund, the employer will need to make contributions to that fund as opposed to the employer’s default superannuation fund.
 
