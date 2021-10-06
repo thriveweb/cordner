@@ -51,10 +51,11 @@ Larger business in the hospitality, tourism and recreation industries with a tur
 For non- employing business, you may be eligible to receive a $1,000 per week if you are eligible.
 
 To be eligible for the JobSaver payment, you must:
-   •	Have an active ABN
-   •	Have been operating business in NSW since 1 June 2921
-   •	Have had an aggregated annual turnover between $75,000 and $250 million (inclusive) for the year ended 30 June 2020
-   •	Have experienced a decline in turnover of 30% or more due to the public health order over a minimum 2-week period commencing 26 June 2021 compared to:
+
+* Have an active ABN
+* Have been operating business in NSW since 1 June 2921
+* Have had an aggregated annual turnover between $75,000 and $250 million (inclusive) for the year ended 30 June 2020
+* Have experienced a decline in turnover of 30% or more due to the public health order over a minimum 2-week period commencing 26 June 2021 compared to:
 
 1. The same period in 2019, or
 2. The same period in 2020, or
