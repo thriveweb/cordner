@@ -12,10 +12,10 @@ categories:
   - category: Government Grants
 authors: []
 ---
-The Australian Government has recognized that the continued economic impact of the Coronavirus Pandemic has adversely affected Small and Medium Size Businesses (SME). In response to this, they have announced an extension to the SME Recovery Loan Scheme, which came into effect on 1 October 2021 (Scheme Expansion date).\
+The Australian Government has recognized that the continued economic impact of the Coronavirus Pandemic has adversely affected Small and Medium Size Businesses (SME). In response to this, they have announced an extension to the SME Recovery Loan Scheme, which came into effect on 1 October 2021 (Scheme Expansion date).
 
 In summary the Scheme is ‘enhancing lenders’ abilities to provide cheaper credit to otherwise viable SMEs for additional funding to get through the Coronavirus crisis, recover and invest for the future.
-\
+
 **Eligible Businesses:**
 
 * Turnover up to $250M;
@@ -32,7 +32,9 @@ In summary the Scheme is ‘enhancing lenders’ abilities to provide cheaper cr
 **Eligible Local Government Areas:**
 
 * Please refer to the treasury for complete list of flood affected areas declared by the Australian Disaster Recovery Payment as at 31 March 2021
-  Application Period
+
+**Application Period**
+
 * Loans under the Scheme Expansion Date are only made available until 31 December 2021
 
 Please reach out to our advisors if you would like any further information about this Scheme or assistance with the application process
