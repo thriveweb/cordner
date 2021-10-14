@@ -10,7 +10,8 @@ excerpt: The Australian Government has recognized that the continued economic
   Size Businesses (SME).
 categories:
   - category: Government Grants
-authors: []
+authors:
+  - author: Linda Bergesen
 ---
 The Australian Government has recognized that the continued economic impact of the Coronavirus Pandemic has adversely affected Small and Medium Size Businesses (SME). In response to this, they have announced an extension to the SME Recovery Loan Scheme, which came into effect on 1 October 2021 (Scheme Expansion date).
 
