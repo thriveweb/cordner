@@ -19,12 +19,12 @@ The purpose of the new ID system is to improve director transparency by making i
 
 **Who will require a Director ID?**
 If you are a director (or acting in the capacity of an alternate director) for any of the following entity categories, you will need to apply for a director ID:
-•	A company (with an ACN);
-•	An Aboriginal and Torres Strait Islander corporation;
+•	A company (with an ACN)
+•	An Aboriginal and Torres Strait Islander corporation
 •	A corporate trustee 
-•	A charity or not-for-profit organisation that is a company or Aboriginal and Torres Strait Islander corporation;
+•	A charity or not-for-profit organisation that is a company or Aboriginal and Torres Strait Islander corporation
 •	Registered Australian body (with an ABRN) 
-•	A foreign company who carrying on business in Australia and is registered with ASIC (regardless of where that individual lives).\
+•	A foreign company who carrying on business in Australia and is registered with ASIC (regardless of where that individual lives).
 
 **When will a director need to apply by?**\
 When you became, or when you intend to become, a director will determine when you need to apply. 
@@ -38,7 +38,7 @@ Applications are open from 2 November 2021.
 **How to apply:**\
 From 1 November 2021 directors will be able to apply for their Director ID by visiting the [Australian Business Registry Services (ABRS) website.](https://www.abrs.gov.au/director-identification-number)
 
-In order to submit an application, a director will first need to have a myGovID. For more information about setting up your myGovID please see the following link - [Australian Government - How to set up your myGovID.](https://www.mygovid.gov.au/set-up)\
+In order to submit an application, a director will first need to have a myGovID. For more information about setting up your myGovID please see the following link - [Australian Government - How to set up your myGovID.](https://www.mygovid.gov.au/set-up)
 
 All applications must be completed by the director themselves as there are proof of identity requirements that cannot be completed on an individual’s behalf.
 
