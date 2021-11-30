@@ -13,7 +13,7 @@ categories:
 authors:
   - author: Caitlin Fruk
 ---
-A recent initiative by the Commonwealth Government to promote ethical corporate conduct has seen the introduction of the new Director Identification regime under the Treasury Laws Amendment Act 2020. All eligible directors will be issued with a unique 15-diget identification number that they will be required to keep forever. 
+A recent initiative by the Commonwealth Government to promote ethical corporate conduct has seen the introduction of the new Director Identification regime under the *Treasury Laws Amendment Act 2020*. All eligible directors will be issued with a unique 15-diget identification number that they will be required to keep forever. 
 
 The purpose of the new ID system is to improve director transparency by making it easier to trace a director’s relationship across companies and prevent the use of false identities, illegal phoenix arrangements and other unlawful activity. 
 
@@ -43,3 +43,7 @@ In order to submit an application, a director will first need to have a myGovID.
 All applications must be completed by the director themselves as there are proof of identity requirements that cannot be completed on an individual’s behalf.
 
 All applications must be completed by the director themselves as there are proof of identity requirements that cannot be completed on an individual’s behalf.
+
+Please do not hesitate to contact one of your trusted advisors at Cordner Advisory should you need further assistance.
+
+*Cordner Advisory - Your Business Advisory, Accounting & Tax Specialists. Catering for clients all across Australia, from the golden beaches of the Gold Coast and Sunshine Coast to the capital cities such as Brisbane, Sydney and Melbourne*
