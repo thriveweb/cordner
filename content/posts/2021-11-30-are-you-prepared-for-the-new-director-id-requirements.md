@@ -25,7 +25,7 @@ If you are a director (or acting in the capacity of an alternate director) for a
 * A corporate trustee
 * A charity or not-for-profit organisation that is a company or Aboriginal and Torres Strait Islander corporation
 * Registered Australian body (with an ABRN) 
-* A foreign company who carrying on business in Australia and is registered with ASIC (regardless of where that individual lives).
+* A foreign company who are carrying on business in Australia and are registered with ASIC (regardless of where that individual lives).
 
 **When will a director need to apply by?**\
 When you became, or when you intend to become, a director will determine when you need to apply. 
