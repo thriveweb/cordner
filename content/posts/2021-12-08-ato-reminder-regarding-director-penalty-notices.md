@@ -18,7 +18,7 @@ The ATO has recently issued a reminder to current and former directors of compan
 
 We have previously covered this topic in more detail last year, when it became a focus point, however it is timely to ensure that Directors continue to be fully aware of their obligations.\
 \
-https://www.cordner.com.au/posts/issues-for-company-directors/ 
+[https://www.cordner.com.au/posts/issues-for-company-directors/ ](https://www.cordner.com.au/posts/issues-for-company-directors/)
 
 This is also relevant for people who are about to become a director of a company and looking to take on that responsibility.
 
@@ -36,9 +36,9 @@ If you are no longer a Director, then you remain liable for director penalties e
 * were due before the date of your resignation
 * fell due after the resignation date, but the withholding event occurred, or the super became payable before your resignation 
 
-The ATO seeks to recover any outstanding amounts from directors using a parallel liability mechanism, whereby all of the directors are each liable until the debts are extinguished, with any reductions being paid by one director, reducing the accounts of the other directors for the same reporting period.\
+The ATO seeks to recover any outstanding amounts from directors using a parallel liability mechanism, whereby all of the directors are each liable until the debts are extinguished, with any reductions being paid by one director, reducing the accounts of the other directors for the same reporting period.
 
-As such, we recommend that directorships are not entered into lightly, or without a full understanding of the company operations and your role in those day to day activities.\
+As such, we recommend that directorships are not entered into lightly, or without a full understanding of the company operations and your role in those day to day activities.
 
 As always, if you require further information or advice on your obligations as a Director, or if you are looking to become a Director, please do not hesitate to contact our team members who can provide some guidance for you.
 
